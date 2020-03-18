@@ -23,7 +23,10 @@ VTSCat supplements the HEASARC catalogue of VERITAS results (to be published). V
 
 Data in VTSCat is organised by publication year and reference, using the ADS reference identifier for each publication. The file format is human-readable (yaml and ecsv format; similar to gamma-cat) with the exeption of sky maps, which are in FITS files.
 
-## Publication list| Object | Publication Title | ADS Reference | Repository |
+## Publication list
+
+
+| Object | Publication Title | ADS Reference | Repository |
 |---|---|---|---|
 |1ES 1215+303 / VER J1217+301 | A decade of multi-wavelength observations of the TeV blazar 1ES 1215+303: Extreme shift of the synchrotron peak frequency and long-term optical-gamma-ray flux increase | [2020arXiv200204119V](http://adsabs.harvard.edu/abs/2020arXiv200204119V) | [data files](2020/2020arXiv200204119V) |
 |Markarian 421 | The Great Markarian 421 Flare of 2010 February: Multiwavelength Variability and Correlation Studies | [2020ApJ...890...97A](http://adsabs.harvard.edu/abs/2020ApJ...890...97A) | [data files](2020/2020ApJ...890...97A) |
