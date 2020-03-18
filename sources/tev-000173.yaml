@@ -1,0 +1,19 @@
+source_id: 173
+
+common_name: 3C 264.0
+gamma_names: [VER J1145+196]
+other_names: []
+
+where: egal
+classes: [rg]
+
+discoverer: veritas
+seen_by: [veritas]
+
+pos:
+  simbad_id: 3C 264.0
+  ra: 176.270871
+  dec: 19.606317
+
+reference_ids:
+- 3C264

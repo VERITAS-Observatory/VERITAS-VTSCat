@@ -1,0 +1,31 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: time_min, unit: MJD, datatype: float64}
+# - {name: time_max, unit: MJD, datatype: float64}
+# - {name: flux_ul, unit: m-2 s-1, datatype: float64}
+# - {name: flux, unit: m-2 s-1, datatype: float64}
+# - {name: significance, datatype: float32}
+# - {name: index, datatype: float32, description: spectral index assumed for UL calculation}
+# - {name: R, unit: d, datatype: float32, description: intrinsic source radius assumed}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 100184
+# - file_id: 1
+# - reference_id: 2012ApJ...757..123A
+# - telescope: veritas
+# - UL_CONF: 0.99
+# - comments: |
+#       upper limits derived assuming a power law with
+#       the given spectral index; using Rolke et al 2005
+e_min time_min time_max flux_ul flux significance index R
+0.220 54531. 54587.50 2.59e-8 nan 0.84 -2.1 0.0
+0.220 54531. 54587.50 1.94e-8 nan -1.0 -2.1 0.2
+0.220 54531. 54587.50 4.44e-8 nan -0.30 -2.1 0.4
+0.220 54531. 54587.50 2.78e-8 nan 0.84 -2.3 0.0
+0.220 54531. 54587.50 2.09e-8 nan -1.0 -2.3 0.2
+0.220 54531. 54587.50 4.74e-8 nan -0.30 -2.3 0.4
+0.220 54531. 54587.50 2.97e-8 nan 0.84 -2.5 0.0
+0.220 54531. 54587.50 2.21e-8 nan -1.0 -2.5 0.2
+0.220 54531. 54587.50 5.02e-8 nan -0.30 -2.5 0.4

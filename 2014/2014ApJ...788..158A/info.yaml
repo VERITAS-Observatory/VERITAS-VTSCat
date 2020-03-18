@@ -1,0 +1,18 @@
+---
+reference_id: 2014ApJ...788..158A
+source_id: [55]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [rxte, mdm, lat]
+  - availability: false
+  - status: false
+
+datasets:
+  - VER-000055.yaml
+  - VER-000055-sed-1.ecsv
+  - VER-000055-lc-1.ecsv
+
+data_entry:
+  status: complete
+  reviewed: false

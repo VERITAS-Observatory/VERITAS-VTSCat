@@ -1,0 +1,9 @@
+---
+# total detection
+source_id: 100171
+reference_id: 2013ApJ...779..150A
+file_id: 1
+telescope: veritas
+
+data:
+  livetime: 44h

@@ -1,0 +1,26 @@
+source_id: 168
+
+common_name: TXS 0506+056
+gamma_names: [VER J0509+057]
+fermi_names: [3FGL J0509.4+0541]
+other_names: [QSO J0509+0541]
+
+where: egal
+classes: [hbl]
+
+discoverer: magic
+seen_by: [magic, veritas]
+discovery_date: 2017-05
+
+tevcat_id: 309
+tevcat2_id: HpuBf6
+tevcat_name: TXS 0506+056
+
+pos:
+  simbad_id: QSO J0509+0541
+  ra: 77.358186
+  dec: 5.693148
+
+reference_ids:
+- 2018Sci...361..146I
+- 2018ApJ...861L..20A

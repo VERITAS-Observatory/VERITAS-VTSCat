@@ -1,0 +1,17 @@
+---
+reference_id: 2012ApJ...760..136A
+source_id: [000025]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [gbt]
+  - availability: false
+  - status: false
+
+datasets:
+  - VER-000025.yaml
+
+
+data_entry:
+  status: complete
+  reviewed: false

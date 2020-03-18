@@ -1,0 +1,18 @@
+---
+reference_id: 2020APh...11702403A
+source_id: [119, 118]
+telescope: [veritas]
+
+datasets:
+  - VER-000119-1.yaml
+  - VER-000119-2.yaml
+  - VER-000119-3.yaml
+  - VER-000119-sed-2.ecsv
+  - VER-000119-sed-3.ecsv
+  - VER-000118-1.yaml
+  - VER-000118-sed-1.ecsv
+
+data_entry:
+  status: complete
+  reviewed: false
+...

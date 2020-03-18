@@ -1,0 +1,32 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float32}
+# - {name: e_min, unit: TeV, datatype: float32}
+# - {name: e_max, unit: TeV, datatype: float32}
+# - {name: dnde, unit: TeV-1 cm-2 s-1 sr-1, datatype: float32}
+# - {name: dnde_err, unit: TeV-1 cm-2 s-1 sr-1, datatype: float32}
+# meta: !!omap
+# - data_type: sedCR
+# - source_id: 300000
+# - file_id: 1
+# - reference_id: 2018PhRvD..98f2004A
+# - telescope: veritas
+# - comments: |
+#      Table I
+e_ref e_min e_max dnde dnde_err
+0.335 0.316  0.355 3.140e-10  9.790e-12
+0.376 0.355  0.398 2.104e-10  8.469e-12
+0.422 0.398  0.447 1.491e-10  5.681e-12
+0.473 0.447  0.501 9.761e-11  4.728e-12
+0.531 0.501  0.562 7.168e-11  3.120e-12
+0.596 0.562  0.631 4.480e-11  2.513e-12
+0.668 0.631  0.708 3.524e-11  1.372e-12
+0.749 0.708  0.794 2.333e-11  1.168e-12
+0.840 0.794  0.891 1.376e-11  7.186e-13
+0.995 0.891  1.122 6.370e-12  4.700e-13
+1.253 1.122  1.413 2.689e-12  2.721e-13
+1.662 1.413  1.995 8.620e-13  1.058e-13
+2.347 1.995  2.818 2.233e-13  3.015e-14
+3.315 2.818  3.981 4.645e-14  1.216e-14
+4.683 3.981  5.623 3.621e-14  1.780e-14

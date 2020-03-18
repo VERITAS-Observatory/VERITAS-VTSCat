@@ -1,0 +1,17 @@
+---
+reference_id: 2013ApJ...770...93A
+source_id: [144]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [rosat]
+  - availability: false
+  - status: false
+
+datasets:
+  - VER-000144.yaml
+  - VER-000144-sed.ecsv
+
+data_entry:
+  status: complete
+  reviewed: false

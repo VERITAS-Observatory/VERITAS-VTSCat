@@ -1,0 +1,18 @@
+---
+reference_id: 2012ApJ...750...94A
+source_id: [17]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [xrt, uvot, mdm, lat]
+  - availability: false
+  - status: false
+
+datasets:
+  - VER-000017.yaml
+  - VER-000017-lc.ecsv
+  - VER-000017-sed.ecsv
+
+data_entry:
+  status: complete
+  reviewed: false

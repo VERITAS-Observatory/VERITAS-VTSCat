@@ -1,0 +1,17 @@
+---
+reference_id: 2017APh....91...34A
+source_id: [25]
+telescope: [veritas]
+
+datasets:
+  - VER-000025-1.yaml
+  - VER-000025-2.yaml
+  - VER-000025-3.yaml
+  - VER-000025-sed-1.ecsv
+  - VER-000025-sed-2.ecsv
+  - VER-000025-sed-3.ecsv
+
+data_entry:
+  status: complete
+  reviewed: false
+...

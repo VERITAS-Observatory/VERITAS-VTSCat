@@ -1,0 +1,19 @@
+source_id: 172
+
+common_name: DA 495
+gamma_names: [2HWC J1953+294, VER J1952+293]
+other_names: []
+
+where: gal
+classes: [pwn, snr]
+
+discoverer: hawc 
+seen_by: [veritas]
+
+pos:
+  simbad_id: SNR G065.7+01.2
+  ra: 298.057080
+  dec: 29.418890
+
+reference_ids:
+- 2018ApJ...866...24A

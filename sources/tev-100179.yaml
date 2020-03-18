@@ -1,0 +1,19 @@
+source_id: 100179
+
+common_name: LB 2136
+gamma_names: []
+fermi_names: []
+other_names: []
+
+where: egal
+classes: [blz]
+
+observed_by: [veritas]
+
+pos:
+  simbad_id: SBS 1150+497
+  ra: 178.351944
+  dec: 49.519120
+
+reference_ids:
+- 2016JInst..1111009I

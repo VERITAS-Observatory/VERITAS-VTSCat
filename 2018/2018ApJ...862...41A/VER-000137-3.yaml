@@ -1,0 +1,22 @@
+---
+source_id: 137
+reference_id: 2018ApJ...862...41A
+file_id: 3
+telescope: veritas
+
+data:
+  livetime: 6.7h
+  significance: 7.2
+  non: 164
+  noff: 2087
+  alpha: 0.042
+
+spec:
+  mjd: {min: 57132.0, max: 57335.0}
+  erange: {min: 0.18, max: 2.0, unit: TeV}
+  model:
+    type: pl2
+    parameters:
+      flux: {val: 8.55, err: 1.88, scale: 1e-12, unit: cm-2 s-1}
+      index: {val: 3.12, err: 0.38}
+      e_min: {val: 0.18, unit: TeV}

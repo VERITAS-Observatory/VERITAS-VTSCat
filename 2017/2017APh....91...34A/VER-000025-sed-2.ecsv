@@ -1,0 +1,33 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, datatype: float32, unit: TeV}
+# - {name: dnde, datatype: float32, unit: m-2 s-1 TeV-1}
+# - {name: dnde_err, unit: TeV-1 m-2 s-1, datatype: float32}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 25
+# - file_id: 2
+# - reference_id: 2017APh....91...34A
+# - telescope: veritas
+# - comments: |
+#      Figure 6.; reduced high voltage
+e_ref dnde dnde_err
+0.1583 2.66e-05 2e-06
+0.1993 1.84e-05 8.64e-07
+0.2509 1.06e-05 4.7e-07
+0.3159 5.98e-06 2.75e-07
+0.3977 3.41e-06 1.67e-07
+0.5006 1.93e-06 1.03e-07
+0.6303 1.14e-06 6.46e-08
+0.7935 6.26e-07 4.03e-08
+0.9989 3.82e-07 2.65e-08
+1.258 1.79e-07 1.57e-08
+1.583 1.02e-07 1.02e-08
+1.993 6.17e-08 7.07e-09
+2.509 2.67e-08 4.01e-09
+3.159 1.37e-08 2.48e-09
+3.977 7.33e-09 1.66e-09
+5.006 5.92e-09 1.31e-09
+6.303 2.92e-09 8.2e-10
+7.935 1.68e-09 5.42e-10

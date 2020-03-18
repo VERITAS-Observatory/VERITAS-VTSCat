@@ -1,0 +1,19 @@
+source_id: 100193
+
+common_name: RGB J1058+564
+gamma_names: []
+fermi_names: []
+other_names: []
+
+where: egal
+classes: [bllac]
+
+observed_by: [veritas]
+
+pos:
+  simbad_id: 7C 1055+5644
+  ra: 164.657199
+  dec: 56.469780
+
+reference_ids:
+- 2012ApJ...759..102A

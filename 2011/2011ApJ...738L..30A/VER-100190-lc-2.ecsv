@@ -1,0 +1,25 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: time_min, unit: MJD, datatype: float64}
+# - {name: time_max, unit: MJD, datatype: float64}
+# - {name: eflux_ul, datatype: float32, unit: erg cm-2 s-1}
+# - {name: eflux, datatype: float32, unit: erg cm-2 s-1}
+# - {name: non, datatype: int}
+# - {name: noff, datatype: int}
+# - {name: alpha, datatype: float32}
+# - {name: significance, datatype: float32}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 100190
+# - file_id: 2
+# - reference_id: 2011ApJ...738L..30A
+# - telescope: veritas
+# - UL_CONF: 0.99
+# - comments: |
+#       upper limits derived assuming a power law with
+#       spectral index of -3.0; using Rolke et al 2005
+e_min time_min time_max eflux_ul eflux non noff alpha significance
+0.5 55649.43541667 55651 3.1e-12 nan 59 604 0.1 -0.3
+0.5 55652. 55666.47279647769 1.5e-12 nan 520 5035 0.1 0.8

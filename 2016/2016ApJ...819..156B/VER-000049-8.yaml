@@ -1,0 +1,20 @@
+---
+source_id: 49
+reference_id: 2016ApJ...819..156B
+telescope: veritas
+file_id: 8
+
+data:
+  livetime: 1.93h
+  significance: 38.3
+
+spec:
+  erange: {min: 0.2, max: 10., unit: TeV}
+  mjd: {min: 56335.0795, max: 56335.0795}
+  model:
+    type: lppl
+    parameters:
+      alpha: {val: 2.53, err: 0.04}
+      beta: {val: 0.33, err: 0.09}
+      norm: {val: 6.4, err: 0.3, scale: 1e-10, unit: cm-2 s-1 TeV-1}
+      e_ref: {val: 0.3, unit: TeV}

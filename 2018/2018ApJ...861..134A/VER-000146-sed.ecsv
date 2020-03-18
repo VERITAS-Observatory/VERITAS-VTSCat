@@ -1,0 +1,26 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: GeV, datatype: float32}
+# - {name: e_min, unit: GeV, datatype: float32}
+# - {name: e_max, unit: GeV, datatype: float32}
+# - {name: dnde, unit: GeV-1 cm-2 s-1, datatype: float32}
+# - {name: dnde_err, unit: GeV-1 cm-2 s-1, datatype: float32}
+# - {name: dnde_ul, unit: GeV-1 cm-2 s-1, datatype: float32}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 146
+# - reference_id: 2018ApJ...861..134A
+# - telescope: veritas
+# - UL_CONF: 0.95
+# - comments: |
+#      UL calculated using Rolke (Rolke et al. 2005)
+e_ref e_min e_max dnde dnde_err dnde_ul
+562 422 750 3.26E-15 1.57E-15 nan
+1000 750 1330 6.85E-16 2.73E-16 nan 
+1778 1330 2370 1.97E-16 8.26E-17 nan
+3161 2370 4220 3.95E-17 2.75E-17 nan
+5621 4220 7500 3.62E-17 1.24E-17 nan
+9996 7500 13300 nan nan 6.92E-18
+17780 13300 23700 1.26E-18 1.38E-18 nan
+31610 23700 42200 5.99E-19 4.55E-19 nan

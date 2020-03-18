@@ -1,0 +1,18 @@
+---
+reference_id: 2013ApJ...776...69A
+source_id: [23]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [lat, xrt, uvot, mdm]
+  - availability: false
+  - status: false
+
+datasets:
+  - VER-000023.yaml
+  - VER-000023-sed.ecsv
+  - VER-000023-lc.ecsv
+
+data_entry:
+  status: complete
+  reviewed: false

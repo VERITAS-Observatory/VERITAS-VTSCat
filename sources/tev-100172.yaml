@@ -1,0 +1,19 @@
+source_id: 100172
+
+common_name: GRB 150323A
+gamma_names: []
+fermi_names: []
+other_names: []
+
+where: egal
+classes: [grb]
+
+observed_by: [veritas]
+
+pos:
+  simbad_id: GRB 150323A
+  ra: 128.178083
+  dec: 45.464639
+
+reference_ids:
+- 2018ApJ...857...33A

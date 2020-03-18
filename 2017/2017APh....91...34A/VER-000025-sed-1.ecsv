@@ -1,0 +1,32 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, datatype: float32, unit: TeV}
+# - {name: dnde, datatype: float32, unit: m-2 s-1 TeV-1}
+# - {name: dnde_err, unit: TeV-1 m-2 s-1, datatype: float32}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 25
+# - file_id: 1
+# - reference_id: 2017APh....91...34A
+# - telescope: veritas
+# - comments: |
+#      Figure 6.; nominal voltage
+e_ref dnde dnde_err
+0.1776 2.68e-05 1.77e-06
+0.2236 1.45e-05 8.1e-07
+0.2815 7.87e-06 4.46e-07
+0.3544 4.93e-06 2.77e-07
+0.4462 2.65e-06 1.63e-07
+0.5617 1.33e-06 9.45e-08
+0.7071 8.29e-07 6.19e-08
+0.8902 4.23e-07 3.75e-08
+1.121 2.71e-07 2.53e-08
+1.411 1.48e-07 1.62e-08
+1.776 9.33e-08 1.12e-08
+2.236 3.09e-08 5.74e-09
+2.815 2.87e-08 4.86e-09
+3.544 1.18e-08 2.81e-09
+4.462 1.08e-08 2.39e-09
+5.617 4.25e-09 1.35e-09
+7.071 2.59e-09 9.29e-10

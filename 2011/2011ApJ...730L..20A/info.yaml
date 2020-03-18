@@ -1,0 +1,12 @@
+---
+reference_id: 2011ApJ...730L..20A
+source_id: [3]
+telescope: [veritas]
+
+datasets:
+  - VER-000003.yaml
+  - VER-000003-sed.ecsv
+
+data_entry:
+  status: complete
+  reviewed: false

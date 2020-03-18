@@ -1,0 +1,34 @@
+---
+reference_id: 2009ApJ...707..612A
+source_id: [54]
+telescope: [veritas]
+
+datasets:
+  - VER-000054.yaml
+  - VER-000054-lc.ecsv
+  - VER-000054-sed.ecsv
+
+multiwavelength:
+  - content: 
+      - agile
+      - xrt
+      - UMRAO
+      - Metsahovi
+      - NOT
+      - Tuorla
+      - Abastumani
+      - Sapienza
+      - spm
+      - kva
+      - crimean
+      - Talmassons
+      - Torino
+      - campo_imperatore
+      - uvot
+      - superagile
+  - availability: false
+  - status: false
+
+data_entry:
+  status: complete
+  reviewed: false

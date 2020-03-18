@@ -1,0 +1,20 @@
+---
+reference_id: 2018ApJ...862...41A
+source_id: [137]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [lat, xrt, flwo]
+  - availability: false
+  - status: false
+
+datasets:
+  - VER-000137-1.yaml
+  - VER-000137-2.yaml
+  - VER-000137-3.yaml
+  - VER-000137-sed-1.ecsv
+  - VER-000137-lc.ecsv
+
+data_entry:
+  status: complete
+  reviewed: false

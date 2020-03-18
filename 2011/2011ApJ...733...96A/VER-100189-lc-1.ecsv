@@ -1,0 +1,28 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: time_min, unit: MJD, datatype: float64}
+# - {name: time_max, unit: MJD, datatype: float64}
+# - {name: live_time, unit: min, datatype: float64}
+# - {name: flux_ul, unit: cm-2 s-1, datatype: float64}
+# - {name: flux, unit: cm-2 s-1, datatype: float64}
+# - {name: non, datatype: int}
+# - {name: noff, datatype: int}
+# - {name: alpha, datatype: float32}
+# - {name: significance, datatype: float32}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 100189
+# - file_id: 1
+# - reference_id: 2011ApJ...733...96A
+# - telescope: veritas
+# - UL_CONF: 0.99
+# - comments: |
+#       upper limits derived assuming a power law with
+#       spectral index of -2.5; using Helene 1983
+e_min time_min time_max live_time flux_ul flux non noff alpha significance
+0.3 55166 55178 305 1.3e-12 nan 19 184 0.13 -0.9
+0.3 55178 55193 501 0.9e-12 nan 33 343 0.13 -1.6
+0.3 55199 55216 323 1.0e-12 nan 16 161 0.13 -1.0
+0.3 55230 55249 289 2.0e-12 nan 18 113 0.13 0.9

@@ -1,0 +1,27 @@
+---
+source_id: 172
+reference_id: 2018ApJ...866...24A
+file_id: 1
+telescope: veritas
+
+data:
+  livetime: 72h
+  significance: 5.2
+
+pos:
+  ra: {val: 19h52m1s, err: 9s}
+  dec: {val: 29d23m, err: 1m}
+
+morph:
+  type: gauss
+  sigma: {val: 0.14 deg, err: 0.02 deg}
+
+spec:
+  erange: {min: 0.63, max: 3.55, unit: TeV}
+  theta: 0.3d
+  model:
+    type: pl
+    parameters:
+      index: {val: 2.65, err: 0.49}
+      norm: {val: 2.84, err: 0.54, scale: 1e-13, unit: cm-2 s-1 TeV-1}
+      e_ref: {val: 1, unit: TeV}

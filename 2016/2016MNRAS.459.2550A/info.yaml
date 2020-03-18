@@ -1,0 +1,19 @@
+---
+reference_id: 2016MNRAS.459.2550A
+source_id: [105]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [lat, xrt, uvot, super-lotis]
+  - availability: false
+  - status: false
+
+datasets:
+  - VER-000105.yaml
+  - VER-000105-lc-1.ecsv
+  - VER-000105-lc-2.ecsv
+  - VER-000105-sed.ecsv
+
+data_entry:
+  status: complete
+  reviewed: false

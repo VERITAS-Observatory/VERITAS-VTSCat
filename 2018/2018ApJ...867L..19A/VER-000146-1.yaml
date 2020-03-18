@@ -1,0 +1,29 @@
+---
+source_id: 146
+reference_id: 2018ApJ...867L..19A
+file_id: 1
+telescope: veritas
+description: "baseline (Pre-2017)"
+
+data:
+  livetime: 62.8h
+pos:
+  ra: {val: 20h31m33.0s, err: 0.01 deg}
+  dec: {val: 41d34m48.0s, err: 0.01 deg}
+
+morph:
+  type: gauss
+  sigma: {val: 0.19 deg, err: 0.02 deg, err_sys: 0.01 deg}
+  sigma2: {val: 0.08 deg, err: 0.01 deg, err_sys: 0.03 deg}
+  pa: {frame: galactic, val: 13.0 deg, err: 4.0 deg, err_sys: 1.0 deg}
+
+spec:
+  model:
+    type: pl
+    parameters:
+      norm: {val: 7.62, err: 1.51, scale: 1e-15, unit: cm-2 s-1 TeV-1}
+      index: {val: 2.19, err: 0.29}
+      e_ref: {val: 3.98, unit: TeV}
+  erange: {min: 0.398, max: 12.59, unit: TeV}
+  theta: 0.089d
+  comment: "PLbaseline; fig 3 left (blue)"

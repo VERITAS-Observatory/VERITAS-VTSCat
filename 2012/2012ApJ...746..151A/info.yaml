@@ -1,0 +1,17 @@
+---
+reference_id: 2012ApJ...746..151A
+source_id: [58]
+telescope: [magic, veritas, hess]
+
+multiwavelength:
+  - content: [lat, hess, magic, chandra, hst, vlba]
+  - availability: true
+  - status: false
+
+datasets:
+  - VER-000058.yaml
+  - VER-000058-lc.ecsv
+
+data_entry:
+  status: complete
+  reviewed: false

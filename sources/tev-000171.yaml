@@ -1,0 +1,20 @@
+source_id: 171
+
+common_name: VER J2020+368
+gamma_names: [VER J2020+368]
+fermi_names: []
+other_names: []
+
+where: gal
+classes: []
+
+discoverer: veritas
+seen_by: [veritas]
+
+pos:
+  simbad_id: VER J2020+368
+  ra: 305.0
+  dec: 36.8
+
+reference_ids:
+- 2018ApJ...861..134A

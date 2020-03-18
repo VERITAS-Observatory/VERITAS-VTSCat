@@ -1,0 +1,20 @@
+source_id: 100173
+
+common_name: Segue 1
+gamma_names: []
+fermi_names: []
+other_names: []
+
+where: egal
+classes: [dm]
+
+observed_by: [veritas]
+
+pos:
+  simbad_id: Segue 1
+  ra: 151.763300
+  dec: 16.073600
+
+reference_ids:
+- 2012PhRvD..85f2001A
+- 2017PhRvD..95h2001A

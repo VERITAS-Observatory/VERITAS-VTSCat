@@ -1,0 +1,20 @@
+source_id: 100180
+
+common_name: Geminga pulsar
+gamma_names: []
+other_names: []
+
+where: gal
+classes: [psr]
+
+observed_by: [veritas, magic]
+
+pos:
+  simbad_id: Geminga pulsar
+  ra: 98.4756375
+  dec: 17.7702528
+
+reference_ids:
+- 2015ApJ...800...61A
+- 2016A&A...591A.138A
+

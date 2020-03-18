@@ -1,0 +1,37 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: time_min, unit: MJD, datatype: float64}
+# - {name: time_max, unit: MJD, datatype: float64}
+# - {name: flux, unit: cm-2 s-1, datatype: float64}
+# - {name: flux_err, unit: cm-2 s-1, datatype: float64}
+# - {name: flux_ul, unit: cm-2 s-1, datatype: float64}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 53
+# - file_id: 3
+# - description: "(Flare 5)"
+# - reference_id: 2020arXiv200204119V
+# - telescope: veritas
+# - UL_CONF: 0.95
+# - comments: |
+#       Fig 4 (top);
+#       Flare 5
+e_min time_min time_max flux flux_err flux_ul
+0.2  57487.37151  57487.37672 3.651e-11 1.871e-11  nan
+0.2  57487.37672  57487.38192 4.613e-11 2.239e-11  nan
+0.2  57487.38192  57487.38713 4.294e-11 2.424e-11  nan
+0.2  57487.38713  57487.39234 nan nan 7.25e-11
+0.2  57487.39284  57487.39805 7.552e-11 3.520e-11  nan
+0.2  57487.39805  57487.40326 5.481e-11 3.366e-11  nan
+0.2  57487.40326  57487.40847 6.627e-11 3.775e-11  nan
+0.2  57487.40847  57487.41368 nan nan 1.33e-10
+0.2  57487.32770  57487.33291 4.078e-11 1.844e-11  nan
+0.2  57487.33291  57487.33812 4.374e-11 1.857e-11  nan
+0.2  57487.33812  57487.34333 3.121e-11 1.591e-11  nan
+0.2  57487.34333  57487.34854 4.938e-11 2.039e-11  nan
+0.2  57487.35024  57487.35545 3.956e-11 1.925e-11  nan
+0.2  57487.35545  57487.36066 3.158e-11 1.834e-11  nan
+0.2  57487.36066  57487.36587 5.361e-11 2.277e-11  nan
+0.2  57487.36587  57487.37108 6.851e-11 2.571e-11   nan

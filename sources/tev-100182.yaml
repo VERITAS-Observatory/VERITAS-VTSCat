@@ -1,0 +1,19 @@
+source_id: 100182
+
+common_name: GRB 130427A
+gamma_names: []
+fermi_names: []
+other_names: []
+
+where: egal
+classes: [grb]
+
+observed_by: [veritas]
+
+pos:
+  simbad_id: GRB 130427A
+  ra: 173.139000
+  dec: 27.692000
+
+reference_ids:
+- 2014ApJ...795L...3A

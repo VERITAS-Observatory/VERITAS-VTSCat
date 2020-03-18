@@ -1,0 +1,36 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: fit_set, datatype: int, description: fit id}
+# - {name: period_name, datatype: string}
+# - {name: model_components, datatype: string}
+# - {name: type, datatype: string, description: SED model type}
+# - {name: norm, unit: TeV-1 cm-2 s-1, datatype: float32}
+# - {name: norm_err, unit: TeV-1 cm-2 s-1, datatype: float32}
+# - {name: e_ref, unit: TeV, datatype: float32}
+# - {name: index, datatype: float32}
+# - {name: index_err, datatype: float32}
+# - {name: e_cut, unit: TeV, datatype: float32}
+# - {name: e_cut_err, unit: TeV, datatype: float32}
+# meta: !!omap
+# - data_type: table
+# - reference_id: 2018ApJ...867L..19A
+# - file_id: 1
+# - telescope: veritas
+# - comments: |
+#     Table 1
+#     VERITAS spectral fits
+fit_set period_name model_components type norm norm_err e_ref index index_err e_cut e_cut_err
+1   Pre-2017   PL_baseline           pl     8.78e-15 2.56e-15 3.47  2.14 0.53 nan nan
+1   Fall-2017  PL_baseline+PL_binary pl     1.53e-12 0.14e-12 0.70  2.81 0.09 nan nan
+2   Pre-2017   PL_baseline           pl     7.62e-15 1.51e-15 4.18  2.1  0.29 nan nan
+2   Fall-2017  PL_baseline+PLEC_binary ecpl 8.04e-12 3.37e-12 0.64  1.26 0.45 0.57 0.20
+3   Pre-2017   PL_baseline           pl     4.65e-15 1.18e-15 4.98  2.14 0.85 nan nan
+3   Low-State  PL_baseline+PL_binary pl     8.12e-15 3.77e-14 1.76  2.86 0.11 nan nan
+3   High-State PL_baseline+PL_binary pl     9.69e-13 1.75e-13 1.17  2.72 0.15 nan nan
+4   Pre-2017   PL_baseline           pl     1.23e-14 0.24e-14 3.43  2.14 0.28 nan nan
+4   Low-State  PL_baseline+PLEC_binary ecpl 1.63e-11 1.12e-11 0.56  0.65 0.75 0.33 0.13
+4   High-Stat  PL_baseline+PL_binary pl     1.45e-12 0.18e-12 1.00  2.73 0.15 nan nan
+5   Pre-2017   PL_baseline           pl     1.26e-14 0.25e-14 3.39  2.14 0.28 nan nan
+5   Low-State  PL_baseline+PLEC_binary ecpl 1.64e-11 1.12e-11 0.56  0.65 0.75 0.33 0.13        
+5   High-State PL_baseline+PLEC_binary ecpl 1.20e-11 0.41e-11 0.51  2.37 0.50 2.39 3.23        

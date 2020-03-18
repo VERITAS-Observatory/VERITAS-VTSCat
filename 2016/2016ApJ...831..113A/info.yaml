@@ -1,0 +1,16 @@
+---
+reference_id: 2016ApJ...831..113A
+source_id: [100168, 100169]
+telescope: [veritas]
+
+datasets:
+  - VER-100168.yaml
+  - VER-100168-lc-1.ecsv
+  - VER-100168-lc-2.ecsv
+  - VER-100169.yaml
+  - VER-100169-lc-1.ecsv
+  - VER-100169-lc-2.ecsv
+
+data_entry:
+  status: complete
+  reviewed: false

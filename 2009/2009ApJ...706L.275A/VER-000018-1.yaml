@@ -1,0 +1,11 @@
+---
+source_id: 18
+reference_id: 2009ApJ...706L.275A
+file_id: 1
+telescope: veritas
+
+data:
+  livetime: 7.8h
+  significance: 0.7
+  excess: 10.4
+

@@ -1,0 +1,17 @@
+---
+reference_id: 2016MNRAS.461..202A
+source_id: [71]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [xrt, lat, uvot]
+  - availability: false
+  - status: false
+
+datasets:
+  - VER-000071.yaml
+  - VER-000071-sed.ecsv
+
+data_entry:
+  status: complete
+  reviewed: false

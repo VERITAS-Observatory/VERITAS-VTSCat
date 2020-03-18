@@ -1,0 +1,15 @@
+---
+reference_id: 2019ApJ...876...95A
+telescope: [veritas]
+
+multiwavelength:
+  - content: [lat]
+  - availability: false
+  - status: false
+
+datasets:
+  - VER-PulsarULs-table-1.ecsv
+
+data_entry:
+  status: complete
+  reviewed: false

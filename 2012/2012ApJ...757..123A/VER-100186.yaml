@@ -1,0 +1,8 @@
+---
+source_id: 100186
+reference_id: 2012ApJ...757..123A
+telescope: veritas
+
+data:
+    livetime: 18.6h
+    significance: -0.71

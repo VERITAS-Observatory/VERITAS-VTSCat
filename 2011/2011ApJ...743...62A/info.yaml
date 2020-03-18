@@ -1,0 +1,10 @@
+---
+reference_id: 2011ApJ...743...62A
+telescope: [veritas]
+
+datasets:
+    - VER-ULs-table-2.ecsv
+
+data_entry:
+    status: complete
+    reviewed: false

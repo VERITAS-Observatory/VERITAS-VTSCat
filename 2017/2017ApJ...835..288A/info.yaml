@@ -1,0 +1,9 @@
+---
+reference_id: 2017ApJ...835..288A
+telescope: [veritas]
+
+data_entry:
+  status: complete
+  reviewed: false
+  notes: paper without typical data (no SEDs, light curves)
+...

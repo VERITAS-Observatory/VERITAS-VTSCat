@@ -1,0 +1,24 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: time_min, unit: MJD, datatype: float64}
+# - {name: time_max, unit: MJD, datatype: float64}
+# - {name: flux_ul, unit: cm-2 s-1, datatype: float64}
+# - {name: flux, unit: cm-2 s-1, datatype: float64}
+# - {name: index, datatype: float32, description: spectral index assumed for UL calculation}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 100173
+# - file_id: 1
+# - reference_id: 2012PhRvD..85f2001A
+# - telescope: veritas
+# - UL_CONF: 0.99
+# - comments: |
+#       upper limits derived assuming a power law with
+#       the given spectral index; using Rolke et al 2005
+e_min time_min time_max flux_ul flux index
+0.3 nan nan 7.6e-13 nan -1.8
+0.3 nan nan 7.7e-13 nan -2.2
+0.3 nan nan 8.0e-13 nan -2.6
+0.3 nan nan 8.2e-13 nan -3.0

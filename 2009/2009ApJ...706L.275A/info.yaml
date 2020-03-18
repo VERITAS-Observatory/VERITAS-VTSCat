@@ -1,0 +1,20 @@
+---
+reference_id: 2009ApJ...706L.275A
+source_id: [18]
+telescope: [veritas]
+
+datasets:
+  - VER-000018-lc-1.ecsv
+  - VER-000018-lc-2.ecsv
+  - VER-000018-sed-1.ecsv
+  - VER-000018-sed-2.ecsv
+
+multiwavelength:
+  - content: lat
+  - availability: false
+  - status: false
+
+data_entry:
+  status: complete
+  reviewed: false
+...

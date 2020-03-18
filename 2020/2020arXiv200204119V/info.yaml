@@ -1,0 +1,36 @@
+---
+reference_id: 2020arXiv200204119V
+source_id: [53]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [lat, xrt, uvot, tuorla, not, ovro, metsahovi, vlba]
+  - availability: true
+  - status: false
+
+datasets:
+  - VER-000053-1.yaml
+  - VER-000053-lc-1.ecsv
+  - VER-000053-lc-2.ecsv
+  - VER-000053-lc-3.ecsv
+  - VER-000053-lc-4.ecsv
+  - VER-000053-lc-5.ecsv
+  - VER-000053-sed-1.ecsv
+  - VER-000053-sed-2.ecsv
+  - VER-000053-sed-3.ecsv
+  - VER-000053-sed-4.ecsv
+  - VER-000053-sed-5.ecsv
+  - VER-000053-sed-6.ecsv
+  - VER-000053-sed-7.ecsv
+  - VER-000053-sed-8.ecsv
+  - VER-000053-sed-9.ecsv
+  - VER-000053-sed-10.ecsv
+  - VER-000053-sed-11.ecsv
+  - MW-000053-sed-1.ecsv
+  - MW-000053-sed-2.ecsv
+  - MW-000053-sed-3.ecsv
+  - VER-000053-spectralFits-table-1.ecsv
+
+data_entry:
+  status: complete
+  reviewed: false

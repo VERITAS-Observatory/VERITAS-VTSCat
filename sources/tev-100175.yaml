@@ -1,0 +1,19 @@
+source_id: 100175
+
+common_name: Ursa Minor
+gamma_names: []
+fermi_names: []
+other_names: []
+
+where: egal
+classes: [dm]
+
+observed_by: [veritas]
+
+pos:
+  simbad_id: UMi Galaxy
+  ra: 227.297250
+  dec: 67.214361
+
+reference_ids:
+- 2017PhRvD..95h2001A

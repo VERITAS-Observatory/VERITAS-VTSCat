@@ -1,0 +1,19 @@
+---
+reference_id: 2016AJ....151..142A
+telescope: [veritas]
+
+datasets:
+  - VER-Table1.ecsv
+  - VER-Table2.ecsv
+  - VER-Table3.ecsv
+  - VER-Table4.ecsv
+  - VER-Table5.ecsv
+  - VER-Table6.ecsv
+
+data_entry:
+  status: complete
+  reviewed: false
+  notes: "see see http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=J/AJ/151/142 ;
+  files exported to ecsv using astropy; note the differences in format to other files
+  in VTSCat"
+...

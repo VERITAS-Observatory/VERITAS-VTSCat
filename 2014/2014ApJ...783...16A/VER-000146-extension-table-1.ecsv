@@ -1,0 +1,18 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float32}
+# - {name: e_max, unit: TeV, datatype: float32}
+# - {name: type, datatype: string}
+# - {name: sigma, unit: d, datatype: float32}
+# - {name: sigma_err, unit: d, datatype: float32}
+# meta: !!omap
+# - data_type: table
+# - reference_id: 2014ApJ...783...16A
+# - file_id: 1
+# - telescope: veritas
+# - comments: Table 3
+e_min e_max type sigma sigma_err
+0.7    1.46  gauss  0.18 0.03
+1.46   2.76  gauss  0.33 0.10
+2.76  20.00  gauss  0.24 0.09

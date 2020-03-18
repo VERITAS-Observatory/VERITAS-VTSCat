@@ -1,0 +1,29 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float32}
+# - {name: e_min, unit: TeV, datatype: float32}
+# - {name: e_max, unit: TeV, datatype: float32}
+# - {name: dnde, unit: TeV-1 cm-2 s-1, datatype: float32}
+# - {name: dnde_err, unit: TeV-1 cm-2 s-1, datatype: float32}
+# - {name: dnde_ul, unit: TeV-1 cm-2 s-1, datatype: float32}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 174
+# - file_id: 2
+# - reference_id: 2018ApJ...867L..19A
+# - telescope: veritas
+# - mjd: {min: 57928, max: 58056}
+# - UL_CONF: 0.99
+# - comments: |
+#      Fig 3c - Low State
+e_ref e_min e_max dnde dnde_err dnde_ul 
+0.25118864    0.19952623     0.31622777    1.35983244e-11    3.65287517e-12 nan
+0.39810717    0.31622777     0.50118723    7.76741813e-12    9.36799244e-13 nan
+0.63095734    0.50118723     0.79432823    2.35338461e-12    3.00824112e-13 nan
+1.            0.79432823     1.25892541    8.31727347e-13    1.12709004e-13 nan
+1.58489319    1.25892541     1.99526231    1.43535353e-13    3.65338705e-14 nan
+2.51188643    1.99526231     3.16227766    3.17628383e-14    1.14864415e-14 nan
+3.98107171    3.16227766     5.01187234    9.81845177e-15    4.36923867e-15 nan
+6.30957344    5.01187234     7.94328235    nan nan 6.717204561285619e-15
+10.            7.94328235    12.58925412   nan nan 4.0444955631504045e-15

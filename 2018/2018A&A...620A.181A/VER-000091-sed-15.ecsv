@@ -1,0 +1,23 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, datatype: float32, unit: TeV}
+# - {name: dnde, datatype: float32, unit: m-2 s-1 TeV-1}
+# - {name: dnde_err, datatype: float32, unit: m-2 s-1 TeV-1}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 91
+# - reference_id: 2018A&A...620A.181A
+# - file_id: 15
+# - mjd: {min: 56090., max: 56090.}
+# - telescope: veritas
+# - comments: |
+#      Figure 6
+e_ref dnde dnde_err
+0.265500  1.031508e-05  3.510000e-06
+0.375100  7.357614e-06  1.600000e-06
+0.529800  1.923344e-06  5.100000e-07
+0.748400  7.603603e-07  2.320000e-07
+1.057000  4.328600e-07  1.190000e-07
+1.764000  1.435813e-07  3.130000e-08
+3.520000  6.902789e-08  1.330000e-08

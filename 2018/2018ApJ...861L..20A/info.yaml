@@ -1,0 +1,20 @@
+---
+reference_id: 2018ApJ...861L..20A
+source_id: [168]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [lat, xrt]
+  - availability: false
+  - status: false
+
+datasets:
+  - VER-000168.yaml
+  - VER-000168-sed-1.ecsv
+  - VER-000168-sed-2.ecsv
+  - VER-000168-lc.ecsv
+  - VER-000168-signif-skymap.fits
+
+data_entry:
+  status: complete
+  reviewed: false

@@ -1,0 +1,19 @@
+source_id: 100184
+
+common_name: Coma Cluster
+gamma_names: []
+fermi_names: []
+other_names: []
+
+where: egal
+classes: [clus]
+
+observed_by: [veritas]
+
+pos:
+  simbad_id: ACO 1656
+  ra: 194.95291667
+  dec: 27.98055556
+
+reference_ids:
+- 2012ApJ...757..123A
