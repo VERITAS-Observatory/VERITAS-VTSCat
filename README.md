@@ -6,14 +6,14 @@ VTSCat is the catalogue and data collection of all published results of the [VER
 
 VTSCat contains:
 
-- all published high-level data like spectral flux points, light curves, spectral fits
+- published high-level data like spectral flux points, light curves, spectral fits
 - tabled data like upper limits from dark matter searches or results on the 
 extragalactic background
 - sky maps (whereever available) in FITS format
 
 Data collections contain gamma-ray results only. A future release will include also multiwavelength data like X-ray light curves and spectra.
 
-VTSCat supplements the HEASARC catalogue of VERITAS results (to be published). VTSCat is derived from [gamma-cat](https://github.com/gammapy/gamma-cat).
+VTSCat supplements the HEASARC catalogue of VERITAS results (to be published), which makes the light curves and spectral results available through an interface familar to astronomers. VTSCat is derived from [gamma-cat](https://github.com/gammapy/gamma-cat).
 
 **Access**: through github (**link to be added**) and through ZENODO (**link to be added**).
 
@@ -23,7 +23,7 @@ VTSCat supplements the HEASARC catalogue of VERITAS results (to be published). V
 
 Data in VTSCat is organised by publication year and reference, using the ADS reference identifier for each publication. The file format is human-readable (yaml and ecsv format; similar to gamma-cat) with the exeption of sky maps, which are in FITS files.
 
-## Publication list
+## List of Publications
 
 
 | Object | Publication Title | ADS Reference | Repository |
