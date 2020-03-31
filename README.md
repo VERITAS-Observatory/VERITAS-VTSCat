@@ -13,7 +13,7 @@ extragalactic background
 
 Data collections contain gamma-ray results only. A future release will include also multiwavelength data like X-ray light curves and spectra.
 
-VTSCat supplements the HEASARC catalogue of VERITAS results (to be published), which makes the light curves and spectral results available through an interface familar to astronomers. VTSCat is derived from [gamma-cat](https://github.com/gammapy/gamma-cat).
+VTSCat supplements the HEASARC catalogue of VERITAS results (to be published), which makes the light curves and spectral results available through an interface familiar to astronomers. VTSCat is derived from [gamma-cat](https://github.com/gammapy/gamma-cat).
 
 **Access**: through github (**link to be added**) and through ZENODO (**link to be added**).
 
