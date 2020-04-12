@@ -14,4 +14,5 @@ spec:
     parameters:
       index_1: {val: 3.2, err: 0.1}
       index_2: {val: 4.1, err: 0.1}
+      norm: {val: 3.3958, err: 0.10, scale: 1e-4, unit: m-2 s-1 TeV-1 sr-1}
       e_break: {val: 710., err: 40, err_sys: 140, unit: GeV}

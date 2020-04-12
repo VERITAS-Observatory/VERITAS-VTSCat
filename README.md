@@ -1,34 +1,50 @@
 # VTSCat - the VERITAS data catalogue
 
+1. [ Introduction. ](#intro)
+2. [ Organisation and data format. ](#formats)
+3. [ Publications. ](#publications)
+
+<a name="intro"></a>
 ## Introduction
 
-VTSCat is the catalogue and data collection of all published results of the [VERITAS](https://veritas.sao.arizona.edu/) collaboration.
+**VTSCat** is the catalogue of all published observations of the [VERITAS collaboration](https://veritas.sao.arizona.edu/). 
 
-VTSCat contains:
+The **VTSCat** data collection contains:
 
-- published high-level data like spectral flux points, light curves, spectral fits
-- tabled data like upper limits from dark matter searches or results on the 
-extragalactic background
-- sky maps (whereever available) in FITS format
+- high-level data like spectral flux points, light curves, spectral fits in human- and machine-readable yaml and ecsv file format
+- tabled data like upper limits tables from dark matter searches or results on the extragalactic background in ecsv file format
+- sky maps (wherever available) in FITS file format
 
-Data collections contain gamma-ray results only. A future release will include also multiwavelength data like X-ray light curves and spectra.
+The data collection contains results from gamma-ray measurements only. Multiwavelength data like X-ray light curves and spectra will probably be added in a future release.
 
-VTSCat supplements the HEASARC catalogue of VERITAS results (to be published), which makes the light curves and spectral results available through an interface familiar to astronomers. VTSCat is derived from [gamma-cat](https://github.com/gammapy/gamma-cat).
+VTSCat supplements the HEASARC catalogue of VERITAS results (to be published). It is inspired and derived from [gamma-cat](https://github.com/gammapy/gamma-cat).
 
-**Access**: through github (**link to be added**) and through ZENODO (**link to be added**).
+**Access**:
 
-**Citation:** if you make use of VTSCat, please using the following DOI **(link to be added)** for citation.
+- github (**link to be added**) 
+- ZENODO (**link to be added**; complete download as tar ball)
+- HEASARC (**link to be added**)
+
+**Citation:** if you make use of VTSCat, please cite the following research note: **link to be added**
+
+<a name="formats"></a>
 
 ## Organisation and data format
 
-Data in VTSCat is organised by publication year and reference, using the ADS reference identifier for each publication. The file format is human-readable (yaml and ecsv format; similar to gamma-cat) with the exeption of sky maps, which are in FITS files.
+Data files are organised in VTSCat by year and publication, using the ADS bibcodes as reference identifiers. Objects are identified by a running integer (labeled source id in data files) following the scheme developed by gamma-cat. The description files for objects can be found in the sources subdirectory and include the most relevant names for a given object (common name in the field, VERITAS object identifier, primary identifier by SIMBAD), and the object coordinates.
 
-## List of Publications
+Units are given in the data files for reported data following conventions provided by [astropy](https://docs.astropy.org/en/stable/units/).
 
+For a detailed description of data formats, file types, keywords, and spectral models see [Formats_and_Models.md](Formats_and_Models.md)
+
+<a name="publications"></a>
+
+## Publication list
 
 | Object | Publication Title | ADS Reference | Repository |
 |---|---|---|---|
-|1ES 1215+303 / VER J1217+301 | A decade of multi-wavelength observations of the TeV blazar 1ES 1215+303: Extreme shift of the synchrotron peak frequency and long-term optical-gamma-ray flux increase | [2020arXiv200204119V](http://adsabs.harvard.edu/abs/2020arXiv200204119V) | [data files](2020/2020arXiv200204119V) |
+|Cassiopeia A | Evidence for proton acceleration up to TeV energies based on VERITAS and Fermi-LAT observations of the Cas A SNR | [2020arXiv200313615A](http://adsabs.harvard.edu/abs/2020arXiv200313615A) | [data files](2020/2020arXiv200313615A) |
+|1ES 1215+303 / VER J1217+301 | A Decade of Multiwavelength Observations of the TeV Blazar 1ES 1215+303: Extreme Shift of the Synchrotron Peak Frequency and Long-term Optical-Gamma-Ray Flux Increase | [2020ApJ...891..170V](http://adsabs.harvard.edu/abs/2020ApJ...891..170V) | [data files](2020/2020ApJ...891..170V) |
 |Markarian 421 | The Great Markarian 421 Flare of 2010 February: Multiwavelength Variability and Correlation Studies | [2020ApJ...890...97A](http://adsabs.harvard.edu/abs/2020ApJ...890...97A) | [data files](2020/2020ApJ...890...97A) |
 |HESS J0632+057 / VER J0633+057 | Probing the Properties of the Pulsar Wind in the Gamma-Ray Binary HESS J0632+057 with NuSTAR and VERITAS Observations | [2020ApJ...888..115A](http://adsabs.harvard.edu/abs/2020ApJ...888..115A) | [data files](2020/2020ApJ...888..115A) |
 |LS 5039 / VER J1826-148 | VERITAS Detection of LS 5039 and HESS J1825-137 | [2020APh...11702403A](http://adsabs.harvard.edu/abs/2020APh...11702403A) | [data files](2020/2020APh...11702403A) |

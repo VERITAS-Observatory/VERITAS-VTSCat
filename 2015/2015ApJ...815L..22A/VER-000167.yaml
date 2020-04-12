@@ -4,8 +4,9 @@ reference_id: 2015ApJ...815L..22A
 telescope: veritas
 
 data:
-  livetime: 15.h
-  significance: 7.0
+  livetime: 12.7h
+  significance: 7.7
+  excess: 412
 
 morph:
   type: point
