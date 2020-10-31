@@ -15,6 +15,8 @@
 # - mjd: {max: 56302., min: 56302.}
 # - comments: |
 #      Figure 13 (top left)
+#      Note: different binning in energy compared
+#      to published spectral points
 e_ref e_min e_max dnde dnde_err
 0.1678 0.1585 0.1778 1.03e-05 2.52e-06
 0.1883 0.1778 0.1995 5.72e-06 1.54e-06

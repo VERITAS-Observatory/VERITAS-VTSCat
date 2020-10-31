@@ -5,16 +5,21 @@ telescope: veritas
 file_id: 8
 
 data:
-  livetime: 1.93h
-  significance: 38.3
+  livetime: 123.
+  significance: 40.4
+
+flux:
+  flux: {val: 13.e-11, err: 1.e-11, unit: cm-2 s-1}
+  e_min: {val: 200, unit: GeV}
 
 spec:
-  erange: {min: 0.2, max: 10., unit: TeV}
-  mjd: {min: 56335.0795, max: 56335.0795}
+  erange: {min: 0.2, max: 1.2, unit: TeV}
+  mjd: {min: 56368.1885, max: 56368.1885}
   model:
-    type: lppl
+    type: pl
     parameters:
-      alpha: {val: 2.53, err: 0.04}
-      beta: {val: 0.33, err: 0.09}
-      norm: {val: 6.4, err: 0.3, scale: 1e-10, unit: cm-2 s-1 TeV-1}
+      index: {val: 3.2, err: 0.1}
+      norm: {val: 4.3, err: 0.3, scale: 1e-10, unit: cm-2 s-1 TeV-1}
       e_ref: {val: 0.3, unit: TeV}
+      chi2: {val: 9.2}
+      ndof: {val: 9.}

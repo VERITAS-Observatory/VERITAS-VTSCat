@@ -16,4 +16,4 @@ spec:
       alpha: {val: 2.4, err: 0.1}
       e_ref: {val: 0.2, unit: TeV}
       beta: {val: 1.8, err: 0.3}
-  erange: {min: 0.15, max: 2., unit: TeV}
+  erange: {min: 0.125, max: 2., unit: TeV}

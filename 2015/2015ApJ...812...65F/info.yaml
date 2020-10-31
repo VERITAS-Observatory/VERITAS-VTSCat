@@ -18,4 +18,3 @@ datasets:
 data_entry:
   status: complete
   reviewed: false
-  notes: VERITAS data complete

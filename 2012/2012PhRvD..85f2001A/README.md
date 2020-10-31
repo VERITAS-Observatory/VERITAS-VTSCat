@@ -13,9 +13,3 @@ Aliu, E. et al. (The VERITAS Collaboration), Physical Review D, 85, 062001 (2012
 - light-curve data: [VER-100173-lc-1.ecsv](VER-100173-lc-1.ecsv)  
 - observation data and fit results: [VER-100173.yaml](VER-100173.yaml)  
 
-
-### Figures
-
-<img src="figures/2012PhRvD..85f2001A-VER-100173-1-lc.png" alt="drawing" width="400"/>
-
-

@@ -3,6 +3,7 @@ source_id: 67
 reference_id: 2014ApJ...785L..16A
 file_id: 3
 telescope: veritas
+description: "Epoch 2013"
 
 data:
   livetime: 66.8h
@@ -15,5 +16,5 @@ spec:
     type: pl2
     parameters:
       e_min: {val: 0.12, unit: TeV}
-      flux: {val: 1.3, err: 0.08, err_sys: 0.5, scale: 1e-7, unit: m-2 s-1}
-      index: {val: 4.5, err: 0.3, err_sys: 0.3}
+      flux: {val: 1.02, err: 0.08, err_sys: 0.5, scale: 1e-7, unit: m-2 s-1}
+      index: {val: 4.5, err: 0.2, err_sys: 0.3}

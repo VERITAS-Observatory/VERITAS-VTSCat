@@ -3,6 +3,13 @@ source_id: 71
 reference_id: 2016MNRAS.461..202A
 telescope: veritas
 
+data:
+  livetime: 53.h
+  significance: 5.5
+  non: 954
+  noff: 8673
+  alpha: 0.0909
+
 pos:
   ra: {val: 14h43m15s, err: 0h0m1s, err_sys: 25s}
   dec: {val: +12d00m11s, err: 1s, err_sys: 25s}

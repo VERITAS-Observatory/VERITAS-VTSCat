@@ -8,14 +8,14 @@ data:
 
 pos:
   ra: {val: 12h21m59s, err: 0h0m31s, err_sys: 50s}
-  dec: {val: +28d13m13.5s, err: 0h0m41s, err_sys: 50s}
+  dec: {val: +28d13m13.5s, err: 0d0m41s, err_sys: 50s}
 
 morph:
   type: point
 
 spec:
   mjd: {min: 54624.16, max: 54625.24}
-  erange: {min: 0.18, max: 1.25, unit: TeV}
+  erange: {min: 0.18, max: 1.78, unit: TeV}
   model:
     type: pl
     parameters:

@@ -21,7 +21,7 @@
 #       the given spectral index; using Rolke et al 2005
 e_min time_min time_max flux_ul flux significance index R
 0.220 54531. 54587.50 2.59e-8 nan 0.84 -2.1 0.0
-0.220 54531. 54587.50 1.94e-8 nan -1.0 -2.1 0.2
+0.220 54531. 54587.50 1.96e-8 nan -1.0 -2.1 0.2
 0.220 54531. 54587.50 4.44e-8 nan -0.30 -2.1 0.4
 0.220 54531. 54587.50 2.78e-8 nan 0.84 -2.3 0.0
 0.220 54531. 54587.50 2.09e-8 nan -1.0 -2.3 0.2

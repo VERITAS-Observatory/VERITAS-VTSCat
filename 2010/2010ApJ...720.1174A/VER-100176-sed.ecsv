@@ -13,7 +13,8 @@
 #   - digitizer
 # - UL_CONF: 0.95
 e_ref e2dnde_ul e2dnde
-0.4211   3.8708e-12  nan
-0.7860   6.0302e-12  nan
-1.4330   7.6370e-14  nan
-2.6677   1.4259e-12  nan
+0.42  3.95e-12 nan
+0.79  2.63e-12 nan
+1.43  1.48e-12 nan
+2.72  8.83e-13 nan
+4.92  2.86e-12 nan

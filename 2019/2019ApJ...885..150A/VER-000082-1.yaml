@@ -15,5 +15,5 @@ spec:
     parameters:
       alpha: {val: 4.78, err: 0.11}
       beta: {val: 1.35, err: 0.18}
-      norm: {val: 3.03, err: 0.10, err_sys: 1.0, scale: 1e-13, unit: cm-2 s-1 TeV-1}
+      norm: {val: 3.03, err: 0.10, scale: 1e-13, unit: cm-2 s-1 TeV-1}
       e_ref: {val: 0.3, unit: TeV}

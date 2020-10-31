@@ -20,7 +20,7 @@ spec:
   model:
     type: pl
     parameters:
-      norm: {val: 2.8, err: 1.2, err_sys: 1.2, scale: 1e-17, unit: cm-2 s-1 GeV-1}
+      norm: {val: 3.00, err: 0.56, err_sys: 0.60, scale: 1e-17, unit: cm-2 s-1 GeV-1}
       index: {val: 1.71, err: 0.26, err_sys: 0.20}
       e_ref: {val: 3270, unit: GeV}
   erange: {min: 750, max: 23700, unit: GeV}

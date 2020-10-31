@@ -14,7 +14,7 @@ orbit:
   period: {val: 315, errp: 6, errn: 4, unit: day}
 
 spec:
-  erange: {min: 0.2, max: 3., unit: TeV}
+  erange: {min: 0.2, max: 1.58489, unit: TeV}
   mjd: {min: 58101., max: 58103.}
   model:
     type: pl

@@ -11,11 +11,12 @@ multiwavelength:
 datasets:
   - VER-000154-1.yaml
   - VER-000154-2.yaml
-  - VER-000154-sed-1.ecsv
+  - VER-000154-3.yaml
   - VER-000154-sed-2.ecsv
+  - VER-000154-sed-3.ecsv
   - VER-000154-lc-1.ecsv
 
 
 data_entry:
   status: complete
-  reviewed: false
+  reviewed: true

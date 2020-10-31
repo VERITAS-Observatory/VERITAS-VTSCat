@@ -15,8 +15,9 @@
 # - telescope: veritas
 # - comments: |
 #      Figure 13 (bottom left)
+#      Note: different binning in energy compared
+#      to published spectral points
 e_ref e_min e_max dnde dnde_err
-0.1678  0.1585  0.1778  6.39e-06  1.52e-06
 0.1883  0.1778  0.1995  4.29e-06  1.04e-06
 0.2112  0.1995  0.2239  3.16e-06  7.61e-07
 0.237  0.2239  0.2512  3.03e-06  6.42e-07
@@ -30,4 +31,3 @@ e_ref e_min e_max dnde dnde_err
 0.5953  0.5623  0.6310  1.34e-07  5.72e-08
 0.7064  0.6310  0.7943  1e-07  3.05e-08
 0.8893  0.7943  1.0000  5.2e-08  1.84e-08
-2.635  1.0000  10.0000  7.59e-10  3.91e-10

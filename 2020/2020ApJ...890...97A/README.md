@@ -16,21 +16,13 @@ Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal,
 
 ### Figures
 
-<img src="figures/2020arXiv200203567A-VER-49-7-lc.png" alt="drawing" width="400"/>
-<img src="figures/2020arXiv200203567A-VER-49-5-lc.png" alt="drawing" width="400"/>
 <img src="figures/2020ApJ...890...97A-VER-49-2-lc.png" alt="drawing" width="400"/>
-<img src="figures/2020arXiv200203567A-VER-49-1-lc.png" alt="drawing" width="400"/>
 <img src="figures/2020ApJ...890...97A-VER-49-6-lc.png" alt="drawing" width="400"/>
 <img src="figures/2020ApJ...890...97A-VER-49-4-lc.png" alt="drawing" width="400"/>
-<img src="figures/2020arXiv200203567A-VER-49-3-lc.png" alt="drawing" width="400"/>
 <img src="figures/2020ApJ...890...97A-VER-49-8-lc.png" alt="drawing" width="400"/>
-<img src="figures/2020arXiv200203567A-VER-49-6-lc.png" alt="drawing" width="400"/>
 <img src="figures/2020ApJ...890...97A-VER-49-1-lc.png" alt="drawing" width="400"/>
 <img src="figures/2020ApJ...890...97A-VER-49-3-lc.png" alt="drawing" width="400"/>
-<img src="figures/2020arXiv200203567A-VER-49-4-lc.png" alt="drawing" width="400"/>
-<img src="figures/2020arXiv200203567A-VER-49-8-lc.png" alt="drawing" width="400"/>
 <img src="figures/2020ApJ...890...97A-VER-49-7-lc.png" alt="drawing" width="400"/>
-<img src="figures/2020arXiv200203567A-VER-49-2-lc.png" alt="drawing" width="400"/>
 <img src="figures/2020ApJ...890...97A-VER-49-5-lc.png" alt="drawing" width="400"/>
 
 

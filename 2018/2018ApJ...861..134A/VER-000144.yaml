@@ -8,8 +8,8 @@ data:
   significance: 7.6
 
 pos:
-  ra: {val: 20h20m05.0s, err: 0.02 deg}
-  dec: {val: 40d45m36ss, err: 0.01 deg}
+  ra: {val: 20h20m04.8s, err: 0.02 deg}
+  dec: {val: 40d45m36s, err: 0.01 deg}
 
 morph:
   type: gauss

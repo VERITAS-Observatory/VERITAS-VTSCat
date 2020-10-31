@@ -12,6 +12,8 @@
 # - reference_id: 2009Natur.462..770V
 # - telescope: veritas
 # - {SED_TYPE: flux}
+# - comments: |
+#     Supplemental Fig 2
 e_min time_min time_max flux flux_err
 0.7   54495 54509 3.01 2.19
 0.7   54524 54535 5.09 2.43

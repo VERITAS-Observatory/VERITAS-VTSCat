@@ -15,8 +15,8 @@ datasets:
   - VER-000174-2.yaml
   - VER-000174-3.yaml
   - VER-000146-signif-skymap.fits
-  - VER-000174-sed-1.ecsv
-  - VER-000174-sed-2.ecsv
+  - VER-000174-sed-4.ecsv
+  - VER-000174-sed-5.ecsv
   - VER-000174-sed-3.ecsv
   - VER-000146-spectralFits-table-1.ecsv
   - VER-000174-lc-1.ecsv
@@ -24,5 +24,5 @@ datasets:
 
 data_entry:
   status: complete
-  reviewed: false
+  reviewed: true
   notes: SED fits plotting not correct (sum of spectral fits) 

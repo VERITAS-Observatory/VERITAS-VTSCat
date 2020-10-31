@@ -4,5 +4,5 @@ telescope: [veritas]
 
 data_entry:
   status: incomplete
-  reviewed: false
+  reviewed: true
 ...

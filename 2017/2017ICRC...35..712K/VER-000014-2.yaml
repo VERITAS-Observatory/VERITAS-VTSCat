@@ -1,11 +1,11 @@
 ---
 source_id: 14
-reference_id: tev-000014-1.yaml
+reference_id: 2017ICRC...35..712K
 file_id: 2
 telescope: veritas
 
 data:
-  livetime: 10.8h
+  livetime: 6048min
   significance: 13.9
 
 # Orbital period
@@ -26,4 +26,4 @@ spec:
       e_min: {val: 0.3, unit: TeV}
       flux: {val: 3.27, err: 0.25, scale: 1e-12, unit: cm-2 s-1}
       index: {val: 2.81, err: 0.16}
-  erange: {min: 0.3, max: 20.0, unit: TeV}
+  erange: {min: 0.3, max: 10.0, unit: TeV}

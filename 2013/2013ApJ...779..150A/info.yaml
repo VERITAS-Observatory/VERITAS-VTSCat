@@ -8,12 +8,16 @@ multiwavelength:
   - availability: false
   - status: false
 
-
-
 datasets:
   - VER-100171-1.yaml
+  - VER-100171-lc-1.ecsv
+  - VER-100171-lc-2.ecsv
+  - VER-100171-sed.ecsv
+  - VER-100171-table-2-softcuts.ecsv
+  - VER-100171-table-2-mediumcuts.ecsv
+  - VER-100171-table-2-hardcuts.ecsv
 
 data_entry:
-  status: incomplete
-  reviewed: false
+  status: complete
+  reviewed: true
 ...

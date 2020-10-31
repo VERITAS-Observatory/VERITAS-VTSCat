@@ -6,12 +6,12 @@ telescope: veritas
 description: 2007 Dec - 2008 May
 
 data:
-  livetime: 43.0h
+  livetime: 37.0h
   significance: 7.2
   excess: 450
 
 spec:
-  erange: {min: 0.2, max: 5., unit: TeV}
+  erange: {min: 0.18, max: 5.6, unit: TeV}
   mjd: {min: 54448, max: 54588.}
   model:
     type: pl

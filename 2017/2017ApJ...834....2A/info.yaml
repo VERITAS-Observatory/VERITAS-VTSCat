@@ -13,9 +13,11 @@ datasets:
   - VER-000049-2.yaml
   - VER-000049-lc-1.ecsv
   - VER-000049-lc-2.ecsv
+  - VER-000049-lc-3.ecsv
+  - VER-000049-lc-4.ecsv
   - VER-000049-sed-1.ecsv
   - VER-000049-sed-2.ecsv
 
 data_entry:
   status: complete
-  reviewed: false
+  reviewed: true

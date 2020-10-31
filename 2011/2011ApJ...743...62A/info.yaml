@@ -4,7 +4,8 @@ telescope: [veritas]
 
 datasets:
     - VER-ULs-table-2.ecsv
+    - VER-ULs-table-4.ecsv
 
 data_entry:
     status: complete
-    reviewed: false
+    reviewed: true 

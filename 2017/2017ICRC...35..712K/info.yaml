@@ -10,5 +10,5 @@ datasets:
 
 data_entry:
   status: incomplete
-  reviewed: false
+  reviewed: true
   notes: spectral points (Fig3) missing

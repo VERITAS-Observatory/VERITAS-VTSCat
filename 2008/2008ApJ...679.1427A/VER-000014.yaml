@@ -6,14 +6,13 @@ telescope: veritas
 data:
   livetime: 45.9h
   significance: 8.4
-  excess: 259
 
 pos:
   ra: {val: 2h40m41s, err: 73s, err_sys: 90s}
   dec: {val: +61d13m12s, err: 30s, err_sys: 90s}
 
 orbit:
-  # zero phase for orbital period from Gregory (2002)
+  # Orbital parameters from Gregory (2002)
   mjd0: 43366.3d
   period: {val: 26.4960, unit: day}
 

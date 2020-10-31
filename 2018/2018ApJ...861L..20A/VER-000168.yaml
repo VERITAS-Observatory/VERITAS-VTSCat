@@ -12,7 +12,7 @@ data:
 
 pos:
   ra: {val: 5h09m25.0s, err: 0.01 deg}
-  dec: {val: 5d42m95s, err: 0.007 deg}
+  dec: {val: 5d42m9s, err: 0.007 deg}
 
 morph:
   type: point

@@ -15,10 +15,25 @@ Abeysekara, A. U. et al. (The VERITAS, HAWC, and FERMI-LAT Collaborations), The 
 - observation data: [VER-000136-1.yaml](VER-000136-1.yaml)  
 - spectral data: [VER-000136-sed-1.ecsv](VER-000136-sed-1.ecsv)  
 - observation data and fit results: [VER-000136-1.yaml](VER-000136-1.yaml)  
+- FITS data: [VER-000136-excess-skymap.fits](VER-000136-excess-skymap.fits)  
 
 
 ### Figures
 
 <img src="figures/2018ApJ...866...24A-VER-136-1-sed.png" alt="drawing" width="400"/>
+
+
+## DA 495 (VER J1952+293)
+### Data files
+
+- observation data: [VER-000172-1.yaml](VER-000172-1.yaml)  
+- spectral data: [VER-000172-sed-1.ecsv](VER-000172-sed-1.ecsv)  
+- observation data and fit results: [VER-000172-1.yaml](VER-000172-1.yaml)  
+- FITS data: [VER-000172-excess-skymap.fits](VER-000172-excess-skymap.fits)  
+
+
+### Figures
+
+<img src="figures/2018ApJ...866...24A-VER-172-1-sed.png" alt="drawing" width="400"/>
 
 

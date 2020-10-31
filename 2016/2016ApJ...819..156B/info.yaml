@@ -15,17 +15,14 @@ datasets:
   - VER-000049-4.yaml
   - VER-000049-5.yaml
   - VER-000049-6.yaml
+  - VER-000049-7.yaml
   - VER-000049-8.yaml
-  - VER-000049-9.yaml
-  - VER-000049-10.yaml
-  - VER-000049-11.yaml
   - VER-000049-lc-1.ecsv
   - VER-000049-sed-1.ecsv
   - VER-000049-sed-2.ecsv
   - VER-000049-sed-3.ecsv
-  - VER-000049-sed-5.ecsv
 
 data_entry:
   status: complete
-  reviewed: false
+  reviewed: true
   notes: veritas data complete (magic data missing)

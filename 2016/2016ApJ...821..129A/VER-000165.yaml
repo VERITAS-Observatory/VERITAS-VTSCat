@@ -18,4 +18,4 @@ morph:
   sigma: {val: 0.08d}
   sigma2: {val: 0.03d}
   # rotation angle with respect to galactic latitude
-  pa: {frame: galactic, val: 15.4d}
+  pa: {frame: galactic, val: -15.4d}

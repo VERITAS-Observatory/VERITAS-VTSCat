@@ -7,3 +7,8 @@ telescope: veritas
 
 data:
   livetime: 44h
+
+flux:
+  flux_ul: {val: 0.7e-12, unit: cm-2 s-1}
+  conf: {val: 0.95}
+  e_min: {val: 263, unit: GeV}

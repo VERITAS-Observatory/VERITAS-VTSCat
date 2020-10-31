@@ -3,6 +3,7 @@ source_id: 67
 reference_id: 2014ApJ...785L..16A
 file_id: 1
 telescope: veritas
+description: "Epoch 2009"
 
 data:
   livetime: 28.5h

@@ -18,4 +18,4 @@
 #       upper limits derived assuming a power law with
 #       spectral index of -2.5; using Rolke et al (2005)
 e_ref live_time e2dnde e2dnde_err e2dnde_ul
-1.8 304 nan nan 2.e-12
+1.6 304 nan nan 2.3e-12

@@ -10,13 +10,12 @@
 # - {source_id: 154}
 # - {reference_id: 2011ApJ...738..169A}
 # - {telescope: veritas}
-# - mjd: {max: 54441.5, min: 54440.5}
-# - {comments: 'This data was collected for 2015ApJ...812...60B and contributed
-#     by Jonathan Biteau, veritas data marked by "High " in the paper.'}
+# - mjd: {max: 54476.0, min: 54377.0}
 # - {file_id: 2}
 e_ref dnde dnde_errn dnde_errp
-0.486098 1.07001e-10 1.85001e-11 1.85001e-11
-0.750202 3.08999e-11 6.69996e-12 6.69996e-12
-1.101 1.42e-11 3.34999e-12 3.34999e-12
-1.665 4.37001e-12 1.4e-12 1.4e-12
-2.329 2.91999e-12 9.38e-13 9.38e-13
+0.51 1.85e-11 3.03e-12 3.03e-12
+0.82 6.24e-12 6.29e-13 6.29e-13
+1.38 1.9e-12 2.350e-13 2.35e-13
+2.21 3.14e-13 6.8e-14 6.8e-14
+3.89 6.15e-14 2.26e-14 2.26e-14
+5.98 2.15e-14 9.84e-15 9.84e-15

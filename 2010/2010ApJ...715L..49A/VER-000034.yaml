@@ -12,7 +12,7 @@ data:
   excess: 129
 
 pos:
-  ra: {val: 07h10m26s, err: 0h0m2.4s}
+  ra: {val: 07h10m26.4s, err: 0h0m2.4s}
   dec: {val: +59d9m00s, err: 36s}
 
 morph:

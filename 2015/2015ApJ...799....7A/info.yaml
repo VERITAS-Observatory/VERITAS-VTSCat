@@ -10,8 +10,10 @@ datasets:
   - VER-000082-4.yaml
   - VER-000082-sed-1.ecsv
   - VER-000082-lc-1.ecsv
+  - VER-000082-lc-2.ecsv
+  - VER-000082-lc-3.ecsv
+  - VER-000082-lc-4.ecsv
 
 data_entry:
-  status: incomplete
-  reviewed: false
-  notes: light curve missing (Fig 3, Fig 4, Fig 5), otherwise complete
+  status: complete
+  reviewed: true

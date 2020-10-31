@@ -17,7 +17,7 @@
 #     Table 2 
 #     Sources Not Detected by VERITAS and Fermi-LAT
 source_name index live_time e_min p_flux_ul e_flux_ul
-2HWC~J0700+143   2.0    5.6 290   nan 6.
+2HWC~J0700+143   2.0    5.6 290   nan 6.8
 2HWC~J0700+143   2.17   5.6 260   nan 7.7
 2HWC~J0700+143   3.0    5.6 240   nan 9.0
 2HWC~J0819+157   2.0    4.5 220   2.4   2.7

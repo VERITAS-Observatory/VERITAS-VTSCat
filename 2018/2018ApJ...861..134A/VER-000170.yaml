@@ -9,7 +9,7 @@ data:
 
 pos:
   ra: {val: 20h18m48.0s, err: 0.01 deg}
-  dec: {val: 36d44m22.0s, err: 0.01 deg}
+  dec: {val: 36d44m24.0s, err: 0.01 deg}
 
 morph:
   type: gauss

@@ -27,13 +27,15 @@ Abeysekara, A. U. et al. (The VERITAS and MAGIC Collaborations), The Astrophysic
 ### Data files
 
 - observation data: [VER-000174-1.yaml](VER-000174-1.yaml)  [VER-000174-2.yaml](VER-000174-2.yaml)  [VER-000174-3.yaml](VER-000174-3.yaml)  
-- spectral data: [VER-000174-sed-1.ecsv](VER-000174-sed-1.ecsv)  [VER-000174-sed-2.ecsv](VER-000174-sed-2.ecsv)  [VER-000174-sed-3.ecsv](VER-000174-sed-3.ecsv)  
+- spectral data: [VER-000174-sed-4.ecsv](VER-000174-sed-4.ecsv)  [VER-000174-sed-5.ecsv](VER-000174-sed-5.ecsv)  [VER-000174-sed-3.ecsv](VER-000174-sed-3.ecsv)  
 - light-curve data: [VER-000174-lc-1.ecsv](VER-000174-lc-1.ecsv)  [VER-000174-lc-2.ecsv](VER-000174-lc-2.ecsv)  
 - observation data and fit results: [VER-000174-1.yaml](VER-000174-1.yaml)  [VER-000174-2.yaml](VER-000174-2.yaml)  [VER-000174-3.yaml](VER-000174-3.yaml)  
 
 
 ### Figures
 
+<img src="figures/2018ApJ...867L..19A-VER-174-5-sed.png" alt="drawing" width="400"/>
+<img src="figures/2018ApJ...867L..19A-VER-174-4-sed.png" alt="drawing" width="400"/>
 <img src="figures/2018ApJ...867L..19A-VER-174-2-lc.png" alt="drawing" width="400"/>
 <img src="figures/2018ApJ...867L..19A-VER-174-2-sed.png" alt="drawing" width="400"/>
 <img src="figures/2018ApJ...867L..19A-VER-174-3-sed.png" alt="drawing" width="400"/>

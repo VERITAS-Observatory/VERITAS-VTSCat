@@ -16,8 +16,8 @@
 #       Figure 4
 #       UL assumes a spectral index of 1.8
 e_ref dnde dnde_err dnde_ul
-0.1767  2.94e-07 1.66e-07 nan
+0.1767  2.95e-07 1.67e-07 nan
 0.4438  3.03e-08 1.39e-08 nan
-1.115   7.34e-09 1.78e-09 nan
-2.8    5.25e-10 2.65e-10 nan
-7.034  nan nan 1.07e-14
+1.115   7.33e-09 1.78e-09 nan
+2.8    5.23e-10 2.65e-10 nan
+7.079  nan nan 1.07e-14

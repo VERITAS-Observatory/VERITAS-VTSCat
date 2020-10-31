@@ -8,6 +8,11 @@ description: "average 2008/2009"
 data:
   livetime: 1631m
   significance: 21.8
+  excess: 1155
+
+flux:
+  flux: {val: 18.4e-12, err: 0.9e-12, unit: cm-2 s-1}
+  e_min: {val: 200, unit: GeV}
 
 spec:
   erange: {min: 0.175, max: 2.0, unit: TeV}

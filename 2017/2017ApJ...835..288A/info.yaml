@@ -4,6 +4,6 @@ telescope: [veritas]
 
 data_entry:
   status: complete
-  reviewed: false
+  reviewed: true
   notes: paper without typical data (no SEDs, light curves)
 ...

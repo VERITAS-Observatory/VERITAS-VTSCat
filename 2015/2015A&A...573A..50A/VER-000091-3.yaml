@@ -6,7 +6,7 @@ telescope: veritas
 description: P3
 
 spec:
-  mjd: {min: 54579., max: 54609.}
+  mjd: {min: 54579., max: 54604.}
   erange: {min: 0.3, max: 3.7, unit: TeV}
   model:
     type: pl

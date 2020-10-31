@@ -5,6 +5,8 @@
 # - {name: time, unit: MJD, datatype: float64}
 # - {name: time_min, unit: MJD, datatype: float64}
 # - {name: time_max, unit: MJD, datatype: float64}
+# - {name: flux, unit: cm-2 s-1, datatype: float64}
+# - {name: flux_err, unit: cm-2 s-1, datatype: float64}
 # - {name: flux_ul, unit: cm-2 s-1, datatype: float64}
 # meta: !!omap
 # - data_type: lc
@@ -12,7 +14,7 @@
 # - reference_id: 2009ApJ...698L..94A
 # - telescope: veritas
 # - UL_CONF: 0.99
-e_min time time_min time_max flux_ul
-1.0 54105. 54085. 54125. 4.2e-13
-1.0 54832. 54830. 54834. 4.2e-13
-1.0 54859  54857. 54861. 3.6e-13
+e_min time time_min time_max flux flux_err flux_ul
+1.0 54105. 54085. 54125. nan nan 4.2e-13
+1.0 54832. 54830. 54834. nan nan 4.2e-13
+1.0 54859  54857. 54861. nan nan 3.6e-13

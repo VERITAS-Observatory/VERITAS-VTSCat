@@ -9,7 +9,9 @@ multiwavelength:
   - status: false
 
 datasets:
-  - VER-000013.yaml
+  - VER-000013-1.yaml
+  - VER-000013-2.yaml
+  - VER-000013-3.yaml
   - VER-000013-lc-1.ecsv
   - VER-000013-lc-2.ecsv
   - VER-000013-sed-1.ecsv
@@ -18,4 +20,4 @@ datasets:
 
 data_entry:
   status: complete
-  reviewed: false
+  reviewed: true

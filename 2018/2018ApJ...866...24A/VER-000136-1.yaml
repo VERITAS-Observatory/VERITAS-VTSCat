@@ -13,7 +13,7 @@ morph:
   type: point
 
 spec:
-  erange: {min: 0.120, max: 10.0, unit: TeV}
+  erange: {min: 0.112, max: 4.47, unit: TeV}
   theta: 0.1d
   model:
     type: pl

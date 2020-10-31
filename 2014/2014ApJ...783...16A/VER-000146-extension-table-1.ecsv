@@ -11,7 +11,9 @@
 # - reference_id: 2014ApJ...783...16A
 # - file_id: 1
 # - telescope: veritas
-# - comments: Table 3
+# - comments: |
+#       Table 3;
+#       Extension along the long axis of the extension
 e_min e_max type sigma sigma_err
 0.7    1.46  gauss  0.18 0.03
 1.46   2.76  gauss  0.33 0.10

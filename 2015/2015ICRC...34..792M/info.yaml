@@ -9,5 +9,5 @@ datasets:
 
 data_entry:
   status: incomplete
-  reviewed: false
+  reviewed: true
   notes: light curves in Fig 4 missing

@@ -10,6 +10,8 @@ IceCube Collaboration et al. (The MAGIC, HESS, HAWC, FERMI-LAT, and VERITAS Coll
 ### Data files
 
 - observation data: [VER-000168-1.yaml](VER-000168-1.yaml)  
+- spectral data: [VER-000168-sed-1.ecsv](VER-000168-sed-1.ecsv)  
+- light-curve data: [VER-000168-lc-1.ecsv](VER-000168-lc-1.ecsv)  [VER-000168-lc-2.ecsv](VER-000168-lc-2.ecsv)  
 - observation data and fit results: [VER-000168-1.yaml](VER-000168-1.yaml)  
 
 

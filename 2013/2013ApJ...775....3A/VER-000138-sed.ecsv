@@ -13,15 +13,13 @@
 # - {telescope: veritas}
 # - UL_CONF: 0.99
 # - mjd: {max: 55862.0, min: 54417.0}
-# - {comments: This data was collected for 2015ApJ...812...60B and contributed to gamma-cat
-#     by Jonathan Biteau; added later UL}
 e_ref dnde dnde_errn dnde_errp dnde_ul
-0.3147 8.03998e-11 2.92e-11 2.92e-11 nan
-0.498799 3.61001e-11 7.36003e-12 7.36003e-12 nan
-0.790599 1.12e-11 2.2e-12 2.2e-12 nan
-1.253 3.67e-12 6.83e-13 6.83e-13 nan
-1.986 1.52e-12 2.66999e-13 2.66999e-13 nan
-3.147 3.61e-13 9.22998e-14 9.22998e-14 nan
-4.98799 1.09001e-13 3.57003e-14 3.57003e-14 nan
-7.90599 1.49e-14 9.95003e-15 9.95003e-15 nan
+0.31 8.04e-11 2.92e-11 2.92e-11 nan
+0.50 3.61e-11 7.36e-12 7.36e-12 nan
+0.79 1.12e-11 2.2e-12 2.2e-12 nan
+1.25 3.67e-12 6.83e-13 6.83e-13 nan
+2.00 1.52e-12 2.67e-13 2.67e-13 nan
+3.15 3.61e-13 9.23e-14 9.23e-14 nan
+5.00 1.09e-13 3.57e-14 3.57e-14 nan
+7.90 1.49e-14 9.95e-15 9.95e-15 nan
 12.6 nan nan nan 1.7e-14

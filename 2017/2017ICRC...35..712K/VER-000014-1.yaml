@@ -1,12 +1,12 @@
 ---
 source_id: 14
-reference_id: tev-000014-1.yaml
+reference_id: 2017ICRC...35..712K
 file_id: 1
 telescope: veritas
 
 data:
-  livetime: 104.4h
-  significance: 27.9
+  livetime: 6143min
+  significance: 27.0
 
 # Orbital period
 orbit:

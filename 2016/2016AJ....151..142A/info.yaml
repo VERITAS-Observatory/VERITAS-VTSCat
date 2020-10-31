@@ -12,7 +12,7 @@ datasets:
 
 data_entry:
   status: complete
-  reviewed: false
+  reviewed: true
   notes: "see see http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=J/AJ/151/142 ;
   files exported to ecsv using astropy; note the differences in format to other files
   in VTSCat"

@@ -13,6 +13,6 @@ spec:
   model:
     type: pl
     parameters:
-      index: {val: 3.40, err: 0.04, err_sys: 0.2}
-      norm: {val: 2.70, err: 0.09, err_sys: 1.0, scale: 1e-12, unit: cm-2 s-1 TeV-1}
+      index: {val: 3.40, err: 0.04}
+      norm: {val: 2.70, err: 0.09, scale: 1e-12, unit: cm-2 s-1 TeV-1}
       e_ref: {val: 0.7, unit: TeV}

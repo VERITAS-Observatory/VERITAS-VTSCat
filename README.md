@@ -3,6 +3,7 @@
 1. [ Introduction. ](#intro)
 2. [ Organisation and data format. ](#formats)
 3. [ Publications. ](#publications)
+3. [ Licence. ](#licence)
 
 <a name="intro"></a>
 ## Introduction
@@ -25,7 +26,7 @@ VTSCat supplements the HEASARC catalogue of VERITAS results (to be published). I
 - ZENODO (**link to be added**; complete download as tar ball)
 - HEASARC (**link to be added**)
 
-**Citation:** if you make use of VTSCat, please cite the following research note: **link to be added**
+**Citation:** if you make use of VTSCat, please cite the orginal publication for the data and the following research note: **link to be added**
 
 <a name="formats"></a>
 
@@ -43,7 +44,8 @@ For a detailed description of data formats, file types, keywords, and spectral m
 
 | Object | Publication Title | ADS Reference | Repository |
 |---|---|---|---|
-|Cassiopeia A | Evidence for proton acceleration up to TeV energies based on VERITAS and Fermi-LAT observations of the Cas A SNR | [2020arXiv200313615A](http://adsabs.harvard.edu/abs/2020arXiv200313615A) | [data files](2020/2020arXiv200313615A) |
+|3C 264.0 / VER J1145+196 | VERITAS Discovery of VHE Emission from the Radio Galaxy 3C 264: A Multiwavelength Study | [2020ApJ...896...41A](http://adsabs.harvard.edu/abs/2020ApJ...896...41A) | [data files](2020/2020ApJ...896...41A) |
+|Cassiopeia A | Evidence for Proton Acceleration up to TeV Energies Based on VERITAS and Fermi-LAT Observations of the Cas A SNR | [2020ApJ...894...51A](http://adsabs.harvard.edu/abs/2020ApJ...894...51A) | [data files](2020/2020ApJ...894...51A) |
 |1ES 1215+303 / VER J1217+301 | A Decade of Multiwavelength Observations of the TeV Blazar 1ES 1215+303: Extreme Shift of the Synchrotron Peak Frequency and Long-term Optical-Gamma-Ray Flux Increase | [2020ApJ...891..170V](http://adsabs.harvard.edu/abs/2020ApJ...891..170V) | [data files](2020/2020ApJ...891..170V) |
 |Markarian 421 | The Great Markarian 421 Flare of 2010 February: Multiwavelength Variability and Correlation Studies | [2020ApJ...890...97A](http://adsabs.harvard.edu/abs/2020ApJ...890...97A) | [data files](2020/2020ApJ...890...97A) |
 |HESS J0632+057 / VER J0633+057 | Probing the Properties of the Pulsar Wind in the Gamma-Ray Binary HESS J0632+057 with NuSTAR and VERITAS Observations | [2020ApJ...888..115A](http://adsabs.harvard.edu/abs/2020ApJ...888..115A) | [data files](2020/2020ApJ...888..115A) |
@@ -194,3 +196,9 @@ For a detailed description of data formats, file types, keywords, and spectral m
 |W Comae | VERITAS Discovery of &gt;200 GeV Gamma-Ray Emission from the Intermediate-Frequency-Peaked BL Lacertae Object W Comae | [2008ApJ...684L..73A](http://adsabs.harvard.edu/abs/2008ApJ...684L..73A) | [data files](2008/2008ApJ...684L..73A) |
 |LS I +61 303 / VER J0240+612 | VERITAS Observations of the γ-Ray Binary LS I +61 303 | [2008ApJ...679.1427A](http://adsabs.harvard.edu/abs/2008ApJ...679.1427A) | [data files](2008/2008ApJ...679.1427A) |
 |M 87 / VER J1230+123 | Observation of Gamma-Ray Emission from the Galaxy M87 above 250 GeV with VERITAS | [2008ApJ...679..397A](http://adsabs.harvard.edu/abs/2008ApJ...679..397A) | [data files](2008/2008ApJ...679..397A) |
+
+<a name="licence"></a>
+
+## Licence
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.

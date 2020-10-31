@@ -20,5 +20,5 @@ datasets:
 
 data_entry:
   status: complete
-  reviewed: false
+  reviewed: true
   notes: VERITAS data complete

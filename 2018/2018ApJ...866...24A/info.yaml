@@ -11,11 +11,13 @@ multiwavelength:
 datasets:
   - VER-000136-1.yaml
   - VER-000136-sed-1.ecsv
+  - VER-000136-excess-skymap.fits
   - VER-000172-1.yaml
   - VER-000172-sed-1.ecsv
+  - VER-000172-excess-skymap.fits
   - VER-ULs-table-1.ecsv
 
 data_entry:
   status: complete
-  reviewed: false
+  reviewed: true
 ...

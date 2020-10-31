@@ -9,7 +9,7 @@ data:
 
 spec:
   erange: {min: 0.45, max: 5.5, unit: TeV}
-  mjd: {min: 54622, max: 54622}
+  mjd: {min: 54623, max: 54623}
   model:
     type: pl
     parameters:
