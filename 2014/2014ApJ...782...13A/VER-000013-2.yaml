@@ -1,0 +1,20 @@
+---
+source_id: 13
+reference_id: 2014ApJ...782...13A
+telescope: veritas
+file_id: 2
+description: "labeled flaring period in Fig 1 (green curve)"
+
+data:
+  livetime: 715min
+  significance: 9.7
+
+spec:
+  erange: {min: 0.24, max: 11.2, unit: TeV}
+  mjd: {min: 55118, max: 55131}
+  model:
+    type: pl
+    parameters:
+      norm: {val: 10.2, err: 1.0, err_sys: 2.0, scale: 1e-9, unit: m-2 s-1 TeV-1}
+      index: {val: 2.53, err: 0.11, err_sys: 0.25}
+      e_ref: {val: 1, unit: TeV}

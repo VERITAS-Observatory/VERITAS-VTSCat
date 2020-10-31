@@ -1,0 +1,19 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: time_min, unit: MJD, datatype: float64}
+# - {name: time_max, unit: MJD, datatype: float64}
+# - {name: flux_ul, unit: cm-2 s-1, datatype: float64}
+# - {name: flux, unit: cm-2 s-1, datatype: float64}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 168
+# - file_id: 1
+# - reference_id: 2018Sci...361.1378I
+# - telescope: veritas
+# - UL_CONF: 0.95
+# - comments: |
+#       spectral index of -3.9; using Rolke & Lopez (2001)
+e_min time_min time_max flux_ul flux
+0.175 58019.3847 58026.461 1.2e-11 nan
