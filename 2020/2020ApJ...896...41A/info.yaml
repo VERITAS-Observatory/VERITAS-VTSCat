@@ -1,0 +1,20 @@
+---
+reference_id: 2020ApJ...896...41A
+source_id: [173]
+telescope: [veritas]
+
+datasets:
+  - VER-000173-1.yaml
+  - VER-000173-2.yaml
+  - VER-000173-sed-2.ecsv
+  - VER-000173-lc.ecsv
+
+multiwavelength:
+  - content: [vlba, vla, HST, Chandra, Swift-XRT]
+  - availability: false
+  - status: false
+
+data_entry:
+  status: complete
+  reviewed: true
+...

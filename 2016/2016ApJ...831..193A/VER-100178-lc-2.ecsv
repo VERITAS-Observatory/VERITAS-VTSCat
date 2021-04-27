@@ -1,0 +1,27 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: time_min, unit: MJD, datatype: float64}
+# - {name: time_max, unit: MJD, datatype: float64}
+# - {name: live_time, unit: h, datatype: float64}
+# - {name: flux_ul, unit: cm-2 s-1, datatype: float64}
+# - {name: flux, unit: cm-2 s-1, datatype: float64}
+# - {name: non, datatype: int}
+# - {name: noff, datatype: int}
+# - {name: alpha, datatype: float32}
+# - {name: pulsed_hstat, datatype: float64, description: H-statistic}
+# - {name: pulsed_flux_ul, unit: cm-2 s-1, datatype: float64}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 100178
+# - reference_id: 2016ApJ...831..193A
+# - telescope: veritas
+# - file_id: 2
+# - UL_CONF: 0.95
+# - {SED_TYPE: flux}
+# - comments: |
+#     Table 1 and Table 2 (Accretion/LMXHB);
+#     UL following Rolke et al.(2005)
+e_min time_min time_max live_time flux_ul flux non noff alpha pulsed_hstat pulsed_flux_ul
+0.3 56628. 56659.5 10. 9.6e-13 nan 72 422 0.17 nan nan

@@ -1,0 +1,18 @@
+---
+reference_id: 2015ApJ...808..110A
+source_id: [101]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [lat, xrt, uvot, flwo_48]
+  - availability: false
+  - status: false
+
+datasets:
+  - VER-000101.yaml
+  - VER-000101-lc.ecsv
+  - VER-000101-sed.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

@@ -1,0 +1,11 @@
+---
+reference_id: 2012ApJ...754...77A
+source_id: [100183]
+telescope: [veritas]
+
+datasets:
+  - VER-100183-sed-1.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

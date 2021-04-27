@@ -1,0 +1,14 @@
+---
+reference_id: 2017ICRC...35..712K
+source_id: [14]
+telescope: [veritas]
+
+datasets:
+  - VER-000014-1.yaml
+  - VER-000014-2.yaml
+  - VER-000014-1-lc.ecsv
+
+data_entry:
+  status: incomplete
+  reviewed: true
+  notes: spectral points (Fig3) missing

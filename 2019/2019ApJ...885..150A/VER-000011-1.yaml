@@ -1,0 +1,9 @@
+---
+source_id: 11
+reference_id: 2019ApJ...885..150A
+file_id: 1
+telescope: veritas
+
+data:
+  livetime: 5926min
+  significance: 26.4

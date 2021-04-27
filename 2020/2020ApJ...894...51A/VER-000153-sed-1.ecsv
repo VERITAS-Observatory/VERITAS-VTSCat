@@ -1,0 +1,30 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float64}
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: e_max, unit: TeV, datatype: float64}
+# - {name: dnde, unit: 1 / (cm2 s TeV), datatype: float64}
+# - {name: dnde_errn, unit: 1 / (cm2 s TeV), datatype: float64}
+# - {name: dnde_errp, unit: 1 / (cm2 s TeV), datatype: float64}
+# - {name: dnde_syserrn, unit: 1 / (cm2 s TeV), datatype: float64}
+# - {name: dnde_syserrp, unit: 1 / (cm2 s TeV), datatype: float64}
+# - {name: dnde_ul, unit: '1 / (cm2 s TeV)', datatype: float64}
+# - {name: significance, datatype: float64}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 153
+# - UL_CONF: 0.95
+# - file_id: 1
+# - reference_id: 2020ApJ...894...51A
+# - telescope: veritas
+e_ref e_min e_max dnde dnde_errn dnde_errp dnde_syserrn dnde_syserrp dnde_ul significance
+0.251 0.200 0.316 nan nan nan nan nan 1.506e-10 0.1
+0.398 0.316 0.501 1.685e-11 2.999e-12 3.099e-12 2.96e-12  6.41e-12 nan 6.1
+0.631 0.501 0.794 5.701e-12 7.980e-13 8.269e-13 2.21e-12  4.41e-12 nan 8.1
+1.000 0.794 1.259 1.353e-12 2.403e-13 2.511e-13 1.59e-12  3.08e-12 nan 6.3
+1.585 1.259 1.995 4.543e-13 8.706e-14 9.184e-14 1.10e-12  2.20e-12 nan 5.9
+2.512 1.995 3.162 1.387e-13 3.084e-14 3.328e-14 7.35e-13  1.60e-12 nan 5.3
+3.981 3.162 5.012 2.490e-14 1.021e-14 1.146e-14 4.75e-13  1.17e-12 nan 2.7
+6.310 5.012 7.943 7.771e-15 3.263e-15 3.960e-15 2.98e-13  8.65e-13 nan 2.8
+10.000 7.943 12.589 nan nan nan nan nan 2.277e-15 1.0

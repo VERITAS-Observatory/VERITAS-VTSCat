@@ -1,0 +1,23 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: time, unit: MJD, datatype: float64}
+# - {name: live_time, unit: d, datatype: float64}
+# - {name: flux, unit: cm-2 s-1, datatype: float64}
+# - {name: flux_err, unit: cm-2 s-1, datatype: float64}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 174
+# - file_id: 1
+# - reference_id: 2018ApJ...867L..19A
+# - telescope: veritas
+# - comments: |
+#       full light curve, Fig 1 bottom left
+e_min time live_time flux flux_err
+0.2 57686.636017425684 58.896476701062056 2.6651253480100548e-12 1.0171604364192664e-12
+0.2 57890.93298702048 85.02726824319689 2.9654898783930077e-12 6.743908507041091e-13
+0.2 58019.20177182118 14.070050527836429 3.1118394161604126e-12 5.763241214192897e-13
+0.2 58046.145780141596 20.091484087271965 6.406869987001839e-12 4.901848138800021e-13
+0.2 58075.60937149429 17.015999605646357 1.104118234734806e-11 1.0573993279423161e-12
+0.2 58102.57821952016 15.012423687439878 1.4322726497502948e-11 4.50818209010652e-12

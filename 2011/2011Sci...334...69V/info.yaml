@@ -1,0 +1,12 @@
+---
+reference_id: 2011Sci...334...69V
+source_id: [166]
+telescope: [veritas]
+
+datasets:
+  - VER-000166.yaml
+  - VER-000166-sed.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

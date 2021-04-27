@@ -1,0 +1,36 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: time, unit: MJD, datatype: float64}
+# - {name: eflux_ul, datatype: float32, unit: erg cm-2 s-1}
+# - {name: eflux, datatype: float32, unit: erg cm-2 s-1}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 100190
+# - file_id: 3
+# - reference_id: 2011ApJ...738L..30A
+# - data_source:
+#   - digitizer
+# - telescope: veritas
+# - UL_CONF: 0.99
+# - comments: |
+#       upper limits derived assuming a power law with
+#       spectral index of -3.0; using Rolke et al 2005
+e_min time eflux_ul eflux
+0.5   55649.45356570846     8.191922344953686e-12  nan
+0.5   55650.439142631534     2.760227522090279e-12 nan
+0.5   55651.47279647769     1.1560912813835741e-11 nan
+0.5   55652.43433493923     5.59798197912329e-12 nan
+0.5   55653.43193109307     3.493872774749137e-12 nan
+0.5   55654.45356570846     4.755162406834019e-12 nan
+0.5   55655.41510417     2.7106339043648422e-12 nan
+0.5   55656.42471955461     3.3089106441965027e-12 nan
+0.5   55657.41029647769     1.1149209970080914e-11 nan
+0.5   55658.44395032385     3.966662010161207e-12 nan
+0.5   55659.41750801615     3.3089106441965027e-12 nan
+0.5   55662.44635417     3.493872774749137e-12 nan
+0.5   55663.44395032385     7.900194712408972e-12 nan
+0.5   55664.45356570846     3.3694503022121666e-12 nan
+0.5   55665.46318109307     2.5671356563109977e-12 nan
+0.5   55666.47279647769     1.0369266382873439e-11 nan

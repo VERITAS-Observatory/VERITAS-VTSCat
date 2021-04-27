@@ -1,0 +1,17 @@
+---
+reference_id: 2009ApJ...698L..94A
+source_id: [30]
+telescope: [veritas]
+
+datasets:
+  - VER-000030.yaml
+  - VER-000030-lc.ecsv
+
+multiwavelength:
+  - content: xrt, xmm
+  - availability: false
+  - status: false
+
+data_entry:
+  status: complete
+  reviewed: true

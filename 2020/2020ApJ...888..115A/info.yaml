@@ -1,0 +1,19 @@
+---
+reference_id: 2020ApJ...888..115A
+source_id: [30]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [nustar]
+  - availability: false
+  - status: false
+
+datasets:
+    - VER-000030-1.yaml
+    - VER-000030-2.yaml
+    - VER-000030-sed-1.ecsv
+    - VER-000030-sed-2.ecsv
+
+data_entry:
+    status: complete
+    reviewed: true

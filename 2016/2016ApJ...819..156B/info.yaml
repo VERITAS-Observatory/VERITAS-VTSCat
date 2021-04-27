@@ -1,0 +1,28 @@
+---
+reference_id: 2016ApJ...819..156B
+source_id: [49]
+telescope: [veritas, magic]
+
+multiwavelength:
+  - content: [nustar, magic, ovro, f-gamma, gasp-wept, xrt, uvot, lat]
+  - availability: false
+  - status: false
+
+datasets:
+  - VER-000049-1.yaml
+  - VER-000049-2.yaml
+  - VER-000049-3.yaml
+  - VER-000049-4.yaml
+  - VER-000049-5.yaml
+  - VER-000049-6.yaml
+  - VER-000049-7.yaml
+  - VER-000049-8.yaml
+  - VER-000049-lc-1.ecsv
+  - VER-000049-sed-1.ecsv
+  - VER-000049-sed-2.ecsv
+  - VER-000049-sed-3.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true
+  notes: veritas data complete (magic data missing)

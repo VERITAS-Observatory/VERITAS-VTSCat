@@ -1,0 +1,23 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float32}
+# - {name: dnde, unit: m-2 s-1 TeV-1, datatype: float32}
+# - {name: dnde_err, unit: m-2 s-1 TeV-1, datatype: float32}
+# - {name: dnde_ul, unit: m-2 s-1 TeV-1, datatype: float32}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 53
+# - description: "(2008-2012)"
+# - file_id: 1
+# - reference_id: 2020ApJ...891..170V
+# - telescope: veritas
+# - UL_CONF: 0.95
+# - comments: |
+#       Fig 13 (2008-2012)
+e_ref dnde dnde_err dnde_ul
+ 0.1964  2.26e-07 1.04e-07 nan
+ 0.3113  3.78e-08 2.41e-08 nan
+ 0.4934  6.99e-09 6.77e-09 nan
+ 0.782  nan nan  1.19e-08
+ 1.239  nan nan  2.95e-09

@@ -1,0 +1,31 @@
+---
+file_id: 15
+reference_id: 2018A&A...620A.181A
+source_id: 91
+data:
+  livetime: 20min
+spec:
+  erange:
+    max: 5.0
+    min: 0.25
+    unit: TeV
+  mjd:
+    max: 56090.197720
+    min: 56090.197720
+  model:
+    parameters:
+      e_ref:
+        unit: TeV
+        val: 0.5
+      index:
+        err: 0.29
+        err_sys: 0.1
+        val: 1.76
+      norm:
+        err: 0.4
+        err_sys: 0.41600000000000004
+        scale: 1.0e-10
+        unit: cm-2 s-1 TeV-1
+        val: 2.08
+    type: pl
+telescope: veritas

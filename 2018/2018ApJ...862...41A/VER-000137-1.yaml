@@ -1,0 +1,29 @@
+---
+source_id: 137
+reference_id: 2018ApJ...862...41A
+file_id: 1
+telescope: veritas
+
+data:
+  livetime: 30.9h
+  significance: 19.3
+  non: 877
+  noff: 9771
+  alpha: 0.042
+
+pos:
+  ra: {val: 19h43m59.0s, err: 00h00m1.0s, err_sys: 00h00m2.0s}
+  dec: {val: 21d19m05s, err: 11s, err_sys: 25s}
+
+morph:
+  type: point
+
+spec:
+  mjd: {min: 56804.0, max: 57335.0}
+  erange: {min: 0.18, max: 2.0, unit: TeV}
+  model:
+    type: pl2
+    parameters:
+      flux: {val: 8.61, err: 0.67, scale: 1e-12, unit: cm-2 s-1}
+      index: {val: 2.81, err: 0.12}
+      e_min: {val: 0.18, unit: TeV}

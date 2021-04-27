@@ -1,0 +1,24 @@
+---
+reference_id: 2015A&A...573A..50A
+source_id: [91]
+telescope: [magic, veritas]
+
+
+multiwavelength:
+  - content: [magic, veritas, bat, rxte, xrt, uvot, umrao, Noto, effelsberg]
+  - availability: true
+  - status: false
+
+datasets:
+  - VER-000091-2.yaml
+  - VER-000091-3.yaml
+  - VER-000091-4.yaml
+  - VER-000091-lc-2.ecsv
+  - MAGIC-000091-sed-1.ecsv
+  - VER-000091-sed-2.ecsv
+  - VER-000091-sed-3.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true
+  notes: VERITAS data complete

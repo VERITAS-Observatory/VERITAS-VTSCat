@@ -1,0 +1,15 @@
+---
+reference_id: 2014ApJ...788...78A
+source_id: [141, 143]
+telescope: [veritas]
+
+datasets:
+  - VER-000141.yaml
+  - VER-000141-sed.ecsv
+
+  - VER-000143.yaml
+  - VER-000143-sed.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

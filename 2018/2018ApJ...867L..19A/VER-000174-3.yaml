@@ -1,0 +1,19 @@
+---
+source_id: 174
+reference_id: 2018ApJ...867L..19A
+file_id: 3
+telescope: veritas
+description: "High state"
+
+spec:
+  model:
+    type: pl
+    parameters:
+      norm: {val: 1.45, err: 0.18, scale: 1e-12, unit: cm-2 s-1 TeV-1}
+      index: {val: 2.73, err: 0.15}
+      e_ref: {val: 1.0, unit: TeV}
+  erange: {min: 0.199, max: 3.16, unit: TeV}
+  mjd: {min: 58057, max: 58110}
+  comment: "True MJD interval: [58057,58074] and [58080,58110];
+  PL_binary (Fig 3 left bottom; blue curve);
+  note: this is not PL_baseline + PL_binary"

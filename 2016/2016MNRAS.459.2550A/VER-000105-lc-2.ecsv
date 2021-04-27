@@ -1,0 +1,23 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: time, unit: MJD, datatype: float64}
+# - {name: flux, unit: cm-2 s-1, datatype: float64}
+# - {name: flux_err, unit: cm-2 s-1, datatype: float64}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 105
+# - reference_id: 2016MNRAS.459.2550A
+# - telescope: veritas
+# - file_id: 2
+# - {SED_TYPE: flux}
+# - comments: |
+#     Figure 3
+e_min time flux flux_err
+0.18 54942.5 5.31735e-08 3.89992e-08
+0.18 55331 7.0E-8 3.9E-8
+0.18 55711 4.1E-8 1.7E-8
+0.18 56078.5 3.5E-8 1.7E-8
+0.18 56429.5 1.43682e-08 1.04432e-08
+0.18 56805 3.95316e-08 5.13169e-08

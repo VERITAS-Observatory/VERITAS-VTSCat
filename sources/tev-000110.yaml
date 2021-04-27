@@ -1,0 +1,15 @@
+---
+source_id: 110
+common_name: SNR G0.9+0.1
+gamma_names:
+- HESS J1747-281
+- VER J1747-281
+other_names:
+- SNR G000.9+00.1
+where: gal
+pos:
+  simbad_id: SNR G0.9+0.1
+  ra: 266.825
+  dec: -28.15
+reference_id:
+- 2016ApJ...821..129A

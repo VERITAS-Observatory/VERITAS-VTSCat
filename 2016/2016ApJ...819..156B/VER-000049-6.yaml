@@ -1,0 +1,25 @@
+---
+source_id: 49
+reference_id: 2016ApJ...819..156B
+telescope: veritas
+file_id: 6
+
+data:
+  livetime: 43m
+  significance: 33.6
+
+flux:
+  flux: {val: 20.0e-11, err: 2.0e-11, unit: cm-2 s-1}
+  e_min: {val: 200, unit: GeV}
+
+spec:
+  erange: {min: 0.2, max: 1.2, unit: TeV}
+  mjd: {min: 56356.2352, max: 56356.2352}
+  model:
+    type: pl
+    parameters:
+      norm: {val: 6.0, err: 0.5, scale: 1e-10, unit: cm-2 s-1 TeV-1}
+      index: {val: 3.0, err: 0.1}
+      e_ref: {val: 0.3, unit: TeV}
+      chi2: {val: 10.4}
+      ndof: {val: 8.}

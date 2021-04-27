@@ -1,0 +1,14 @@
+---
+source_id: 168
+common_name: TXS 0506+056
+gamma_names:
+- VER J0509+057
+other_names:
+- QSO J0509+0541
+where: egal
+pos:
+  simbad_id: QSO J0509+0541
+  ra: 77.358186
+  dec: 5.693148
+reference_id:
+- 2018ApJ...861L..20A

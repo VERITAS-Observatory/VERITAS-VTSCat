@@ -1,0 +1,12 @@
+---
+source_id: 100181
+reference_id: 2015MNRAS.446.2456D
+file_id: 1
+telescope: veritas
+
+data:
+  livetime: 315m
+  significance: 0.4
+  non: 626
+  noff: 5211
+  alpha: 0.118

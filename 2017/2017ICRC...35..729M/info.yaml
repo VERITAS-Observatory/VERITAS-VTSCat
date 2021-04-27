@@ -1,0 +1,20 @@
+---
+reference_id: 2017ICRC...35..729M
+source_id: [30]
+telescope: [veritas]
+
+datasets:
+  - VER-000030-1.yaml
+  - VER-000030-2.yaml
+  - VER-000030-3.yaml
+  - VER-000030-4.yaml
+  - VER-000030-5.yaml
+  - VER-000030-lc.ecsv
+  - VER-000030-sed-1.ecsv
+  - VER-000030-sed-2.ecsv
+  - VER-000030-sed-4.ecsv
+  - VER-000030-sed-5.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

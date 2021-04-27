@@ -1,0 +1,23 @@
+---
+reference_id: 2012ApJ...757..123A
+source_id: [100184, 100185, 100186, 100187]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [lat]
+  - availability: false
+  - status: false
+
+datasets:
+  - VER-100184.yaml
+  - VER-100184-lc-1.ecsv
+  - VER-100185.yaml
+  - VER-100185-lc-1.ecsv
+  - VER-100186.yaml
+  - VER-100186-lc-1.ecsv
+  - VER-100187.yaml
+  - VER-100187-lc-1.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

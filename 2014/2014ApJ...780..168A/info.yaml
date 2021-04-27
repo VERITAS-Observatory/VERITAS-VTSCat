@@ -1,0 +1,29 @@
+---
+reference_id: 2014ApJ...780..168A
+source_id: [30]
+telescope: [hess, veritas]
+
+multiwavelength:
+  - content: [hess, xrt]
+  - availability: true
+  - status: false
+
+datasets:
+  - VER-000030-1.yaml
+  - VER-000030-2.yaml
+  - VER-000030-3.yaml
+  - VER-000030-4.yaml
+  - HESS-000030-5.yaml
+  - HESS-000030-6.yaml
+  - HESS-000030-lc-1.ecsv
+  - VER-000030-lc-2.ecsv
+  - VER-000030-sed-1.ecsv
+  - VER-000030-sed-2.ecsv
+  - VER-000030-sed-3.ecsv
+  - VER-000030-sed-4.ecsv
+  - HESS-000030-sed-5.ecsv
+  - HESS-000030-sed-6.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

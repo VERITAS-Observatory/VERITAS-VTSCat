@@ -1,0 +1,13 @@
+---
+source_id: 100168
+common_name: V* V404 Cyg
+gamma_names: []
+other_names:
+- V404 Cyg
+where: gal
+pos:
+  simbad_id: V* V404 Cyg
+  ra: 306.015917
+  dec: 33.867194
+reference_id:
+- 2016ApJ...831..113A

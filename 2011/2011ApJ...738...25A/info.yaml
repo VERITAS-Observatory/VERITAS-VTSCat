@@ -1,0 +1,34 @@
+---
+reference_id: 2011ApJ...738...25A
+source_id: [49]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [xrt, rxte, whipple, xis, uvot, metsahovi, umrao, kva]
+  - availability: false
+  - status: false
+
+datasets:
+  - VER-000049-1.yaml
+  - VER-000049-2.yaml
+  - VER-000049-3.yaml
+  - VER-000049-4.yaml
+  - VER-000049-5.yaml
+  - VER-000049-6.yaml
+  - VER-000049-7.yaml
+  - VER-000049-sed-1.ecsv
+  - VER-000049-sed-2.ecsv
+  - VER-000049-sed-3.ecsv
+  - VER-000049-sed-4.ecsv
+  - VER-000049-sed-5.ecsv
+  - VER-000049-sed-6.ecsv
+  - VER-000049-sed-7.ecsv
+
+data_entry:
+  status: incomplete
+  reviewed: true
+  notes: >
+      light curve points missing (Fig 1 and 4),
+      daily SEDs missing (Fig 11, 12),
+      very hard to read of the plots,
+      otherwise complete

@@ -1,0 +1,18 @@
+---
+source_id: 20
+reference_id: 2019ApJ...885..150A
+file_id: 1
+telescope: veritas
+
+data:
+  livetime: 6457min
+  significance: 9.3
+
+spec:
+  erange: {min: 0.158, max: 2.512, unit: TeV}
+  model:
+    type: pl
+    parameters:
+      index: {val: 4.08, err: 0.16}
+      norm: {val: 5.65, err: 0.72, scale: 1e-12, unit: cm-2 s-1 TeV-1}
+      e_ref: {val: 0.3, unit: TeV}

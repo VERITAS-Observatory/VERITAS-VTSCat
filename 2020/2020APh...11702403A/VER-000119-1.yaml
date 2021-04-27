@@ -1,0 +1,14 @@
+---
+# total detection
+source_id: 119
+reference_id: 2020APh...11702403A
+file_id: 1
+telescope: veritas
+
+data:
+  livetime: 7.9h
+  significance: 8.8
+  excess: 101
+
+morph:
+  type: point

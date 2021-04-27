@@ -1,0 +1,18 @@
+---
+reference_id: 2015ApJ...815L..22A
+source_id: [167]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [lat, xrt, uvot, spol, ovro, catalina, nustar]
+  - availability: true
+  - status: false
+
+datasets:
+  - VER-000167.yaml
+  - VER-000167-lc.ecsv
+  - VER-000167-sed.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true 

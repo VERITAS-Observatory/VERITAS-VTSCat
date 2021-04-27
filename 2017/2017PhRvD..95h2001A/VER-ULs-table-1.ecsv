@@ -1,0 +1,29 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: source_id, datatype: int, description: "catalogue source ID"}
+# - {name: source_name, datatype: string}
+# - {name: non, datatype: int}
+# - {name: noff, datatype: int}
+# - {name: alpha, datatype: float32}
+# - {name: significance, datatype: float32}
+# - {name: n_ul, datatype: float32}
+# - {name: flux_ul, datatype: float32, unit: e-12 cm2 s-1}
+# - {name: d, datatype: float32, unit: kpc, description: distance}
+# - {name: log10_j, datatype: float32, unit: GeV2 cm-5, description: "J-factors (0.17d integration)"}
+# - {name: log10_j_errp, datatype: float32, unit: GeV2 cm-5, description: "J-factors (0.17d integration)"}
+# - {name: log10_j_errn, datatype: float32, unit: GeV2 cm-5, description: "J-factors (0.17d integration)"}
+# meta: !!omap
+# - data_type: table
+# - reference_id: 2017PhRvD..95h2001A
+# - file_id: 1
+# - telescope: veritas
+# - UL_CONF: 0.95
+# - comments: |
+#     Table 2
+source_id source_name non noff alpha significance n_ul flux_ul d log10_j log10_j_errp log10_j_errn
+100173 "Segue 1"   15895   120826   0.131   0.7   235.8   0.34  23   19.2 0.3 0.3
+100174 Draco   4297   39472   0.111   -1.0 33.5   0.15   76   18.3 0.1 0.1
+100175 "Ursa Minor"   4181   35790   0.119   -0.1 91.6   0.37   76   18.9 0.3 0.3
+100176 "Bootes 1"   1206   10836   0.116   -1.0 34.5   0.40   66   18.3 0.3 -0.4
+100177 "Willman 1"   1926   18187   0.108   -0.6 23.5   0.39   38   nan nan nan

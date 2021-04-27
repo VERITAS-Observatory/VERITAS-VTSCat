@@ -1,0 +1,21 @@
+---
+reference_id: 2011ApJ...726...43A
+source_id: [11]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [lat, chandra, xrt, uvot, gaspwept, effelsberg, iram]
+  - availability: true
+  - status: false
+
+datasets:
+  - VER-000011-1.yaml
+  - VER-000011-2.yaml
+  - VER-000011-sed-1.ecsv
+  - VER-000011-sed-2.ecsv
+  - VER-000011-lc-1.ecsv
+  - VER-000011-lc-2.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true 

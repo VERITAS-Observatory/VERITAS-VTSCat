@@ -1,0 +1,20 @@
+---
+reference_id: 2015MNRAS.446.2456D
+source_id: [100181]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [lat, xrt, uvot, crts, ovro, mojave]
+  - availability: false
+  - status: false
+
+datasets:
+  - VER-100181-1.yaml
+  - VER-100181-lc-1.ecsv
+  - VER-100181-lc-2.ecsv
+  - VER-100181-sed-1.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true
+...

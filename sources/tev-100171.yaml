@@ -1,0 +1,12 @@
+---
+source_id: 100171
+common_name: Cyg X-3
+gamma_names: []
+other_names: []
+where: gal
+pos:
+  simbad_id: V* V1521 Cyg
+  ra: 308.10742
+  dec: 40.95775
+reference_id:
+- 2013ApJ...779..150A

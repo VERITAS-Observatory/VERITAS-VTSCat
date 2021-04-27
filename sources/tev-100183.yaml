@@ -1,0 +1,13 @@
+---
+source_id: 100183
+common_name: V407 Cyg
+gamma_names:
+- 3FGL J2102.3+4547
+other_names: []
+where: gal
+pos:
+  simbad_id: EM* AS 453
+  ra: 315.540906
+  dec: 45.77576
+reference_id:
+- 2012ApJ...754...77A

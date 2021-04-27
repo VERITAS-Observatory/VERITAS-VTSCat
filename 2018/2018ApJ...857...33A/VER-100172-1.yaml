@@ -1,0 +1,12 @@
+---
+source_id: 100172
+reference_id: 2018ApJ...857...33A
+file_id: 1
+telescope: veritas
+
+data:
+  livetime: 40min
+  significance: -0.36
+  non: 71
+  noff: 563
+  alpha: 0.132

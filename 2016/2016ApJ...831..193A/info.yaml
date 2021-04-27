@@ -1,0 +1,14 @@
+---
+reference_id: 2016ApJ...831..193A
+source_id: [100178]
+telescope: [veritas]
+
+datasets:
+  - VER-100178-lc-1.ecsv
+  - VER-100178-lc-2.ecsv
+  - VER-100178-lc-3.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true
+...

@@ -1,0 +1,17 @@
+---
+source_id: 165
+common_name: VER J1746-289
+gamma_names:
+- VER J1746-289
+- HESS J1746-285
+- MAGIC J1746.4-2853
+other_names:
+- Arc source
+- GC Radio Arc
+where: gal
+pos:
+  simbad_id: VER J1746-289
+  ra: 266.5821
+  dec: -28.966226
+reference_id:
+- 2016ApJ...821..129A

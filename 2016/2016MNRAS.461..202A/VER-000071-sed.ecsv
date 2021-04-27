@@ -1,0 +1,22 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, datatype: float32, unit: TeV}
+# - {name: e_min, datatype: float32, unit: TeV}
+# - {name: e_max, datatype: float32, unit: TeV}
+# - {name: dnde, datatype: float32, unit: TeV-1 cm-2 s-1 }
+# - {name: dnde_err, datatype: float32, unit: TeV-1 cm-2 s-1}
+# - {name: dnde_ul, datatype: float32, unit: TeV-1 cm-2 s-1}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 71
+# - reference_id: 2016MNRAS.461..202A
+# - telescope: veritas
+# - data_source:
+#   - digitizer
+e_ref e_min e_max dnde dnde_err dnde_ul
+0.249 0.197788 0.313472 1.1949e-11  4.01937e-12 nan
+0.394 0.313472 0.496017 3.8898e-12  9.65596e-13 nan
+0.629 0.496017 0.791864 4.3239e-13  2.76666e-13 nan
+0.992 0.791864 1.24885 2.5570e-13  1.10149e-13 nan
+1.591 1.24885  2.00295 nan nan 9.872e-14
