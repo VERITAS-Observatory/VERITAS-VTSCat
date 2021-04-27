@@ -24,7 +24,7 @@ VTSCat supplements the HEASARC catalogue of VERITAS results (to be published). I
 **Access**:
 
 - GitHub: https://github.com/VERITAS-Observatory/VERITAS-VTSCat 
-- ZENODO (**link to be added**)
+- ZENODO: https://doi.org/10.5281/zenodo.4723219
 - HEASARC (**link to be added**)
 
 **Citation:** if you make use of VTSCat, please cite the orginal publication for the data and the following research note: (**link to be added**)
@@ -38,6 +38,12 @@ Data files are organised in VTSCat by year and publication, using ADS bibcodes a
 Units are given in the data files for reported data following conventions provided by [astropy](https://docs.astropy.org/en/stable/units/).
 
 For a detailed description of data formats, file types, keywords, and spectral models see the [description here](Formats_and_Models.md).
+
+## References
+
+- VERITAS: https://veritas.sao.arizona.edu/
+- VER Dictionary of Nomenclature: https://cds.u-strasbg.fr/cgi-bin/Dic-Simbad?/17350620
+- gamma-cat: https://github.com/gammapy/gamma-cat
 
 <a name="publications"></a>
 
