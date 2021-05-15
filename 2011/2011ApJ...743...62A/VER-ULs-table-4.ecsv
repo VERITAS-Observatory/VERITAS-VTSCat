@@ -1,0 +1,36 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: source_name, datatype: string}
+# - {name: t_duration, unit: min, datatype: float64}
+# - {name: non_1, datatype: int, description: standard-source analysis}
+# - {name: noff_1, datatype: int, description: standard-source analysis}
+# - {name: significance_1, datatype: float32, description: standard-source analysis}
+# - {name: e_min_1, unit: GeV, datatype: float64, description: standard-source analysis}
+# - {name: eflux_ul_1, unit: erg cm-2 s-1, datatype: float64, description: standard-source analysis}
+# - {name: non_2, datatype: int, description: soft-source analysis}
+# - {name: noff_2, datatype: int, description: soft-source analysis}
+# - {name: significance_2, datatype: float32, description: soft-source analysis}
+# - {name: e_min_2, unit: GeV, datatype: float64, description: soft-source analysis}
+# - {name: eflux_ul_2, unit: erg cm-2 s-1, datatype: float64, description: soft-source analysis}
+# meta: !!omap
+# - data_type: sed
+# - reference_id: 2018ApJ...861..134A
+# - file_id: 1
+# - telescope: veritas
+# - UL_CONF: 0.99
+# - comments: |
+#     Table 4
+#     VERITAS Observations of Gamma-Ray Bursts
+source_name t_duration non_1 noff_1 significance_1 e_min_1  eflux_ul_1 non_2 noff_2 significance_2 e_min_2 eflux_ul_2
+070419A  477  2  14  0.8  720  4.0e-11  2  42  -0.9  420  4.6e-11
+070521  1809   3  113  -1.7  170  3.1e-12  23  364  -0.9  110  1.6e-11
+070612B  325  3  21  0.9  470  3.8e-11  7  58  1.1  270  9.3e-11
+080310  553  3  23  -0.2  480  3.2e-11  13  55  1.4  290  7.9e-11
+080330  252  0  15  nan  260  2.4e-11  6  43  -0.2  170  1.4e-10
+080604  455  2  40  -0.6  200  1.5e-11  9  128  -0.3  140  3.6e-11
+080607  298  4  16  1.1  390  9.2e-11  7  46  0.3  250  1.1e-10
+081024A  242  1  7  -0.4  270  9.9e-11  4  29  0  190  1.9e-10
+090418A  422  3  16  0.4  190  3.1e-11  8  46  0.4  120  6.9e-11
+090429B  228  2  7  0.8  200  9.9e-11  4  27  0.1  140  1.5e-10
+090515  576  4  24  0.3  320  2.7e-11  11  72  0.8  210  6.2e-11

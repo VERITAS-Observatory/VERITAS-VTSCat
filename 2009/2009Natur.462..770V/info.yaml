@@ -1,0 +1,13 @@
+---
+reference_id: 2009Natur.462..770V
+source_id: [40]
+telescope: [veritas]
+
+datasets:
+  - VER-000040.yaml
+  - VER-000040-sed.ecsv
+  - VER-000040-lc.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

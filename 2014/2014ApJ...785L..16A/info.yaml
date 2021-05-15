@@ -1,0 +1,22 @@
+---
+reference_id: 2014ApJ...785L..16A
+source_id: [67]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [lat, xrt, uvot]
+  - availability: false
+  - status: false
+
+datasets:
+  - VER-000067-1.yaml
+  - VER-000067-2.yaml
+  - VER-000067-3.yaml
+  - VER-000067-lc.ecsv
+  - VER-000067-sed-1.ecsv
+  - VER-000067-sed-2.ecsv
+  - VER-000067-sed-3.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

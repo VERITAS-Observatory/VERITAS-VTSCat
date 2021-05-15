@@ -1,0 +1,13 @@
+---
+reference_id: 2009ApJ...695.1370A
+source_id: [55]
+telescope: [veritas]
+
+datasets:
+  - VER-000055.yaml
+  - VER-000055-sed.ecsv
+  - VER-000055-lc.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

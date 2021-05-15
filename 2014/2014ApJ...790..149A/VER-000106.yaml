@@ -1,0 +1,22 @@
+---
+source_id: 106
+reference_id: 2014ApJ...790..149A
+telescope: veritas
+
+data:
+  livetime: 45.9h
+  significance: 18.8
+  excess: 401.2
+
+pos:
+  glon: {val: -0.077d, err: 0.006d, err_sys: 0.013d}
+  glat: {val: -0.049d, err: 0.003d, err_sys: 0.013d}
+
+spec:
+  erange: {min: 3, max: 30, unit: TeV}
+  model:
+    type: pl
+    parameters:
+      norm: {val: 6.89, err: 0.64, err_sys: 2.75, scale: 1e-14, unit: cm-2 s-1 TeV-1}
+      index: {val: 2.57, err: 0.14, err_sys: 0.2}
+      e_ref: {val: 5., unit: TeV}

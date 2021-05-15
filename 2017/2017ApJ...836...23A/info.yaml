@@ -1,0 +1,18 @@
+---
+reference_id: 2017ApJ...836...23A
+source_id: [3]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [lat]
+  - availability: false
+  - status: false
+
+datasets:
+  - VER-000003.yaml
+  - VER-000003-sed.ecsv
+  - VER-000003-excess-skymap.fits
+
+data_entry:
+  status: complete
+  reviewed: true

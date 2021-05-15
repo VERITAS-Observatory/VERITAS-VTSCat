@@ -1,0 +1,13 @@
+---
+source_id: 167
+common_name: PKS 1441+25
+gamma_names:
+- VER J1443+250
+other_names: []
+where: egal
+pos:
+  simbad_id: 7C 1441+2514
+  ra: 220.987051
+  dec: 25.029025
+reference_id:
+- 2015ApJ...815L..22A

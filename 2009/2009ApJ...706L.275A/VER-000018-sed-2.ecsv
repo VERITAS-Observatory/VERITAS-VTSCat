@@ -1,0 +1,19 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float32}
+# - {name: dnde, unit: TeV-1 cm-2 s-1, datatype: float32}
+# - {name: dnde_err, unit: TeV-1 cm-2 s-1, datatype: float32}
+# - {name: dnde_ul, unit: TeV-1 cm-2 s-1, datatype: float32}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 18
+# - file_id: 2
+# - reference_id: 2009ApJ...706L.275A
+# - telescope: veritas
+# - UL_CONF: 0.99
+# - comments: |
+#       upper limits derived
+#       using Rolke et al (2005)
+e_ref  dnde  dnde_err dnde_ul
+0.338 nan nan 9.43e-12

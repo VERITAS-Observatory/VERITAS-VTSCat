@@ -1,0 +1,12 @@
+---
+source_id: 100182
+reference_id: 2014ApJ...795L...3A
+file_id: 1
+telescope: veritas
+
+data:
+  livetime: 16485s
+  significance: 0.9
+  non: 889
+  noff: 6104
+  alpha: 0.141

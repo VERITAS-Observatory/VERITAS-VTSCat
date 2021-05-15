@@ -1,0 +1,12 @@
+---
+reference_id: 2010ApJ...719L..69A
+source_id: [136]
+telescope: [veritas]
+
+datasets:
+  - VER-000136.yaml
+  - VER-000136-sed.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

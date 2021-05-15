@@ -1,0 +1,29 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: time, unit: MJD, datatype: float64}
+# - {name: live_time, unit: MJD, datatype: float64}
+# - {name: flux, unit: cm-2 s-1, datatype: float64}
+# - {name: flux_err, unit: cm-2 s-1, datatype: float64}
+# - {name: flux_ul, unit: cm-2 s-1, datatype: float64}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 168
+# - reference_id: 2018ApJ...861L..20A
+# - telescope: veritas
+# - UL_CONF: 0.95
+# - comments: |
+#     Figure 3;
+#     upper limit calculation using Rolke & Lopez (2001)
+e_min time live_time flux flux_err flux_ul
+0.110 58025.85 6.85 nan nan 3.14e-11
+0.110 58039.55 6.85 nan nan 1.81e-11
+0.110 58053.25 6.85 1.07e-11 3.515e-12 nan
+0.110 58066.95 6.85 nan nan 2.11e-11
+0.110 58080.65 6.85 nan nan 1.8e-11
+0.110 58094.35 6.85 nan nan 1.94e-11
+0.110 58108.05 6.85 1.608e-11 3.261e-12 nan
+0.110 58121.75 6.85 nan nan 1.31e-11
+0.110 58135.45 6.85 nan nan 9.63e-12
+0.110 58149.15 6.85 nan nan 1.96e-11

@@ -1,0 +1,24 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: time, unit: MJD, datatype: float64}
+# - {name: flux, unit: cm-2 s-1, datatype: float64}
+# - {name: flux_err, unit: cm-2 s-1, datatype: float64}
+# - {name: flux_ul, unit: cm-2 s-1, datatype: float64}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 53
+# - file_id: 4
+# - description: "(Flare 6)"
+# - reference_id: 2020ApJ...891..170V
+# - telescope: veritas
+# - UL_CONF: 0.95
+# - comments: |
+#       Fig 4 (top);
+#       Flare 6
+e_min time flux flux_err flux_ul
+0.2  57817.32801 4.740e-11  1.693e-11 nan
+0.2  57817.33322 5.737e-11  1.921e-11 nan
+0.2  57817.33843 1.204e-10  2.758e-11 nan
+0.2  57817.34364 7.121e-11  2.141e-11 nan

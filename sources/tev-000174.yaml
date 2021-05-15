@@ -1,0 +1,13 @@
+---
+source_id: 174
+common_name: PSR J2032+4127/MT91 213
+gamma_names:
+- VER J2032+414
+- MAGICJ2032+4127
+where: gal
+pos:
+  simbad_id: PSR J2032+4127
+  ra: 308.054687
+  dec: 41.456762
+reference_id:
+- 2018ApJ...867L..19A

@@ -1,0 +1,15 @@
+---
+source_id: 146
+common_name: TeV J2032+4130
+gamma_names:
+- MGRO J2031+41
+- VER J2031+415
+other_names:
+- 0FGL J2032.2+4122
+where: gal
+pos:
+  simbad_id: TeV J2032+4130
+  ra: 308.025
+  dec: 41.567
+reference_id:
+- 2014ApJ...783...16A

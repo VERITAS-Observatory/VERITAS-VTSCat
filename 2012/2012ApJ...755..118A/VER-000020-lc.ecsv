@@ -1,0 +1,34 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: time, unit: MJD, datatype: float64}
+# - {name: flux, unit: 1.e-12 cm-2 s-1, datatype: float64}
+# - {name: flux_errp, unit: 1.e-12 cm-2 s-1, datatype: float64}
+# - {name: flux_errn, unit: 1.e-12 cm-2 s-1, datatype: float64}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 20
+# - reference_id: 2012ApJ...755..118A
+# - file_id: 1
+# - telescope: veritas
+# - {SED_TYPE: flux}
+# - data_source:
+#   - digitizer
+# - comments: |
+#       Fig 3 (top)
+e_min time flux flux_errp flux_errn
+0.2  54478.20   4.3506e-12  2.8831e-12   2.8831e-12
+0.2  54501.47   6.2597e-12  3.1169e-12   3.1169e-12
+0.2  54844.07   4.1169e-12  6.9740e-12   6.9740e-12
+0.2  55104.73   7.2338e-12  3.1558e-12   3.1558e-12
+0.2  55124.28   3.2208e-12  3.4286e-12   3.4286e-12
+0.2  55154.07   6.7273e-12  2.7662e-12   2.7662e-12
+0.2  55182.93   7.6623e-13  2.2987e-12   2.2987e-12
+0.2  55209.00   6.7273e-12  1.9091e-12   1.9091e-12
+0.2  55240.65   4.3506e-12  2.6494e-12   2.6494e-12
+0.2  55478.98   4.9740e-12  5.1039e-12   5.1039e-12
+0.2  55508.77   6.6883e-12  3.7013e-12   3.7013e-12
+0.2  55536.70   6.1429e-12  4.1688e-12   4.1688e-12
+0.2  55566.49   2.0909e-12  3.6234e-12   3.6234e-12
+0.2  55594.41   4.1558e-12  4.2857e-12   4.2857e-12

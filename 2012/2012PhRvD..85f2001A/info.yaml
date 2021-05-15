@@ -1,0 +1,12 @@
+---
+reference_id: 2012PhRvD..85f2001A
+source_id: [100173]
+telescope: [veritas]
+
+datasets:
+  - VER-100173.yaml
+  - VER-100173-lc-1.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

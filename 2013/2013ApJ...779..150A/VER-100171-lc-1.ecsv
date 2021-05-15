@@ -1,0 +1,102 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: e_max, unit: TeV, datatype: float64}
+# - {name: time, unit: MJD, datatype: float64}
+# - {name: state, datatype: string, description: X-ray state}
+# - {name: live_time, unit: min, datatype: float32}
+# - {name: flux_ul, unit: cm-2 s-1, datatype: float64}
+# - {name: flux, unit: cm-2 s-1, datatype: float64}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 100171
+# - file_id: 1
+# - data_source:
+#   - digitizer
+# - reference_id: 2013ApJ...779..150A
+# - telescope: veritas
+# - UL_CONF: 0.99
+# - comments: |
+#      top panel, Fig 4 and Table 1
+e_min  e_max time state live_time  flux_ul flux
+0.2   10   54262  Minor_flaring    20    2.423e-12   nan
+0.2   10   54263  Minor_flaring    40    1.972e-12   nan
+0.2   10   54264  Minor_flaring    119.5 1.251e-12   nan
+0.2   10   54265  Minor_flaring    80    3.505e-13   nan
+0.2   10   54266  Minor_flaring    40    1.161e-12   nan
+0.2   10   54626  Quenched    40  1.737e-12   nan
+0.2   10   54627  Quenched    40  2.638e-12   nan
+0.2   10   54628  Quenched    20  2.368e-12   nan
+0.2   10   54731  Suppressed    20  1.6767e-12   nan
+0.2   10   54774        Quenched    20     4.000e-15   nan
+0.2   10   54786        Major_flaring  60  2.794e-12   nan
+0.2   10   54789        Quenched    60     2.344e-12      nan
+0.2   10   54794        Quenched    40    -1.791e-13     nan
+0.2   10   54800        Quenched    20     3.783e-12      nan
+0.2   10   54804        Hypersoft   20     1.531e-12     nan
+0.2   10   55126        Quiescent    20    2.575e-12   nan
+0.2   10   55127        Quiescent    36    6.492e-12   nan
+0.2   10   55128        Quiescent    77    1.325e-12   nan
+0.2   10   55129        Quiescent    40    3.909e-12   nan
+0.2   10   55155        Quiescent    20    1.624e-11   nan
+0.2   10   55156        Quiescent    40    1.162e-12   nan
+0.2   10   55157        Quiescent    20    1.622e-13   nan
+0.2   10   55158        Quiescent    16    7.457e-13   nan
+0.2   10   55382        Minor_flaring  20  1.501e-11   nan
+0.2   10   55384        Minor_flaring  4   2.435e-12   nan
+0.2   10   55481        Quiescent    40    6.529e-12   nan
+0.2   10   55482        Quiescent    40    4.529e-12   nan
+0.2   10   55648        Major_flaring    20   1.6713e-11   nan
+0.2   10   55649        Major_flaring    20   1.8213e-11   nan
+0.2   10   55650        Major_flaring    20   1.1380e-11   nan
+0.2   10   55651        Major_flaring    28   6.3806e-12   nan
+0.2   10   55652     Major_flaring    20      2.5797e-11   nan
+0.2   10   55653     Major_flaring    20      9.6309e-12   nan
+0.2   10   55654     Major_flaring    15      3.3631e-11   nan
+0.2   10   55655     Major_flaring    20      2.6381e-11   nan
+0.2   10   55656     Major_flaring    20     -2.0216e-13   nan
+0.2   10   55658     Minor_flaring    8       2.6881e-11   nan
+0.2   10   55659     Minor_flaring    23      1.1298e-11   nan
+0.2   10   55662        Minor_flaring    6    1.0464e-11   nan
+0.2   10   55707        Minor_flaring    20  9.469e-12   nan
+0.2   10   55708        Minor_flaring    20  8.219e-12   nan
+0.2   10   55709        Minor_flaring    96  1.886e-12   nan
+0.2   10   55710        Minor_flaring    52  5.553e-12   nan
+0.2   10   55713     Minor_flaring    20     5.136e-12   nan
+0.2   10   55715     Minor_flaring    40     3.637e-12   nan
+0.2   10   55716     Minor_flaring    20     1.097e-11   nan
+0.2   10   55717     Minor_flaring    20     1.637e-12   nan
+0.2   10   55720     Minor_flaring    20     3.887e-12   nan
+0.2   10   55721     Minor_flaring    10     1.230e-11   nan
+0.2   10   55733        Minor_flaring    14  7.8553e-12   nan
+0.2   10   55734        Minor_flaring    10  8.4217e-12   nan
+0.2   10   55735        Minor_flaring    46  5.9214e-12   nan
+0.2   10   55736        Minor_flaring    84  4.3544e-12   nan
+0.2   10   55737        Minor_flaring    40  5.6207e-12   nan
+0.2   10   55738        Quiescent    59.5    3.2870e-12   nan
+0.2   10   55739        Quiescent    95      1.5867e-12   nan
+0.2   10   55740        Quiescent    30      1.1530e-12   nan
+0.2   10   55743        Quiescent    20      7.7519e-12   nan
+0.2   10   55744        Quiescent    20      7.6183e-12   nan
+0.2   10   55830        Quiescent    80    6.4906e-13   nan
+0.2   10   55833        Quiescent    48    2.6493e-12   nan
+0.2   10   55834        Quiescent    52    1.3162e-12   nan
+0.2   10   55835        Quiescent    43.5  3.4830e-12   nan
+0.2   10   55850        Quiescent    28    4.7345e-12   nan
+0.2   10   55851        Quiescent    80    4.4013e-12   nan
+0.2   10   55852        Quiescent    71    4.1513e-12   nan
+0.2   10   55853        Quiescent    51    1.4848e-12   nan
+0.2   10   55854        Quiescent    111   1.2348e-12   nan
+0.2   10   55855        Quiescent    20    7.1100e-12   nan
+0.2   10   55858        Quiescent    20    3.0687e-12   nan
+0.2   10   55860        Quiescent    20    2.4855e-12   nan
+0.2   10   55861        Quiescent    17    3.6107e-12   nan
+0.2   10   55862        Quiescent    72    1.4235e-11   nan
+0.2   10   55863        Quiescent    35    3.7358e-12   nan
+0.2   10   55864        Quiescent    15    5.5693e-12   nan
+0.2   10   55865        Quiescent    40    3.1944e-12   nan
+0.2   10   55888        Quiescent    36   -1.7824e-13   nan
+0.2   10   55891        Quiescent    20    1.6197e-11   nan
+0.2   10   55892        Quiescent    40    7.2389e-12   nan
+0.2   10   55923        Quiescent    40    4.3241e-12   nan

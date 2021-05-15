@@ -1,0 +1,27 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: time, unit: MJD, datatype: float64}
+# - {name: flux, unit: 1.e-12 cm-2 s-1, datatype: float64}
+# - {name: flux_err, unit: 1.e-12 cm-2 s-1, datatype: float64}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 106
+# - reference_id: 2014ApJ...790..149A
+# - file_id: 2
+# - telescope: veritas
+# - {SED_TYPE: flux}
+# - data_source:
+#   - digitizer
+# - comments: |
+#       Fig 3 monthly average
+e_min time flux flux_err
+2.5 55304.0239 0.66609  0.18910
+2.5 55332.0075 0.62350  0.17718
+2.5 55359.2976 0.59795  0.16865
+2.5 55687.0884 0.83816  0.22487
+2.5 55708.4210 0.55025  0.20613
+2.5 55738.4954 0.44122  0.13118
+2.5 56041.1646 0.52640  0.12777
+2.5 56064.2616 0.65076  0.17717

@@ -1,0 +1,23 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float32}
+# - {name: e_min, unit: TeV, datatype: float32}
+# - {name: e_max, unit: TeV, datatype: float32}
+# - {name: dnde, unit: TeV-1 cm-2 s-1, datatype: float32}
+# - {name: dnde_err, unit: TeV-1 cm-2 s-1, datatype: float32}
+# - {name: dnde_ul, unit: TeV-1 cm-2 s-1, datatype: float32}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 146
+# - file_id: 1
+# - reference_id: 2018ApJ...867L..19A
+# - telescope: veritas
+# - UL_CONF: 0.99
+# - comments: |
+#      Fig 3a - baseline (Pre-2017)
+e_ref e_min e_max dnde dnde_err dnde_ul 
+0.70794578   0.39810717   1.25892541  5.74340735e-13  1.53352887e-13 nan
+2.23872114   1.25892541   3.98107171  2.62497923e-14  1.10598831e-14 nan
+7.07945784   3.98107171  12.58925412  1.54961562e-15  9.93870900e-16 nan
+22.38721139  12.58925412  39.81071706  nan nan 5.603932360062184e-16

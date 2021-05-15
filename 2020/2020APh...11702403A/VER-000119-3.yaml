@@ -1,0 +1,29 @@
+---
+source_id: 119
+reference_id: 2020APh...11702403A
+file_id: 3
+telescope: veritas
+description: "superior conjunction"
+
+data:
+  livetime: 230min
+
+morph:
+  type: point
+
+
+orbit:
+  # zero phase for orbital period
+  mjd0: 51942.59d
+  period: {val: 3.90608, err: 0.00017, unit: day}
+
+spec:
+  phase: {min: 0.9, max: 0.45}
+  erange: {min: 0.501, max: 7.943, unit: TeV}
+  theta: 0.3d
+  model:
+    type: pl2
+    parameters:
+      index: {val: 2.4, err: 0.5, err_sys: 0.2}
+      flux: {val: 7.8, err: 2.8, err_sys: 1.6, scale: 1e-13, unit: cm-2 s-1}
+      e_min: {val: 1., unit: TeV}

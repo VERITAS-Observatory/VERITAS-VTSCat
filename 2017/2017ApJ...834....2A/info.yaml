@@ -1,0 +1,23 @@
+---
+reference_id: 2017ApJ...834....2A
+source_id: [49]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [xmm, magic, lat, xrt, steward, ovro, carma]
+  - availability: false
+  - status: false
+
+datasets:
+  - VER-000049-1.yaml
+  - VER-000049-2.yaml
+  - VER-000049-lc-1.ecsv
+  - VER-000049-lc-2.ecsv
+  - VER-000049-lc-3.ecsv
+  - VER-000049-lc-4.ecsv
+  - VER-000049-sed-1.ecsv
+  - VER-000049-sed-2.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

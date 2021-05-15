@@ -1,0 +1,20 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, datatype: float32, unit: TeV}
+# - {name: e2dnde_ul, datatype: float32, unit: erg cm-2 s-1}
+# - {name: e2dnde, datatype: float32, unit: erg cm-2 s-1}
+# meta: !!omap
+# - {data_type: sed}
+# - {source_id: 100176}
+# - {reference_id: 2010ApJ...720.1174A}
+# - {telescope: veritas}
+# - data_source:
+#   - digitizer
+# - UL_CONF: 0.95
+e_ref e2dnde_ul e2dnde
+0.42  3.95e-12 nan
+0.79  2.63e-12 nan
+1.43  1.48e-12 nan
+2.72  8.83e-13 nan
+4.92  2.86e-12 nan

@@ -1,0 +1,13 @@
+---
+reference_id: 2018PhRvD..98f2004A
+source_id: [300000]
+telescope: [veritas]
+
+datasets:
+  - VER-300000-1.yaml
+  - VER-300000-sedCR-1.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true
+...

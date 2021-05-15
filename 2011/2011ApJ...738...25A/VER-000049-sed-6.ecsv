@@ -1,0 +1,29 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float32}
+# - {name: dnde, unit: cm-2 s-1 TeV-1, datatype: float32}
+# - {name: dnde_errn, unit: cm-2 s-1 TeV-1, datatype: float32}
+# - {name: dnde_errp, unit: cm-2 s-1 TeV-1, datatype: float32}
+# meta: !!omap
+# - {data_type: sed}
+# - {source_id: 49}
+# - {reference_id: 2011ApJ...738...25A}
+# - {telescope: veritas}
+# - mjd: {max: 54647.0, min: 54466.0}
+# - {comments: 'Fig 5; spectrum marked by "VeryHigh"'}
+# - description: "very-high-state"
+# - {file_id: 6}
+e_ref dnde dnde_errn dnde_errp
+0.64 6.66e-10 7.09e-11 7.09e-11
+0.79 4.29e-10 4.45e-11 4.45e-11
+0.98 2.45e-10 2.023e-11 2.023e-11
+1.21 1.708e-10 1.397e-11 1.397e-11
+1.50 9.94e-11 9.117e-12 9.117e-12
+1.85 4.907e-11 5.54e-12 5.54e-12
+2.29 3.522e-11 4.038e-12 4.038e-12
+2.828 1.82e-11 2.527e-12 2.527e-12
+3.50 9.94e-12 1.633e-12 1.633e-12
+4.32 6.13e-12 1.165e-12 1.165e-12
+5.34 2.45e-12 6.365e-13 6.365e-13
+7.34 4.45e-13 1.687e-13 1.687e-13

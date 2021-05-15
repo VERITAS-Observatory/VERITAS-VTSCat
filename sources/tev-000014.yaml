@@ -1,0 +1,13 @@
+---
+source_id: 14
+common_name: LS I +61 303
+gamma_names:
+- VER J0240+612
+other_names: []
+where: gal
+pos:
+  simbad_id: LS I +61 303
+  ra: 40.131938163
+  dec: 61.229336515
+reference_id:
+- 2008ApJ...679.1427A

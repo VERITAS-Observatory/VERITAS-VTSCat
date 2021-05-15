@@ -1,0 +1,14 @@
+---
+source_id: 136
+common_name: SNR G054.1+00.3
+gamma_names:
+- VER J1930+188
+other_names:
+- PSR J1930+1852
+where: gal
+pos:
+  simbad_id: SNR G054.1+00.3
+  ra: 292.6292
+  dec: 18.867
+reference_id:
+- 2010ApJ...719L..69A

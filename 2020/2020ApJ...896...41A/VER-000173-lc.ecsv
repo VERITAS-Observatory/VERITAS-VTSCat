@@ -1,0 +1,29 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: time_min, unit: MJD, datatype: float64}
+# - {name: time_max, unit: d, datatype: float64}
+# - {name: flux, unit: cm-2 s-1, datatype: float64}
+# - {name: flux_err, unit: cm-2 s-1, datatype: float64}
+# - {name: flux_ul, unit: cm-2 s-1, datatype: float64}
+# - {name: significance, datatype: float32}
+# - {name: live_time, unit: h, datatype: float32}
+# - {name: non, datatype: int}
+# - {name: noff, datatype: int}
+# - {name: alpha, datatype: float32}
+# - {name: nex, datatype: float32}
+# meta: !!omap
+# - {data_type: lc}
+# - source_id: 173
+# - file_id: 1
+# - reference_id: 2020ApJ...896...41A
+# - {telescope: veritas}
+# - UL_CONF: 0.99
+# - comments: [Table 1]
+e_min time_min time_max flux flux_err flux_ul significance live_time non noff alpha nex
+0.315 57811 57893 1.9e-13 1.7e-13 7.0e-13 1.2 9.2 26 306 0.0663 5.7
+0.315 58158 58170 13.1e-13 4.5e-13 nan 3.9 3.0 20 102 0.0667 13.2
+0.315 58186 58198 10.2e-13 1.9e-13 nan 6.8 17.7 93 599 0.0667 53.0
+0.315 58212 58229 4.0e-13 1.5e-13 nan 3.0 17.2 59 578 0.0662 20.8
+0.315 58487 58633 2.9e-13  1.8e-13 8.2e-13 1.8 10.0 27 271 0.0674 8.8

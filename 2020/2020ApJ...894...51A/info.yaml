@@ -1,0 +1,18 @@
+---
+reference_id: 2020ApJ...894...51A
+source_id: [153]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [lat]
+  - availability: true 
+  - status: false
+
+datasets:
+  - VER-000153-1.yaml
+  - VER-000153-sed-1.ecsv
+  - VER-000153-excess-skymap.fits
+
+data_entry:
+  status: complete
+  reviewed: true

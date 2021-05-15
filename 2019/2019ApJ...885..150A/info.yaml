@@ -1,0 +1,29 @@
+---
+reference_id: 2019ApJ...885..150A
+source_id: [11, 13, 20, 22, 34, 43, 53, 55, 57, 67, 69, 82, 138, 154]
+telescope: [veritas]
+
+datasets:
+  - VER-000011-1.yaml
+  - VER-000011-2.yaml
+  - VER-000011-3.yaml
+  - VER-000013-1.yaml
+  - VER-000020-1.yaml
+  - VER-000022-1.yaml
+  - VER-000034-1.yaml
+  - VER-000043-1.yaml
+  - VER-000053-1.yaml
+  - VER-000055-1.yaml
+  - VER-000057-1.yaml
+  - VER-000067-1.yaml
+  - VER-000069-1.yaml
+  - VER-000082-1.yaml
+  - VER-000138-1.yaml
+  - VER-000138-2.yaml
+  - VER-000138-3.yaml
+  - VER-000154-1.yaml
+  - VER-EBLIntensity-table-1.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true 

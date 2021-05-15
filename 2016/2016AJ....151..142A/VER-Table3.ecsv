@@ -1,0 +1,77 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: Name, datatype: string}
+# - {name: CName, datatype: string}
+# - {name: RAh, unit: h, datatype: int32, format: '{:2d}'}
+# - {name: RAm, unit: min, datatype: int32, format: '{:2d}'}
+# - {name: RAs, unit: s, datatype: float64, format: '{:4.1f}'}
+# - {name: DE-, datatype: string}
+# - {name: DEd, unit: deg, datatype: int32, format: '{:2d}'}
+# - {name: DEm, unit: arcmin, datatype: int32, format: '{:2d}'}
+# - {name: DEs, unit: arcsec, datatype: int32, format: '{:2d}'}
+# - {name: l_z, datatype: string}
+# - {name: z, datatype: float64, format: '{:5.3f}'}
+# - {name: n_z, datatype: string}
+# - {name: r_z, datatype: int32, format: '{:2d}'}
+# - {name: Type, datatype: string}
+# - {name: n_Type, datatype: string}
+# - {name: r_Type, datatype: int32, format: '{:2d}'}
+# - {name: FOV, datatype: string}
+# meta: !!omap
+# - {EQUINOX: 2000.0}
+# - {EXTNAME: table3.dat}
+# - ? ''
+#   : ['                         View of Sources Listed in Tables 1 and 2', ' =======================================================================',
+#     '                         of view of this 2FGL source', ' =======================================================================',
+#     ' Fermi-LAT source', ' is not associated with any lower-energy blazar, coordinates from', ' the 2FGL catalog are given instead.',
+#     ' =======================================================================']
+# - {TAMIN3: 0}
+# - {TAMAX3: 24}
+# - {TAMIN4: 0}
+# - {TAMAX4: 60}
+# - {TAMIN5: 0.0}
+# - {TAMAX5: 60.0}
+# - {TASET6: +-}
+# - {TAMIN7: 0}
+# - {TAMAX7: 89}
+# - {TAMIN8: 0}
+# - {TAMAX8: 60}
+# - {TAMIN9: 0}
+# - {TAMAX9: 60}
+# - {TASET10: '>'}
+# - {TAMIN11: 0.37}
+# - {TAMAX11: 2.06}
+# - {TBNUL11: ''}
+# - {TASET12: u}
+# - {TAMIN13: 6}
+# - {TAMAX13: 53}
+# - {TBNUL13: ''}
+# - {TASET15: '?'}
+# - {TAMIN16: 29}
+# - {TAMAX16: 48}
+# - {TBNUL16: ''}
+# - comments: [' Note (1): Coordinates are provided for the counterpart. If the']
+# schema: astropy-2.0
+Name CName RAh RAm RAs DE- DEd DEm DEs l_z z n_z r_z Type n_Type r_Type FOV
+"2FGL J0047.9+2232" "BWE 0045+2218" 0 48 2.5 + 22 34 53 "" 1.161 "" 44 FSRQ "" 29 "RGB J0045+214"
+"2FGL J0148.6+0127" "PMN J0148+0129" 1 48 33.8 + 1 29 1 "" 0.940 "" 6 "" ? 0 "RGB J0152+017"
+"2FGL J0158.4+0107" - 1 58 25.4 + 1 7 31 "" 0.000 u 0 "" ? 0 "RGB J0152+017"
+"2FGL J0205.4+3211" "1Jy 0202+319" 2 5 4.9 + 32 12 30 "" 1.466 "" 45 FSRQ "" 30 "B2 0200+30"
+"2FGL J0212.1+5318" - 2 12 9.4 + 53 18 19 "" 0.000 u 0 "" ? 0 "RGB J0214+517"
+"2FGL J0213.1+2245" "1RXS J021252.2+224510" 2 12 52.8 + 22 44 52 "" 0.459 "" 6 HBL "" 48 "RBS 0298"
+"2FGL J0326.1+2226" "TXS 0322+222" 3 25 36.8 + 22 24 0 "" 2.060 "" 46 FSRQ "" 31 "RGB J0321+236"
+"2FGL J0440.4+1433" "TXS 0437+145" 4 40 21.1 + 14 37 57 "" 0.000 u 0 "" ? 0 "1RXS J044127.8+150455"
+"2FGL J0856.3+2058" "TXS 0853+211" 8 56 39.7 + 20 57 43 > 0.388 "" 47 "" ? 0 "OJ 287"
+"2FGL J0929.5+5009" "QSO J0929+5013" 9 29 15.4 + 50 13 36 "" 0.370 "" 48 IBL "" 37 "1ES 0927+500"
+"2FGL J1058.4+0133" "4C 01.28" 10 58 29.6 + 1 33 58 "" 0.888 "" 49 FSRQ "" 30 "RBS 0921"
+"2FGL J1059.0+0222" "PMN J1059+0225" 10 59 6.0 + 2 25 12 "" 0.000 u 0 "" ? 0 "RBS 0921"
+"2FGL J1141.0+6803" "1RXS J114118.3+680433" 11 41 18.0 + 68 4 33 "" 0.000 u 0 "" ? 0 "RX J1136.5+6737"
+"2FGL J1239.5+0728" "PKS 1236+077" 12 38 24.6 + 7 30 17 "" 0.400 "" 50 FSRQ "" 32 "1ES 1239+069"
+"2FGL J1245.1+5708" "GB6 J1245+5710" 12 45 10.0 + 57 9 54 > 0.521 "" 47 LBL "" 33 "PG 1246+586"
+"2FGL J1303.1+2435" "VIPS J13030+2433" 13 3 3.2 + 24 33 56 "" 0.993 "" 51 LBL "" 34 "1ES 1255+244"
+"2FGL J1359.4+5541" "VIPS J13590+5544" 13 59 5.7 + 55 44 29 "" 1.014 "" 44 FSRQ "" 29 "RX J1353.4+5601"
+"2FGL J1722.7+1013" "TXS 1720+102" 17 22 44.6 + 10 13 36 "" 0.732 "" 52 FSRQ "" 35 "RGB J1725+118"
+"2FGL J1727.9+1220" "PKS 1725+123" 17 28 7.1 + 12 15 39 "" 0.583 "" 53 FSRQ "" 35 "RGB J1725+118"
+"2FGL J1927.5+6117" "S4 1926+611" 19 27 30.4 + 61 17 33 "" 0.000 u 0 LBL "" 36 "1FGL J1926.8+6153"
+"2FGL J1959.9+4212" "1RXS J195956.1+421339" 19 59 56.1 + 42 13 39 "" 0.000 u 0 "" ? 0 "0FGL J2001.0+4352"

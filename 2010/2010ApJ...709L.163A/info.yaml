@@ -1,0 +1,17 @@
+---
+reference_id: 2010ApJ...709L.163A
+source_id: [55]
+telescope: [veritas]
+
+datasets:
+  - VER-000055-1.yaml
+  - VER-000055-2.yaml
+  - VER-000055-3.yaml
+  - VER-000055-sed-1.ecsv
+  - VER-000055-lc-1.ecsv
+  - VER-000055-lc-2.ecsv
+  - VER-000055-lc-3.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

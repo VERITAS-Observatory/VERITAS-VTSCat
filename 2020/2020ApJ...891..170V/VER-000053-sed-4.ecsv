@@ -1,0 +1,29 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float32}
+# - {name: e_min, unit: TeV, datatype: float32}
+# - {name: e_max, unit: TeV, datatype: float32}
+# - {name: dnde, unit: cm-2 s-1 TeV-1, datatype: float32}
+# - {name: dnde_errp, unit: cm-2 s-1 TeV-1, datatype: float32}
+# - {name: dnde_errn, unit: cm-2 s-1 TeV-1, datatype: float32}
+# - {name: dnde_ul, unit: cm-2 s-1 TeV-1, datatype: float32}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 53
+# - file_id: 4
+# - description: "(2015, Jan 17 - TeV Flare 4)"
+# - reference_id: 2020ApJ...891..170V
+# - telescope: veritas
+# - UL_CONF: 0.95
+# - comments: |
+#       Fig 13 (2015, Jan 17 - TeV Flare 4)
+e_ref e_min e_max dnde dnde_errp dnde_errn dnde_ul
+  0.178    0.158    0.200      6.330e-10   1.260e-10 1.198e-10  nan
+  0.224    0.200    0.251      3.921e-10   7.307e-11 6.953e-11  nan
+  0.282    0.251    0.316      1.767e-10   3.659e-11 3.461e-11  nan
+  0.355    0.316    0.398      1.167e-10   2.386e-11 2.249e-11  nan
+  0.447    0.398    0.501      6.679e-11   1.518e-11 1.413e-11  nan
+  0.562    0.501    0.631      1.668e-11   6.490e-12 5.803e-12  nan
+  0.708    0.631    0.794      1.115e-11   4.174e-12 3.730e-12  nan
+  0.891    0.794    1.000      4.571e-12   2.287e-12 1.965e-12  nan

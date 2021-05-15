@@ -1,0 +1,16 @@
+---
+source_id: 11
+reference_id: 2019ApJ...885..150A
+file_id: 2
+telescope: veritas
+description: "high state"
+
+spec:
+  erange: {min: 0.158, max: 1.0, unit: TeV}
+  model:
+    type: lppl
+    parameters:
+      alpha: {val: 6.41, err: 0.93}
+      beta: {val: 1.38, err: 0.44}
+      norm: {val: 1.37, err: 0.63, scale: 1e-12, unit: cm-2 s-1 TeV-1}
+      e_ref: {val: 0.7, unit: TeV}

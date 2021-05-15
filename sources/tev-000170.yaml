@@ -1,0 +1,13 @@
+---
+source_id: 170
+common_name: VER J2018+367
+gamma_names:
+- VER J2018+367
+other_names: []
+where: gal
+pos:
+  simbad_id: VER J2018+367
+  ra: 304.5
+  dec: 36.7
+reference_id:
+- 2018ApJ...861..134A

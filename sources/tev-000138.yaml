@@ -1,0 +1,13 @@
+---
+source_id: 138
+common_name: 1ES 1959+650
+gamma_names:
+- VER J1959+651
+other_names: []
+where: egal
+pos:
+  simbad_id: 1ES 1959+650
+  ra: 299.99938375
+  dec: 65.14851472
+reference_id:
+- 2013ApJ...775....3A

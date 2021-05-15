@@ -1,0 +1,16 @@
+---
+source_id: 100175
+reference_id: 2010ApJ...720.1174A
+telescope: veritas
+
+data:
+  livetime: 68080s
+  non: 250
+  noff: 3084
+  alpha: 0.0909091
+  significance: -1.77
+
+flux:
+  flux_ul: {val: 0.40e-12, unit: cm-2 s-1}
+  conf: {val: 0.95}
+  e_min: {val: 380, unit: GeV}

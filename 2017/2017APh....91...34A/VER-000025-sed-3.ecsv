@@ -1,0 +1,27 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, datatype: float32, unit: TeV}
+# - {name: dnde, datatype: float32, unit: m-2 s-1 TeV-1}
+# - {name: dnde_err, unit: TeV-1 m-2 s-1, datatype: float32}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 25
+# - file_id: 3
+# - reference_id: 2017APh....91...34A
+# - telescope: veritas
+# - comments: |
+#      Figure 6.; UV filters
+e_ref dnde dnde_err
+0.2814 1.15e-05 2.05e-06
+0.3542 4.41e-06 4.27e-07
+0.446 2.36e-06 1.9e-07
+0.5615 1.37e-06 1.05e-07
+0.7068 7.11e-07 6e-08
+0.8898 4.12e-07 3.71e-08
+1.12 2.86e-07 2.56e-08
+1.41 1.53e-07 1.58e-08
+1.775 5.72e-08 8.11e-09
+2.235 4.13e-08 5.9e-09
+2.814 1.75e-08 3.33e-09
+3.542 1.03e-08 2.17e-09

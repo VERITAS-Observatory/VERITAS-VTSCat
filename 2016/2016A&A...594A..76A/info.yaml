@@ -1,0 +1,21 @@
+---
+reference_id: 2016A&A...594A..76A
+source_id: [91]
+telescope: [whipple, veritas]
+
+multiwavelength:
+  - content: [whipple, lat, rxte, xrt, uvot, gasp, ovro, metsahovi]
+  - availability: false
+  - status: false
+
+datasets:
+  - VER-000091-1.yaml
+  - VER-000091-2.yaml
+  - VER-000091-lc.ecsv
+  - VER-000091-sed-1.ecsv
+  - VER-000091-sed-2.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true
+  notes: VERITAS data complete (note that this is subset of 2017A&A...603A..31A); all Whipple values missing

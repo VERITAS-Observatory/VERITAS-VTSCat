@@ -1,0 +1,27 @@
+---
+source_id: 144
+reference_id: 2018ApJ...861..134A
+telescope: veritas
+
+data:
+  livetime: 1312.66min
+  significance: 7.6
+
+pos:
+  ra: {val: 20h20m04.8s, err: 0.02 deg}
+  dec: {val: 40d45m36s, err: 0.01 deg}
+
+morph:
+  type: gauss
+  sigma: {val: 0.29 deg, err: 0.02 deg, err_sys: 0.02 deg}
+  sigma2: {val: 0.19 deg, err: 0.01 deg, err_sys: 0.03 deg}
+  pa: {frame: galactic, val: 176.7 deg, err: 0.1 deg, err_sys: 2.0 deg}
+
+spec:
+  model:
+    type: pl
+    parameters:
+      norm: {val: 5.01, err: 0.93, err_sys: 1.00, scale: 1e-16, unit: cm-2 s-1 GeV-1}
+      index: {val: 2.79, err: 0.39, err_sys: 0.20}
+      e_ref: {val: 1500, unit: GeV}
+  erange: {min: 750, max: 7500, unit: GeV}
