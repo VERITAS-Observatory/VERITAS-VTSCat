@@ -10,6 +10,8 @@
 
 **VTSCat** is the catalog of high-level data products from all publications of the [VERITAS collaboration](https://veritas.sao.arizona.edu/).
 
+VTSCat is currently in the pre-release state and tested. Please checkout [this branch](https://github.com/VERITAS-Observatory/VERITAS-VTSCat/tree/pre-release-v01a) for the data files.
+
 
 The **VTSCat** data collection contains:
 
