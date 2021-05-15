@@ -1,7 +1,9 @@
 ---
 source_id: 57
 common_name: MS1221.8+2452
-gamma_names: []
+veritas_name:
+  name: VER J1224+246
+  components: nebular
 other_names:
 - RGB J1224+246
 where: egal

@@ -1,8 +1,9 @@
 ---
 source_id: 91
 common_name: Markarian 501
-gamma_names:
-- VER J1653+397
+veritas_name:
+  name: VER J1653+397
+  components: nebular
 other_names:
 - Mrk 501
 where: egal

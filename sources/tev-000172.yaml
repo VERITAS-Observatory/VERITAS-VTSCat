@@ -1,10 +1,11 @@
 ---
 source_id: 172
 common_name: DA 495
-gamma_names:
+veritas_name:
+  name: VER J1952+293
+  components: nebular
+other_names:
 - 2HWC J1953+294
-- VER J1952+293
-other_names: []
 where: gal
 pos:
   simbad_id: SNR G065.7+01.2

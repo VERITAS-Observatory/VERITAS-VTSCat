@@ -1,8 +1,9 @@
 ---
 source_id: 167
 common_name: PKS 1441+25
-gamma_names:
-- VER J1443+250
+veritas_name:
+  name: VER J1443+250
+  components: nebular
 other_names: []
 where: egal
 pos:

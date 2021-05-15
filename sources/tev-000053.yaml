@@ -1,8 +1,9 @@
 ---
 source_id: 53
 common_name: 1ES 1215+303
-gamma_names:
-- VER J1217+301
+veritas_name:
+  name: VER J1217+301
+  components: nebular
 other_names:
 - B2 1215+30
 where: egal

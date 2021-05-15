@@ -1,8 +1,9 @@
 ---
 source_id: 171
 common_name: VER J2020+368
-gamma_names:
-- VER J2020+368
+veritas_name:
+  name: VER J2020+368
+  components: nebular
 other_names: []
 where: gal
 pos:

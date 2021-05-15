@@ -1,8 +1,9 @@
 ---
 source_id: 173
 common_name: 3C 264.0
-gamma_names:
-- VER J1145+196
+veritas_name:
+  name: VER J1145+196
+  components: nebular
 other_names: []
 where: egal
 pos:

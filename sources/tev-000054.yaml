@@ -1,7 +1,9 @@
 ---
 source_id: 54
 common_name: W Comae
-gamma_names: []
+veritas_name:
+  name: VER J1221+282
+  components: nebular
 other_names:
 - B2 1219+28
 where: egal

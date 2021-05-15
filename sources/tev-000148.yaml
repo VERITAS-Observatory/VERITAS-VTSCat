@@ -1,7 +1,9 @@
 ---
 source_id: 148
 common_name: BL Lacertae
-gamma_names: []
+veritas_name:
+  name: VER J2202+422
+  components: nebular
 other_names:
 - 1ES 2200+420
 where: egal

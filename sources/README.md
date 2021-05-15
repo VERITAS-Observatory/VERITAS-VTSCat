@@ -18,7 +18,7 @@ The following entries are required:
 |---|---|
 *source_id* | unique identifier of an object (integer) |
 *common_name* | common name as frequently used in literature |
-*gamma_names* | name assigned by gamma-ray observatory (e.g., VER, MAGIC, or HESS names) |
+*veritas_name* | VER veritas name as registered in the AU Registry
 *other_names* | other names used in literature or from catalogues (not a complete list) |
 *where* | galactic (gal) or extragalactic (egal) object |
 *pos:simbad_id* | SIMBAD name |

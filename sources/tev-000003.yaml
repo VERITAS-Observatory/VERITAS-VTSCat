@@ -1,8 +1,9 @@
 ---
 source_id: 3
 common_name: Tycho SNR
-gamma_names:
-- VER J0025+641
+veritas_name:
+  name: VER J0025+641
+  components: nebular
 other_names:
 - SNR G120.1+1.4
 - 3C10

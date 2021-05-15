@@ -1,11 +1,12 @@
 ---
 source_id: 146
 common_name: TeV J2032+4130
-gamma_names:
-- MGRO J2031+41
-- VER J2031+415
+veritas_name:
+  name: VER J2031+415
+  components: nebular
 other_names:
 - 0FGL J2032.2+4122
+- MGRO J2031+41
 where: gal
 pos:
   simbad_id: TeV J2032+4130

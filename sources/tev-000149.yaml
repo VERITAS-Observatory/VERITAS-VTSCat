@@ -1,8 +1,9 @@
 ---
 source_id: 149
 common_name: SNR G106.3+02.7
-gamma_names:
-- VER J2227+608
+veritas_name:
+  name: VER J2227+608
+  components: nebular
 other_names:
 - PSR J2229+6114
 where: gal

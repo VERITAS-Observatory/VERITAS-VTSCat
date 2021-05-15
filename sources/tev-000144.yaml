@@ -1,8 +1,9 @@
 ---
 source_id: 144
 common_name: Gamma Cygni
-gamma_names:
-- VER J2019+407
+veritas_name:
+  name: VER J2019+407
+  components: nebular
 other_names:
 - 1FGL J2020.0+4049
 - SNR G78.2+2.1

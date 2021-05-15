@@ -1,7 +1,9 @@
 ---
 source_id: 153
 common_name: Cassiopeia A
-gamma_names: []
+veritas_name:
+  name: VER J2323+588
+  components: nebular
 other_names:
 - Cas A
 - 3C461

@@ -1,14 +1,16 @@
 ---
 source_id: 49
 common_name: Markarian 421
-gamma_names:
-- HESS J1104+382
+veritas_name:
+  name: VER J1104+382
+  components: nebular
 other_names:
 - Markarian 421
 - Mrk 421
 - 1ES 1101+384
 - 1H 1104+382
 - H 1105+38
+- HESS J1104+382
 where: egal
 pos:
   simbad_id: Markarian 421

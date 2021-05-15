@@ -1,8 +1,9 @@
 ---
 source_id: 168
 common_name: TXS 0506+056
-gamma_names:
-- VER J0509+057
+veritas_name:
+  name: VER J0509+057
+  components: nebular
 other_names:
 - QSO J0509+0541
 where: egal

@@ -1,8 +1,9 @@
 ---
 source_id: 1
 common_name: CTA 1
-gamma_names:
-- VER J0006+729
+veritas_name:
+  name: VER J0006+729
+  components: nebular
 other_names:
 - SNR G119.5+10.2
 where: gal

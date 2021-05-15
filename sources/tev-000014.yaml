@@ -1,8 +1,9 @@
 ---
 source_id: 14
 common_name: LS I +61 303
-gamma_names:
-- VER J0240+612
+veritas_name:
+  name: VER J0240+612
+  components: nebular
 other_names: []
 where: gal
 pos:

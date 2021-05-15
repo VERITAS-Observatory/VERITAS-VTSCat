@@ -1,11 +1,12 @@
 ---
 source_id: 30
 common_name: HESS J0632+057
-gamma_names:
-- HESS J0632+057
-- VER J0633+057
+veritas_name:
+  name: VER J0633+057
+  components: nebular
 other_names:
 - HD 259440
+- HESS J0632+057
 where: gal
 pos:
   simbad_id: HD 259440

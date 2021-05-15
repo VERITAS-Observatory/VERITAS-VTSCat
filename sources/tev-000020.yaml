@@ -1,10 +1,11 @@
 ---
 source_id: 20
 common_name: 1ES 0414+009
-gamma_names:
-- VER J0416+011
+veritas_name:
+  name: VER J0416+011
+  components: nebular
+other_names:
 - HESS J0416+010
-other_names: []
 where: egal
 pos:
   simbad_id: 1ES 0414+009

@@ -1,8 +1,9 @@
 ---
 source_id: 136
 common_name: SNR G054.1+00.3
-gamma_names:
-- VER J1930+188
+veritas_name:
+  name: VER J1930+188
+  components: nebular
 other_names:
 - PSR J1930+1852
 where: gal

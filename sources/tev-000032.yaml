@@ -1,8 +1,9 @@
 ---
 source_id: 32
 common_name: RX J0648.7+1516
-gamma_names:
-- VER J0648+152
+veritas_name:
+  name: VER J0648+152
+  components: nebular
 other_names: []
 where: egal
 pos:

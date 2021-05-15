@@ -1,8 +1,9 @@
 ---
 source_id: 71
 common_name: 1ES 1440+122
-gamma_names:
-- VER J1443+120
+veritas_name:
+  name: VER J1443+120
+  components: nebular
 other_names: []
 where: egal
 pos:

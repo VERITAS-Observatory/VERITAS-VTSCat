@@ -1,7 +1,9 @@
 ---
 source_id: 11
 common_name: 3C 66A
-gamma_names: []
+veritas_name:
+  name: VER J0222+430
+  components: nebular
 other_names:
 - B2 0218+35
 where: egal

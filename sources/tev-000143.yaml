@@ -1,10 +1,11 @@
 ---
 source_id: 143
 common_name: VER J2019+368
-gamma_names:
+veritas_name:
+  name: VER J2019+368
+  components: nebular
+other_names:
 - MGRO J2019+37
-- VER J2019+368
-other_names: []
 where: gal
 pos:
   simbad_id: VER J2019+368

@@ -1,7 +1,9 @@
 ---
 source_id: 166
 common_name: Crab pulsar
-gamma_names: []
+veritas_name:
+  name: VER J0534+220
+  components: pulsed
 other_names:
 - PSR 0531+21
 - V* CM Tau

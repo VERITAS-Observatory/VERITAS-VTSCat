@@ -1,8 +1,9 @@
 ---
 source_id: 101
 common_name: 1ES 1727+502
-gamma_names:
-- VER J1728+502
+veritas_name:
+  name: VER J1728+502
+  components: nebular
 other_names:
 - OT546
 where: egal

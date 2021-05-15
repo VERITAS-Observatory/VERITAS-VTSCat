@@ -1,8 +1,9 @@
 ---
 source_id: 17
 common_name: RBS 0413
-gamma_names:
-- VER J0319+187
+veritas_name:
+  name: VER J0319+187
+  components: nebular
 other_names:
 - RBS 0413
 - EXO 0317.0+1834

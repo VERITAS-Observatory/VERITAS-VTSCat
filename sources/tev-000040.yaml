@@ -1,7 +1,9 @@
 ---
 source_id: 40
 common_name: M 82
-gamma_names: []
+veritas_name:
+  name: VER J0955+696
+  components: nebular
 other_names:
 - NGC 3034
 where: egal

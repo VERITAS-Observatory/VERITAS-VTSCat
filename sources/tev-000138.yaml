@@ -1,8 +1,9 @@
 ---
 source_id: 138
 common_name: 1ES 1959+650
-gamma_names:
-- VER J1959+651
+veritas_name:
+  name: VER J1959+651
+  components: nebular
 other_names: []
 where: egal
 pos:

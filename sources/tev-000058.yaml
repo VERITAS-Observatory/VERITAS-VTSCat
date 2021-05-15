@@ -1,12 +1,13 @@
 ---
 source_id: 58
 common_name: M 87
-gamma_names:
-- VER J1230+123
-- HESS J1230+123
+veritas_name:
+  name: VER J1230+123
+  components: nebular
 other_names:
 - 1ES 1228+126
 - 1H 1226+128
+- HESS J1230+123
 where: egal
 pos:
   simbad_id: M 87

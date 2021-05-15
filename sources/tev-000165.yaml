@@ -1,13 +1,14 @@
 ---
 source_id: 165
 common_name: VER J1746-289
-gamma_names:
-- VER J1746-289
-- HESS J1746-285
-- MAGIC J1746.4-2853
+veritas_name:
+  name: VER J1746-289
+  components: nebular
 other_names:
 - Arc source
 - GC Radio Arc
+- HESS J1746-285
+- MAGIC J1746.4-2853
 where: gal
 pos:
   simbad_id: VER J1746-289

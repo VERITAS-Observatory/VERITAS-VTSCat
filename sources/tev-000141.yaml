@@ -1,12 +1,13 @@
 ---
 source_id: 141
 common_name: VER J2016+371
-gamma_names:
-- MGRO J2019+37
-- VER J2016+371
+veritas_name:
+  name: VER J2016+371
+  components: nebular
 other_names:
 - CTB 87
 - SNR G074.9+01.2
+- MGRO J2019+37
 where: gal
 pos:
   simbad_id: VER J2016+371

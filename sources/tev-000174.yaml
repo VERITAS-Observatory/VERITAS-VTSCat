@@ -1,8 +1,10 @@
 ---
 source_id: 174
 common_name: PSR J2032+4127/MT91 213
-gamma_names:
-- VER J2032+414
+veritas_name:
+  name: VER J2032+414
+  components: nebular
+other_names:
 - MAGICJ2032+4127
 where: gal
 pos:

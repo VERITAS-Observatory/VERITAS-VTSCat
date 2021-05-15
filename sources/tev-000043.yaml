@@ -1,7 +1,9 @@
 ---
 source_id: 43
 common_name: 1ES 1011+496
-gamma_names: []
+veritas_name:
+  name: VER J1015+494
+  components: nebular
 other_names: []
 where: egal
 pos:

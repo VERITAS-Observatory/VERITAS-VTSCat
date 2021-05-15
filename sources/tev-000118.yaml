@@ -1,14 +1,15 @@
 ---
 source_id: 118
 common_name: HESS J1825-137
-gamma_names:
-- HESS J1825-137
-- 1HWC J1825-133
-- VER J1825-138
+veritas_name:
+  name: VER J1825-138
+  components: nebular
 other_names:
 - 3EG J1826-1302
 - PSR J1826-1334
 - PSR B1823-13
+- HESS J1825-137
+- 1HWC J1825-133
 where: gal
 pos:
   simbad_id: HESS J1825-137
