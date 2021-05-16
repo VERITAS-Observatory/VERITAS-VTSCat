@@ -3,7 +3,7 @@ source_id: 137
 common_name: HESS J1943+213
 veritas_name:
   name: VER J1943+213
-  components: nebular
+  components: null
 other_names: []
 where: egal
 pos:
@@ -11,4 +11,4 @@ pos:
   ra: 295.9792
   dec: 21.30222
 reference_id:
-- 2018ApJ...862...41A
+  - 2018ApJ...862...41A

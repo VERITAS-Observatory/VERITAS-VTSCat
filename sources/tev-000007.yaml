@@ -3,14 +3,14 @@ source_id: 7
 common_name: RGB J0136+391
 veritas_name:
   name: VER J0136+390
-  components: nebular
+  components: null
 other_names:
-- B3 0133+388
-- 1RXS J013632.9+390556
+  - B3 0133+388
+  - 1RXS J013632.9+390556
 where: egal
 pos:
   simbad_id: RGB J0136+391
   ra: 24.1358267
   dec: 39.0997773
 reference_id:
-- 2012ApJ...759..102A
+  - 2012ApJ...759..102A

@@ -3,13 +3,13 @@ source_id: 53
 common_name: 1ES 1215+303
 veritas_name:
   name: VER J1217+301
-  components: nebular
+  components: null
 other_names:
-- B2 1215+30
+  - B2 1215+30
 where: egal
 pos:
   simbad_id: 1ES 1215+303
   ra: 184.46700833
   dec: 30.11684333
 reference_id:
-- 2013ApJ...779...92A
+  - 2013ApJ...779...92A

@@ -3,7 +3,7 @@ source_id: 32
 common_name: RX J0648.7+1516
 veritas_name:
   name: VER J0648+152
-  components: nebular
+  components: null
 other_names: []
 where: egal
 pos:
@@ -11,4 +11,4 @@ pos:
   ra: 102.1984875
   dec: 15.2735722
 reference_id:
-- 2011ApJ...742..127A
+  - 2011ApJ...742..127A

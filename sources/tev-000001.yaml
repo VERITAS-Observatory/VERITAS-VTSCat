@@ -3,13 +3,13 @@ source_id: 1
 common_name: CTA 1
 veritas_name:
   name: VER J0006+729
-  components: nebular
+  components: null
 other_names:
-- SNR G119.5+10.2
+  - SNR G119.5+10.2
 where: gal
 pos:
   simbad_id: CTA 1
   ra: 1.65
   dec: 72.783
 reference_id:
-- 2013ApJ...764...38A
+  - 2013ApJ...764...38A

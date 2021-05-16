@@ -2,11 +2,11 @@
 source_id: 100169
 common_name: V* V635 Cas
 other_names:
-- 4U 0115+634
+  - 4U 0115+634
 where: gal
 pos:
   simbad_id: V* V635 Cas
   ra: 19.6325
   dec: 63.7425
 reference_id:
-- 2016ApJ...831..113A
+  - 2016ApJ...831..113A

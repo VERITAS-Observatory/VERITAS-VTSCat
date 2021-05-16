@@ -3,13 +3,13 @@ source_id: 91
 common_name: Markarian 501
 veritas_name:
   name: VER J1653+397
-  components: nebular
+  components: null
 other_names:
-- Mrk 501
+  - Mrk 501
 where: egal
 pos:
   simbad_id: Markarian 501
   ra: 253.4675695
   dec: 39.760169139
 reference_id:
-- 2011ApJ...727..129A
+  - 2011ApJ...727..129A

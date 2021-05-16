@@ -3,7 +3,7 @@ source_id: 167
 common_name: PKS 1441+25
 veritas_name:
   name: VER J1443+250
-  components: nebular
+  components: null
 other_names: []
 where: egal
 pos:
@@ -11,4 +11,4 @@ pos:
   ra: 220.987051
   dec: 25.029025
 reference_id:
-- 2015ApJ...815L..22A
+  - 2015ApJ...815L..22A

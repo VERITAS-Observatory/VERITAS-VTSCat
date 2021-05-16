@@ -3,7 +3,7 @@ source_id: 71
 common_name: 1ES 1440+122
 veritas_name:
   name: VER J1443+120
-  components: nebular
+  components: null
 other_names: []
 where: egal
 pos:
@@ -11,4 +11,4 @@ pos:
   ra: 220.701152425
   dec: 12.0112152417
 reference_id:
-- 2016MNRAS.461..202A
+  - 2016MNRAS.461..202A

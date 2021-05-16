@@ -3,15 +3,15 @@ source_id: 17
 common_name: RBS 0413
 veritas_name:
   name: VER J0319+187
-  components: nebular
+  components: null
 other_names:
-- RBS 0413
-- EXO 0317.0+1834
-- 1E 0317.0+1835
+  - RBS 0413
+  - EXO 0317.0+1834
+  - 1E 0317.0+1835
 where: egal
 pos:
   simbad_id: RBS 0413
   ra: 49.96585
   dec: 18.7595556
 reference_id:
-- 2012ApJ...750...94A
+  - 2012ApJ...750...94A

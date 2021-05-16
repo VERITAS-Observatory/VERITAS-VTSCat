@@ -3,7 +3,7 @@ source_id: 170
 common_name: VER J2018+367
 veritas_name:
   name: VER J2018+367
-  components: nebular
+  components: null
 other_names: []
 where: gal
 pos:
@@ -11,4 +11,4 @@ pos:
   ra: 304.5
   dec: 36.7
 reference_id:
-- 2018ApJ...861..134A
+  - 2018ApJ...861..134A

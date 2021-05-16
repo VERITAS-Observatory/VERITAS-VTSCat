@@ -3,14 +3,14 @@ source_id: 13
 common_name: 1ES 0229+200
 veritas_name:
   name: VER J0232+202
-  components: nebular
+  components: null
 other_names:
-- QSO B0229+200
-- HESS J0232+202
+  - QSO B0229+200
+  - HESS J0232+202
 where: egal
 pos:
   simbad_id: 1ES 0229+200
   ra: 38.202564
   dec: 20.2881899
 reference_id:
-- 2014ApJ...782...13A
+  - 2014ApJ...782...13A

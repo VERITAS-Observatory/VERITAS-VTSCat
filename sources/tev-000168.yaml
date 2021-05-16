@@ -3,13 +3,13 @@ source_id: 168
 common_name: TXS 0506+056
 veritas_name:
   name: VER J0509+057
-  components: nebular
+  components: null
 other_names:
-- QSO J0509+0541
+  - QSO J0509+0541
 where: egal
 pos:
   simbad_id: QSO J0509+0541
   ra: 77.358186
   dec: 5.693148
 reference_id:
-- 2018ApJ...861L..20A
+  - 2018ApJ...861L..20A

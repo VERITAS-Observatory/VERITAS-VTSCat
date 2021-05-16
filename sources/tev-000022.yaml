@@ -3,7 +3,7 @@ source_id: 22
 common_name: 1ES 0502+675
 veritas_name:
   name: VER J0507+676
-  components: nebular
+  components: null
 other_names: []
 where: egal
 pos:
@@ -11,4 +11,4 @@ pos:
   ra: 76.9840583
   dec: 67.6234056
 reference_id:
-- 2019ApJ...885..150A
+  - 2019ApJ...885..150A

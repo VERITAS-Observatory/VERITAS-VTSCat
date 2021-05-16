@@ -3,13 +3,13 @@ source_id: 67
 common_name: PKS 1424+240
 veritas_name:
   name: VER J1427+237
-  components: nebular
+  components: null
 other_names:
-- 7C 1424+2401
+  - 7C 1424+2401
 where: egal
 pos:
   simbad_id: PKS 1424+240
   ra: 216.751632458
   dec: 23.800010444
 reference_id:
-- 2010ApJ...708L.100A
+  - 2010ApJ...708L.100A

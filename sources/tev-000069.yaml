@@ -3,14 +3,14 @@ source_id: 69
 common_name: H 1426+428
 veritas_name:
   name: VER J1428+426
-  components: nebular
+  components: null
 other_names:
-- 1ES 1426+428
-- 1H 1430+423
+  - 1ES 1426+428
+  - 1H 1430+423
 where: egal
 pos:
   simbad_id: H 1426+428
   ra: 217.1358706208
   dec: 42.6725130889
 reference_id:
-- 2019ApJ...885..150A
+  - 2019ApJ...885..150A
