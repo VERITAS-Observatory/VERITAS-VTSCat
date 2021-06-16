@@ -1,16 +1,17 @@
 ---
 source_id: 141
 common_name: VER J2016+371
-gamma_names:
-- MGRO J2019+37
-- VER J2016+371
+veritas_name:
+  name: VER J2016+371
+  components: null
 other_names:
-- CTB 87
-- SNR G074.9+01.2
+  - CTB 87
+  - SNR G074.9+01.2
+  - MGRO J2019+37
 where: gal
 pos:
   simbad_id: VER J2016+371
   ra: 304.0076
   dec: 37.21476
 reference_id:
-- 2014ApJ...788...78A
+  - 2014ApJ...788...78A

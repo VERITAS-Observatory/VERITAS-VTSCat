@@ -1,8 +1,9 @@
 ---
 source_id: 23
 common_name: RGB J0521+212
-gamma_names:
-- VER J0521+211
+veritas_name:
+  name: VER J0521+211
+  components: null
 other_names: []
 where: egal
 pos:
@@ -10,4 +11,4 @@ pos:
   ra: 80.4415375
   dec: 21.2142722
 reference_id:
-- 2013ApJ...776...69A
+  - 2013ApJ...776...69A

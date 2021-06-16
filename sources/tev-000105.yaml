@@ -1,8 +1,9 @@
 ---
 source_id: 105
 common_name: 1ES 1741+196
-gamma_names:
-- VER J1744+195
+veritas_name:
+  name: VER J1744+195
+  components: null
 other_names: []
 where: egal
 pos:
@@ -10,4 +11,4 @@ pos:
   ra: 265.99096917
   dec: 19.58583806
 reference_id:
-- 2016MNRAS.459.2550A
+  - 2016MNRAS.459.2550A

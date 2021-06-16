@@ -1,13 +1,15 @@
 ---
 source_id: 11
 common_name: 3C 66A
-gamma_names: []
+veritas_name:
+  name: VER J0222+430
+  components: null
 other_names:
-- B2 0218+35
+  - B2 0218+35
 where: egal
 pos:
   simbad_id: 3C 66A
   ra: 35.66505
   dec: 43.0355222
 reference_id:
-- 2009ApJ...693L.104A
+  - 2009ApJ...693L.104A

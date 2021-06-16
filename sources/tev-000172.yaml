@@ -1,14 +1,15 @@
 ---
 source_id: 172
 common_name: DA 495
-gamma_names:
-- 2HWC J1953+294
-- VER J1952+293
-other_names: []
+veritas_name:
+  name: VER J1952+293
+  components: null
+other_names:
+  - 2HWC J1953+294
 where: gal
 pos:
   simbad_id: SNR G065.7+01.2
   ra: 298.05708
   dec: 29.41889
 reference_id:
-- 2018ApJ...866...24A
+  - 2018ApJ...866...24A

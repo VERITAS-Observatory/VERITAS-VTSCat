@@ -1,14 +1,15 @@
 ---
 source_id: 149
 common_name: SNR G106.3+02.7
-gamma_names:
-- VER J2227+608
+veritas_name:
+  name: VER J2227+608
+  components: null
 other_names:
-- PSR J2229+6114
+  - PSR J2229+6114
 where: gal
 pos:
   simbad_id: SNR G106.3+02.7
   ra: 336.88
   dec: 60.83
 reference_id:
-- 2009ApJ...703L...6A
+  - 2009ApJ...703L...6A

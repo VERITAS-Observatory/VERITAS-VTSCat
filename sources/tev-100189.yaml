@@ -1,7 +1,6 @@
 ---
 source_id: 100189
 common_name: 1A 0535+262
-gamma_names: []
 other_names: []
 where: gal
 pos:
@@ -9,4 +8,4 @@ pos:
   ra: 84.727396
   dec: 26.315789
 reference_id:
-- 2011ApJ...733...96A
+  - 2011ApJ...733...96A

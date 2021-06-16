@@ -1,7 +1,6 @@
 ---
 source_id: 100193
 common_name: RGB J1058+564
-gamma_names: []
 other_names: []
 where: egal
 pos:
@@ -9,4 +8,4 @@ pos:
   ra: 164.657199
   dec: 56.46978
 reference_id:
-- 2012ApJ...759..102A
+  - 2012ApJ...759..102A

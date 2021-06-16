@@ -1,16 +1,17 @@
 ---
 source_id: 3
 common_name: Tycho SNR
-gamma_names:
-- VER J0025+641
+veritas_name:
+  name: VER J0025+641
+  components: null
 other_names:
-- SNR G120.1+1.4
-- 3C10
-- SN1572
+  - SNR G120.1+1.4
+  - 3C10
+  - SN1572
 where: gal
 pos:
   simbad_id: Tycho SNR
   ra: 6.3397
   dec: 64.1408
 reference_id:
-- 2011ApJ...730L..20A
+  - 2011ApJ...730L..20A

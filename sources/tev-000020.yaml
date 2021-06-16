@@ -1,14 +1,15 @@
 ---
 source_id: 20
 common_name: 1ES 0414+009
-gamma_names:
-- VER J0416+011
-- HESS J0416+010
-other_names: []
+veritas_name:
+  name: VER J0416+011
+  components: null
+other_names:
+  - HESS J0416+010
 where: egal
 pos:
   simbad_id: 1ES 0414+009
   ra: 64.2187375
   dec: 1.0899944
 reference_id:
-- 2012ApJ...755..118A
+  - 2012ApJ...755..118A

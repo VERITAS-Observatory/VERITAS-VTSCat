@@ -1,13 +1,15 @@
 ---
 source_id: 36
 common_name: 1ES 0806+524
-gamma_names: []
+veritas_name:
+  name: VER J0809+523
+  components: null
 other_names:
-- VTS J0809+522
+  - VTS J0809+522
 where: egal
 pos:
   simbad_id: 1ES 0806+524
   ra: 122.454944708
   dec: 52.31618075
 reference_id:
-- 2009ApJ...690L.126A
+  - 2009ApJ...690L.126A

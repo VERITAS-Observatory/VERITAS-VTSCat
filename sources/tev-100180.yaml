@@ -1,7 +1,6 @@
 ---
 source_id: 100180
 common_name: Geminga pulsar
-gamma_names: []
 other_names: []
 where: gal
 pos:
@@ -9,4 +8,4 @@ pos:
   ra: 98.4756375
   dec: 17.7702528
 reference_id:
-- 2015ApJ...800...61A
+  - 2015ApJ...800...61A

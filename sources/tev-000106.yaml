@@ -1,16 +1,17 @@
 ---
 source_id: 106
 common_name: Galactic Centre
-gamma_names:
-- HESS J1745-290
-- VER J1745-290
+veritas_name:
+  name: VER J1745  -290
+  components: null
 other_names:
-- Sgr A*
-- Sagittarius A*
+  - Sgr A*
+  - Sagittarius A*
+  - HESS J1745-290
 where: gal
 pos:
   simbad_id: Galactic Centre
   ra: 266.416833
   dec: -29.007806
 reference_id:
-- 2014ApJ...790..149A
+  - 2014ApJ...790..149A

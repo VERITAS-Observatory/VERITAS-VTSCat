@@ -1,7 +1,6 @@
 ---
 source_id: 100178
 common_name: PSR J1023+0038
-gamma_names: []
 other_names: []
 where: gal
 pos:
@@ -9,4 +8,4 @@ pos:
   ra: 155.948683
   dec: 0.644724
 reference_id:
-- 2016ApJ...831..193A
+  - 2016ApJ...831..193A

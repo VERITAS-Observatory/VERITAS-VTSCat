@@ -1,14 +1,15 @@
 ---
 source_id: 101
 common_name: 1ES 1727+502
-gamma_names:
-- VER J1728+502
+veritas_name:
+  name: VER J1728+502
+  components: null
 other_names:
-- OT546
+  - OT546
 where: egal
 pos:
   simbad_id: 1ES 1727+502
   ra: 262.07759958
   dec: 50.219575
 reference_id:
-- 2015ApJ...808..110A
+  - 2015ApJ...808..110A

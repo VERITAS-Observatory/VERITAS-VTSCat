@@ -1,14 +1,15 @@
 ---
 source_id: 143
 common_name: VER J2019+368
-gamma_names:
-- MGRO J2019+37
-- VER J2019+368
-other_names: []
+veritas_name:
+  name: VER J2019+368
+  components: null
+other_names:
+  - MGRO J2019+37
 where: gal
 pos:
   simbad_id: VER J2019+368
   ra: 304.0083
   dec: 37.19778
 reference_id:
-- 2014ApJ...788...78A
+  - 2014ApJ...788...78A

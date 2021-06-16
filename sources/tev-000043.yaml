@@ -1,7 +1,9 @@
 ---
 source_id: 43
 common_name: 1ES 1011+496
-gamma_names: []
+veritas_name:
+  name: VER J1015+494
+  components: null
 other_names: []
 where: egal
 pos:
@@ -9,4 +11,4 @@ pos:
   ra: 153.767249167
   dec: 49.433529083
 reference_id:
-- 2019ApJ...885..150A
+  - 2019ApJ...885..150A

@@ -1,8 +1,9 @@
 ---
 source_id: 138
 common_name: 1ES 1959+650
-gamma_names:
-- VER J1959+651
+veritas_name:
+  name: VER J1959+651
+  components: null
 other_names: []
 where: egal
 pos:
@@ -10,4 +11,4 @@ pos:
   ra: 299.99938375
   dec: 65.14851472
 reference_id:
-- 2013ApJ...775....3A
+  - 2013ApJ...775....3A

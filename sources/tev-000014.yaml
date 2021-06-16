@@ -1,8 +1,9 @@
 ---
 source_id: 14
 common_name: LS I +61 303
-gamma_names:
-- VER J0240+612
+veritas_name:
+  name: VER J0240+612
+  components: null
 other_names: []
 where: gal
 pos:
@@ -10,4 +11,4 @@ pos:
   ra: 40.131938163
   dec: 61.229336515
 reference_id:
-- 2008ApJ...679.1427A
+  - 2008ApJ...679.1427A

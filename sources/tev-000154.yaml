@@ -1,8 +1,9 @@
 ---
 source_id: 154
 common_name: 1ES 2344+514
-gamma_names:
-- VER J2347+517
+veritas_name:
+  name: VER J2347+517
+  components: null
 other_names: []
 where: egal
 pos:
@@ -10,4 +11,4 @@ pos:
   ra: 356.770153
   dec: 51.704967
 reference_id:
-- 2011ApJ...738..169A
+  - 2011ApJ...738..169A

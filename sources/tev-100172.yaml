@@ -1,7 +1,6 @@
 ---
 source_id: 100172
 common_name: GRB 150323A
-gamma_names: []
 other_names: []
 where: egal
 pos:
@@ -9,4 +8,4 @@ pos:
   ra: 128.178083
   dec: 45.464639
 reference_id:
-- 2018ApJ...857...33A
+  - 2018ApJ...857...33A

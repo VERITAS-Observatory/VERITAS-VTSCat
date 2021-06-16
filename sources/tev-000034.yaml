@@ -1,15 +1,16 @@
 ---
 source_id: 34
 common_name: RGB J0710+591
-gamma_names:
-- VER J0710+591
+veritas_name:
+  name: VER J0710+591
+  components: null
 other_names:
-- RX J0710.5+5908
-- 1H 0658+595
+  - RX J0710.5+5908
+  - 1H 0658+595
 where: egal
 pos:
   simbad_id: RGB J0710+591
   ra: 107.625325
   dec: 59.1390278
 reference_id:
-- 2010ApJ...715L..49A
+  - 2010ApJ...715L..49A

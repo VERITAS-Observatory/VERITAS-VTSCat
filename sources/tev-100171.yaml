@@ -1,7 +1,6 @@
 ---
 source_id: 100171
-common_name: Cyg X-3
-gamma_names: []
+common_name: Cyg X  -3
 other_names: []
 where: gal
 pos:
@@ -9,4 +8,4 @@ pos:
   ra: 308.10742
   dec: 40.95775
 reference_id:
-- 2013ApJ...779..150A
+  - 2013ApJ...779..150A
