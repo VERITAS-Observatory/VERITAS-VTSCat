@@ -53,6 +53,13 @@ For a detailed description of data formats, file types, keywords, and spectral m
 
 | Object | Publication Title | ADS Reference | Repository |
 |---|---|---|---|
+|PSR B0355+54 | A Search for TeV Gamma-ray Emission from Pulsar Tails by VERITAS | [2021arXiv210513911B](http://adsabs.harvard.edu/abs/2021arXiv210513911B) | [data files](2021/2021arXiv210513911B) |
+|PSR J0357+32 | A Search for TeV Gamma-ray Emission from Pulsar Tails by VERITAS | [2021arXiv210513911B](http://adsabs.harvard.edu/abs/2021arXiv210513911B) | [data files](2021/2021arXiv210513911B) |
+|PSR J1740+1000 | A Search for TeV Gamma-ray Emission from Pulsar Tails by VERITAS | [2021arXiv210513911B](http://adsabs.harvard.edu/abs/2021arXiv210513911B) | [data files](2021/2021arXiv210513911B) |
+|Galactic Centre / VER J1745-290 | VERITAS Observations of the Galactic Center Region at Multi-TeV Gamma-Ray Energies | [2021ApJ...913..115A](http://adsabs.harvard.edu/abs/2021ApJ...913..115A) | [data files](2021/2021ApJ...913..115A) |
+|SNR G0.9+0.1 / VER J1747-281 | VERITAS Observations of the Galactic Center Region at Multi-TeV Gamma-Ray Energies | [2021ApJ...913..115A](http://adsabs.harvard.edu/abs/2021ApJ...913..115A) | [data files](2021/2021ApJ...913..115A) |
+|VER J1746-289 / VER J1746-289 | VERITAS Observations of the Galactic Center Region at Multi-TeV Gamma-Ray Energies | [2021ApJ...913..115A](http://adsabs.harvard.edu/abs/2021ApJ...913..115A) | [data files](2021/2021ApJ...913..115A) |
+|GC diffuse ridge / VER J1746-286 | VERITAS Observations of the Galactic Center Region at Multi-TeV Gamma-Ray Energies | [2021ApJ...913..115A](http://adsabs.harvard.edu/abs/2021ApJ...913..115A) | [data files](2021/2021ApJ...913..115A) |
 |3C 264.0 / VER J1145+196 | VERITAS Discovery of VHE Emission from the Radio Galaxy 3C 264: A Multiwavelength Study | [2020ApJ...896...41A](http://adsabs.harvard.edu/abs/2020ApJ...896...41A) | [data files](2020/2020ApJ...896...41A) |
 |Cassiopeia A / VER J2323+588 | Evidence for Proton Acceleration up to TeV Energies Based on VERITAS and Fermi-LAT Observations of the Cas A SNR | [2020ApJ...894...51A](http://adsabs.harvard.edu/abs/2020ApJ...894...51A) | [data files](2020/2020ApJ...894...51A) |
 |1ES 1215+303 / VER J1217+301 | A Decade of Multiwavelength Observations of the TeV Blazar 1ES 1215+303: Extreme Shift of the Synchrotron Peak Frequency and Long-term Optical-Gamma-Ray Flux Increase | [2020ApJ...891..170V](http://adsabs.harvard.edu/abs/2020ApJ...891..170V) | [data files](2020/2020ApJ...891..170V) |
