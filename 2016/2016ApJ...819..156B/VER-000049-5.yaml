@@ -5,7 +5,7 @@ telescope: veritas
 file_id: 5
 
 data:
-  livetime: 89m
+  livetime: 89min
   significance: 22.7
 
 flux:
