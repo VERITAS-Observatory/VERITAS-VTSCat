@@ -4,7 +4,7 @@ reference_id: 2011ApJ...733...96A
 telescope: veritas
 
 data:
-  livetime: 1420m
+  livetime: 1420min
   significance: -1.5
   non: 86
   noff: 801
