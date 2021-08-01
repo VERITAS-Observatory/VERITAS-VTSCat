@@ -1,0 +1,11 @@
+---
+source_id: 100198
+common_name: PSR J1740+1000
+other_names: []
+where: gal
+pos:
+  simbad_id: PSR J1740+1000
+  ra: 265.107940
+  dec: 10.001680
+reference_id:
+  - 2021arXiv210513911B
