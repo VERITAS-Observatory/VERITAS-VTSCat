@@ -4,7 +4,7 @@ reference_id: 2009ApJ...707..612A
 telescope: veritas
 
 data:
-  livetime: 200.4m
+  livetime: 200.4min
 
 pos:
   ra: {val: 12h21m59s, err: 0h0m31s, err_sys: 50s}
