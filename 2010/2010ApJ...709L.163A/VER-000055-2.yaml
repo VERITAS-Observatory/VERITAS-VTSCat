@@ -6,7 +6,7 @@ telescope: veritas
 description: "low state 2008/2009"
 
 data:
-  livetime: 1436m
+  livetime: 1436min
 
 spec:
   erange: {min: 0.175, max: 2.0, unit: TeV}
