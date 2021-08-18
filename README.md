@@ -53,9 +53,10 @@ For a detailed description of data formats, file types, keywords, and spectral m
 
 | Object | Publication Title | ADS Reference | Repository |
 |---|---|---|---|
-|PSR B0355+54 | A Search for TeV Gamma-ray Emission from Pulsar Tails by VERITAS | [2021arXiv210513911B](http://adsabs.harvard.edu/abs/2021arXiv210513911B) | [data files](2021/2021arXiv210513911B) |
-|PSR J0357+32 | A Search for TeV Gamma-ray Emission from Pulsar Tails by VERITAS | [2021arXiv210513911B](http://adsabs.harvard.edu/abs/2021arXiv210513911B) | [data files](2021/2021arXiv210513911B) |
-|PSR J1740+1000 | A Search for TeV Gamma-ray Emission from Pulsar Tails by VERITAS | [2021arXiv210513911B](http://adsabs.harvard.edu/abs/2021arXiv210513911B) | [data files](2021/2021arXiv210513911B) |
+| x | An Archival Search for Neutron-Star Mergers in Gravitational Waves and Very-High-Energy Gamma Rays | [2021arXiv210601386A](http://adsabs.harvard.edu/abs/2021arXiv210601386A) | [data files](2021/2021arXiv210601386A) |
+|PSR B0355+54 | A Search for TeV Gamma-Ray Emission from Pulsar Tails by VERITAS | [2021ApJ...916..117B](http://adsabs.harvard.edu/abs/2021ApJ...916..117B) | [data files](2021/2021ApJ...916..117B) |
+|PSR J0357+32 | A Search for TeV Gamma-Ray Emission from Pulsar Tails by VERITAS | [2021ApJ...916..117B](http://adsabs.harvard.edu/abs/2021ApJ...916..117B) | [data files](2021/2021ApJ...916..117B) |
+|PSR J1740+1000 | A Search for TeV Gamma-Ray Emission from Pulsar Tails by VERITAS | [2021ApJ...916..117B](http://adsabs.harvard.edu/abs/2021ApJ...916..117B) | [data files](2021/2021ApJ...916..117B) |
 |Galactic Centre / VER J1745-290 | VERITAS Observations of the Galactic Center Region at Multi-TeV Gamma-Ray Energies | [2021ApJ...913..115A](http://adsabs.harvard.edu/abs/2021ApJ...913..115A) | [data files](2021/2021ApJ...913..115A) |
 |SNR G0.9+0.1 / VER J1747-281 | VERITAS Observations of the Galactic Center Region at Multi-TeV Gamma-Ray Energies | [2021ApJ...913..115A](http://adsabs.harvard.edu/abs/2021ApJ...913..115A) | [data files](2021/2021ApJ...913..115A) |
 |VER J1746-289 / VER J1746-289 | VERITAS Observations of the Galactic Center Region at Multi-TeV Gamma-Ray Energies | [2021ApJ...913..115A](http://adsabs.harvard.edu/abs/2021ApJ...913..115A) | [data files](2021/2021ApJ...913..115A) |
@@ -302,9 +303,9 @@ For a detailed description of data formats, file types, keywords, and spectral m
 | 100193 | (not detected) | RGB J1058+564 | 164.657199 | 56.46978 | [2012ApJ...759..102A](2012/2012ApJ...759..102A)
 | 100194 | (not detected) | RGB J1243+364 | 190.803067 | 36.462222 | [2012ApJ...759..102A](2012/2012ApJ...759..102A)
 | 100195 | (not detected) | RX J1436.9+5639 | 219.240498 | 56.656905 | [2012ApJ...759..102A](2012/2012ApJ...759..102A)
-| 100196 | (not detected) | PSR B0355+54 | 59.723819 | 54.22048 | [2021arXiv210513911B](2021/2021arXiv210513911B)
-| 100197 | (not detected) | PSR J0357+32 | 59.467338 | 32.089897 | [2021arXiv210513911B](2021/2021arXiv210513911B)
-| 100198 | (not detected) | PSR J1740+1000 | 265.10794 | 10.00168 | [2021arXiv210513911B](2021/2021arXiv210513911B)
+| 100196 | (not detected) | PSR B0355+54 | 59.723819 | 54.22048 | [2021ApJ...916..117B](2021/2021ApJ...916..117B)
+| 100197 | (not detected) | PSR J0357+32 | 59.467338 | 32.089897 | [2021ApJ...916..117B](2021/2021ApJ...916..117B)
+| 100198 | (not detected) | PSR J1740+1000 | 265.10794 | 10.00168 | [2021ApJ...916..117B](2021/2021ApJ...916..117B)
 | 300000 | (charged particle) | electron | 265.10794 | 10.00168 | [2018PhRvD..98f2004A](2018/2018PhRvD..98f2004A)
 | 300026 | (charged particle) | iron | 265.10794 | 10.00168 | [2018PhRvD..98b2009A](2018/2018PhRvD..98b2009A)
 
