@@ -1,8 +1,8 @@
 ---
 source_id: 165
-common_name: VER J1746  -289
+common_name: VER J1746-289
 veritas_name:
-  name: VER J1746  -289
+  name: VER J1746-289
   components: null
 other_names:
   - Arc source
@@ -11,8 +11,9 @@ other_names:
   - MAGIC J1746.4-2853
 where: gal
 pos:
-  simbad_id: VER J1746  -289
+  simbad_id: VER J1746-289
   ra: 266.5821
   dec: -28.966226
 reference_id:
   - 2016ApJ...821..129A
+  - 2021ApJ...913..115A

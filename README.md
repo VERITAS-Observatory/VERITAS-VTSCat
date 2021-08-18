@@ -3,15 +3,15 @@
 1. [ Introduction. ](#intro)
 2. [ Organisation and data format. ](#formats)
 3. [ Publications. ](#publications)
-3. [ Licence. ](#licence)
+4. [ Sources and Targets. ](#sources)
+5. [ Licence. ](#licence)
 
 <a name="intro"></a>
 ## Introduction
 
 **VTSCat** is the catalog of high-level data products from all publications of the [VERITAS collaboration](https://veritas.sao.arizona.edu/).
 
-VTSCat is currently in the pre-release state and tested. Please checkout [this branch](https://github.com/VERITAS-Observatory/VERITAS-VTSCat/tree/pre-release-v01a) for the data files.
-
+VTSCat is currently in the pre-release state and tested. Please checkout [this branch](https://github.com/VERITAS-Observatory/VERITAS-VTSCat/tree/pre-release-v03a) for the data files.
 
 The **VTSCat** data collection contains:
 
@@ -53,6 +53,14 @@ For a detailed description of data formats, file types, keywords, and spectral m
 
 | Object | Publication Title | ADS Reference | Repository |
 |---|---|---|---|
+| x | An Archival Search for Neutron-Star Mergers in Gravitational Waves and Very-High-Energy Gamma Rays | [2021arXiv210601386A](http://adsabs.harvard.edu/abs/2021arXiv210601386A) | [data files](2021/2021arXiv210601386A) |
+|PSR B0355+54 | A Search for TeV Gamma-Ray Emission from Pulsar Tails by VERITAS | [2021ApJ...916..117B](http://adsabs.harvard.edu/abs/2021ApJ...916..117B) | [data files](2021/2021ApJ...916..117B) |
+|PSR J0357+32 | A Search for TeV Gamma-Ray Emission from Pulsar Tails by VERITAS | [2021ApJ...916..117B](http://adsabs.harvard.edu/abs/2021ApJ...916..117B) | [data files](2021/2021ApJ...916..117B) |
+|PSR J1740+1000 | A Search for TeV Gamma-Ray Emission from Pulsar Tails by VERITAS | [2021ApJ...916..117B](http://adsabs.harvard.edu/abs/2021ApJ...916..117B) | [data files](2021/2021ApJ...916..117B) |
+|Galactic Centre / VER J1745-290 | VERITAS Observations of the Galactic Center Region at Multi-TeV Gamma-Ray Energies | [2021ApJ...913..115A](http://adsabs.harvard.edu/abs/2021ApJ...913..115A) | [data files](2021/2021ApJ...913..115A) |
+|SNR G0.9+0.1 / VER J1747-281 | VERITAS Observations of the Galactic Center Region at Multi-TeV Gamma-Ray Energies | [2021ApJ...913..115A](http://adsabs.harvard.edu/abs/2021ApJ...913..115A) | [data files](2021/2021ApJ...913..115A) |
+|VER J1746-289 / VER J1746-289 | VERITAS Observations of the Galactic Center Region at Multi-TeV Gamma-Ray Energies | [2021ApJ...913..115A](http://adsabs.harvard.edu/abs/2021ApJ...913..115A) | [data files](2021/2021ApJ...913..115A) |
+|GC diffuse ridge / VER J1746-286 | VERITAS Observations of the Galactic Center Region at Multi-TeV Gamma-Ray Energies | [2021ApJ...913..115A](http://adsabs.harvard.edu/abs/2021ApJ...913..115A) | [data files](2021/2021ApJ...913..115A) |
 |3C 264.0 / VER J1145+196 | VERITAS Discovery of VHE Emission from the Radio Galaxy 3C 264: A Multiwavelength Study | [2020ApJ...896...41A](http://adsabs.harvard.edu/abs/2020ApJ...896...41A) | [data files](2020/2020ApJ...896...41A) |
 |Cassiopeia A / VER J2323+588 | Evidence for Proton Acceleration up to TeV Energies Based on VERITAS and Fermi-LAT Observations of the Cas A SNR | [2020ApJ...894...51A](http://adsabs.harvard.edu/abs/2020ApJ...894...51A) | [data files](2020/2020ApJ...894...51A) |
 |1ES 1215+303 / VER J1217+301 | A Decade of Multiwavelength Observations of the TeV Blazar 1ES 1215+303: Extreme Shift of the Synchrotron Peak Frequency and Long-term Optical-Gamma-Ray Flux Increase | [2020ApJ...891..170V](http://adsabs.harvard.edu/abs/2020ApJ...891..170V) | [data files](2020/2020ApJ...891..170V) |
@@ -205,6 +213,101 @@ For a detailed description of data formats, file types, keywords, and spectral m
 |W Comae / VER J1221+282 | VERITAS Discovery of &gt;200 GeV Gamma-Ray Emission from the Intermediate-Frequency-Peaked BL Lacertae Object W Comae | [2008ApJ...684L..73A](http://adsabs.harvard.edu/abs/2008ApJ...684L..73A) | [data files](2008/2008ApJ...684L..73A) |
 |LS I +61 303 / VER J0240+612 | VERITAS Observations of the γ-Ray Binary LS I +61 303 | [2008ApJ...679.1427A](http://adsabs.harvard.edu/abs/2008ApJ...679.1427A) | [data files](2008/2008ApJ...679.1427A) |
 |M 87 / VER J1230+123 | Observation of Gamma-Ray Emission from the Galaxy M87 above 250 GeV with VERITAS | [2008ApJ...679..397A](http://adsabs.harvard.edu/abs/2008ApJ...679..397A) | [data files](2008/2008ApJ...679..397A) |
+
+<a name="sources"></a>
+# Source and Target List
+
+| ID | VERITAS Name | Common Name | ra (deg) | dec (deg) | Reference(s) |
+|:--|:--|:--|:--|:--|:--|
+| 1 | VER J0006+729 | CTA 1 | 1.65 | 72.783 | [2013ApJ...764...38A](2013/2013ApJ...764...38A)
+| 3 | VER J0025+641 | Tycho SNR | 6.3397 | 64.1408 | [2011ApJ...730L..20A](2011/2011ApJ...730L..20A)
+| 7 | VER J0136+390 | RGB J0136+391 | 24.1358267 | 39.0997773 | [2012ApJ...759..102A](2012/2012ApJ...759..102A)
+| 11 | VER J0222+430 | 3C 66A | 35.66505 | 43.0355222 | [2009ApJ...693L.104A](2009/2009ApJ...693L.104A)
+| 13 | VER J0232+202 | 1ES 0229+200 | 38.202564 | 20.2881899 | [2014ApJ...782...13A](2014/2014ApJ...782...13A)
+| 14 | VER J0240+612 | LS I +61 303 | 40.131938163 | 61.229336515 | [2008ApJ...679.1427A](2008/2008ApJ...679.1427A)
+| 17 | VER J0319+187 | RBS 0413 | 49.96585 | 18.7595556 | [2012ApJ...750...94A](2012/2012ApJ...750...94A)
+| 18 | VER J0319+415 | NGC 1275 | 49.950667083 | 41.511695306 | [2009ApJ...706L.275A](2009/2009ApJ...706L.275A)
+| 20 | VER J0416+011 | 1ES 0414+009 | 64.2187375 | 1.0899944 | [2012ApJ...755..118A](2012/2012ApJ...755..118A)
+| 22 | VER J0507+676 | 1ES 0502+675 | 76.9840583 | 67.6234056 | [2019ApJ...885..150A](2019/2019ApJ...885..150A)
+| 23 | VER J0521+211 | RGB J0521+212 | 80.4415375 | 21.2142722 | [2013ApJ...776...69A](2013/2013ApJ...776...69A)
+| 25 | VER J0534+220 | Crab nebula | 83.633083 | 22.0145 | [2012ApJ...760..136A](2012/2012ApJ...760..136A)
+| 29 | VER J0616+223 | IC 443 | 94.51125 | 22.66 | [2009ApJ...698L.133A](2009/2009ApJ...698L.133A)
+| 30 | VER J0633+057 | HESS J0632+057 | 98.24689375 | 5.80032722 | [2009ApJ...698L..94A](2009/2009ApJ...698L..94A)
+| 32 | VER J0648+152 | RX J0648.7+1516 | 102.1984875 | 15.2735722 | [2011ApJ...742..127A](2011/2011ApJ...742..127A)
+| 34 | VER J0710+591 | RGB J0710+591 | 107.625325 | 59.1390278 | [2010ApJ...715L..49A](2010/2010ApJ...715L..49A)
+| 36 | VER J0809+523 | 1ES 0806+524 | 122.454944708 | 52.31618075 | [2009ApJ...690L.126A](2009/2009ApJ...690L.126A)
+| 40 | VER J0955+696 | M 82 | 148.9684583 | 69.6797028 | [2009Natur.462..770V](2009/2009Natur.462..770V)
+| 43 | VER J1015+494 | 1ES 1011+496 | 153.767249167 | 49.433529083 | [2019ApJ...885..150A](2019/2019ApJ...885..150A)
+| 49 | VER J1104+382 | Markarian 421 | 166.113808083 | 38.208833083 | [2009ApJ...703..169A](2009/2009ApJ...703..169A)
+| 53 | VER J1217+301 | 1ES 1215+303 | 184.46700833 | 30.11684333 | [2013ApJ...779...92A](2013/2013ApJ...779...92A)
+| 54 | VER J1221+282 | W Comae | 185.382043833 | 28.232916722 | [2008ApJ...684L..73A](2008/2008ApJ...684L..73A)
+| 55 | VER J1221+301 | 1ES 1218+304 | 185.3414278125 | 30.1769891083 | [2009ApJ...695.1370A](2009/2009ApJ...695.1370A)
+| 57 | VER J1224+246 | MS1221.8+2452 | 186.100775925 | 24.6065282556 | [2019ApJ...885..150A](2019/2019ApJ...885..150A)
+| 58 | VER J1230+123 | M 87 | 187.70593075 | 12.391123306 | [2008ApJ...679..397A](2008/2008ApJ...679..397A)
+| 67 | VER J1427+237 | PKS 1424+240 | 216.751632458 | 23.800010444 | [2010ApJ...708L.100A](2010/2010ApJ...708L.100A)
+| 69 | VER J1428+426 | H 1426+428 | 217.1358706208 | 42.6725130889 | [2019ApJ...885..150A](2019/2019ApJ...885..150A)
+| 71 | VER J1443+120 | 1ES 1440+122 | 220.701152425 | 12.0112152417 | [2016MNRAS.461..202A](2016/2016MNRAS.461..202A)
+| 82 | VER J1555+111 | PG 1553+113 | 238.92935 | 11.19010167 | [2015ApJ...799....7A](2015/2015ApJ...799....7A)
+| 91 | VER J1653+397 | Markarian 501 | 253.4675695 | 39.760169139 | [2011ApJ...727..129A](2011/2011ApJ...727..129A)
+| 101 | VER J1728+502 | 1ES 1727+502 | 262.07759958 | 50.219575 | [2015ApJ...808..110A](2015/2015ApJ...808..110A)
+| 105 | VER J1744+195 | 1ES 1741+196 | 265.99096917 | 19.58583806 | [2016MNRAS.459.2550A](2016/2016MNRAS.459.2550A)
+| 106 | VER J1745-290 | Galactic Centre | 266.416833 | -29.007806 | [2014ApJ...790..149A](2014/2014ApJ...790..149A),[2021ApJ...913..115A](2021/2021ApJ...913..115A)
+| 110 | VER J1747-281 | SNR G0.9+0.1 | 266.825 | -28.15 | [2016ApJ...821..129A](2016/2016ApJ...821..129A),[2021ApJ...913..115A](2021/2021ApJ...913..115A)
+| 118 | VER J1825-138 | HESS J1825-137 | 276.55441 | -13.58004 | [2020APh...11702403A](2020/2020APh...11702403A)
+| 119 | VER J1826-148 | LS 5039 | 276.5627375 | -14.8484056 | [2020APh...11702403A](2020/2020APh...11702403A)
+| 132 | VER J1907+062 | MGRO J1908+06 | 287.175 | 6.183 | [2014ApJ...787..166A](2014/2014ApJ...787..166A)
+| 136 | VER J1930+188 | SNR G054.1+00.3 | 292.6292 | 18.867 | [2010ApJ...719L..69A](2010/2010ApJ...719L..69A)
+| 137 | VER J1943+213 | HESS J1943+213 | 295.9792 | 21.30222 | [2018ApJ...862...41A](2018/2018ApJ...862...41A)
+| 138 | VER J1959+651 | 1ES 1959+650 | 299.99938375 | 65.14851472 | [2013ApJ...775....3A](2013/2013ApJ...775....3A)
+| 141 | VER J2016+371 | VER J2016+371 | 304.0076 | 37.21476 | [2014ApJ...788...78A](2014/2014ApJ...788...78A)
+| 143 | VER J2019+368 | VER J2019+368 | 304.0083 | 37.19778 | [2014ApJ...788...78A](2014/2014ApJ...788...78A)
+| 144 | VER J2019+407 | Gamma Cygni | 305.557090982 | 40.256679158 | [2013ApJ...770...93A](2013/2013ApJ...770...93A)
+| 146 | VER J2031+415 | TeV J2032+4130 | 308.025 | 41.567 | [2014ApJ...783...16A](2014/2014ApJ...783...16A)
+| 148 | VER J2202+422 | BL Lacertae | 330.680380792 | 42.277772306 | [2013ApJ...762...92A](2013/2013ApJ...762...92A)
+| 149 | VER J2227+608 | SNR G106.3+02.7 | 336.88 | 60.83 | [2009ApJ...703L...6A](2009/2009ApJ...703L...6A)
+| 153 | VER J2323+588 | Cassiopeia A | 350.85 | 58.815 | [2010ApJ...714..163A](2010/2010ApJ...714..163A)
+| 154 | VER J2347+517 | 1ES 2344+514 | 356.770153 | 51.704967 | [2011ApJ...738..169A](2011/2011ApJ...738..169A)
+| 165 | VER J1746-289 | VER J1746-289 | 266.5821 | -28.966226 | [2016ApJ...821..129A](2016/2016ApJ...821..129A),[2021ApJ...913..115A](2021/2021ApJ...913..115A)
+| 166 | VER J0534+220 | Crab pulsar | 83.63307625 | 22.014493278 | [2011Sci...334...69V](2011/2011Sci...334...69V)
+| 167 | VER J1443+250 | PKS 1441+25 | 220.987051 | 25.029025 | [2015ApJ...815L..22A](2015/2015ApJ...815L..22A)
+| 168 | VER J0509+057 | TXS 0506+056 | 77.358186 | 5.693148 | [2018ApJ...861L..20A](2018/2018ApJ...861L..20A)
+| 170 | VER J2018+367 | VER J2018+367 | 304.5 | 36.7 | [2018ApJ...861..134A](2018/2018ApJ...861..134A)
+| 171 | VER J2020+368 | VER J2020+368 | 305.0 | 36.8 | [2018ApJ...861..134A](2018/2018ApJ...861..134A)
+| 172 | VER J1952+293 | DA 495 | 298.05708 | 29.41889 | [2018ApJ...866...24A](2018/2018ApJ...866...24A)
+| 173 | VER J1145+196 | 3C 264.0 | 176.270871 | 19.606317 | [2020ApJ...896...41A](2020/2020ApJ...896...41A)
+| 174 | VER J2032+414 | PSR J2032+4127/MT91 213 | 308.054687 | 41.456762 | [2018ApJ...867L..19A](2018/2018ApJ...867L..19A)
+| 175 | VER J1746-286 | GC diffuse ridge | 308.054687 | 41.456762 | [2021ApJ...913..115A](2021/2021ApJ...913..115A)
+| 100168 | (not detected) | V* V404 Cyg | 306.015917 | 33.867194 | [2016ApJ...831..113A](2016/2016ApJ...831..113A)
+| 100169 | (not detected) | V* V635 Cas | 19.6325 | 63.7425 | [2016ApJ...831..113A](2016/2016ApJ...831..113A)
+| 100171 | (not detected) | Cyg X-3 | 308.10742 | 40.95775 | [2013ApJ...779..150A](2013/2013ApJ...779..150A)
+| 100172 | (not detected) | GRB 150323A | 128.178083 | 45.464639 | [2018ApJ...857...33A](2018/2018ApJ...857...33A)
+| 100173 | (not detected) | Segue 1 | 151.7633 | 16.0736 | [2012PhRvD..85f2001A](2012/2012PhRvD..85f2001A)
+| 100174 | (not detected) | Draco | 260.059728 | 57.921219 | [2010ApJ...720.1174A](2010/2010ApJ...720.1174A)
+| 100175 | (not detected) | Ursa Minor | 227.29725 | 67.214361 | [2010ApJ...720.1174A](2010/2010ApJ...720.1174A)
+| 100176 | (not detected) | Bootes 1 | 210.0 | 14.5 | [2010ApJ...720.1174A](2010/2010ApJ...720.1174A)
+| 100177 | (not detected) | Willman 1 | 162.3375 | 51.05 | [2010ApJ...720.1174A](2010/2010ApJ...720.1174A)
+| 100178 | (not detected) | PSR J1023+0038 | 155.948683 | 0.644724 | [2016ApJ...831..193A](2016/2016ApJ...831..193A)
+| 100179 | (not detected) | LB 2136 | 178.351944 | 49.51912 | [2016JInst..1111009I](2016/2016JInst..1111009I)
+| 100180 | (not detected) | Geminga pulsar | 98.4756375 | 17.7702528 | [2015ApJ...800...61A](2015/2015ApJ...800...61A)
+| 100181 | (not detected) | PMN J0948+0022 | 147.238835 | 0.373767 | [2015MNRAS.446.2456D](2015/2015MNRAS.446.2456D)
+| 100182 | (not detected) | GRB 130427A | 173.139 | 27.692 | [2014ApJ...795L...3A](2014/2014ApJ...795L...3A)
+| 100183 | (not detected) | V407 Cyg | 315.540906 | 45.77576 | [2012ApJ...754...77A](2012/2012ApJ...754...77A)
+| 100184 | (not detected) | Coma Cluster | 194.95291667 | 27.98055556 | [2012ApJ...757..123A](2012/2012ApJ...757..123A)
+| 100185 | (not detected) | NGC 4889 | 195.0337375 | 27.977025 | [2012ApJ...757..123A](2012/2012ApJ...757..123A)
+| 100186 | (not detected) | NGC 4874 | 194.8987875 | 27.95938889 | [2012ApJ...757..123A](2012/2012ApJ...757..123A)
+| 100187 | (not detected) | NGC 4921 | 195.35884167 | 27.88600861 | [2012ApJ...757..123A](2012/2012ApJ...757..123A)
+| 100189 | (not detected) | 1A 0535+262 | 84.727396 | 26.315789 | [2011ApJ...733...96A](2011/2011ApJ...733...96A)
+| 100190 | (not detected) | SWIFT J164449.3+573451 | 251.205 | 57.581 | [2011ApJ...738L..30A](2011/2011ApJ...738L..30A)
+| 100191 | (not detected) | RGB J0316+090 | 49.053054 | 9.078744 | [2012ApJ...759..102A](2012/2012ApJ...759..102A)
+| 100192 | (not detected) | RGB J0909+231 | 137.252606 | 23.186938 | [2012ApJ...759..102A](2012/2012ApJ...759..102A)
+| 100193 | (not detected) | RGB J1058+564 | 164.657199 | 56.46978 | [2012ApJ...759..102A](2012/2012ApJ...759..102A)
+| 100194 | (not detected) | RGB J1243+364 | 190.803067 | 36.462222 | [2012ApJ...759..102A](2012/2012ApJ...759..102A)
+| 100195 | (not detected) | RX J1436.9+5639 | 219.240498 | 56.656905 | [2012ApJ...759..102A](2012/2012ApJ...759..102A)
+| 100196 | (not detected) | PSR B0355+54 | 59.723819 | 54.22048 | [2021ApJ...916..117B](2021/2021ApJ...916..117B)
+| 100197 | (not detected) | PSR J0357+32 | 59.467338 | 32.089897 | [2021ApJ...916..117B](2021/2021ApJ...916..117B)
+| 100198 | (not detected) | PSR J1740+1000 | 265.10794 | 10.00168 | [2021ApJ...916..117B](2021/2021ApJ...916..117B)
+| 300000 | (charged particle) | electron | 265.10794 | 10.00168 | [2018PhRvD..98f2004A](2018/2018PhRvD..98f2004A)
+| 300026 | (charged particle) | iron | 265.10794 | 10.00168 | [2018PhRvD..98b2009A](2018/2018PhRvD..98b2009A)
 
 <a name="licence"></a>
 

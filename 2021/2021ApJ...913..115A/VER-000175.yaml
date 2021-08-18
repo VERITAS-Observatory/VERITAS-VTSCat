@@ -1,0 +1,21 @@
+---
+source_id: 175
+reference_id: 2021ApJ...913..115A
+telescope: veritas
+
+data:
+  livetime: 125.h
+  significance: 9.5
+  excess: 468
+
+spec:
+  erange: {min: 2., max: 20., unit: TeV}
+  # 7 circular regions of radius 0.1d
+  model:
+    type: pl
+    parameters:
+      norm: {val: 3.44, err: 0.62, scale: 1e-14, unit: cm-2 s-1 TeV-1}
+      index: {val: 2.19, err: 0.20}
+      e_ref: {val: 5.3, unit: TeV}
+      chi2: {val: 6.03}
+      ndof: {val: 5}

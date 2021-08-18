@@ -1,0 +1,25 @@
+---
+reference_id: 2021ApJ...913..115A
+source_id: [106,110,165,175]
+file_id: 1
+telescope: [veritas]
+
+datasets:
+  - VER-000106-1.yaml
+  - VER-000106-lc-1.ecsv
+  - VER-000106-lc-2.ecsv
+  - VER-000106-lc-3.ecsv
+  - VER-000106-sed.ecsv
+  - VER-000106-excess-skymap.fits
+  - VER-000106-signif-skymap-1.fits
+  - VER-000106-signif-skymap-2.fits
+  - VER-000110.yaml
+  - VER-000110-sed.ecsv
+  - VER-000165.yaml
+  - VER-000165-sed.ecsv
+  - VER-000175.yaml
+  - VER-000175-sed.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

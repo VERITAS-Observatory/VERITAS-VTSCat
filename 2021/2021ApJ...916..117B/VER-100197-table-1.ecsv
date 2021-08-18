@@ -1,0 +1,24 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: cut_type, datatype: string}
+# - {name: theta, unit: deg, datatype: float32}
+# - {name: e_min, unit: TeV, datatype: float32}
+# - {name: significance, datatype: float32}
+# - {name: flux_ul, unit: 1e-13 cm-2 s-1, datatype: float32}
+# meta: !!omap
+# - reference_id: 2021ApJ...916..117B
+# - file_id: 1
+# - source_id: 100197
+# - telescope: veritas
+# - UL_CONF: 0.95
+# - comments: |
+#     Table 2
+#     Results for PSR J0357+3205
+cut_type theta e_min significance flux_ul
+hard      0.100      417      0.2      6.2
+hard       0.235      417      2.4      33.9
+moderate    0.100      219      1.0      24.5
+moderate    0.235      219      1.0      68.4
+soft       0.173      151      0.2      50.4
+soft       0.235      151      0.7      59.3

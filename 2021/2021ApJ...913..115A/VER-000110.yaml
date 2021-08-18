@@ -1,0 +1,25 @@
+---
+source_id: 110
+reference_id: 2021ApJ...913..115A
+telescope: veritas
+
+data:
+  livetime: 125.h
+  significance: 8.
+  excess: 164
+
+pos:
+  glon: {val: 0.857d, err: 0.03d, err_sys: 0.013d}
+  glat: {val: 0.069d, err: 0.03d, err_sys: 0.013d}
+
+spec:
+  erange: {min: 2., max: 20., unit: TeV}
+  theta: 0.1d
+  model:
+    type: pl
+    parameters:
+      norm: {val: 1.51, err: 0.30, scale: 1e-14, unit: cm-2 s-1 TeV-1}
+      index: {val: 2.00, err: 0.28}
+      e_ref: {val: 5.3, unit: TeV}
+      chi2: {val: 2.28}
+      ndof: {val: 3}

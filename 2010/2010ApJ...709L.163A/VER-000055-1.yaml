@@ -6,7 +6,7 @@ telescope: veritas
 description: "average 2008/2009"
 
 data:
-  livetime: 1631m
+  livetime: 1631min
   significance: 21.8
   excess: 1155
 

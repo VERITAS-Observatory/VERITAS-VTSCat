@@ -1,0 +1,25 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float32}
+# - {name: e_min, unit: TeV, datatype: float32}
+# - {name: e_max, unit: TeV, datatype: float32}
+# - {name: dnde, unit: cm-2 s-1 TeV-1, datatype: float32}
+# - {name: dnde_err, unit: cm-2 s-1 TeV-1, datatype: float32}
+# - {name: significance, datatype: float32}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 175
+# - reference_id: 2021ApJ...913..115A
+# - telescope: veritas
+# - UL_CONF: 0.95
+# - comments: |
+#       Fig 5, Table A2
+e_ref e_min e_max dnde dnde_err significance
+2.51 2.00 3.16 1.2e-13 7.4e-14 7.60
+3.97 3.16 5.01 7.2e-14 2.2e-14 7.46
+6.30 5.01 7.94 3.5e-14 0.9e-14 7.44
+9.98 7.94 12.6 5.5e-15 4.1e-15 3.31
+15.8 12.6 20.0 6.4e-16 17.8e-16 1.77
+25.1 20.0 31.6 1.9e-15 8.1e-16 3.71
+39.7 31.6 50.1 4.1e-16 2.6e-16 2.24

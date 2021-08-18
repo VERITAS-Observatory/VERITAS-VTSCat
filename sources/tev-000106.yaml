@@ -2,7 +2,7 @@
 source_id: 106
 common_name: Galactic Centre
 veritas_name:
-  name: VER J1745  -290
+  name: VER J1745-290
   components: null
 other_names:
   - Sgr A*
@@ -15,3 +15,4 @@ pos:
   dec: -29.007806
 reference_id:
   - 2014ApJ...790..149A
+  - 2021ApJ...913..115A
