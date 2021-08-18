@@ -1,0 +1,24 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: cut_type, datatype: string}
+# - {name: theta, unit: deg, datatype: float32}
+# - {name: e_min, unit: TeV, datatype: float32}
+# - {name: e_max, unit: TeV, datatype: float32}
+# - {name: flux_ul, unit: 1e-13 cm-2 s-1, datatype: float32}
+# meta: !!omap
+# - reference_id: 2021ApJ...916..117B
+# - file_id: 2
+# - source_id: 100196
+# - telescope: veritas
+# - UL_CONF: 0.95
+# - comments: |
+#     Table 3
+#     Results for PSR B0355+54
+cut_type theta e_min e_max flux_ul
+hard      0.100   1.  10.  1.2
+hard       0.235   1.   10.    2.6
+moderate    0.100   1.  10.    0.65
+moderate    0.235   1.  10.    0.95
+soft       0.173   1.  10.    0.25
+soft       0.235   1.  10.    0.30
