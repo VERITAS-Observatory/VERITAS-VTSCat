@@ -1,0 +1,12 @@
+---
+reference_id: 2021arXiv210601386A
+file_id: 1
+telescope: [veritas]
+
+datasets:
+  - VER-BNS-MergeCandidates-table-1.ecsv
+  - VER-Results-table-2.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true
