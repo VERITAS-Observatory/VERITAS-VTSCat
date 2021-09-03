@@ -6,8 +6,8 @@
 # - {name: time_max, unit: MJD, datatype: float64}
 # - {name: eflux_ul, datatype: float32, unit: erg cm-2 s-1}
 # - {name: eflux, datatype: float32, unit: erg cm-2 s-1}
-# - {name: non, datatype: int}
-# - {name: noff, datatype: int}
+# - {name: non, datatype: int64}
+# - {name: noff, datatype: int64}
 # - {name: alpha, datatype: float32}
 # - {name: significance, datatype: float32}
 # meta: !!omap

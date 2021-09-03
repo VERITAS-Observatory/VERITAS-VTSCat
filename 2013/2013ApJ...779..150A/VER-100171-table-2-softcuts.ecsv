@@ -5,8 +5,8 @@
 # - {name: live_time, unit: h, datatype: float32}
 # - {name: el_min, unit: d, datatype: float32, description: min elevation}
 # - {name: el_max, unit: d, datatype: float32, description: max elevation}
-# - {name: non, datatype: int, description: signal region events}
-# - {name: noff, datatype: int, description: background events}
+# - {name: non, datatype: int64, description: signal region events}
+# - {name: noff, datatype: int64, description: background events}
 # - {name: alpha, datatype: float32, description: normalisation factor}
 # - {name: nex, datatype: float32, description: excess events}
 # - {name: significance, datatype: float32}

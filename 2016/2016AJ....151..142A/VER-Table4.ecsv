@@ -3,8 +3,8 @@
 # datatype:
 # - {name: Name---, datatype: string}
 # - {name: sigma---, datatype: float64}
-# - {name: CntON---, datatype: int}
-# - {name: CntOFF---, datatype: int}
+# - {name: CntON---, datatype: int64}
+# - {name: CntOFF---, datatype: int64}
 # - {name: alpha---, datatype: float64}
 # - {name: EthTeV, datatype: float64}
 # - {name: EdecTeV, datatype: float64}

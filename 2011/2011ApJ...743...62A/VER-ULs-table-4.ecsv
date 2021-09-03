@@ -3,13 +3,13 @@
 # datatype:
 # - {name: source_name, datatype: string}
 # - {name: t_duration, unit: min, datatype: float64}
-# - {name: non_1, datatype: int, description: standard-source analysis}
-# - {name: noff_1, datatype: int, description: standard-source analysis}
+# - {name: non_1, datatype: int64, description: standard-source analysis}
+# - {name: noff_1, datatype: int64, description: standard-source analysis}
 # - {name: significance_1, datatype: float32, description: standard-source analysis}
 # - {name: e_min_1, unit: GeV, datatype: float64, description: standard-source analysis}
 # - {name: eflux_ul_1, unit: erg cm-2 s-1, datatype: float64, description: standard-source analysis}
-# - {name: non_2, datatype: int, description: soft-source analysis}
-# - {name: noff_2, datatype: int, description: soft-source analysis}
+# - {name: non_2, datatype: int64, description: soft-source analysis}
+# - {name: noff_2, datatype: int64, description: soft-source analysis}
 # - {name: significance_2, datatype: float32, description: soft-source analysis}
 # - {name: e_min_2, unit: GeV, datatype: float64, description: soft-source analysis}
 # - {name: eflux_ul_2, unit: erg cm-2 s-1, datatype: float64, description: soft-source analysis}
