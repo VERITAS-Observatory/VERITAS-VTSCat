@@ -6,15 +6,15 @@
 # - {name: gal_lat, unit: d, datatype: float64}
 # - {name: source_class, datatype: string}
 # - {name: live_time, unit: min, datatype: float64}
-# - {name: p_non, datatype: int, description: point-like}
-# - {name: p_noff, datatype: int, description: point-like}
+# - {name: p_non, datatype: int64, description: point-like}
+# - {name: p_noff, datatype: int64, description: point-like}
 # - {name: p_alpha, datatype: float32, description: point-like}
 # - {name: p_significance, datatype: float32, description: point-like}
 # - {name: p_e_min, unit: TeV, datatype: float64, description: point-like}
 # - {name: p_flux_ul, unit: 1e-9 m-2 s-1, datatype: float64, description: point-like}
 # - {name: p_diff_flux_ul, unit: TeV-1 m-2 s-1, datatype: float64, description: point-like}
-# - {name: e_non, datatype: int, description: extended-like}
-# - {name: e_noff, datatype: int, description: extended-like}
+# - {name: e_non, datatype: int64, description: extended-like}
+# - {name: e_noff, datatype: int64, description: extended-like}
 # - {name: e_alpha, datatype: float32, description: extended-like}
 # - {name: e_significance, datatype: float32, description: extended-like}
 # - {name: e_e_min, unit: TeV, datatype: float64, description: extended-like}

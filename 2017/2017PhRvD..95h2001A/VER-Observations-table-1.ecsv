@@ -1,7 +1,7 @@
 # %ECSV 0.9
 # ---
 # datatype:
-# - {name: source_id, datatype: int, description: "catalogue source ID"}
+# - {name: source_id, datatype: int64, description: "catalogue source ID"}
 # - {name: source_name, datatype: string}
 # - {name: ze_min, unit: deg,datatype: float32, description: zenith angle of observations (min)}
 # - {name: ze_max, unit: deg, datatype: float32, description: zenith angle of observations (max)}

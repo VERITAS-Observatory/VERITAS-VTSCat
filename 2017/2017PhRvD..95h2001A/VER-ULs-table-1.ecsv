@@ -1,10 +1,10 @@
 # %ECSV 0.9
 # ---
 # datatype:
-# - {name: source_id, datatype: int, description: "catalogue source ID"}
+# - {name: source_id, datatype: int64, description: "catalogue source ID"}
 # - {name: source_name, datatype: string}
-# - {name: non, datatype: int}
-# - {name: noff, datatype: int}
+# - {name: non, datatype: int64}
+# - {name: noff, datatype: int64}
 # - {name: alpha, datatype: float32}
 # - {name: significance, datatype: float32}
 # - {name: n_ul, datatype: float32}

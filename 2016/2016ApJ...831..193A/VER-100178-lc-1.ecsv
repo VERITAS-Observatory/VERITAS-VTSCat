@@ -7,8 +7,8 @@
 # - {name: live_time, unit: h, datatype: float64}
 # - {name: flux_ul, unit: cm-2 s-1, datatype: float64}
 # - {name: flux, unit: cm-2 s-1, datatype: float64}
-# - {name: non, datatype: int}
-# - {name: noff, datatype: int}
+# - {name: non, datatype: int64}
+# - {name: noff, datatype: int64}
 # - {name: alpha, datatype: float64}
 # meta: !!omap
 # - data_type: lc

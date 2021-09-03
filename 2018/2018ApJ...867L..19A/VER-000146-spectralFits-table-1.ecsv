@@ -1,7 +1,7 @@
 # %ECSV 0.9
 # ---
 # datatype:
-# - {name: fit_set, datatype: int, description: fit id}
+# - {name: fit_set, datatype: int64, description: fit id}
 # - {name: period_name, datatype: string}
 # - {name: model_components, datatype: string}
 # - {name: type, datatype: string, description: SED model type}

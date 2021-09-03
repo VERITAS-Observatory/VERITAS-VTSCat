@@ -5,7 +5,7 @@ other_names: []
 where: gal
 pos:
   simbad_id: PSR J1740+1000
-  ra: 265.107940
-  dec: 10.001680
+  ra: 265.10794
+  dec: 10.00168
 reference_id:
   - 2021ApJ...916..117B
