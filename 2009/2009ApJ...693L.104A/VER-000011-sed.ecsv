@@ -11,6 +11,7 @@
 # - source_id: 11
 # - reference_id: 2009ApJ...693L.104A
 # - telescope: veritas
+# - UL_CONF: nan
 # - mjd: {min: 54350., max: 54800.}
 # - {comments: no CL given in paper}
 e_ref dnde dnde_errn dnde_errp dnde_ul

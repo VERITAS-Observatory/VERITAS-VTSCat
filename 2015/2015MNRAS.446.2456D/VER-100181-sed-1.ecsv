@@ -10,6 +10,7 @@
 # - {source_id: 100181}
 # - {reference_id: 2015MNRAS.446.2456D}
 # - {telescope: veritas}
+# - UL_CONF: 0.95
 # - mjd: {max: 54476.0, min: 54377.0}
 # - {file_id: 1}
 e_ref dnde dnde_err dnde_ul

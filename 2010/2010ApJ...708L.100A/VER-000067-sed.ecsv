@@ -10,6 +10,7 @@
 # meta: !!omap
 # - data_type: sed
 # - source_id: 67
+# - UL_CONF: 0.95
 # - reference_id: 2010ApJ...708L.100A
 # - telescope: veritas
 e_ref e_min e_max dnde dnde_err dnde_ul

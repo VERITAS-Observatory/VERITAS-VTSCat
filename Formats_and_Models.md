@@ -93,9 +93,9 @@ Light-curve measurements are provided in ecsv files containing all the necessary
 | time_min/time_max | edges of time bin |
 | time_err | width of time bin |
 | e_min | minimum energy for flux integration |
-| flux | integral energy flux above e_min |
+| flux | integral photon flux above e_min |
 | flux_err/flux_errn/flux_errp | error (average/lower/upper) on integral photon flux |
-| flux_ul | upper limit on photon energy flux |
+| flux_ul | upper limit on integral photon flux |
 | eflux | integral energy flux above e_min |
 | eflux_err/eflux_errn/eflux_errp | error (average/lower/upper) on integral energy flux |
 | eflux_ul | upper limit on integral energy flux |
