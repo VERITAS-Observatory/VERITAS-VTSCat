@@ -1,0 +1,43 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64, description: energy threshold for flux calculation}
+# - {name: time_min, unit: MJD, datatype: float64, description: time interval (start)}
+# - {name: time_max, unit: MJD, datatype: float64, description: time interval (stop)}
+# - {name: flux, unit: 1e-11 cm-2 s-1, datatype: float64, description: photon flux}
+# - {name: flux_err, unit: 1e-11 cm-2 s-1, datatype: float64, description: symmetric 1-sigma photon flux error}
+# - {name: flux_ul, unit: 1e-11 cm-2 s-1, datatype: float64, description: photon flux upper limit}
+# meta: !!omap
+# - {data_type: lc}
+# - source_id: 100199
+# - reference_id: 2021arXiv211013181A
+# - telescope: veritas
+# - UL_CONF: 0.95
+# - comments: |
+#    Figure 3 and 13
+#    Upper limits calculated using Rolke et al (2005)
+e_min time_min time_max flux flux_err flux_ul
+0.2 56715.0 56716.0 nan nan 1.2894
+0.2 56721.0 56722.0 nan nan 1.4713
+0.2 56746.0 56747.0 nan nan 1.3244
+0.2 56747.0 56748.0 nan nan 0.76262
+0.2 56748.0 56749.0 nan nan 0.53891
+0.2 56749.0 56750.0 nan nan 0.52070
+0.2 56750.0 56751.0 nan nan 0.70206
+0.2 56751.0 56752.0 nan nan 0.66546
+0.2 56752.0 56753.0 nan nan 0.79170
+0.2 56753.0 56754.0 nan nan 0.64012
+0.2 56754.0 56755.0 nan nan 0.57111
+0.2 57189.0 57190.0 nan nan 0.66285
+0.2 58137.0 58138.0 nan nan 0.98268
+0.2 58140.0 58141.0 nan nan 0.79563
+0.2 58227.0 58228.0 nan nan 0.80915
+0.2 58272.0 58273.0 nan nan 1.0222
+0.2 58273.0 58274.0 nan nan 1.3550
+0.2 58274.0 58275.0 nan nan 1.2599
+0.2 58275.0 58276.0 nan nan 0.96938
+0.2 58276.0 58277.0 nan nan 0.27491
+0.2 58277.0 58278.0 nan nan 0.77609
+0.2 58278.0 58279.0 nan nan 1.6952
+0.2 58279.0 58280.0 nan nan 1.6700
+0.2 58280.0 58281.0 nan nan 0.71059

@@ -1,0 +1,18 @@
+---
+reference_id: 2021ApJ...911L..11E
+source_id: [58]
+telescope: [veritas, hess, magic, eavn]
+
+multiwavelength:
+  - content: [magic, hess, fermi-lat, eavn]
+  - availability: false
+  - status: false
+
+datasets:
+  - VER-000058.yaml
+  - VER-000058-lc-1.ecsv
+  - VER-000058-sed-1.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

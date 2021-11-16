@@ -34,12 +34,12 @@ Abeysekara, A. U. et al. (The VERITAS and MAGIC Collaborations), The Astrophysic
 
 ### Figures
 
-<img src="figures/2018ApJ...867L..19A-VER-174-5-sed.png" alt="drawing" width="400"/>
-<img src="figures/2018ApJ...867L..19A-VER-174-4-sed.png" alt="drawing" width="400"/>
+<img src="figures/2018ApJ...867L..19A-VER-174-1-lc.png" alt="drawing" width="400"/>
+<img src="figures/2018ApJ...867L..19A-VER-174-1-sed.png" alt="drawing" width="400"/>
 <img src="figures/2018ApJ...867L..19A-VER-174-2-lc.png" alt="drawing" width="400"/>
 <img src="figures/2018ApJ...867L..19A-VER-174-2-sed.png" alt="drawing" width="400"/>
 <img src="figures/2018ApJ...867L..19A-VER-174-3-sed.png" alt="drawing" width="400"/>
-<img src="figures/2018ApJ...867L..19A-VER-174-1-lc.png" alt="drawing" width="400"/>
-<img src="figures/2018ApJ...867L..19A-VER-174-1-sed.png" alt="drawing" width="400"/>
+<img src="figures/2018ApJ...867L..19A-VER-174-4-sed.png" alt="drawing" width="400"/>
+<img src="figures/2018ApJ...867L..19A-VER-174-5-sed.png" alt="drawing" width="400"/>
 
 

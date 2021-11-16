@@ -1,0 +1,30 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: Candidate_Label, datatype: string}
+# - {name: VTS_Target, datatype: string, description: VERITAS target}
+# - {name: live_time, datatype: string, description: observation live time}
+# - {name: flux240GeV_ul, unit: cm-2 s-1, datatype: float32, descrption: flux upper limit (E>240 GeV)}
+# - {name: e_min, unit: GeV, datatype: float32, description: energy threshold for flux upper limit calculation}
+# - {name: flux_ul, unit: cm-2 s-1, datatype: float32, descrption: flux upper limit}
+# meta: !!omap
+# - data_type: table
+# - reference_id: 2021arXiv210601386A
+# - file_id: 1
+# - telescope: veritas
+# - UL_CONF: 0.99
+# - comments: |
+#     Table 2
+#     UL Rolke Bounded
+Candidate_Label VTS_Target live_time flux240GeV_ul e_min flux_ul
+C1        "1ES 1959+650"         0:30:00    21e-12    240    nan
+C2$^L$    "PSR B0355+54 tail"    1:29:08    12e-12    220    16e-12
+C3$^H$    "3C 66A"               1:00:00    8.2e-12    240   nan
+C3$^H$    "2FHL J0245.6+6605"    1:00:01    17e-12    240    nan
+C3$^H$    "Crab Nebula"          1:00:01    5.8e-12    240   nan
+C4        "SN 2014c"             0:59:09    7.2e-12    140    29e-12
+C5$^L$    "2FHL J0431.2+5553e"   1:00:01    12e-12    170    30e-12
+C5$^L$    "3C 66A"               0:20:01    18e-12    170    45e-12
+C5$^L$    "Crab Nebula"          0:59:08    4.9e-12    170    12e-12
+C6        "1ES 0806+524"         0:15:00    14e-12    150    46e-12
+C7        "VER J0521+211"        0:30:00    6.5e-12    140    26e-12

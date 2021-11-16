@@ -1,0 +1,30 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: time_min, unit: MJD, datatype: float64}
+# - {name: time_max, unit: MJD, datatype: float64}
+# - {name: live_time, unit: h, datatype: float64}
+# - {name: significance, datatype: float32}
+# - {name: flux, unit: 1.e-12 cm-2 s-1, datatype: float64}
+# - {name: flux_errn, unit: 1.e-12 cm-2 s-1, datatype: float64}
+# - {name: flux_errp, unit: 1.e-12 cm-2 s-1, datatype: float64}
+# - {name: flux_ul, unit: 1.e-12 cm-2 s-1, datatype: float64}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 58
+# - file_id: 1
+# - reference_id: 2021ApJ...911L..11E
+# - telescope: veritas
+# - UL_CONF: 0.95
+# - comments: |
+#         Fig 11
+#         obtained from https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/EHTC_M87mwl2017_Apr2021/m87_2017_vhe.csv
+e_min time_min time_max live_time significance flux flux_errn flux_errp flux_ul
+0.35   57834.28   57834.41   2.64   3.0   1.5   0.63   0.63   nan
+0.35   57835.29   57835.33   0.62   1.3   1.1   1.00   1.00   3.8
+0.35   57838.26   57838.40   2.92   0.8   0.39   0.51   0.51   1.5
+0.35   57839.25   57839.39   2.97   0.2   0.078   0.44   0.44   1.1
+0.35   57846.24   57846.37   2.50   2.0   1.1   0.61   0.61   nan
+0.35   57847.32   57847.43   2.00   1.4   1   0.78 0.78   2.7
+0.35   57861.18   57861.26   1.32   2.0   1.6   0.96   0.96   nan

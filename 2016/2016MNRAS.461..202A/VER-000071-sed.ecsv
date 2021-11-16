@@ -12,6 +12,7 @@
 # - source_id: 71
 # - reference_id: 2016MNRAS.461..202A
 # - telescope: veritas
+# - UL_CONF: 0.99
 # - data_source:
 #   - digitizer
 e_ref e_min e_max dnde dnde_err dnde_ul

@@ -1,0 +1,24 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: keV, datatype: float32}
+# - {name: e2dnde, unit:  erg cm-2 s-1, datatype: float32}
+# - {name: e2dnde_err, unit: erg cm-2 s-1, datatype: float32}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 30
+# - file_id: 1
+# - reference_id: 2021arXiv211001075T
+# - telescope: veritas
+# - mjd: {min: 58073., max: 58083.}
+# - description: "Ve1a"
+# - UL_CONF: 0.95
+# - comments: |
+#       Period Ve1a
+e_ref e2dnde e2dnde_err
+562341000.0 2.0189125608578863e-12 6.271112341026682e-13
+1122020000.0 1.2048445202276093e-12 4.579255117752192e-13
+2238720000.0 7.649729158292846e-13 4.579710992396053e-13
+4466840000.0 4.2745589963257473e-13 3.373111838043648e-13
+8912510000.0 nan nan
+141254000000.0 nan nan

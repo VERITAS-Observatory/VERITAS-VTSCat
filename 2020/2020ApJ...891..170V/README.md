@@ -20,21 +20,24 @@ Valverde, Janeth et al. (The VERITAS Collaboration), The Astrophysical Journal, 
 
 ### Figures
 
-<img src="figures/2020ApJ...891..170V-VER-53-2-sed.png" alt="drawing" width="400"/>
-<img src="figures/2020ApJ...891..170V-VER-53-2-lc.png" alt="drawing" width="400"/>
-<img src="figures/2020ApJ...891..170V-VER-53-3-sed.png" alt="drawing" width="400"/>
-<img src="figures/2020ApJ...891..170V-VER-53-8-sed.png" alt="drawing" width="400"/>
-<img src="figures/2020ApJ...891..170V-VER-53-1-sed.png" alt="drawing" width="400"/>
-<img src="figures/2020ApJ...891..170V-VER-53-4-lc.png" alt="drawing" width="400"/>
-<img src="figures/2020ApJ...891..170V-VER-53-9-sed.png" alt="drawing" width="400"/>
+<img src="figures/2020ApJ...891..170V-MW-53-1-sed.png" alt="drawing" width="400"/>
+<img src="figures/2020ApJ...891..170V-MW-53-2-sed.png" alt="drawing" width="400"/>
+<img src="figures/2020ApJ...891..170V-MW-53-3-sed.png" alt="drawing" width="400"/>
 <img src="figures/2020ApJ...891..170V-VER-53-1-lc.png" alt="drawing" width="400"/>
-<img src="figures/2020ApJ...891..170V-VER-53-11-sed.png" alt="drawing" width="400"/>
-<img src="figures/2020ApJ...891..170V-VER-53-5-sed.png" alt="drawing" width="400"/>
-<img src="figures/2020ApJ...891..170V-VER-53-4-sed.png" alt="drawing" width="400"/>
-<img src="figures/2020ApJ...891..170V-VER-53-3-lc.png" alt="drawing" width="400"/>
+<img src="figures/2020ApJ...891..170V-VER-53-1-sed.png" alt="drawing" width="400"/>
 <img src="figures/2020ApJ...891..170V-VER-53-10-sed.png" alt="drawing" width="400"/>
-<img src="figures/2020ApJ...891..170V-VER-53-6-sed.png" alt="drawing" width="400"/>
+<img src="figures/2020ApJ...891..170V-VER-53-11-sed.png" alt="drawing" width="400"/>
+<img src="figures/2020ApJ...891..170V-VER-53-2-lc.png" alt="drawing" width="400"/>
+<img src="figures/2020ApJ...891..170V-VER-53-2-sed.png" alt="drawing" width="400"/>
+<img src="figures/2020ApJ...891..170V-VER-53-3-lc.png" alt="drawing" width="400"/>
+<img src="figures/2020ApJ...891..170V-VER-53-3-sed.png" alt="drawing" width="400"/>
+<img src="figures/2020ApJ...891..170V-VER-53-4-lc.png" alt="drawing" width="400"/>
+<img src="figures/2020ApJ...891..170V-VER-53-4-sed.png" alt="drawing" width="400"/>
 <img src="figures/2020ApJ...891..170V-VER-53-5-lc.png" alt="drawing" width="400"/>
+<img src="figures/2020ApJ...891..170V-VER-53-5-sed.png" alt="drawing" width="400"/>
+<img src="figures/2020ApJ...891..170V-VER-53-6-sed.png" alt="drawing" width="400"/>
 <img src="figures/2020ApJ...891..170V-VER-53-7-sed.png" alt="drawing" width="400"/>
+<img src="figures/2020ApJ...891..170V-VER-53-8-sed.png" alt="drawing" width="400"/>
+<img src="figures/2020ApJ...891..170V-VER-53-9-sed.png" alt="drawing" width="400"/>
 
 

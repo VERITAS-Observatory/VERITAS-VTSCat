@@ -53,7 +53,12 @@ For a detailed description of data formats, file types, keywords, and spectral m
 
 | Object | Publication Title | ADS Reference | Repository |
 |---|---|---|---|
-| x | An Archival Search for Neutron-Star Mergers in Gravitational Waves and Very-High-Energy Gamma Rays | [2021arXiv210601386A](http://adsabs.harvard.edu/abs/2021arXiv210601386A) | [data files](2021/2021arXiv210601386A) |
+|3C 279 | Variability and Spectral Characteristics of Three Flaring Gamma-ray Quasars Observed by VERITAS and Fermi-LAT | [2021arXiv211013181A](http://adsabs.harvard.edu/abs/2021arXiv211013181A) | [data files](2021/2021arXiv211013181A) |
+|PKS 1222+216 | Variability and Spectral Characteristics of Three Flaring Gamma-ray Quasars Observed by VERITAS and Fermi-LAT | [2021arXiv211013181A](http://adsabs.harvard.edu/abs/2021arXiv211013181A) | [data files](2021/2021arXiv211013181A) |
+|Ton 599 | Variability and Spectral Characteristics of Three Flaring Gamma-ray Quasars Observed by VERITAS and Fermi-LAT | [2021arXiv211013181A](http://adsabs.harvard.edu/abs/2021arXiv211013181A) | [data files](2021/2021arXiv211013181A) |
+|HESS J0632+057 / VER J0633+057 | Multi-Wavelength Observation Campaign of the TeV Gamma-Ray Binary HESS J0632+057 with NuSTAR, VERITAS, MDM, and Swift | [2021arXiv211001075T](http://adsabs.harvard.edu/abs/2021arXiv211001075T) | [data files](2021/2021arXiv211001075T) |
+|HESS J0632+057 / VER J0633+057 | Observation of the gamma-ray binary HESS J0632+057 with the H.E.S.S., MAGIC, and VERITAS telescopes | [2021arXiv210911894A](http://adsabs.harvard.edu/abs/2021arXiv210911894A) | [data files](2021/2021arXiv210911894A) |
+| x | An Archival Search for Neutron-star Mergers in Gravitational Waves and Very-high-energy Gamma Rays | [2021ApJ...918...66A](http://adsabs.harvard.edu/abs/2021ApJ...918...66A) | [data files](2021/2021ApJ...918...66A) |
 |PSR B0355+54 | A Search for TeV Gamma-Ray Emission from Pulsar Tails by VERITAS | [2021ApJ...916..117B](http://adsabs.harvard.edu/abs/2021ApJ...916..117B) | [data files](2021/2021ApJ...916..117B) |
 |PSR J0357+32 | A Search for TeV Gamma-Ray Emission from Pulsar Tails by VERITAS | [2021ApJ...916..117B](http://adsabs.harvard.edu/abs/2021ApJ...916..117B) | [data files](2021/2021ApJ...916..117B) |
 |PSR J1740+1000 | A Search for TeV Gamma-Ray Emission from Pulsar Tails by VERITAS | [2021ApJ...916..117B](http://adsabs.harvard.edu/abs/2021ApJ...916..117B) | [data files](2021/2021ApJ...916..117B) |
@@ -61,6 +66,7 @@ For a detailed description of data formats, file types, keywords, and spectral m
 |SNR G0.9+0.1 / VER J1747-281 | VERITAS Observations of the Galactic Center Region at Multi-TeV Gamma-Ray Energies | [2021ApJ...913..115A](http://adsabs.harvard.edu/abs/2021ApJ...913..115A) | [data files](2021/2021ApJ...913..115A) |
 |VER J1746-289 / VER J1746-289 | VERITAS Observations of the Galactic Center Region at Multi-TeV Gamma-Ray Energies | [2021ApJ...913..115A](http://adsabs.harvard.edu/abs/2021ApJ...913..115A) | [data files](2021/2021ApJ...913..115A) |
 |GC diffuse ridge / VER J1746-286 | VERITAS Observations of the Galactic Center Region at Multi-TeV Gamma-Ray Energies | [2021ApJ...913..115A](http://adsabs.harvard.edu/abs/2021ApJ...913..115A) | [data files](2021/2021ApJ...913..115A) |
+|M 87 / VER J1230+123 | Broadband Multi-wavelength Properties of M87 during the 2017 Event Horizon Telescope Campaign | [2021ApJ...911L..11E](http://adsabs.harvard.edu/abs/2021ApJ...911L..11E) | [data files](2021/2021ApJ...911L..11E) |
 |3C 264.0 / VER J1145+196 | VERITAS Discovery of VHE Emission from the Radio Galaxy 3C 264: A Multiwavelength Study | [2020ApJ...896...41A](http://adsabs.harvard.edu/abs/2020ApJ...896...41A) | [data files](2020/2020ApJ...896...41A) |
 |Cassiopeia A / VER J2323+588 | Evidence for Proton Acceleration up to TeV Energies Based on VERITAS and Fermi-LAT Observations of the Cas A SNR | [2020ApJ...894...51A](http://adsabs.harvard.edu/abs/2020ApJ...894...51A) | [data files](2020/2020ApJ...894...51A) |
 |1ES 1215+303 / VER J1217+301 | A Decade of Multiwavelength Observations of the TeV Blazar 1ES 1215+303: Extreme Shift of the Synchrotron Peak Frequency and Long-term Optical-Gamma-Ray Flux Increase | [2020ApJ...891..170V](http://adsabs.harvard.edu/abs/2020ApJ...891..170V) | [data files](2020/2020ApJ...891..170V) |
@@ -232,7 +238,7 @@ For a detailed description of data formats, file types, keywords, and spectral m
 | 23 | VER J0521+211 | RGB J0521+212 | 80.4415375 | 21.2142722 | [2013ApJ...776...69A](2013/2013ApJ...776...69A)
 | 25 | VER J0534+220 | Crab nebula | 83.633083 | 22.0145 | [2017APh....91...34A](2017/2017APh....91...34A),[2015ICRC...34..792M](2015/2015ICRC...34..792M),[2014ApJ...781L..11A](2014/2014ApJ...781L..11A),[2012ApJ...760..136A](2012/2012ApJ...760..136A)
 | 29 | VER J0616+223 | IC 443 | 94.51125 | 22.66 | [2009ApJ...698L.133A](2009/2009ApJ...698L.133A)
-| 30 | VER J0633+057 | HESS J0632+057 | 98.24689375 | 5.80032722 | [2020ApJ...888..115A](2020/2020ApJ...888..115A),[2017AIPC.1792d0023S](2017/2017AIPC.1792d0023S),[2017ICRC...35..729M](2017/2017ICRC...35..729M),[2014ApJ...780..168A](2014/2014ApJ...780..168A),[2009ApJ...698L..94A](2009/2009ApJ...698L..94A)
+| 30 | VER J0633+057 | HESS J0632+057 | 98.24689375 | 5.80032722 | [2021arXiv211001075T](2021/2021arXiv211001075T),[2021arXiv210911894A](2021/2021arXiv210911894A),[2020ApJ...888..115A](2020/2020ApJ...888..115A),[2017AIPC.1792d0023S](2017/2017AIPC.1792d0023S),[2017ICRC...35..729M](2017/2017ICRC...35..729M),[2014ApJ...780..168A](2014/2014ApJ...780..168A),[2009ApJ...698L..94A](2009/2009ApJ...698L..94A)
 | 32 | VER J0648+152 | RX J0648.7+1516 | 102.1984875 | 15.2735722 | [2011ApJ...742..127A](2011/2011ApJ...742..127A)
 | 34 | VER J0710+591 | RGB J0710+591 | 107.625325 | 59.1390278 | [2019ApJ...885..150A](2019/2019ApJ...885..150A),[2010ApJ...715L..49A](2010/2010ApJ...715L..49A)
 | 36 | VER J0809+523 | 1ES 0806+524 | 122.454944708 | 52.31618075 | [2009ApJ...690L.126A](2009/2009ApJ...690L.126A)
@@ -243,7 +249,7 @@ For a detailed description of data formats, file types, keywords, and spectral m
 | 54 | VER J1221+282 | W Comae | 185.382043833 | 28.232916722 | [2009ApJ...707..612A](2009/2009ApJ...707..612A),[2008ApJ...684L..73A](2008/2008ApJ...684L..73A)
 | 55 | VER J1221+301 | 1ES 1218+304 | 185.3414278125 | 30.1769891083 | [2019ApJ...885..150A](2019/2019ApJ...885..150A),[2014ApJ...788..158A](2014/2014ApJ...788..158A),[2010ApJ...709L.163A](2010/2010ApJ...709L.163A),[2009ApJ...695.1370A](2009/2009ApJ...695.1370A)
 | 57 | VER J1224+246 | MS1221.8+2452 | 186.100775925 | 24.6065282556 | [2019ApJ...885..150A](2019/2019ApJ...885..150A)
-| 58 | VER J1230+123 | M 87 | 187.70593075 | 12.391123306 | [2012ApJ...746..151A](2012/2012ApJ...746..151A),[2012ApJ...746..141A](2012/2012ApJ...746..141A),[2010ApJ...716..819A](2010/2010ApJ...716..819A),[2009Sci...325..444A](2009/2009Sci...325..444A),[2008ApJ...679..397A](2008/2008ApJ...679..397A)
+| 58 | VER J1230+123 | M 87 | 187.70593075 | 12.391123306 | [2021ApJ...911L..11E](2021/2021ApJ...911L..11E),[2012ApJ...746..151A](2012/2012ApJ...746..151A),[2012ApJ...746..141A](2012/2012ApJ...746..141A),[2010ApJ...716..819A](2010/2010ApJ...716..819A),[2009Sci...325..444A](2009/2009Sci...325..444A),[2008ApJ...679..397A](2008/2008ApJ...679..397A)
 | 67 | VER J1427+237 | PKS 1424+240 | 216.751632458 | 23.800010444 | [2019ApJ...885..150A](2019/2019ApJ...885..150A),[2014ApJ...785L..16A](2014/2014ApJ...785L..16A),[2010ApJ...708L.100A](2010/2010ApJ...708L.100A)
 | 69 | VER J1428+426 | H 1426+428 | 217.1358706208 | 42.6725130889 | [2019ApJ...885..150A](2019/2019ApJ...885..150A)
 | 71 | VER J1443+120 | 1ES 1440+122 | 220.701152425 | 12.0112152417 | [2016MNRAS.461..202A](2016/2016MNRAS.461..202A)
@@ -306,8 +312,11 @@ For a detailed description of data formats, file types, keywords, and spectral m
 | 100196 | (not detected) | PSR B0355+54 | 59.723819 | 54.22048 | [2021ApJ...916..117B](2021/2021ApJ...916..117B)
 | 100197 | (not detected) | PSR J0357+32 | 59.467338 | 32.089897 | [2021ApJ...916..117B](2021/2021ApJ...916..117B)
 | 100198 | (not detected) | PSR J1740+1000 | 265.10794 | 10.00168 | [2021ApJ...916..117B](2021/2021ApJ...916..117B)
-| 300000 | (charged particle) | electron | 265.10794 | 10.00168 | [2018PhRvD..98f2004A](2018/2018PhRvD..98f2004A)
-| 300026 | (charged particle) | iron | 265.10794 | 10.00168 | [2018PhRvD..98b2009A](2018/2018PhRvD..98b2009A)
+| 100199 | (not detected) | 3C 279 | 194.046527 | -5.789314 | [2021arXiv211013181A](2021/2021arXiv211013181A)
+| 100200 | (not detected) | PKS 1222+216 | 186.22691 | 21.379551 | [2021arXiv211013181A](2021/2021arXiv211013181A)
+| 100201 | (not detected) | Ton 599 | 179.882641 | 29.245507 | [2021arXiv211013181A](2021/2021arXiv211013181A)
+| 300000 | (charged particle) | electron | 179.882641 | 29.245507 | [2018PhRvD..98f2004A](2018/2018PhRvD..98f2004A)
+| 300026 | (charged particle) | iron | 179.882641 | 29.245507 | [2018PhRvD..98b2009A](2018/2018PhRvD..98b2009A)
 
 <a name="licence"></a>
 

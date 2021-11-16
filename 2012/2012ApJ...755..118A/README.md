@@ -17,7 +17,7 @@ Aliu, E. et al. (The VERITAS Collaboration), The Astrophysical Journal, 755, 118
 
 ### Figures
 
-<img src="figures/2012ApJ...755..118A-VER-20-1-sed.png" alt="drawing" width="400"/>
 <img src="figures/2012ApJ...755..118A-VER-20-1-lc.png" alt="drawing" width="400"/>
+<img src="figures/2012ApJ...755..118A-VER-20-1-sed.png" alt="drawing" width="400"/>
 
 
