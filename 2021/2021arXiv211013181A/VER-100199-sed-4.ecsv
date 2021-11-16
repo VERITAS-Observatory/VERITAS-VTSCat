@@ -1,0 +1,23 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, datatype: float64, unit: TeV, description: reference energy}
+# - {name: e_min, datatype: float64, unit: TeV, description: energy (min)}
+# - {name: e_max, datatype: float64, unit: TeV, description: energy (max)}
+# - {name: e2dnde, datatype: float64, unit: TeV cm-2 s-1, description: differential photon flux at e_ref}
+# - {name: e2dnde_ul, datatype: float64, unit: TeV cm-2 s-1, description: upper limit on the differential photon flux at e_ref}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 100199
+# - file_id: 4
+# - reference_id: 2021arXiv211013181A
+# - telescope: veritas
+# - UL_CONF: 0.95
+# - mjd: {min: 58227.224, max: 58227.266}
+# - comments: |
+#        Figure 7 (center right)
+#        In the figure, the units are converted to GeV
+e_ref e_min e_max e2dnde e2dnde_ul
+0.282 0.2 0.398 nan 4.83904e-12
+0.631 0.398 1 nan 1.01133e-12
+5.623 1 31.623 nan 3.03534e-14

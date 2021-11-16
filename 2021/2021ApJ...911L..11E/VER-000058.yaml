@@ -1,0 +1,8 @@
+---
+source_id: 58
+reference_id: 2021ApJ...911L..11E
+telescope: veritas
+
+data:
+  livetime: 15.h
+  significance: 3.8

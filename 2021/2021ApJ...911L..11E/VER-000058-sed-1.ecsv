@@ -1,0 +1,26 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: Hz, datatype: float32}
+# - {name: e_min, unit: GeV, datatype: float32}
+# - {name: e_max, unit: GeV, datatype: float32}
+# - {name: e2dnde, datatype: float32, unit: erg cm-2 s-1}
+# - {name: e2dnde_err, datatype: float32, unit: erg cm-2 s-1}
+# - {name: e2dnde_ul, datatype: float32, unit: erg cm-2 s-1}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 58
+# - file_id: 1
+# - reference_id: 2021ApJ...911L..11E
+# - telescope: veritas
+# - SED_TYPE: e2dnde
+# - UL_CONF: 0.95
+# - comments: |
+#       Fig 12 and Table A.8
+e_ref e_min e_max e2dnde e2dnde_err e2dnde_ul 
+5.73e25   200   281    nan        nan   9.97e-12
+8.10e25   281   397    nan        nan   1.7e-12
+1.14e26   398   562    7.32e-13   3.90e-13  nan
+1.61e26   562   793    6.47e-13   3.70e-13  nan
+2.28e26   793   1120   nan        nan  9.62e-13
+3.22e26   1120  1583   nan        nan  1.13e-12
