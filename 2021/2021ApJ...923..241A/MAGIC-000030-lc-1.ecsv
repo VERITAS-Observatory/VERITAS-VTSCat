@@ -1,0 +1,32 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64, description: lower energy limit for flux integration}
+# - {name: time_min, unit: MJD, datatype: float64, description: time interval (start)}
+# - {name: time_max, unit: MJD, datatype: float64, description: time interval (stop)}
+# - {name: flux, unit: cm-2 s-1, datatype: float64, description: integral flux (>350 GeV)}
+# - {name: flux_err, unit: cm-2 s-1, datatype: float64, description: error on integral flux (>350 GeV)}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 30
+# - file_id: 1
+# - reference_id: 2021ApJ...923..241A
+# - telescope: magic
+# - {SED_TYPE: flux}
+# - comments: |
+#       MAGIC light curve of HESS J0632+057
+e_min time_min time_max flux flux_err
+0.35  55557.08  55558.17  1.84E-12  1.04E-12
+0.35  55598.82  55613.98  3.16E-12  6.18E-13
+0.35  57474.87  57476.93  2.18E-12  9.00E-13
+0.35  57786.93  57789.87  1.45E-12  7.61E-13
+0.35  57802.02  57815.98  1.86E-12  6.74E-13
+0.35  57832.90  57837.90  6.10E-13  1.43E-12
+0.35  58097.03  58114.97  2.32E-12  7.86E-13
+0.35  55644.86  55648.94  7.72E-14  6.68E-13
+0.35  57840.89  57844.91  7.89E-13  9.94E-13
+0.35  55500.08  55500.12  5.09E-13  1.14E-12
+0.35  57387.01  57400.17  1.16E-12  5.55E-13
+0.35  57430.82  57431.98  7.11E-13  9.27E-13
+0.35  57454.86  57454.94  8.57E-13  1.32E-12
+0.35  57771.07  57772.13  2.68E-12  1.11E-12

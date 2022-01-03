@@ -16,7 +16,7 @@ datasets:
 
 multiwavelength:
   - content: [hess, magic, chandra]
-  - availability: true 
+  - availability: true
   - status: false
 
 data_entry:

@@ -1,0 +1,38 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, datatype: float32, unit: TeV}
+# - {name: e_min, datatype: float32, unit: TeV}
+# - {name: e_max, datatype: float32, unit: TeV}
+# - {name: dnde, datatype: float32, unit: cm-2 s-1 TeV-1}
+# - {name: dnde_errn, datatype: float32, unit: cm-2 s-1 TeV-1}
+# - {name: dnde_errp, datatype: float32, unit: cm-2 s-1 TeV-1}
+# - {name: dnde_ul, datatype: float32, unit: cm-2 s-1 TeV-1}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 25
+# - file_id: 3
+# - reference_id: 2021arXiv211104676A
+# - telescope: veritas
+# - UL_CONF: 0.95
+# - description: "2013-2014a"
+# - mjd: {min: 56588., max: 56778.}
+# - comments: |
+#      Figure 15
+e_ref e_min e_max dnde dnde_errn dnde_errp dnde_ul
+  0.237    0.200    0.282     1.066e-09   4.095e-11 4.192e-11  nan
+  0.335    0.282    0.398     4.783e-10   1.655e-11 1.691e-11  nan
+  0.473    0.398    0.562     2.217e-10   7.754e-12 7.930e-12  nan
+  0.668    0.562    0.794     9.866e-11   3.739e-12 3.833e-12  nan
+  0.944    0.794    1.122     3.913e-11   1.683e-12 1.730e-12  nan
+  1.334    1.122    1.585     1.567e-11   8.280e-13 8.562e-13  nan
+  1.884    1.585    2.239     7.337e-12   4.490e-13 4.672e-13  nan
+  2.661    2.239    3.162     2.421e-12   2.031e-13 2.148e-13  nan
+  3.758    3.162    4.467     1.129e-12   1.110e-13 1.187e-13  nan
+  5.309    4.467    6.310     3.936e-13   5.393e-14 5.917e-14  nan
+  7.499    6.310    8.913     1.774e-13   2.944e-14 3.305e-14  nan
+ 10.593    8.913    12.589    7.076e-14   1.516e-14 1.766e-14  nan
+ 14.962    12.589   17.783    1.557e-14   5.524e-15 7.252e-15  nan
+ 21.135    17.783   25.119    5.395e-15   2.546e-15 3.741e-15  nan
+ 29.854    25.119   35.481    nan nan nan  4.088e-15
+ 42.170    35.481   50.119    nan nan nan  2.934e-15

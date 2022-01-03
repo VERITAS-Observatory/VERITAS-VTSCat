@@ -12,7 +12,7 @@
 # - telescope: veritas
 # - mjd: {max: 54914., min: 54914.}
 # - {comments: 'Fig 5'}
-e_ref dnde dnde_err 
+e_ref dnde dnde_err
 0.2496  2.17e-06 4.67e-07
 0.3957  9.1e-07  1.56e-07
 0.6271  2.53e-07 4.98e-08

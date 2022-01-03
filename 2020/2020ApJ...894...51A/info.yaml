@@ -5,7 +5,7 @@ telescope: [veritas]
 
 multiwavelength:
   - content: [lat]
-  - availability: true 
+  - availability: true
   - status: false
 
 datasets:

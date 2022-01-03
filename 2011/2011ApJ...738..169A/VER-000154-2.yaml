@@ -9,7 +9,7 @@ description: >
 
 spec:
   erange: {min: 0.39, max: 8.3, unit: TeV}
-# note! excluding 2007 Dec 7
+  # note! excluding 2007 Dec 7
   mjd: {max: 54476.0, min: 54377.0}
   model:
     type: pl

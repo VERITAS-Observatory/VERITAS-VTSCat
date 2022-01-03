@@ -22,4 +22,4 @@
 #       upper limits derived assuming a power law with
 #       spectral index of -3.0; using Rolke et al 2005
 e_min time_min time_max eflux_ul eflux non noff alpha significance
-0.5 55649.43541667 55666.47279647769 1.4e-12 nan 579 5639 0.1 0.6 
+0.5 55649.43541667 55666.47279647769 1.4e-12 nan 579 5639 0.1 0.6

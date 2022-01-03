@@ -1,0 +1,31 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float32}
+# - {name: e_min, unit: TeV, datatype: float32}
+# - {name: e_max, unit: TeV, datatype: float32}
+# - {name: dnde, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux}
+# - {name: dnde_errn, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux (negative error)}
+# - {name: dnde_errp, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux (positive error)}
+# - {name: dnde_ul, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux upper limit (95% CL)}
+# - {name: signi, datatype: float32, description: significance of data point}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 30
+# - reference_id: 2021ApJ...923..241A
+# - file_id: 1
+# - telescope: veritas
+# - mjd: {min: 54830.0, max: 58480.0}
+# - description: "orbital phase 0.8-0.2"
+# - comments: |
+#      orbital phase bin 0.8-0.2
+e_ref e_min e_max dnde dnde_errn dnde_errp dnde_ul signi
+0.251189    0.199526    0.316228    nan     nan nan    3.91573e-11    -0.271657
+0.398107    0.316228    0.501187    3.38186e-12    8.4776e-13    8.78891e-13    nan     4.22267
+0.630957    0.501187    0.794328    1.3862e-12    2.64312e-13    2.75684e-13    nan     5.7855
+1    0.794328    1.25893    3.15411e-13    8.26545e-14    8.7864e-14    nan     4.19633
+1.58489    1.25893    1.99526    9.65963e-14    2.87844e-14    3.15391e-14    nan     3.79831
+2.51189    1.99526    3.16228    1.64195e-14    9.26292e-15    1.07385e-14    nan     1.88834
+3.98107    3.16228    5.01187    1.20763e-14    4.42181e-15    5.28637e-15    nan     3.34347
+6.30957    5.01187    7.94328    nan     nan nan    5.13298e-15    0.974358
+10    7.94328    12.5893    nan     nan nan    1.95392e-15    0.347853

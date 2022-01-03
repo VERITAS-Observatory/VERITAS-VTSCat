@@ -1,0 +1,29 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: keV, datatype: float32}
+# - {name: de, unit: keV, datatype: float32, description: energy interval}
+# - {name: e2dnde, unit: keV cm-2 s-1, datatype: float32}
+# - {name: e2dnde_err, unit: keV cm-2 s-1, datatype: float32}
+# - {name: e2dnde_abspl, unit: keV cm-2 s-1, datatype: float32, dsecription: Absorbed plaw model flux}
+# - {name: e2dnde_deabspl, unit: keV cm-2 s-1, datatype: float32, dsecription: De-bsorbed plaw model flux}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 30
+# - reference_id: 2021ApJ...923..241A
+# - file_id: 131
+# - telescope: xrt
+# - mjd: {min: 58073, max: 58084}
+# - description: "MJD 58073-58084"
+# - comments: |
+#      Appendix D
+e_ref de e2dnde e2dnde_err e2dnde_abspl e2dnde_deabspl
+0.629999995 0.329999983 2.15818291E-5 5.38683753E-6 2.14599058E-5  1.70347514E-4
+1.13499999 0.174999982 1.21403973E-4 2.69019602E-5 1.45292754E-4  2.50892364E-4
+1.44000006 0.130000055 2.04061318E-4 4.85681194E-5 2.10103652E-4  2.82505876E-4
+1.745 0.174999952 2.83036818E-4 6.3775391E-5 2.58297252E-4  3.09266965E-4
+2.1099999 0.189999998 3.72067501E-4 9.14510019E-5 3.02045722E-4  3.38685117E-4
+2.61000013 0.310000062 4.31880675E-4 1.0287467E-4 3.49588925E-4  3.73847375E-4
+3.20499992 0.284999967 5.2469963E-4 1.3620242E-4 3.97614727E-4  4.13054368E-4
+4.38000011 0.889999986 3.02404078E-4 7.99781337E-5 4.65156394E-4  4.73222433E-4
+7.17000008 1.89999986 6.61913422E-4 2.00037568E-4 5.89060888E-4  5.91404678E-4

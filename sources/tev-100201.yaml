@@ -4,7 +4,7 @@ common_name: Ton 599
 where: egal
 pos:
   simbad_id: Ton 599
-  ra:  179.882641
+  ra: 179.882641
   dec: 29.245507
 reference_id:
   - 2021arXiv211013181A

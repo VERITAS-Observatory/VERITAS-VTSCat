@@ -15,7 +15,7 @@
 # - telescope: veritas
 # - UL_CONF: 0.99
 # - comments: |
-#       Table 1; 
+#       Table 1;
 #       upper limits derived assuming a power law with
 #       spectral index of -3.5; using Rolke & Lopez (2001)
 e_min time live_time significance flux_ul flux

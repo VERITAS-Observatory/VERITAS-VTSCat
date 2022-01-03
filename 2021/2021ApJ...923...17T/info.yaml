@@ -1,0 +1,25 @@
+---
+reference_id: 2021ApJ...923...17T
+source_id: [30]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [nustar, mdm, xrt]
+  - availability: false
+  - status: false
+
+datasets:
+  - VER-000030-lc-1.ecsv
+  - VER-000030-sed-1.ecsv
+  - VER-000030-sed-2.ecsv
+  - VER-000030-sed-3.ecsv
+  - VER-000030-sed-4.ecsv
+  - VER-000030-sed-5.ecsv
+  - MW-000030-sed-1.ecsv
+  - MW-000030-sed-2.ecsv
+  - MW-000030-sed-3.ecsv
+  - MW-000030-sed-5.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

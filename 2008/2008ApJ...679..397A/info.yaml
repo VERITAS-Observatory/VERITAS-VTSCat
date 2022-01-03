@@ -10,8 +10,8 @@ datasets:
 
 multiwavelength:
   content:
-      - rxte
-      - chandra
+    - rxte
+    - chandra
   availability: false
   status: incomplete
 

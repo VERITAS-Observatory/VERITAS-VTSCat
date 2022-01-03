@@ -6,7 +6,7 @@
 # - {name: e2dnde_err, datatype: float32, unit: erg cm-2 s-1}
 # meta: !!omap
 # - data_type: sed
-# - source_id: 106 
+# - source_id: 106
 # - reference_id: 2014ApJ...790..149A
 # - telescope: veritas
 # - data_source:

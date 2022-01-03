@@ -17,7 +17,7 @@
 #      UL calculated using Rolke (Rolke et al. 2005)
 e_ref e_min e_max dnde dnde_err dnde_ul
 562 422 750 3.26E-15 1.57E-15 nan
-1000 750 1330 6.85E-16 2.73E-16 nan 
+1000 750 1330 6.85E-16 2.73E-16 nan
 1778 1330 2370 1.97E-16 8.26E-17 nan
 3161 2370 4220 3.95E-17 2.75E-17 nan
 5621 4220 7500 3.62E-17 1.24E-17 nan

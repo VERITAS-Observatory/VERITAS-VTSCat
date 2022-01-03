@@ -7,7 +7,7 @@
 # - {name: flux_err, unit: cm-2 s-1, datatype: float64}
 # meta: !!omap
 # - data_type: lc
-# - source_id: 36 
+# - source_id: 36
 # - reference_id: 2009ApJ...690L.126A
 # - telescope: veritas
 # - {SED_TYPE: flux}
@@ -19,4 +19,4 @@ e_min time flux flux_err
 0.3  54466.4  9.19e-13  5.07e-12
 0.3  54504.0  1.07e-11  3.89e-12
 0.3  54532.4  1.45e-12  0.54e-12
-0.3  54560.0  4.26e-13  1.47e-12 
+0.3  54560.0  4.26e-13  1.47e-12

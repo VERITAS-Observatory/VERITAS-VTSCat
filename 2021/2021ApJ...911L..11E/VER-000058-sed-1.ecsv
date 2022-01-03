@@ -17,7 +17,7 @@
 # - UL_CONF: 0.95
 # - comments: |
 #       Fig 12 and Table A.8
-e_ref e_min e_max e2dnde e2dnde_err e2dnde_ul 
+e_ref e_min e_max e2dnde e2dnde_err e2dnde_ul
 5.73e25   200   281    nan        nan   9.97e-12
 8.10e25   281   397    nan        nan   1.7e-12
 1.14e26   398   562    7.32e-13   3.90e-13  nan

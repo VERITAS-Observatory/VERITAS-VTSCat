@@ -1,0 +1,32 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: keV, datatype: float32}
+# - {name: de, unit: keV, datatype: float32, description: energy interval}
+# - {name: e2dnde, unit: keV cm-2 s-1, datatype: float32}
+# - {name: e2dnde_err, unit: keV cm-2 s-1, datatype: float32}
+# - {name: e2dnde_abspl, unit: keV cm-2 s-1, datatype: float32, dsecription: Absorbed plaw model flux}
+# - {name: e2dnde_deabspl, unit: keV cm-2 s-1, datatype: float32, dsecription: De-bsorbed plaw model flux}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 30
+# - reference_id: 2021ApJ...923..241A
+# - file_id: 3
+# - telescope: xrt
+# - description: "orbital phase 0.4-0.6"
+# - comments: |
+#      orbital phase bin 0.4-0.6
+e_ref de e2dnde e2dnde_err e2dnde_abspl e2dnde_deabspl
+0.600000024 0.299999982 4.75162915E-6 5.02318642E-7 4.44873149E-6  5.92886208E-5
+1.08500004 0.185000002 4.30562031E-5 2.84347084E-6 4.40424337E-5  9.72074558E-5
+1.42499995 0.155000031 7.59966861E-5 5.06425567E-6 7.88677789E-5  1.1641164E-4
+1.76999998 0.189999998 1.1134574E-4 7.40789619E-6 1.06864514E-4  1.33515627E-4
+2.21000004 0.25 1.4577675E-4 1.01459964E-5 1.34897884E-4  1.5352371E-4
+2.71000004 0.25 1.50706997E-4 1.31219458E-5 1.62090815E-4  1.74980392E-4
+3.2249999 0.264999986 1.88424048E-4 1.61052067E-5 1.86444435E-4  1.95465313E-4
+3.75500011 0.264999986 2.28122721E-4 2.0159041E-5 2.08821817E-4  2.15359483E-4
+4.375 0.355000019 1.98093738E-4 1.94944168E-5 2.32224324E-4  2.37007349E-4
+5.10999966 0.379999876 2.18376474E-4 2.54174483E-5 2.58185493E-4  2.61560781E-4
+5.89499998 0.40500021 3.05433059E-4 3.84472914E-5 2.83932372E-4  2.86375667E-4
+7.11499977 0.814999819 3.55435885E-4 4.79903574E-5 3.18875362E-4  3.21248051E-4
+8.93499947 1.00499988 4.93310334E-4 1.25282328E-4 3.6879527E-4  3.7103612E-4

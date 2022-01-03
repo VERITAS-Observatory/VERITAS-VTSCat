@@ -1,0 +1,30 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float32, description: reference energy}
+# - {name: de_min, unit: TeV, datatype: float32, description: energy interval (negative)}
+# - {name: de_max, unit: TeV, datatype: float32, description: energy interval (positive)}
+# - {name: dnde, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux}
+# - {name: dnde_errn, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux (negative error)}
+# - {name: dnde_errp, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux (positive error)}
+# - {name: dnde_ul, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux upper limit (95% CL)}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 30
+# - reference_id: 2021ApJ...923..241A
+# - file_id: 2
+# - telescope: hess
+# - mjd: {min: 53087.801, max: 58156.793}
+# - description: "orbital phase 0.2-0.4"
+# - comments: |
+#      orbital phase bin 0.2-0.4
+e_ref de_min de_max dnde dnde_errn dnde_errp dnde_ul
+2.685e-01 3.139e-02 1.878e-02 nan nan nan 3.963e-11
+3.557e-01 6.843e-02 6.597e-02 nan nan nan 6.243e-12
+5.114e-01 8.969e-02 1.076e-01 3.440e-12 7.712e-13 8.296e-13 -1.000e+00
+7.471e-01 1.281e-01 1.614e-01 1.786e-12 3.411e-13 3.703e-13 -1.000e+00
+1.098e+00 1.891e-01 2.359e-01 6.751e-13 1.508e-13 1.666e-13 -1.000e+00
+1.604e+00 2.700e-01 3.538e-01 2.358e-13 6.711e-14 7.649e-14 -1.000e+00
+2.345e+00 3.875e-01 5.282e-01 9.764e-14 3.209e-14 3.780e-14 -1.000e+00
+3.444e+00 5.714e-01 7.726e-01 nan nan nan 3.906e-14
+7.831e+00 3.614e+00 1.174e+01 nan nan nan 4.125e-15

@@ -9,20 +9,20 @@ multiwavelength:
   - status: false
 
 datasets:
-    - VER-000141.yaml
-    - VER-000141-sed.ecsv
-    - VER-000143.yaml
-    - VER-000143-sed.ecsv
-    - VER-000144.yaml
-    - VER-000144-sed.ecsv
-    - VER-000146.yaml
-    - VER-000146-sed.ecsv
-    - VER-000170.yaml
-    - VER-000170-sed.ecsv
-    - VER-000171.yaml
-    - VER-000171-sed.ecsv
-    - VER-ULs-table-1.ecsv
+  - VER-000141.yaml
+  - VER-000141-sed.ecsv
+  - VER-000143.yaml
+  - VER-000143-sed.ecsv
+  - VER-000144.yaml
+  - VER-000144-sed.ecsv
+  - VER-000146.yaml
+  - VER-000146-sed.ecsv
+  - VER-000170.yaml
+  - VER-000170-sed.ecsv
+  - VER-000171.yaml
+  - VER-000171-sed.ecsv
+  - VER-ULs-table-1.ecsv
 
 data_entry:
-    status: complete
-    reviewed: true
+  status: complete
+  reviewed: true

@@ -1,0 +1,23 @@
+---
+reference_id: 2021arXiv211104676A
+source_id: [25]
+telescope: [veritas]
+
+datasets:
+  - VER-000025-lc-1.ecsv
+  - VER-000025-sed-1.ecsv
+  - VER-000025-sed-2.ecsv
+  - VER-000025-sed-3.ecsv
+  - VER-000025-sed-4.ecsv
+  - VER-000025-sed-5.ecsv
+  - VER-000025-sed-6.ecsv
+  - VER-000025-sed-7.ecsv
+  - VER-000025-sed-8.ecsv
+  - VER-000025-sed-9.ecsv
+  - VER-000025-sed-10.ecsv
+  - VER-000025-table-figC1.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true
+...

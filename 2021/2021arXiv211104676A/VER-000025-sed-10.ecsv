@@ -1,0 +1,35 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, datatype: float32, unit: TeV}
+# - {name: e_min, datatype: float32, unit: TeV}
+# - {name: e_max, datatype: float32, unit: TeV}
+# - {name: dnde, datatype: float32, unit: cm-2 s-1 TeV-1}
+# - {name: dnde_errn, datatype: float32, unit: cm-2 s-1 TeV-1}
+# - {name: dnde_errp, datatype: float32, unit: cm-2 s-1 TeV-1}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 25
+# - file_id: 10
+# - reference_id: 2021arXiv211104676A
+# - telescope: veritas
+# - description: "2019-2020"
+# - mjd: {min: 58969., max: 59061.}
+# - comments: |
+#      Figure 15
+e_ref e_min e_max dnde dnde_errn dnde_errp
+  0.237    0.200    0.282     1.014e-09   1.574e-10 1.741e-10
+  0.335    0.282    0.398     4.322e-10   1.502e-11 1.534e-11
+  0.473    0.398    0.562     2.063e-10   6.983e-12 7.136e-12
+  0.668    0.562    0.794     9.865e-11   3.497e-12 3.579e-12
+  0.944    0.794    1.122     4.252e-11   1.720e-12 1.766e-12
+  1.334    1.122    1.585     1.996e-11   9.095e-13 9.370e-13
+  1.884    1.585    2.239     7.618e-12   4.461e-13 4.633e-13
+  2.661    2.239    3.162     3.071e-12   2.227e-13 2.335e-13
+  3.758    3.162    4.467     1.123e-12   1.081e-13 1.153e-13
+  5.309    4.467    6.310     4.384e-13   5.486e-14 5.977e-14
+  7.499    6.310    8.913     1.688e-13   2.785e-14 3.128e-14
+ 10.593    8.913    12.589    7.562e-14   1.532e-14 1.772e-14
+ 14.962    12.589   17.783    1.670e-14   5.856e-15 7.507e-15
+ 21.135    17.783   25.119    1.198e-14   4.086e-15 5.247e-15
+ 42.170    35.481   50.119    3.463e-15   1.456e-15 2.032e-15

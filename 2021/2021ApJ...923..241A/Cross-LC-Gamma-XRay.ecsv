@@ -1,0 +1,77 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: time, unit: MJD, datatype: float64, description: (average) time of observation}
+# - {name: time_bin, unit: d, datatype: float64, description: width of time bin for correlation analysis}
+# - {name: G.flux, unit: erg cm-2 s-1, datatype: float64, description: gamma-ray flux above 350 GeV}
+# - {name: G.flux_err, unit: erg cm-2 s-1, datatype: float64, description: gamma-ray flux error}
+# - {name: X.flux, unit: erg cm-2 s-1, datatype: float64, description: X-ray flux (0.3-10 keV)}
+# - {name: X.flux_err, unit: erg cm-2 s-1, datatype: float64, description: X-ray flux error (0.3-10 keV)}
+# - {name: X.instrument, datatype: string, description: name of X-ray instrument}
+# - {name: G.instrument, datatype: string, description: name of gamma-ray instrument}
+# meta: !!omap
+# - reference_id: 2021ApJ...923..241A
+# - {SED_TYPE: flux}
+# - comments: |
+#       Fig 05 (top): gamma-ray vs x-ray flux
+#       fluxes are averaged in the given time bin
+time time_bin G.flux G.flux_err X.flux X.flux_err X.instrument G.instrument
+54859.0000  3.0000e+00  8.172e-13  4.034e-13  1.211e-12  3.028e-13  Swift_XRT  VERITAS
+55128.5000  6.5000e+00  9.706e-13  3.305e-13  1.143e-12  3.778e-13  Swift_XRT  VERITAS
+55241.5000  6.5000e+00  2.186e-12  3.093e-13  1.346e-12  4.582e-13  Swift_XRT  VERITAS
+55268.0000  9.0000e+00  3.013e-12  5.976e-13  2.173e-12  3.115e-13  Swift_XRT  VERITAS
+55554.5000  1.0500e+01  1.742e-12  5.896e-13  1.507e-12  3.348e-13  Swift_XRT  VERITAS
+55571.0000  2.0000e+00  2.382e-12  6.211e-13  1.885e-12  3.374e-13  Swift_XRT  VERITAS
+55592.5000  7.5000e+00  1.880e-12  3.557e-13  2.906e-12  3.787e-13  Swift_XRT  VERITAS
+55601.5000  1.5000e+00  4.809e-12  5.602e-13  4.474e-12  7.775e-13  Swift_XRT  VERITAS
+55618.5000  4.5000e+00  8.161e-13  3.131e-13  1.137e-12  2.307e-13  Swift_XRT  VERITAS
+55627.5000  3.5000e+00  5.401e-13  4.383e-13  2.977e-13  1.492e-13  Swift_XRT  VERITAS
+55650.0000  7.0000e+00  1.889e-13  4.061e-13  1.022e-12  2.870e-13  Swift_XRT  VERITAS
+55895.0000  7.0000e+00  2.853e-12  4.906e-13  2.141e-12  4.042e-13  Swift_XRT  VERITAS
+55918.5000  2.5000e+00  2.842e-12  3.994e-13  1.958e-12  3.549e-13  Swift_XRT  VERITAS
+55924.5000  3.5000e+00  1.297e-12  3.963e-13  1.643e-12  5.738e-13  Swift_XRT  VERITAS
+55945.0000  5.0000e+00  -3.072e-13  2.916e-13  7.096e-13  1.903e-13  Swift_XRT  VERITAS
+55953.5000  2.5000e+00  5.316e-13  3.958e-13  5.604e-13  1.661e-13  Swift_XRT  VERITAS
+56249.5000  6.5000e+00  5.890e-13  5.377e-13  1.625e-12  4.540e-13  Swift_XRT  VERITAS
+56274.0000  9.0000e+00  3.280e-13  3.823e-13  5.471e-13  1.827e-13  Swift_XRT  VERITAS
+56336.0000  6.0000e+00  8.028e-13  5.294e-13  2.214e-12  3.061e-13  Swift_XRT  VERITAS
+56658.0000  6.0000e+00  2.737e-12  4.166e-13  1.952e-12  2.948e-13  Swift_XRT  VERITAS
+56683.5000  3.5000e+00  1.290e-12  5.102e-13  1.730e-12  2.926e-13  Swift_XRT  VERITAS
+56712.5000  5.5000e+00  6.808e-14  5.288e-13  1.112e-12  2.659e-13  Swift_XRT  VERITAS
+56738.5000  8.5000e+00  3.451e-13  3.803e-13  1.285e-12  2.938e-13  Swift_XRT  VERITAS
+56962.0000  4.0000e+00  2.382e-12  6.611e-13  2.226e-12  4.145e-13  Swift_XRT  VERITAS
+56979.5000  9.5000e+00  2.033e-12  5.192e-13  1.685e-12  3.341e-13  Swift_XRT  VERITAS
+57035.5000  5.5000e+00  9.897e-13  5.525e-13  1.238e-12  3.121e-13  Swift_XRT  VERITAS
+57368.0000  5.0000e+00  7.071e-13  6.997e-13  1.193e-12  3.764e-13  Swift_XRT  VERITAS
+57395.0000  6.0000e+00  9.140e-13  6.445e-13  1.240e-12  2.994e-13  Swift_XRT  VERITAS
+57424.5000  7.5000e+00  1.260e-12  4.731e-13  1.577e-12  3.336e-13  Swift_XRT  VERITAS
+57769.5000  1.3500e+01  1.858e-12  5.061e-13  1.393e-12  2.622e-13  Swift_XRT  VERITAS
+57808.0000  7.0000e+00  1.884e-12  6.256e-13  2.340e-12  5.399e-13  Swift_XRT  VERITAS
+58078.5000  5.5000e+00  2.841e-12  5.775e-13  1.738e-12  4.002e-14  NuSTAR  VERITAS
+58102.5000  1.5000e+00  2.565e-12  5.027e-13  1.735e-12  2.786e-13  NuSTAR  VERITAS
+58141.5000  5.0000e-01  6.645e-12  1.108e-12  2.572e-12  3.702e-13  Swift_XRT  VERITAS
+58142.5000  5.0000e-01  5.651e-12  9.441e-13  2.572e-12  3.702e-13  Swift_XRT  VERITAS
+58143.5000  5.0000e-01  5.453e-12  1.064e-12  2.789e-12  7.646e-13  Swift_XRT  VERITAS
+58154.0000  1.0000e+00  5.378e-13  7.112e-13  7.595e-13  2.393e-13  Chandra  VERITAS
+58459.0000  4.0000e+00  2.225e-12  5.082e-13  2.109e-12  3.592e-13  Swift_XRT  VERITAS
+58465.5000  1.5000e+00  2.202e-12  6.788e-13  1.869e-12  4.278e-13  Swift_XRT  VERITAS
+54859.8840  0.0000e+00  2.280e-12  1.519e-12  1.450e-12  3.913e-13  Swift_XRT  HESS
+55128.1060  6.9970e+00  5.364e-13  4.970e-13  1.143e-12  3.778e-13  Swift_XRT  HESS
+55153.0650  4.0190e+00  5.331e-13  2.500e-13  1.072e-12  2.310e-13  Swift_XRT  HESS
+55181.5130  3.5100e+00  2.860e-13  3.104e-13  8.155e-13  1.989e-13  Swift_XRT  HESS
+55896.5355  1.5225e+00  1.761e-12  4.048e-13  1.974e-12  3.516e-13  Swift_XRT  HESS
+55931.0480  0.0000e+00  -6.372e-13  8.723e-13  3.379e-13  1.423e-13  Swift_XRT  HESS
+55946.8625  7.0205e+00  3.667e-13  2.528e-13  6.598e-13  1.822e-13  Swift_XRT  HESS
+55971.7985  4.0075e+00  9.563e-13  4.494e-13  1.093e-12  2.818e-13  Swift_XRT  HESS
+56003.2935  4.8450e-01  4.907e-12  1.466e-12  1.811e-12  2.764e-13  Swift_XRT  HESS
+56986.5335  6.5155e+00  1.680e-12  2.319e-13  1.728e-12  3.517e-13  Swift_XRT  HESS
+57778.9040  6.0160e+00  2.023e-12  4.389e-13  1.242e-12  2.494e-13  Swift_XRT  HESS
+55557.6250  5.4500e-01  1.840e-12  1.040e-12  1.495e-12  3.347e-13  Swift_XRT  MAGIC
+55606.4000  7.5800e+00  3.160e-12  6.180e-13  3.223e-12  3.769e-13  Chandra  MAGIC
+57809.0000  6.9800e+00  1.860e-12  6.740e-13  2.362e-12  5.637e-13  Swift_XRT  MAGIC
+57835.4000  2.5000e+00  6.100e-13  1.430e-12  1.037e-12  3.983e-13  Swift_XRT  MAGIC
+58106.0000  8.9700e+00  2.320e-12  7.860e-13  1.602e-12  2.687e-13  NuSTAR  MAGIC
+55646.9000  2.0400e+00  7.720e-14  6.680e-13  1.396e-12  4.287e-13  Swift_XRT  MAGIC
+57842.9000  2.0100e+00  7.890e-13  9.940e-13  1.919e-13  8.365e-14  Swift_XRT  MAGIC
+55500.1000  2.0000e-02  5.090e-13  1.140e-12  8.428e-13  1.722e-13  Swift_XRT  MAGIC
+57393.5900  6.5800e+00  1.160e-12  5.550e-13  1.240e-12  2.994e-13  Swift_XRT  MAGIC
