@@ -16,7 +16,7 @@
 # - UL_CONF: 0.99
 # - comments: |
 #      Fig 3a - 2017 Average
-e_ref e_min e_max dnde dnde_err dnde_ul 
+e_ref e_min e_max dnde dnde_err dnde_ul
 0.25118864    0.19952623    0.31622777   1.66679776e-11   3.65962406e-12 nan
 0.39810717    0.31622777    0.50118723   9.53548437e-12   9.36460891e-13 nan
 0.63095734    0.50118723    0.79432823   2.86834586e-12   3.01919250e-13 nan

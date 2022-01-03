@@ -1,0 +1,38 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: time, unit: MJD, datatype: float64, description: observation time}
+# - {name: time_bin, unit: MJD, datatype: float64, description: search interval in observation time}
+# - {name: flux, unit: cm-2 s-1, datatype: float64, description: integral gamma-ray flux (>350 GeV)}
+# - {name: flux_err, unit: cm-2 s-1, datatype: float64, description: error on integral gamma-ray flux (>350 GeV)}
+# - {name: EW, unit: 0.1nm, datatype: float64, description: equivalent width}
+# - {name: Vc, unit: km s-1, datatype: float64, description: radial velocity}
+# - {name: VcErr, unit: km s-1, datatype: float64, description: error on radial velocity}
+# - {name: FWHM, unit: km s-1, datatype: float64, description: Halpha FWHM}
+# - {name: FWHMErr, unit: km s-1, datatype: float64, description: error on Halpha FWHM}
+# meta: !!omap
+# - reference_id: 2021ApJ...923..241A
+# - comments: |
+#       maximal difference in observation dates
+#       of five days; check Fig02 and Fig04 data
+#       files for detail
+time time_bin flux flux_err  EW      Vc    VcErr  FWHM   FWHMErr
+56658.0000  6.0000e+00  2.737e-12  4.166e-13   -30.967   43.515  0.505  408.945  0.785
+56683.5000  3.5000e+00  1.290e-12  5.102e-13   -29.553   43.200  0.500  408.190  1.040
+56962.0000  4.0000e+00  2.382e-12  6.611e-13   -29.852   42.710  0.500  402.930  0.870
+57035.5000  5.5000e+00  9.897e-13  5.525e-13   -29.600   38.010  0.510  400.900  0.800
+57395.0000  6.0000e+00  9.140e-13  6.445e-13   -30.654   46.745  0.505  404.485  0.950
+57451.0000  7.0000e+00  2.054e-12  6.818e-13   -29.270   33.300  0.500  398.500  1.140
+57723.0000  7.0000e+00  1.173e-12  5.106e-13   -29.734   39.150  0.500  404.630  0.900
+57808.0000  7.0000e+00  1.884e-12  6.256e-13   -28.178   33.335  0.470  391.935  0.890
+56628.5480  3.5280e+00  4.528e-13  3.664e-13   -31.375   35.740  0.500  394.120  0.660
+56986.5335  6.5155e+00  1.680e-12  2.319e-13   -32.552   27.730  0.500  417.180  2.270
+57016.0230  7.0210e+00  2.282e-12  3.994e-13   -29.502   42.760  0.510  401.060  0.780
+57400.4610  2.5380e+00  5.865e-13  4.494e-13   -30.938   37.530  0.510  405.130  0.940
+57724.0270  8.0240e+00  4.750e-13  1.819e-13   -29.734   39.150  0.500  404.630  0.900
+57750.0015  1.0115e+00  1.312e-12  3.726e-13   -29.148   37.160  0.500  402.640  0.970
+57475.9000  1.0300e+00  2.180e-12  9.000e-13   -28.740   31.890  0.500  395.720  1.060
+57809.0000  6.9800e+00  1.860e-12  6.740e-13   -28.178   33.335  0.470  391.935  0.890
+57842.9000  2.0100e+00  7.890e-13  9.940e-13   -30.479   40.630  0.500  410.630  1.370
+57393.5900  6.5800e+00  1.160e-12  5.550e-13   -30.654   46.745  0.505  404.485  0.950
+57454.9000  4.0000e-02  8.570e-13  1.320e-12   -29.270   33.300  0.500  398.500  1.140

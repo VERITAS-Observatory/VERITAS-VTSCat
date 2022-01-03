@@ -11,7 +11,7 @@
 # - source_id: 144
 # - reference_id: 2018ApJ...861..134A
 # - telescope: veritas
-e_ref e_min e_max dnde dnde_err 
+e_ref e_min e_max dnde dnde_err
 989 750 1330 1.56E-15 4.17E-16
 1759 1330 2370 3.91E-16 1.09E-16
 3128 2370 4220 2.65E-17 3.03E-17

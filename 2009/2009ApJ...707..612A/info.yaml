@@ -9,7 +9,7 @@ datasets:
   - VER-000054-sed.ecsv
 
 multiwavelength:
-  - content: 
+  - content:
       - agile
       - xrt
       - UMRAO

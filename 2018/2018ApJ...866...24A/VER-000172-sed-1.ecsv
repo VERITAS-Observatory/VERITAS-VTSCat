@@ -12,7 +12,7 @@
 # - telescope: veritas
 # - comments: |
 #       Figure 7
-e_ref dnde dnde_err 
+e_ref dnde dnde_err
 0.8426 5.07e-09  3.87e-09
 1.498  1.24e-09  1.09e-09
-2.665  5.62e-10  3.96e-10 
+2.665  5.62e-10  3.96e-10

@@ -25,4 +25,4 @@ datasets:
 data_entry:
   status: complete
   reviewed: true
-  notes: SED fits plotting not correct (sum of spectral fits) 
+  notes: SED fits plotting not correct (sum of spectral fits)

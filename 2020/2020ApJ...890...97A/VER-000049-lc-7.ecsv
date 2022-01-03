@@ -8,7 +8,7 @@
 # - {name: e_min, unit: TeV, datatype: float64, description: energy threshold for flux calculation}
 # meta: !!omap
 # - {data_type: lc}
-# - source_id: 49 
+# - source_id: 49
 # - file_id: 7
 # - reference_id: 2020ApJ...890...97A
 # - {telescope: veritas}

@@ -12,15 +12,15 @@
 # - file_id: 1
 # - telescope: veritas
 # - comments: Table 5
-#        Measured 68% and 95% Containment Bands on the EBL Intensity as 
+#        Measured 68% and 95% Containment Bands on the EBL Intensity as
 #        a Function of EBL Wavelength, including Systematic Uncertainties
 lambda nuI_nu_min95 nuI_nu_min68 nuI_nu_max95 nuI_nu_max68
-0.56    nan    nan    15.2    25.2    
-1.00    1.5    2.5    9.4    15.4    
-1.80    2.5    4.4    12.5    15.9    
-3.20    2.6    3.5    7.5    9.8    
-5.60    1.4    1.9    4.7    6.4    
-10.00    nan    nan    2.2    3.5    
-18.00    nan    nan    2.2    3.6    
-32.00    nan    nan    4.7    6.8    
-56.00    nan    nan    5.6    10.4    
+0.56    nan    nan    15.2    25.2
+1.00    1.5    2.5    9.4    15.4
+1.80    2.5    4.4    12.5    15.9
+3.20    2.6    3.5    7.5    9.8
+5.60    1.4    1.9    4.7    6.4
+10.00    nan    nan    2.2    3.5
+18.00    nan    nan    2.2    3.6
+32.00    nan    nan    4.7    6.8
+56.00    nan    nan    5.6    10.4

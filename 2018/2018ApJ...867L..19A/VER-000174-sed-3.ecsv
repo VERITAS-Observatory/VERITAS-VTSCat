@@ -18,7 +18,7 @@
 # - comments: |
 #      Fig 3c - High State
 #      true MJD interval: [58057,58074] and [58080,58110];
-e_ref e_min e_max dnde dnde_err dnde_ul 
+e_ref e_min e_max dnde dnde_err dnde_ul
 0.25118864   0.19952623   0.31622777   5.43795153e-11   1.79476895e-11 nan
 0.39810717   0.31622777   0.50118723   2.10022843e-11   3.51962600e-12 nan
 0.63095734   0.50118723   0.79432823   5.22495203e-12   1.00201951e-12 nan

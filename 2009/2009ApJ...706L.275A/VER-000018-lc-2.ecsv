@@ -18,5 +18,5 @@
 # - comments: |
 #       upper limits derived assuming a power law with
 #       spectral index of -2.5; using Rolke et al (2005)
-e_min time_min time_max live_time flux flux_ul significance 
+e_min time_min time_max live_time flux flux_ul significance
 0.188 54846 54888 7.8 nan 5.11e-12 -0.3

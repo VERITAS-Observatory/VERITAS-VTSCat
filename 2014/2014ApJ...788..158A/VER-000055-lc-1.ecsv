@@ -15,7 +15,7 @@
 # - telescope: veritas
 # - {SED_TYPE: flux}
 # - data_source:
-#   - digitizer 
+#   - digitizer
 #   - vts_wiki
 # - comments: |
 #       Fig 3 (top); raw data

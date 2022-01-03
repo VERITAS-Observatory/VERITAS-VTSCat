@@ -14,6 +14,7 @@
 # - file_id: 2
 # - telescope: veritas
 # - mjd: {min: 55544.0, max: 55656.}
+# - description: "orbital phase 0.2-0.4 (2011 orbit)"
 # - comments: |
 #     Spectral points measured by VERITAS for orbital phases 0.2-0.4
 #     2011 orbit

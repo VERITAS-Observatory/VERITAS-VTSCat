@@ -17,7 +17,7 @@
 # - UL_CONF: 0.99
 # - comments: |
 #      Fig 3c - Low State
-e_ref e_min e_max dnde dnde_err dnde_ul 
+e_ref e_min e_max dnde dnde_err dnde_ul
 0.25118864    0.19952623     0.31622777    1.35983244e-11    3.65287517e-12 nan
 0.39810717    0.31622777     0.50118723    7.76741813e-12    9.36799244e-13 nan
 0.63095734    0.50118723     0.79432823    2.35338461e-12    3.00824112e-13 nan

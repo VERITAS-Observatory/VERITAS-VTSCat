@@ -16,5 +16,5 @@ datasets:
 
 data_entry:
   status: complete
-  reviewed: true 
+  reviewed: true
 ...

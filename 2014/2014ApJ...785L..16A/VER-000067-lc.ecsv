@@ -8,7 +8,7 @@
 # - {name: flux_err, unit: m-2 s-1, datatype: float64}
 # meta: !!omap
 # - data_type: lc
-# - source_id: 67 
+# - source_id: 67
 # - reference_id: 2014ApJ...785L..16A
 # - telescope: veritas
 # - {SED_TYPE: flux}

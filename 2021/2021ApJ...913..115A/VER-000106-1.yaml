@@ -33,13 +33,13 @@ spec:
       e_ref: {val: 5.3, unit: TeV}
       chi2: {val: 6.84}
       ndof: {val: 9}
-   # parameterization of smoothly broken power law missing (equ3)
-   # type: brokenpl
-   # parameters:
-   #   norm: {val: 7.15, errp: 0.41, errn: 0.54, err_sys: 2.9, scale: 1e-14, unit: cm-2 s-1 TeV-1}
-   #   index: {val: 2.59, errp: 0.14, errn: 0.09}
-   #   index2: {val: 19.5, errp: 3.7, errn: 2.7}
-   #   e_cut: {val: 6.9, errp: 9.3, errn: 1.1, unit: TeV}
-   #   e_ref: {val: 5.3, unit: TeV}
-   #   chi2: {val: 5.68}
-   #   ndof: {val: 8}
+# parameterization of smoothly broken power law missing (equ3)
+# type: brokenpl
+# parameters:
+#   norm: {val: 7.15, errp: 0.41, errn: 0.54, err_sys: 2.9, scale: 1e-14, unit: cm-2 s-1 TeV-1}
+#   index: {val: 2.59, errp: 0.14, errn: 0.09}
+#   index2: {val: 19.5, errp: 3.7, errn: 2.7}
+#   e_cut: {val: 6.9, errp: 9.3, errn: 1.1, unit: TeV}
+#   e_ref: {val: 5.3, unit: TeV}
+#   chi2: {val: 5.68}
+#   ndof: {val: 8}

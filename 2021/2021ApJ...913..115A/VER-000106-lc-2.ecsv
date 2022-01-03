@@ -15,7 +15,7 @@
 # - telescope: veritas
 # - comments: |
 #         Fig 4
-e_min time time_min time_max flux flux_err     
+e_min time time_min time_max flux flux_err
 5 55306 55150 55332.625 1.766271e-13 7.044258e-14
 5 55360 55332.625 55515.25 2.071995e-13 6.867221e-14
 5 55684 55515.25 55697.875 3.159586e-13 1.310842e-13

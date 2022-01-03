@@ -15,7 +15,7 @@
 # - {SED_TYPE: flux}
 # - UL_CONF: 0.99
 # - comments: |
-#     # nightly binning for upper limits; 
+#     # nightly binning for upper limits;
 #     20-min and 16-min binning for the two
 #     data points on the night of the flare.
 e_min time flux flux_err flux_ul

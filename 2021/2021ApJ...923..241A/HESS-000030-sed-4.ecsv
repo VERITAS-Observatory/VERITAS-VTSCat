@@ -1,0 +1,38 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float32, description: reference energy}
+# - {name: de_min, unit: TeV, datatype: float32, description: energy interval (negative)}
+# - {name: de_max, unit: TeV, datatype: float32, description: energy interval (positive)}
+# - {name: dnde, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux}
+# - {name: dnde_errn, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux (negative error)}
+# - {name: dnde_errp, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux (positive error)}
+# - {name: dnde_ul, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux upper limit (95% CL)}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 30
+# - reference_id: 2021ApJ...923..241A
+# - file_id: 4
+# - telescope: hess
+# - mjd: {min: 53087.801, max: 58156.793}
+# - description: "orbital phase 0.6-0.8"
+# - comments: |
+#      orbital phase bin 0.6-0.8
+e_ref de_min de_max dnde dnde_errn dnde_errp dnde_ul
+2.952e-01 3.420e-02 2.102e-02 8.346e-12 5.408e-12 6.110e-12 2.102e-11
+3.506e-01 3.438e-02 3.251e-02 5.622e-12 2.291e-12 2.502e-12 -1.000e+00
+4.235e-01 4.041e-02 4.063e-02 3.172e-12 1.224e-12 1.333e-12 -1.000e+00
+5.115e-01 4.736e-02 5.082e-02 3.155e-12 8.079e-13 8.800e-13 -1.000e+00
+6.177e-01 5.535e-02 6.360e-02 2.256e-12 5.312e-13 5.806e-13 -1.000e+00
+7.488e-01 6.751e-02 7.660e-02 1.202e-12 3.308e-13 3.655e-13 -1.000e+00
+9.085e-01 8.306e-02 9.153e-02 8.482e-13 2.290e-13 2.558e-13 -1.000e+00
+1.101e+00 1.008e-01 1.107e-01 6.501e-13 1.615e-13 1.814e-13 -1.000e+00
+1.333e+00 1.212e-01 1.351e-01 3.591e-13 1.010e-13 1.155e-13 -1.000e+00
+1.615e+00 1.468e-01 1.637e-01 2.781e-13 7.631e-14 8.811e-14 -1.000e+00
+1.954e+00 1.761e-01 2.001e-01 9.087e-14 3.974e-14 4.842e-14 -1.000e+00
+2.366e+00 2.115e-01 2.442e-01 5.448e-14 2.789e-14 3.469e-14 -1.000e+00
+2.871e+00 2.604e-01 2.917e-01 8.498e-14 2.770e-14 3.351e-14 -1.000e+00
+3.470e+00 3.079e-01 3.610e-01 4.631e-14 1.828e-14 2.277e-14 -1.000e+00
+4.212e+00 3.807e-01 4.297e-01 4.000e-14 1.477e-14 1.867e-14 -1.000e+00
+5.109e+00 4.677e-01 5.141e-01 1.005e-14 6.566e-15 9.596e-15 3.208e-14
+8.931e+00 3.307e+00 7.225e+00 8.865e-16 7.585e-16 1.050e-15 3.251e-15

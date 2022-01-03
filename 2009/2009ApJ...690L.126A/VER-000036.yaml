@@ -9,7 +9,7 @@ data:
   excess: 245
   non: 1543
   noff: 13311
-  alpha:  0.0975
+  alpha: 0.0975
 
 pos:
   ra: {val: 8h09m59s, err: 0h0m9s, err_sys: 100s}

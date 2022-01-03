@@ -14,7 +14,7 @@
 #   - digitizer
 # - telescope: veritas
 # - comments: |
-#       fluxes calculated assuming a power law with a 
+#       fluxes calculated assuming a power law with a
 #       spectral index of -2.3; using Rolke et al (2005)
 e_min time flux flux_err
 0.35  54149.7949    1.4674852e-12  4.7828439e-13

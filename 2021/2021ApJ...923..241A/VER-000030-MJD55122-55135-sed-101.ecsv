@@ -1,0 +1,28 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float32}
+# - {name: e_min, unit: TeV, datatype: float32}
+# - {name: e_max, unit: TeV, datatype: float32}
+# - {name: dnde, unit: cm-2 s-1 TeV-1, datatype: float32}
+# - {name: dnde_errn, unit: cm-2 s-1 TeV-1, datatype: float32}
+# - {name: dnde_errp, unit: cm-2 s-1 TeV-1, datatype: float32}
+# - {name: dnde_ul, unit: cm-2 s-1 TeV-1, datatype: float32}
+# - {name: signi, datatype: float32}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 30
+# - reference_id: 2021ApJ...923..241A
+# - file_id: 101
+# - telescope: veritas
+# - mjd: {min: 55122, max: 55135}
+# - description: "MJD 55122-55135"
+# - comments: |
+#      Appendix D
+e_ref e_min e_max dnde dnde_errn dnde_errp dnde_ul signi
+0.562341    0.398107    0.794328    1.46715e-12    6.76492e-13    7.45106e-13    nan     2.30554
+1.12202    0.794328    1.58489    2.49217e-13    1.36445e-13    1.60194e-13    nan     1.9682
+2.23872    1.58489    3.16228    nan     nan nan    9.52524e-14    0.637996
+4.46684    3.16228    6.30957    nan     nan nan    2.82378e-14    0.347853
+8.91251    6.30957    12.5893    nan     nan nan    6.95839e-15    -0.555249
+17.7828    12.5893    25.1189    nan     nan nan    6.30515e-15    1.97277

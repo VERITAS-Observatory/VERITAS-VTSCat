@@ -16,7 +16,7 @@
 # - UL_CONF: 0.99
 # - comments: |
 #      Fig 3a - baseline (Pre-2017)
-e_ref e_min e_max dnde dnde_err dnde_ul 
+e_ref e_min e_max dnde dnde_err dnde_ul
 0.70794578   0.39810717   1.25892541  5.74340735e-13  1.53352887e-13 nan
 2.23872114   1.25892541   3.98107171  2.62497923e-14  1.10598831e-14 nan
 7.07945784   3.98107171  12.58925412  1.54961562e-15  9.93870900e-16 nan

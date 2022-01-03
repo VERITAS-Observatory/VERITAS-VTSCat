@@ -9,11 +9,11 @@ multiwavelength:
   - status: false
 
 datasets:
-    - VER-000030-1.yaml
-    - VER-000030-2.yaml
-    - VER-000030-sed-1.ecsv
-    - VER-000030-sed-2.ecsv
+  - VER-000030-1.yaml
+  - VER-000030-2.yaml
+  - VER-000030-sed-1.ecsv
+  - VER-000030-sed-2.ecsv
 
 data_entry:
-    status: complete
-    reviewed: true
+  status: complete
+  reviewed: true

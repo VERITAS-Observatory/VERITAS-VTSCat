@@ -16,7 +16,7 @@
 # - reference_id: 2020ApJ...890...97A
 # - {telescope: veritas}
 # - comments:
-#       [Figures 2 and 3, 5-minute bins, indices derived from 
+#       [Figures 2 and 3, 5-minute bins, indices derived from
 #       exponential-cutoff power-law fits with E_CUT fixed at 4 TeV in each
 #       time bin]
 # - mjd: {max: 55244.4128, min: 55244.3086}

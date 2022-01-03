@@ -11,7 +11,7 @@
 # - reference_id: 2008ApJ...679..397A
 # - telescope: veritas
 # - comments: |
-#     Table 1 
+#     Table 1
 e_ref dnde dnde_err  significance
 0.25    1.36e-7 0.60e-7 2.26
 0.50    4.55e-8 1.15e-8 3.97

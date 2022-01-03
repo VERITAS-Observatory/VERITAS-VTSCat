@@ -17,7 +17,7 @@
 # - UL_CONF: 0.99
 # - comments: |
 #       integral upper limits derived assuming a power law
-#       with spectral index of -2.0; 
+#       with spectral index of -2.0;
 #       using Rolke & Lopez (2001);
 #       EBL absorption correction applied using
 #       Finke et al (2010) model and a redshift of

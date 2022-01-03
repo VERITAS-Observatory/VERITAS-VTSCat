@@ -1,0 +1,29 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float32}
+# - {name: e_min, unit: TeV, datatype: float32}
+# - {name: e_max, unit: TeV, datatype: float32}
+# - {name: dnde, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux}
+# - {name: dnde_errn, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux (negative error)}
+# - {name: dnde_errp, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux (positive error)}
+# - {name: dnde_ul, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux upper limit (95% CL)}
+# - {name: signi, datatype: float32, description: significance of data point}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 30
+# - reference_id: 2021ApJ...923..241A
+# - file_id: 10
+# - telescope: veritas
+# - mjd: {min: 58141.0, max: 58142.0}
+# - description: "MJD 58141"
+# - comments: |
+#      Fig 10
+e_ref e_min e_max dnde dnde_errn dnde_errp dnde_ul signi
+0.398107    0.316228    0.501187    1.18238e-11    5.55334e-12    6.59105e-12    nan     2.38668
+0.630957    0.501187    0.794328    6.03824e-12    1.77521e-12    2.05608e-12    nan     4.30515
+1    0.794328    1.25893    2.52831e-12    7.30718e-13    8.7386e-13    nan     4.85811
+1.58489    1.25893    1.99526    7.06695e-13    2.6742e-13    3.49456e-13    nan     3.86913
+2.51189    1.99526    3.16228    1.45629e-13    8.02736e-14    1.28549e-13    nan     2.78992
+3.98107    3.16228    5.01187    1.29867e-13    6.12988e-14    9.00533e-14    nan     3.41694
+6.30957    5.01187    7.94328    nan     nan nan    1.38654e-13    1.97277
