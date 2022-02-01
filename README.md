@@ -53,10 +53,10 @@ For a detailed description of data formats, file types, keywords, and spectral m
 
 | Object | Publication Title | ADS Reference | Repository |
 |---|---|---|---|
+|3C 279 | Variability and Spectral Characteristics of Three Flaring Gamma-Ray Quasars Observed by VERITAS and Fermi-LAT | [2022ApJ...924...95A](http://adsabs.harvard.edu/abs/2022ApJ...924...95A) | [data files](2022/2022ApJ...924...95A) |
+|PKS 1222+216 | Variability and Spectral Characteristics of Three Flaring Gamma-Ray Quasars Observed by VERITAS and Fermi-LAT | [2022ApJ...924...95A](http://adsabs.harvard.edu/abs/2022ApJ...924...95A) | [data files](2022/2022ApJ...924...95A) |
+|Ton 599 | Variability and Spectral Characteristics of Three Flaring Gamma-Ray Quasars Observed by VERITAS and Fermi-LAT | [2022ApJ...924...95A](http://adsabs.harvard.edu/abs/2022ApJ...924...95A) | [data files](2022/2022ApJ...924...95A) |
 |Crab nebula / VER J0534+220 | The throughput calibration of the VERITAS telescopes | [2021arXiv211104676A](http://adsabs.harvard.edu/abs/2021arXiv211104676A) | [data files](2021/2021arXiv211104676A) |
-|3C 279 | Variability and Spectral Characteristics of Three Flaring Gamma-ray Quasars Observed by VERITAS and Fermi-LAT | [2021arXiv211013181A](http://adsabs.harvard.edu/abs/2021arXiv211013181A) | [data files](2021/2021arXiv211013181A) |
-|PKS 1222+216 | Variability and Spectral Characteristics of Three Flaring Gamma-ray Quasars Observed by VERITAS and Fermi-LAT | [2021arXiv211013181A](http://adsabs.harvard.edu/abs/2021arXiv211013181A) | [data files](2021/2021arXiv211013181A) |
-|Ton 599 | Variability and Spectral Characteristics of Three Flaring Gamma-ray Quasars Observed by VERITAS and Fermi-LAT | [2021arXiv211013181A](http://adsabs.harvard.edu/abs/2021arXiv211013181A) | [data files](2021/2021arXiv211013181A) |
 |HESS J0632+057 / VER J0633+057 | Observation of the Gamma-Ray Binary HESS J0632+057 with the H.E.S.S., MAGIC, and VERITAS Telescopes | [2021ApJ...923..241A](http://adsabs.harvard.edu/abs/2021ApJ...923..241A) | [data files](2021/2021ApJ...923..241A) |
 |HESS J0632+057 / VER J0633+057 | Multiwavelength Observation Campaign of the TeV Gamma-Ray Binary HESS J0632 + 057 with NuSTAR, VERITAS, MDM, and Swift | [2021ApJ...923...17T](http://adsabs.harvard.edu/abs/2021ApJ...923...17T) | [data files](2021/2021ApJ...923...17T) |
 | x | An Archival Search for Neutron-star Mergers in Gravitational Waves and Very-high-energy Gamma Rays | [2021ApJ...918...66A](http://adsabs.harvard.edu/abs/2021ApJ...918...66A) | [data files](2021/2021ApJ...918...66A) |
@@ -117,7 +117,7 @@ For a detailed description of data formats, file types, keywords, and spectral m
 |1ES 2344+514 / VER J2347+517 | Very-High-Energy γ-Ray Observations of the Blazar 1ES 2344+514 with VERITAS | [2017MNRAS.471.2117A](http://adsabs.harvard.edu/abs/2017MNRAS.471.2117A) | [data files](2017/2017MNRAS.471.2117A) |
 |HESS J0632+057 / VER J0633+057 | VHE Observations of Galactic binary systems with VERITAS | [2017ICRC...35..729M](http://adsabs.harvard.edu/abs/2017ICRC...35..729M) | [data files](2017/2017ICRC...35..729M) |
 |LS I +61 303 / VER J0240+612 | Decadal VERITAS Observation of LS I +61°303: Detection of TeV emission around the entire orbit | [2017ICRC...35..712K](http://adsabs.harvard.edu/abs/2017ICRC...35..712K) | [data files](2017/2017ICRC...35..712K) |
-| x | Discovery of Very-high-energy Emission from RGB J2243+203 and Derivation of Its Redshift Upper Limit | [2017ApJS..233....7A](http://adsabs.harvard.edu/abs/2017ApJS..233....7A) | [data files](2017/2017ApJS..233....7A) |
+|RGB J2243+203 / VER J2243+203 | Discovery of Very-high-energy Emission from RGB J2243+203 and Derivation of Its Redshift Upper Limit | [2017ApJS..233....7A](http://adsabs.harvard.edu/abs/2017ApJS..233....7A) | [data files](2017/2017ApJS..233....7A) |
 |1ES 1215+303 / VER J1217+301 | A Luminous and Isolated Gamma-ray Flare from the Blazar B2 1215+30 | [2017ApJ...836..205A](http://adsabs.harvard.edu/abs/2017ApJ...836..205A) | [data files](2017/2017ApJ...836..205A) |
 |Tycho SNR / VER J0025+641 | Gamma-Ray Observations of Tycho’s Supernova Remnant with VERITAS and Fermi | [2017ApJ...836...23A](http://adsabs.harvard.edu/abs/2017ApJ...836...23A) | [data files](2017/2017ApJ...836...23A) |
 | x | Search for Magnetically Broadened Cascade Emission from Blazars with VERITAS | [2017ApJ...835..288A](http://adsabs.harvard.edu/abs/2017ApJ...835..288A) | [data files](2017/2017ApJ...835..288A) |
@@ -285,6 +285,7 @@ For a detailed description of data formats, file types, keywords, and spectral m
 | 173 | VER J1145+196 | 3C 264.0 | 176.270871 | 19.606317 | [2020ApJ...896...41A](2020/2020ApJ...896...41A)
 | 174 | VER J2032+414 | PSR J2032+4127/MT91 213 | 308.054687 | 41.456762 | [2018ApJ...867L..19A](2018/2018ApJ...867L..19A)
 | 175 | VER J1746-286 | GC diffuse ridge | 308.054687 | 41.456762 | [2021ApJ...913..115A](2021/2021ApJ...913..115A)
+| 176 | VER J2243+203 | RGB J2243+203 | 340.978098 | 20.351048 | [2017ApJS..233....7A](2017/2017ApJS..233....7A)
 | 100168 | (not detected) | V* V404 Cyg | 306.015917 | 33.867194 | [2016ApJ...831..113A](2016/2016ApJ...831..113A)
 | 100169 | (not detected) | V* V635 Cas | 19.6325 | 63.7425 | [2016ApJ...831..113A](2016/2016ApJ...831..113A)
 | 100171 | (not detected) | Cyg X-3 | 308.10742 | 40.95775 | [2013ApJ...779..150A](2013/2013ApJ...779..150A)
@@ -314,9 +315,9 @@ For a detailed description of data formats, file types, keywords, and spectral m
 | 100196 | (not detected) | PSR B0355+54 | 59.723819 | 54.22048 | [2021ApJ...916..117B](2021/2021ApJ...916..117B)
 | 100197 | (not detected) | PSR J0357+32 | 59.467338 | 32.089897 | [2021ApJ...916..117B](2021/2021ApJ...916..117B)
 | 100198 | (not detected) | PSR J1740+1000 | 265.10794 | 10.00168 | [2021ApJ...916..117B](2021/2021ApJ...916..117B)
-| 100199 | (not detected) | 3C 279 | 194.046527 | -5.789314 | [2021arXiv211013181A](2021/2021arXiv211013181A)
-| 100200 | (not detected) | PKS 1222+216 | 186.22691 | 21.379551 | [2021arXiv211013181A](2021/2021arXiv211013181A)
-| 100201 | (not detected) | Ton 599 | 179.882641 | 29.245507 | [2021arXiv211013181A](2021/2021arXiv211013181A)
+| 100199 | (not detected) | 3C 279 | 194.046527 | -5.789314 | [2022ApJ...924...95A](2022/2022ApJ...924...95A)
+| 100200 | (not detected) | PKS 1222+216 | 186.22691 | 21.379551 | [2022ApJ...924...95A](2022/2022ApJ...924...95A)
+| 100201 | (not detected) | Ton 599 | 179.882641 | 29.245507 | [2022ApJ...924...95A](2022/2022ApJ...924...95A)
 | 300000 | (charged particle) | electron | 179.882641 | 29.245507 | [2018PhRvD..98f2004A](2018/2018PhRvD..98f2004A)
 | 300026 | (charged particle) | iron | 179.882641 | 29.245507 | [2018PhRvD..98b2009A](2018/2018PhRvD..98b2009A)
 
