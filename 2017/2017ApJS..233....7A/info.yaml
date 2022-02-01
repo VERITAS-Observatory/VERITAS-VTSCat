@@ -1,0 +1,13 @@
+---
+reference_id: 2017ApJS..233....7A
+source_id: [176]
+telescope: [veritas]
+
+datasets:
+    - VER-000176.yaml
+    - VER-000176-sed-1.ecsv
+    - VER-000176-lc-1.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

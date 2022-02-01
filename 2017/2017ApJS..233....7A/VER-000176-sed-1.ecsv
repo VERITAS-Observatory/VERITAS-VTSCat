@@ -1,0 +1,25 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float32}
+# - {name: e_min, unit: TeV, datatype: float32}
+# - {name: e_max, unit: TeV, datatype: float32}
+# - {name: dnde, unit: cm-2 s-1 TeV-1, datatype: float32}
+# - {name: dnde_err, unit: cm-2 s-1 TeV-1, datatype: float32}
+# - {name: dnde_ul, unit: cm-2 s-1 TeV-1, datatype: float32}
+# meta: !!omap
+# - {data_type: sed}
+# - {source_id: 176}
+# - {reference_id: 2017ApJS..233....7A}
+# - {telescope: veritas}
+# - mjd: {max: 57012.072, min: 57012.072}
+# - UL_CONF: 0.95
+# - comments: |
+#     Figure 2; flux points not EBL corrected
+e_ref e_min e_max dnde dnde_err dnde_ul
+0.126 0.112 0.141 1.466e-09   4.260e-10  nan
+0.150 0.141 0.158 7.102e-10   2.144e-10  nan
+0.178 0.158 0.200 2.349e-10   8.482e-11  nan
+0.224 0.200 0.251 1.038e-10   4.172e-11  nan
+0.335 0.251 0.447 1.716e-11   8.142e-12  nan
+1.189 0.447 3.162 nan         nan        2.506e-13
