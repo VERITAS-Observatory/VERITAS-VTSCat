@@ -22,4 +22,4 @@ spec:
       norm: {val: 4.3, err: 0.3, scale: 1e-10, unit: cm-2 s-1 TeV-1}
       e_ref: {val: 0.3, unit: TeV}
       chi2: {val: 9.2}
-      ndof: {val: 9.}
+      ndof: {val: 9}
