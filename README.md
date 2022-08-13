@@ -1,5 +1,7 @@
 # VTSCat - the VERITAS data catalogue
 
+[![DOI](https://zenodo.org/badge/248259940.svg)](https://zenodo.org/badge/latestdoi/248259940)
+
 1. [ Introduction. ](#intro)
 2. [ Organisation and data format. ](#formats)
 3. [ Publications. ](#publications)
@@ -26,10 +28,10 @@ VTSCat supplements the HEASARC catalogue of VERITAS results (to be published). I
 **Access**:
 
 - GitHub: https://github.com/VERITAS-Observatory/VERITAS-VTSCat 
-- ZENODO: https://doi.org/10.5281/zenodo.4723219
+- ZENODO: https://doi.org/10.5281/zenodo.6988967
 - HEASARC (**link to be added**)
 
-**Citation:** if you make use of VTSCat, please cite the orginal publication for the data, the DOI ([10.5281/zenodo.4723219](https://doi.org/10.5281/zenodo.4723219)) the following research note: (**link to be added**)
+**Citation:** if you make use of VTSCat, please cite the orginal publication for the data, the DOI ([10.5281/zenodo.6988967](https://doi.org/10.5281/zenodo.6988967)) the following research note: (**link to be added**)
 
 <a name="formats"></a>
 
@@ -330,7 +332,7 @@ For a detailed description of data formats, file types, keywords, and spectral m
 
 ## Licence
 
-Please cite this work: https://doi.org/10.5281/zenodo.4723219
+Please cite this work: https://doi.org/10.5281/zenodo.6988967
 
 <p xmlns:dct="http://purl.org/dc/terms/">
   <a rel="license"
