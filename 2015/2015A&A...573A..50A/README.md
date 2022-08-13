@@ -17,9 +17,9 @@ Aleksić, J. et al. (The MAGIC and VERITAS Collaborations), Astronomy & Astrophy
 
 ### Figures
 
-<img src="figures/2015A&A...573A..50A-VER-91-3-sed.png" alt="drawing" width="400"/>
-<img src="figures/2015A&A...573A..50A-VER-91-2-sed.png" alt="drawing" width="400"/>
-<img src="figures/2015A&A...573A..50A-VER-91-4-sed.png" alt="drawing" width="400"/>
 <img src="figures/2015A&A...573A..50A-VER-91-1-lc.png" alt="drawing" width="400"/>
+<img src="figures/2015A&A...573A..50A-VER-91-2-sed.png" alt="drawing" width="400"/>
+<img src="figures/2015A&A...573A..50A-VER-91-3-sed.png" alt="drawing" width="400"/>
+<img src="figures/2015A&A...573A..50A-VER-91-4-sed.png" alt="drawing" width="400"/>
 
 

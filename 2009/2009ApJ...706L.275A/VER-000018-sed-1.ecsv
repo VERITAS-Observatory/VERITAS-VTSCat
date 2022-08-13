@@ -10,6 +10,7 @@
 # - source_id: 18
 # - reference_id: 2009ApJ...706L.275A
 # - telescope: veritas
+# - mjd: {min: 54846., max: 54888.0}
 # - UL_CONF: 0.99
 # - comments: |
 #       upper limits derived

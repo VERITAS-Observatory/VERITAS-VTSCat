@@ -11,9 +11,10 @@
 # - source_id: 13
 # - file_id: 3
 # - reference_id: 2014ApJ...782...13A
+# - mjd: {min: 55144, max: 55951}
 # - telescope: veritas
 # - comments: |
-#     Spectral points from which fit (red curve)
+#     Spectral points from which fit (red curve=low flux)
 #     in Figure 1 was obtained,
 e_ref e_min e_max dnde dnde_err
 0.291   0.24   0.353   8.56762e-08   3.13035e-08

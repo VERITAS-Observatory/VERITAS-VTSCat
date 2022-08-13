@@ -22,4 +22,4 @@ spec:
       index: {val: 3.2, err: 0.2}
       e_ref: {val: 0.3, unit: TeV}
       chi2: {val: 5.1}
-      ndof: {val: 5.}
+      ndof: {val: 5}

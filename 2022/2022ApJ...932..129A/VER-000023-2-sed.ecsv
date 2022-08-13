@@ -1,0 +1,25 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, datatype: float32, unit: TeV}
+# - {name: dnde, datatype: float32, unit: TeV-1 m-2 s-1 }
+# - {name: dnde_err, datatype: float32, unit: TeV-1 m-2 s-1}
+# - {name: e_min, datatype: float32, unit: TeV}
+# - {name: e_max, datatype: float32, unit: TeV}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 23
+# - reference_id: 2022ApJ...932..129A
+# - file_id: 2
+# - telescope: veritas
+# - mjd: {min: 56628.5, max: 56632.5}
+# - comments: |
+#      Figure 4; BB2 (high state)
+e_ref dnde dnde_err e_min e_max
+0.1246    3.29e-05 2.29e-06   0.1000    0.1585
+0.1975    9.79e-06  5.6e-07   0.1585    0.2512
+ 0.313    2.47e-06  1.8e-07   0.2512    0.3981
+0.4961    5.05e-07 5.74e-08   0.3981    0.6310
+0.7863    7.52e-08 1.77e-08   0.6310    1.0000
+ 1.246    1.26e-08 6.57e-09   1.0000    1.5849
+ 1.975    6.78e-09 3.26e-09   1.5849    2.5119

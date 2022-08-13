@@ -3,8 +3,8 @@
 # datatype:
 # - {name: e_ref, datatype: float32, unit: TeV}
 # - {name: dnde, datatype: float32, unit: m-2 s-1 TeV-1}
-# - {name: dnde_err, datatype: float32, unit: m-2 s-1 TeV-1}
-# - {name: dnde_ul, datatype: float32, unit: m-2 s-1 TeV-1}
+# - {name: dnde_err, unit: TeV-1 m-2 s-1, datatype: float32}
+# - {name: dnde_ul, unit: TeV-1 m-2 s-1, datatype: float32}
 # meta: !!omap
 # - data_type: sed
 # - source_id: 136

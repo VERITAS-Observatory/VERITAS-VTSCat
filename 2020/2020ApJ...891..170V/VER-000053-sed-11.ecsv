@@ -15,6 +15,7 @@
 # - description: "(2017, Apr 1 - TeV Flare 7)"
 # - reference_id: 2020ApJ...891..170V
 # - telescope: veritas
+# - mjd: {min: 57844., max: 57844.}
 # - UL_CONF: 0.95
 # - comments: |
 #       Fig 13

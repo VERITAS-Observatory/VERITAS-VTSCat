@@ -3,8 +3,8 @@
 # datatype:
 # - {name: e_ref, unit: eV, datatype: float32}
 # - {name: e2dnde, datatype: float32, unit: erg cm-2 s-1}
-# - {name: e_errn, unit: eV, datatype: float32}
-# - {name: e_errp, unit: eV, datatype: float32}
+# - {name: de_min, unit: eV, datatype: float32}
+# - {name: de_max, unit: eV, datatype: float32}
 # - {name: e2dnde_errn, datatype: float32, unit: erg cm-2 s-1}
 # - {name: e2dnde_errp, datatype: float32, unit: erg cm-2 s-1}
 # - {name: e2dnde_ul, datatype: float32, unit: erg cm-2 s-1}
@@ -19,7 +19,7 @@
 # - UL_CONF: 0.95
 # - comments: |
 #       Fig 14
-e_ref e2dnde e_errn e_errp e2dnde_errn e2dnde_errp e2dnde_ul observatory
+e_ref e2dnde de_min de_max e2dnde_errn e2dnde_errp e2dnde_ul observatory
 3.1623E+08 nan 2.1623E+08 6.8377E+08 nan nan 1.7206E-10 Fermi
 3.1623E+09 3.7166E-10 2.1623E+09 6.8377E+09 2.1498E-10 2.1498E-10 nan Fermi
 3.1623E+10 nan 2.1623E+10 6.8377E+10 nan nan 1.7034E-09 Fermi

@@ -13,6 +13,7 @@
 # - UL_CONF: 0.95
 # - reference_id: 2010ApJ...708L.100A
 # - telescope: veritas
+# - mjd: {min: 54881., max: 55003.}
 e_ref e_min e_max dnde dnde_err dnde_ul
 0.1527   0.1400    0.1679    1.61e-06 4.25e-07  nan
 0.1832   0.1679    0.2014    5.52e-07 2.44e-07  nan

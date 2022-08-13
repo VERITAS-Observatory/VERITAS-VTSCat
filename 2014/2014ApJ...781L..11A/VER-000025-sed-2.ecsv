@@ -12,6 +12,7 @@
 # - reference_id: 2014ApJ...781L..11A
 # - file_id: 2
 # - telescope: veritas
+# - mjd: {min: 56353., max: 56366.}
 # - comments: |
 #     spectrum during MeV flare
 #     obtained per email by G.Richards (2017-04-17)

@@ -6,7 +6,7 @@ Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal,
 - ADS: [2020ApJ...890...97A](http://adsabs.harvard.edu/abs/2020ApJ...890...97A)
 - DOI: [10.3847/1538-4357/ab6612](https://doi.org/10.3847/1538-4357/ab6612)
 
-## Markarian 421
+## Markarian 421 (VER J1104+382)
 ### Data files
 
 - observation data: [VER-000049-1.yaml](VER-000049-1.yaml)  
@@ -16,13 +16,13 @@ Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal,
 
 ### Figures
 
-<img src="figures/2020ApJ...890...97A-VER-49-2-lc.png" alt="drawing" width="400"/>
-<img src="figures/2020ApJ...890...97A-VER-49-6-lc.png" alt="drawing" width="400"/>
-<img src="figures/2020ApJ...890...97A-VER-49-4-lc.png" alt="drawing" width="400"/>
-<img src="figures/2020ApJ...890...97A-VER-49-8-lc.png" alt="drawing" width="400"/>
 <img src="figures/2020ApJ...890...97A-VER-49-1-lc.png" alt="drawing" width="400"/>
+<img src="figures/2020ApJ...890...97A-VER-49-2-lc.png" alt="drawing" width="400"/>
 <img src="figures/2020ApJ...890...97A-VER-49-3-lc.png" alt="drawing" width="400"/>
-<img src="figures/2020ApJ...890...97A-VER-49-7-lc.png" alt="drawing" width="400"/>
+<img src="figures/2020ApJ...890...97A-VER-49-4-lc.png" alt="drawing" width="400"/>
 <img src="figures/2020ApJ...890...97A-VER-49-5-lc.png" alt="drawing" width="400"/>
+<img src="figures/2020ApJ...890...97A-VER-49-6-lc.png" alt="drawing" width="400"/>
+<img src="figures/2020ApJ...890...97A-VER-49-7-lc.png" alt="drawing" width="400"/>
+<img src="figures/2020ApJ...890...97A-VER-49-8-lc.png" alt="drawing" width="400"/>
 
 

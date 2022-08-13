@@ -1,0 +1,27 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float32}
+# - {name: dnde, unit: m-2 s-1 TeV-1, datatype: float32}
+# - {name: dnde_err, unit: m-2 s-1 TeV-1, datatype: float32}
+# - {name: e_min, unit: TeV, datatype: float32}
+# - {name: e_max, unit: TeV, datatype: float32}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 138
+# - file_id: 5
+# - reference_id: 2014ApJ...797...89A
+# - mjd: {min: 56034., max: 56079.}
+# - telescope: veritas
+# - comments: |
+#       Fig 1 - average without flare
+#       green markers
+e_ref dnde dnde_err e_min e_max
+0.3444  9.49e-07 6.18e-07  0.3162 0.3758
+0.4093  3.74e-07 1.88e-07  0.3758 0.4467
+0.5143  2.26e-07 6.81e-08  0.4467 0.5957
+0.6487  2.54e-07 6.41e-08  0.5957 0.7079
+0.771  7.56e-08 3.49e-08   0.7079 0.8414
+0.9163  6.58e-08 2.39e-08  0.8414 1.0000
+1.389  1.39e-08 4.24e-09   1.0000 1.9953
+2.772  1.6e-09 8.98e-10    1.9953 3.9811

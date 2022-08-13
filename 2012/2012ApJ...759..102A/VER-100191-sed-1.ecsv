@@ -8,6 +8,7 @@
 # - {data_type: sed}
 # - {source_id: 100191}
 # - {reference_id: 2012ApJ...759..102A}
+# - mjd: {min: 55126.0, max: 55133.0}
 # - {telescope: veritas}
 # - UL_CONF: 0.99
 e_ref dnde_ul dnde

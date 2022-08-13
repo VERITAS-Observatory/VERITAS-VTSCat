@@ -14,6 +14,7 @@
 # - file_id: 10
 # - description: "(2017, Mar 5 - TeV Flare 6)"
 # - reference_id: 2020ApJ...891..170V
+# - mjd: {min: 57817., max: 57817.}
 # - telescope: veritas
 # - UL_CONF: 0.95
 # - comments: |

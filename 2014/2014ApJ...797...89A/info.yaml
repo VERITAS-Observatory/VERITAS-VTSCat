@@ -1,0 +1,21 @@
+---
+reference_id: 2014ApJ...797...89A
+source_id: [138]
+telescope: [veritas]
+
+datasets:
+  - VER-000138-1.yaml
+  - VER-000138-2.yaml
+  - VER-000138-3.yaml
+  - VER-000138-4.yaml
+  - VER-000138-5.yaml
+  - VER-000138-sed-2.ecsv
+  - VER-000138-sed-3.ecsv
+  - VER-000138-sed-4.ecsv
+  - VER-000138-sed-5.ecsv
+  - VER-000138-lc-1.ecsv
+  - VER-000138-lc-2.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

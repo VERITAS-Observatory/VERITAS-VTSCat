@@ -1,0 +1,25 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: TeV, datatype: float32}
+# - {name: dnde, unit: m-2 s-1 TeV-1, datatype: float32}
+# - {name: dnde_err, unit: m-2 s-1 TeV-1, datatype: float32}
+# - {name: e_min, unit: TeV, datatype: float32}
+# - {name: e_max, unit: TeV, datatype: float32}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 138
+# - file_id: 2
+# - reference_id: 2014ApJ...797...89A
+# - telescope: veritas
+# - mjd: {min: 56034., max: 56040.}
+# - comments: |
+#       April dark run
+e_ref dnde dnde_err e_min e_max
+0.5474 1.16e-07 7.31e-08  0.5000 0.6000
+0.6917 5.22e-08 2.84e-08  0.6000 0.8000
+0.9362 2.57e-08 1.45e-08  0.8000 1.1000
+1.195 1.43e-08 1.03e-08  1.1000 1.3000
+1.607 6.19e-09 3.59e-09  1.3000 2.0000
+2.442 3.06e-09 1.91e-09  2.0000 3.0000
+4.203 6.25e-10 4.15e-10  3.0000 6.0000

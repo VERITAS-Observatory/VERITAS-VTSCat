@@ -1,0 +1,25 @@
+---
+source_id: 138
+reference_id: 2014ApJ...797...89A
+telescope: veritas
+file_id: 5
+description: "Combined Dark Run (May, April, without Flare)"
+
+data:
+  livetime: 418min
+  non: 241
+  noff: 926
+  alpha: 0.0909
+  significance: 12.1
+
+spec:
+  erange: {min: 0.3162, max: 3.9811, unit: TeV}
+  mjd: {min: 56034., max: 56079.}
+  model:
+    type: pl2
+    parameters:
+      flux: {val: 1.4, err: 0.2, scale: 1.e-7, unit: m-2 s-1}
+      index: {val: 3.0, err: 0.2}
+      e_min: {val: 0.315, unit: TeV}
+      chi2: {val: 3.8}
+      ndof: {val: 7}

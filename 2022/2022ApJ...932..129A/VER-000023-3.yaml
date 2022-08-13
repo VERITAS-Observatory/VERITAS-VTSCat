@@ -1,0 +1,24 @@
+---
+source_id: 23
+reference_id: 2022ApJ...932..129A
+file_id: 3
+telescope: veritas
+description: "BB3"
+
+spec:
+  models:
+    - model:
+        type: lppl
+        parameters:
+          alpha: {val: 3.39, err: 0.13}
+          beta: {val: 0.5, err: 0.51}
+          norm: {val: 7.9, err: 0.64, scale: 1e-11, unit: cm-2 s-1 TeV-1}
+          e_ref: {val: 0.3, unit: TeV}
+    - model:
+        type: pl
+        parameters:
+          norm: {val: 2.808e-11, err: 2.4e-12, unit: cm-2 s-1 TeV-1}
+          index: {val: 3.40, err: 0.12}
+          e_ref: {val: 0.4, unit: TeV}
+  erange: {min: 0.1, max: 1.1220, unit: TeV}
+  mjd: {min: 56632.5, max: 56689.0}

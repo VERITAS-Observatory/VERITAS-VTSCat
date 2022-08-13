@@ -2,7 +2,7 @@
 # ---
 # datatype:
 # - {name: date, datatype: int, description: date}
-# - {name: instrument, datatype: string, description: observatory (O:OAO, C: CFHT)}
+# - {name: observatory, datatype: string, description: observatory (O:OAO, C: CFHT)}
 # - {name: HJD, datatype: float64, description: HJD}
 # - {name: EW, unit: 0.1nm, datatype: float64, description: equivalent width}
 # - {name: Vc, unit: km s-1, datatype: float64, description: radial velocity}
@@ -23,7 +23,7 @@
 #       FWHM ... use gnuplot for fitting w/ single gaussian
 #       Vc ... use IRAF-splot command for fitting
 #           "k" - "v": Voigt profile
-date instrument HJD        EW      Vc    VcErr  FWHM   FWHMErr
+date observatory HJD        EW      Vc    VcErr  FWHM   FWHMErr
 20131031  O  2456597.278 -28.440  21.02 0.50 406.65 1.44
 20131108  O  2456605.275 -29.390  23.93 0.50 397.74 1.10
 20131111  O  2456608.274 -29.631  26.33 0.50 394.67 0.99

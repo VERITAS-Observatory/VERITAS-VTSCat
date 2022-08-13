@@ -5,8 +5,8 @@
 # - {name: time_min, unit: MJD, datatype: float64, description: time interval (start)}
 # - {name: time_max, unit: MJD, datatype: float64, description: time interval (stop)}
 # - {name: flux, unit: cm-2 s-1, datatype: float64, description: integral flux (>350 GeV)}
-# - {name: flux_up, unit: cm-2 s-1, datatype: float64, description: integral flux (lower) (>350 GeV)}
-# - {name: flux_down, unit: cm-2 s-1, datatype: float64, description: integral flux (upper) (>350 GeV)}
+# - {name: flux_errp, unit: cm-2 s-1, datatype: float64, description: integral flux (lower) (>350 GeV)}
+# - {name: flux_errn, unit: cm-2 s-1, datatype: float64, description: integral flux (upper) (>350 GeV)}
 # meta: !!omap
 # - data_type: lc
 # - source_id: 30
@@ -16,7 +16,7 @@
 # - {SED_TYPE: flux}
 # - comments: |
 #       HESS light curve of HESS J0632+057
-e_min time_min time_max flux flux_up flux_down
+e_min time_min time_max flux flux_errp flux_errn
 0.35 53087.801  53088.822  1.85036e-12 9.37207e-13 2.88836e-12
 0.35 53353.037  53356.986  2.26166e-12 1.82968e-12 2.72232e-12
 0.35 53685.082  53687.088  9.29674e-13 3.95939e-13 1.53506e-12

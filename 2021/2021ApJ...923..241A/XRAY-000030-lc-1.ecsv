@@ -1,12 +1,12 @@
 # %ECSV 0.9
 # ---
 # datatype:
-# - {name: instrument, datatype: string, description: name of X-ray telescope}
+# - {name: observatory, datatype: string, description: name of X-ray telescope}
 # - {name: obsid, datatype: int, description: observation ID}
 # - {name: time, unit: MJD, datatype: float64}
-# - {name: flux, unit: erg cm-2 s-1, datatype: float64, description: X-ray flux (0.3-10 keV)}
-# - {name: flux_down, unit: erg cm-2 s-1, datatype: float64, description: X-ray flux (0.3-10 keV) (upper)}
-# - {name: flux_up, unit: erg cm-2 s-1, datatype: float64, description: X-ray flux (0.3-10 keV) (lower)}
+# - {name: eflux, unit: erg cm-2 s-1, datatype: float64, description: X-ray flux (0.3-10 keV)}
+# - {name: eflux_errn, unit: erg cm-2 s-1, datatype: float64, description: X-ray flux (0.3-10 keV) (upper)}
+# - {name: eflux_errp, unit: erg cm-2 s-1, datatype: float64, description: X-ray flux (0.3-10 keV) (lower)}
 # meta: !!omap
 # - data_type: lc
 # - source_id: 30
@@ -15,7 +15,7 @@
 # - telescope: [xrt, chandra, xmm, suzaku, nustar]
 # - {SED_TYPE: flux}
 # - comments: |
-instrument  obsid   time flux  flux_down   flux_up
+observatory obsid   time eflux  eflux_errn eflux_errp
 xmm  0  54360.000000  5.167e-13  4.934e-13  5.410e-13
 suzaku  0  54579.000000  1.738e-12  1.698e-12  1.778e-12
 xrt  00031329001  54857.099775  9.743e-13  7.827e-13  1.222e-12

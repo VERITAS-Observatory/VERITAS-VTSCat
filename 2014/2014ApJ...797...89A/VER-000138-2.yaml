@@ -1,0 +1,25 @@
+---
+source_id: 138
+reference_id: 2014ApJ...797...89A
+telescope: veritas
+file_id: 2
+description: "April Dark Run"
+
+data:
+  livetime: 186min
+  non: 90
+  noff: 425
+  alpha: 0.0909
+  significance: 6.6
+
+spec:
+  erange: {min: 0.5, max: 6., unit: TeV}
+  mjd: {min: 56034., max: 56040.}
+  model:
+    type: pl2
+    parameters:
+      flux: {val: 0.9, err: 0.4, scale: 1.e-7, unit: m-2 s-1}
+      index: {val: 2.5, err: 0.4}
+      e_min: {val: 0.315, unit: TeV}
+      chi2: {val: 1.1}
+      ndof: {val: 5}

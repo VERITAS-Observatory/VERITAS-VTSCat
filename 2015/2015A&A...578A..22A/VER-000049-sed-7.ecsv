@@ -1,0 +1,21 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, datatype: float32, unit: TeV}
+# - {name: e2dnde, datatype: float32, unit: erg cm-2 s-1}
+# - {name: e2dnde_err, datatype: float32, unit: erg cm-2 s-1}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 49
+# - reference_id: 2015A&A...578A..22A
+# - file_id: 7
+# - telescope: veritas
+# - mjd: {max: 55272., min: 55272.}
+# - description: "(MJD 55272)"
+# - comments: |
+#      Figure B.3.(a)
+e_ref e2dnde e2dnde_err
+0.233  1.058e-10 2.801e-11
+0.412   9.42e-11 2.203e-11
+0.730  5.374e-11 1.784e-11
+1.294  2.093e-11 1.335e-11

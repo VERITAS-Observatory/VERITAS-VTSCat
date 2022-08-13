@@ -1,0 +1,25 @@
+---
+source_id: 138
+reference_id: 2014ApJ...797...89A
+telescope: veritas
+file_id: 3
+description: "Flare"
+
+data:
+  livetime: 106min
+  non: 276
+  noff: 249
+  alpha: 0.0909
+  significance: 26.3
+
+spec:
+  erange: {min: 0.2818, max: 7.9433, unit: TeV}
+  mjd: {min: 56067., max: 56067.}
+  model:
+    type: pl2
+    parameters:
+      flux: {val: 8.0, err: 0.8, scale: 1.e-7, unit: m-2 s-1}
+      index: {val: 2.6, err: 0.1}
+      e_min: {val: 0.315, unit: TeV}
+      chi2: {val: 1.1}
+      ndof: {val: 22}

@@ -1,0 +1,13 @@
+---
+source_id: 100202
+common_name: neutrino-triplet-2016-02-17
+veritas_name:
+  name: VER-nodefined
+  components: null
+where: egal
+pos:
+  simbad_id: bc
+  ra: 39.6
+  dec: 25.7
+reference_id:
+  - 2017A&A...607A.115I

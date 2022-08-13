@@ -1,0 +1,20 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: time_min, unit: MJD, datatype: float64}
+# - {name: time_max, unit: MJD, datatype: float64}
+# - {name: flux, unit: m-2 s-1, datatype: float64}
+# - {name: flux_err, unit: m-2 s-1, datatype: float64}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 23
+# - file_id: 3
+# - reference_id: 2022ApJ...932..129A
+# - telescope: veritas
+# - comments: |
+#       Table 1
+e_min time_min time_max flux flux_err
+0.2 56580.0  56628.5  4.1e-7  0.1e-7
+0.2 56628.5  56632.5  8.8e-7  0.4e-7
+0.2 56632.5  56689.0  2.7e-7  0.2e-7

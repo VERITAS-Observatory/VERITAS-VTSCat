@@ -19,6 +19,7 @@ orbit:
 # (values from Fig 3)
 # phases 0.5-0.8
 spec:
+  mjd: {min: 54344.0, max: 57935.0}
   phase: {min: 0.5, max: 0.8}
   model:
     type: pl2
