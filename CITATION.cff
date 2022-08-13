@@ -2,10 +2,36 @@
 # Metadata for citation of this software according to the CFF format (https://citation-file-format.github.io/)
 cff-version: 1.2.0
 message: If you use this software, please cite it using these metadata.
-title: "VTSCat - the VERITAS data catalogue"
-abstract: "blabla"
+title: "VTSCat: The VERITAS Catalog of Gamma-Ray Observations"
+abstract: "
+VTSCat is the catalog of high-level data products from all publications of the [VERITAS collaboration](https://veritas.sao.arizona.edu/).
+
+The VTSCat data collection contains:
+
+- high-level data like spectral flux points, light curves, spectral fits in human- and machine-readable yaml and ecsv file format
+- tabled data like upper limits tables from dark matter searches or results on the extragalactic background in ecsv file format
+- sky maps (wherever available) in FITS file format
+
+This is a pre-release for testing and early publications.
+
+A forthcoming research note will provide more details on the catalog. Please check the README file and all documentation linked to the README.
+
+VTSCat supplements the HEASARC catalogue of VERITAS results (to be published). VTSCat is inspired and derived from [gamma-cat](https://github.com/gammapy/gamma-cat).
+
+If you are a previous VERITAS author and would like to be associated with this repository, please send an email to G. Maier.
+
+Access:
+
+- GitHub: https://github.com/VERITAS-Observatory/VERITAS-VTSCat
+
+References:
+
+ - VERITAS: https://veritas.sao.arizona.edu/
+ - VER Dictionary of Nomenclature: https://cds.u-strasbg.fr/cgi-bin/Dic-Simbad?/17350620
+ - ICRC 2021 proceedings: https://arxiv.org/abs/2108.06424
+"
 doi: 10.5281/zenodo.4723219
-version: 0.8.0
+version: 0.8.1
 date-released: 2022-08-13
 keywords:
 - "astronomy"
