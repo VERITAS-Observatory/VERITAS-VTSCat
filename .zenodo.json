@@ -203,11 +203,7 @@
     "Imaging Atmospheric Cherenkov Telescope",
     "VERITAS"
   ],
-  "access_right": "open",
-  "resource_type": {
-    "type": "dataset",
-    "title": "Dataset"
-  },
+  "upload_type": "dataset",
   "license": {
     "id": "CC0-1.0"
   },
