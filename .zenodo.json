@@ -209,19 +209,5 @@
   },
   "publication_date": "2022-08-13",
   "title": "VTSCat: The VERITAS Catalog of Gamma-Ray Observations",
-  "version": "0.8.5",
-  "related_identifiers": [
-      {
-        "identifier": "https://github.com/VERITAS-Observatory/VERITAS-VTSCat",
-        "relation": "isSupplementTo"
-      },
-      {
-        "identifier": "10.5281/zenodo.4723219",
-        "relation": "isNewVersionOf"
-      },
-      {
-        "identifier": "https://arxiv.org/abs/2108.06424",
-        "relation": "isCitedBy"
-      }
-    ]
+  "version": "0.8.5"
 }
