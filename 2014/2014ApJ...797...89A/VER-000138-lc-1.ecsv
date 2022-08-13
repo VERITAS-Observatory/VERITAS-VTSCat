@@ -1,0 +1,40 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: time, unit: MJD, datatype: float64}
+# - {name: live_time, unit: min, datatype: float64}
+# - {name: significance, datatype: float32}
+# - {name: flux, unit: m-2 s-1, datatype: float64}
+# - {name: flux_err, unit: m-2 s-1, datatype: float64}
+# - {name: flux_ul, unit: m-2 s-1, datatype: float64}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 138
+# - file_id: 1
+# - reference_id: 2014ApJ...797...89A
+# - telescope: veritas
+# - UL_CONF: 0.95
+# - comments: |
+#         Figure 2
+e_min time live_time significance flux flux_err flux_ul
+0.315  56034.438              61.3             4.35              6.8e-08    2.7e-08             nan
+0.315  56035.426              76.9             3.65              1.3e-07    1.0e-07             nan
+0.315  56036.442              9.46             2.28              2.0e-07    1.1e-07             nan
+0.315  56037.440              9.50             1.14                       nan   nan               1.6e-7
+0.315  56038.444              9.45            -0.64                       nan   nan              1.03e-7
+0.315  56039.431              9.72             2.71              2.59e-07    1.4e-07              nan
+0.315  56040.453              9.67             1.6                        nan    nan                3.43e-7
+0.315  56062.445              28.3             6.07              2.9e-07    7.9e-08             nan
+0.315  56064.385              28.7             3.37              1.1e-07    6.1e-08             nan
+0.315  56067.386              106              26.2              8.0e-07    7.9e-08             nan
+0.315  56068.348              21.7             4.19              1.4e-07    5.6e-08             nan
+0.315  56069.385              9.56             3.0                3.1e-07    1.8e-07             nan
+0.315  56070.376              9.46             0.98                       nan    nan                1.88e-7
+0.315  56071.383              9.37             2.28              2.4e-07    1.4e-07             nan
+0.315  56072.392              20.0             3.65              1.6e-07    6.4e-08             nan
+0.315  56073.390              18.8             2.97              1.4e-07    8.2e-08             nan
+0.315  56075.396              28.6             2.70              1.6e-07    7.0e-08             nan
+0.315  56076.387              9.41             2.28              1.7e-07    1.0e-07             nan
+0.315  56078.433              37.9             4.86              1.4e-07    5.6e-08             nan
+0.315  56079.415              9.71             0.7                        nan    nan                1.72e-7

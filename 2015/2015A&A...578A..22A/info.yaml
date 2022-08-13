@@ -1,0 +1,20 @@
+---
+reference_id: 2015A&A...578A..22A
+source_id: [49]
+telescope: [veritas]
+
+datasets:
+  - VER-000049-lc-1.ecsv
+  - VER-000049-sed-1.ecsv
+  - VER-000049-sed-2.ecsv
+  - VER-000049-sed-3.ecsv
+  - VER-000049-sed-4.ecsv
+  - VER-000049-sed-5.ecsv
+  - VER-000049-sed-6.ecsv
+  - VER-000049-sed-7.ecsv
+  - VER-000049-sed-8.ecsv
+  - VER-000049-sed-9.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

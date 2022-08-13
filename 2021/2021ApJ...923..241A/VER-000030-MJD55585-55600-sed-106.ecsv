@@ -8,7 +8,7 @@
 # - {name: dnde_errn, unit: cm-2 s-1 TeV-1, datatype: float32}
 # - {name: dnde_errp, unit: cm-2 s-1 TeV-1, datatype: float32}
 # - {name: dnde_ul, unit: cm-2 s-1 TeV-1, datatype: float32}
-# - {name: signi, datatype: float32}
+# - {name: significance, datatype: float32}
 # meta: !!omap
 # - data_type: sed
 # - source_id: 30
@@ -19,7 +19,7 @@
 # - description: "MJD 55585-55600"
 # - comments: |
 #      Appendix D
-e_ref e_min e_max dnde dnde_errn dnde_errp dnde_ul signi
+e_ref e_min e_max dnde dnde_errn dnde_errp dnde_ul significance
 0.158489    0.125893    0.199526    nan     nan nan    2.57866e-11    -0.555249
 0.251189    0.199526    0.316228    nan     nan nan    1.57892e-11    -2.07755
 0.398107    0.316228    0.501187    5.74218e-12    2.19803e-12    2.43356e-12    nan     2.86354

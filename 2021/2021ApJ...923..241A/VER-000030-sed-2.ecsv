@@ -8,7 +8,7 @@
 # - {name: dnde_errn, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux (negative error)}
 # - {name: dnde_errp, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux (positive error)}
 # - {name: dnde_ul, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux upper limit (95% CL)}
-# - {name: signi, datatype: float32, description: significance of data point}
+# - {name: significance, datatype: float32, description: significance of data point}
 # meta: !!omap
 # - data_type: sed
 # - source_id: 30
@@ -19,7 +19,7 @@
 # - description: "orbital phase 0.2-0.4"
 # - comments: |
 #      orbital phase bin 0.2-0.4
-e_ref e_min e_max dnde dnde_errn dnde_errp dnde_ul signi
+e_ref e_min e_max dnde dnde_errn dnde_errp dnde_ul significance
 0.158489    0.125893    0.199526    nan     nan nan    2.57866e-10    -0.555249
 0.251189    0.199526    0.316228    nan     nan nan    4.29234e-11    1.04759
 0.398107    0.316228    0.501187    6.36558e-12    6.74465e-13    6.9276e-13    nan     10.7122

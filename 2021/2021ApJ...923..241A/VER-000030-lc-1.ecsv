@@ -7,10 +7,10 @@
 # - {name: live_time, unit: h, datatype: float64, description: live time of observation}
 # - {name: flux, unit: cm-2 s-1, datatype: float64, description: integral flux (>350 GeV)}
 # - {name: flux_err, unit: cm-2 s-1, datatype: float64, description: error on integral flux (>350 GeV)}
-# - {name: n_on, datatype: float64, description: counts in signal region}
-# - {name: n_off, datatype: float64, description: counts in background region}
+# - {name: non, datatype: float64, description: counts in signal region}
+# - {name: noff, datatype: float64, description: counts in background region}
 # - {name: alpha, datatype: float64, description: ratio of area of signal to background region}
-# - {name: sig, datatype: float64, description: significance}
+# - {name: significance, datatype: float64, description: significance}
 # meta: !!omap
 # - data_type: lc
 # - source_id: 30
@@ -21,7 +21,7 @@
 # - comments: |
 #       VERITAS light curve of HESS J0632+057;
 #       assumed spectral index: -2.6
-e_min time_min time_max live_time flux flux_err n_on n_off alpha sig
+e_min time_min time_max live_time flux flux_err non noff alpha significance
 0.35   54830.0   54835.0   9.3569   1.2547e-12   4.2251e-13   66.0000   244.0000   0.1667   3.3262
 0.35   54856.0   54862.0   10.0256   8.1719e-13   4.0338e-13   64.0000   281.0000   0.1667   2.1808
 0.35   55122.0   55135.0   9.6658   9.7058e-13   3.3051e-13   64.0000   236.0000   0.1667   3.2912

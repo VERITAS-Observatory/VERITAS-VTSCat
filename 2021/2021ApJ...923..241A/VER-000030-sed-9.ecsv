@@ -8,7 +8,7 @@
 # - {name: dnde_errn, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux (negative error)}
 # - {name: dnde_errp, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux (positive error)}
 # - {name: dnde_ul, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux upper limit (95% CL)}
-# - {name: signi, datatype: float32, description: significance of data point}
+# - {name: significance, datatype: float32, description: significance of data point}
 # meta: !!omap
 # - data_type: sed
 # - source_id: 30
@@ -19,7 +19,7 @@
 # - description: "MJD 58136"
 # - comments: |
 #      Fig 10
-e_ref e_min e_max dnde dnde_errn dnde_errp dnde_ul signi
+e_ref e_min e_max dnde dnde_errn dnde_errp dnde_ul significance
 0.398107    0.316228    0.501187    1.54269e-11    5.81818e-12    6.89326e-12    nan     3.16548
 0.630957    0.501187    0.794328    9.47043e-12    2.37307e-12    2.76226e-12    nan     5.64761
 1    0.794328    1.25893    2.58451e-12    8.37649e-13    1.0411e-12    nan     4.4957

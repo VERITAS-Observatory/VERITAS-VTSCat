@@ -1,0 +1,13 @@
+---
+source_id: 138
+reference_id: 2014ApJ...797...89A
+telescope: veritas
+file_id: 1
+description: "Average MJD 56034 to 56079"
+
+data:
+  livetime: 8.7h
+  non: 517
+  noff: 1175
+  alpha: 0.0909
+  significance: 31

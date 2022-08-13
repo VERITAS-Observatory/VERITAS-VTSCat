@@ -1,0 +1,28 @@
+---
+reference_id: 2022ApJ...932..129A
+source_id: [23]
+telescope: [veritas, magic]
+
+multiwavelength:
+  - content: [lat, magic, xrt, uvot, steward]
+  - availability: false
+  - status: false
+
+datasets:
+  - VER-000023.yaml
+  - VER-000023-1-lc.ecsv
+  - VER-000023-2-lc.ecsv
+  - VER-000023-3-lc.ecsv
+  - VER-000023-1.yaml
+  - VER-000023-1-sed.ecsv
+  - VER-000023-2.yaml
+  - VER-000023-2-sed.ecsv
+  - VER-000023-3.yaml
+  - VER-000023-3-sed.ecsv
+  - MW-000023-sed.ecsv
+  - MAGIC-000023-2-lc.ecsv
+  - LAT-000023-2-lc.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

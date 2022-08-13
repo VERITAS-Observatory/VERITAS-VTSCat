@@ -1,0 +1,17 @@
+---
+reference_id: 2017A&A...607A.115I
+source_id: [100202]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [icecube, hawc, Fermi, assas-sn, lco, swift, master]
+  - availability: false
+  - status: false
+
+datasets:
+  - VER-100202.yaml
+  - VER-100202-sed-1.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true
