@@ -1,0 +1,217 @@
+{
+  "creators": [
+    {
+      "affiliation": "Center for Astrophysics, Harvard & Smithsonian, Cambridge, MA 02138, USA",
+      "name": "Benbow, W."
+    },
+    {
+      "affiliation": "Physics Department, Columbia University, New York, NY 10027, USA",
+      "name": "Brill, A."
+    },
+    {
+      "affiliation": "Department of Physics, Washington University, St. Louis, MO 63130, USA",
+      "name": "Buckley, J.H."
+    },
+    {
+      "affiliation": "Department of Physics and Astronomy, Barnard College, Columbia University, NY 10027, USA",
+      "name": "Capasso, M."
+    },
+    {
+      "affiliation": "Physics Department, California Polytechnic State University, San Luis Obispo, CA 94307, USA",
+      "name": "Christiansen, J.L."
+    },
+    {
+      "affiliation": "Center for Astrophysics | Harvard & Smithsonian, Cambridge, MA 02138, USA",
+      "name": "Daniel, M.K.",
+      "orcid": "0000-0002-8053-7910"
+    },
+    {
+      "affiliation": "Department of Physics, Washington University, St. Louis, MO 63130, USA",
+      "name": "Errando, M."
+    },
+    {
+      "affiliation": "Department of Astronomy and Astrophysics, 525 Davey Lab, Pennsylvania State University, University Park, PA 16802, USA",
+      "name": "Falcone, A."
+    },
+    {
+      "affiliation": "School of Physics, University College Dublin, Belfield, Dublin 4, Ireland",
+      "name": "Farrell, K.A."
+    },
+    {
+      "affiliation": "Department of Physics and Astronomy, Barnard College, Columbia University, NY 10027, USA",
+      "name": "Feng, Q."
+    },
+    {
+      "affiliation": "Department of Physics and Astronomy and the Bartol Research Institute, University of Delaware, Newark, DE 19716, USA",
+      "name": "Foote, G.M."
+    },
+    {
+      "affiliation": "School of Physics and Astronomy, University of Minnesota, Minneapolis, MN 55455, USA",
+      "name": "Fortson, L."
+    },
+    {
+      "affiliation": "Department of Physics, California State University - East Bay, Hayward, CA 94542, USA",
+      "name": "Furniss, A."
+    },
+    {
+      "affiliation": "School of Physics and Center for Relativistic Astrophysics, Georgia Institute of Technology, 837 State Street NW, Atlanta, GA 30332-0430",
+      "name": "Gent, A."
+    },
+    {
+      "affiliation": "DESY, Platanenallee 6, 15738 Zeuthen, Germany",
+      "name": "Giuri, C."
+    },
+    {
+      "affiliation": "DESY, Platanenallee 6, 15738 Zeuthen, Germany",
+      "name": "Hassan, T."
+    },
+    {
+      "affiliation": "Santa Cruz Institute for Particle Physics and Department of Physics, University of California, Santa Cruz, CA 95064, USA",
+      "name": "Hervet, O."
+    },
+    {
+      "affiliation": "Department of Physics and Astronomy and the Bartol Research Institute, University of Delaware, Newark, DE 19716, USA",
+      "name": "Holder, J."
+    },
+    {
+      "affiliation": "Department of Physics and Astronomy, University of Utah, Salt Lake City, UT 84112, USA",
+      "name": "Hona, B."
+    },
+    {
+      "affiliation": "Physics Department, Columbia University, New York, NY 10027, USA",
+      "name": "Humensky, T.B."
+    },
+    {
+      "affiliation": "Department of Physics and Astronomy, University of Alabama, Tuscaloosa, AL 35487, USA",
+      "name": "Jin, W."
+    },
+    {
+      "affiliation": "Department of Physics and Astronomy, University of Iowa, Van Allen Hall, Iowa City, IA 52242, USA",
+      "name": "Kaaret, P."
+    },
+    {
+      "affiliation": "Department of Physics and Astronomy, University of Utah, Salt Lake City, UT 84112, USA",
+      "name": "Kieda, D."
+    },
+    {
+      "affiliation": "University of Maryland, College Park",
+      "name": "Kumar, S."
+    },
+    {
+      "affiliation": "School of Physics, National University of Ireland Galway, University Road, Galway, Ireland",
+      "name": "Lang, M.J."
+    },
+    {
+      "affiliation": "Physics Department, McGill University, Montreal, QC H3A 2T8, Canada",
+      "name": "Lundy, M."
+    },
+    {
+      "affiliation": "DESY, Platanenallee 6, 15738 Zeuthen, Germany",
+      "name": "Maier, G.",
+      "orcid": "0000-0001-9868-4700"
+    },
+    {
+      "affiliation": "School of Physics, University College Dublin, Belfield, Dublin 4, Ireland",
+      "name": "McGrath, C.E."
+    },
+    {
+      "affiliation": "Department of Physics and Astronomy, Barnard College, Columbia University, NY 10027, USA",
+      "name": "Mukherjee, R."
+    },
+    {
+      "affiliation": "DESY, Platanenallee 6, 15738 Zeuthen, Germany",
+      "name": "Nievas-Rosillo, M."
+    },
+    {
+      "affiliation": "Physics Department, McGill University, Montreal, QC H3A 2T8, Canada",
+      "name": "O'Brien, S."
+    },
+    {
+      "affiliation": "Department of Physics and Astronomy, University of California, Los Angeles, CA 90095, USA",
+      "name": "Ong, R.A."
+    },
+    {
+      "affiliation": "School of Physics and Center for Relativistic Astrophysics, Georgia Institute of Technology, 837 State Street NW, Atlanta, GA 30332-0430",
+      "name": "Otte, A.N."
+    },
+    {
+      "affiliation": "Department of Physics and Astronomy, University of Iowa, Van Allen Hall, Iowa City, IA 52242, USA",
+      "name": "Patel, S."
+    },
+    {
+      "affiliation": "DESY, Platanenallee 6, 15738 Zeuthen, Germany",
+      "name": "Patel, S."
+    },
+    {
+      "affiliation": "DESY, Platanenallee 6, 15738 Zeuthen, Germany",
+      "name": "Pfrang, K."
+    },
+    {
+      "affiliation": "Institute of Physics and Astronomy, University of Potsdam, 14476 Potsdam-Golm, Germany and DESY, Platanenallee 6, 15738 Zeuthen, Germany",
+      "name": "Pohl, M."
+    },
+    {
+      "affiliation": "DESY, Platanenallee 6, 15738 Zeuthen, Germany",
+      "name": "Pueschel, E."
+    },
+    {
+      "affiliation": "School of Physics, University College Dublin, Belfield, Dublin 4, Ireland",
+      "name": "Quinn, J."
+    },
+    {
+      "affiliation": "Physics Department, McGill University, Montreal, QC H3A 2T8, Canada",
+      "name": "Ragan, K."
+    },
+    {
+      "affiliation": "Physics Department, Columbia University, New York, NY 10027, USA",
+      "name": "Ribeiro, D."
+    },
+    {
+      "affiliation": "Department of Physics and Astronomy and the Bartol Research Institute, University of Delaware, Newark, DE 19716, USA",
+      "name": "Richards, G.T."
+    },
+    {
+      "affiliation": "Center for Astrophysics, Harvard & Smithsonian, Cambridge, MA 02138, USA",
+      "name": "Roache, E."
+    },
+    {
+      "affiliation": "Department of Physics and Astronomy, University of California, Los Angeles, CA 90095, USA",
+      "name": "Ryan, J.L."
+    },
+    {
+      "affiliation": "Santa Cruz Institute for Particle Physics and Department of Physics, University of California, Santa Cruz, CA 95064, USA",
+      "name": "Williams, D.A."
+    }
+  ],
+  "contributors": [
+  {
+    "orcid": "0000-0001-9868-4700",
+    "affiliation": ""DESY, Platanenallee 6, 15738 Zeuthen, Germany",
+    "type": "DataCurator",
+    "name": "Maier, Gernot"
+  }
+  ],
+  "communities": [
+  {
+    "id": "veritasobservatory"
+  }
+],
+  "description": "<p>VTSCat is the catalog of high-level data products from all publications of the <a href=\"https://veritas.sao.arizona.edu/\">VERITAS collaboration</a>.</p><p>The VTSCat data collection contains:</p> <ul> <li>high-level data like spectral flux points, light curves, spectral fits in human</li> <li>and machine-readable yaml and ecsv file format</li> <li>tabled data like upper limits tables from dark matter searches or results on the extragalactic background in ecsv file format</li> <li>sky maps (wherever available) in FITS file format</li> </ul> <p>This is a pre-release for testing and early publications.</p> <p>A forthcoming research note will provide more details on the catalog.</p> <p>Please check the README file and all documentation linked to the README. VTSCat supplements the HEASARC catalogue of VERITAS results (to be published).</p> <p>VTSCat is inspired and derived from <a href=\"https://github.com/gammapy/gamma-cat\">gamma-cat</a>.</p> <p>If you are a previous VERITAS author and would like to be associated with this repository, please send an email to G. Maier.</p> <p>Access:</p> <ul> <li>GitHub: <a class=\"autolink\" href=\"https://github.com/VERITAS-Observatory/VERITAS-VTSCat\">https://github.com/VERITAS-Observatory/VERITAS-VTSCat</a></li> </ul> <p>References:</p> <ul> <li> <a class=\"autolink\" href=\"https://veritas.sao.arizona.edu/\">https://veritas.sao.arizona.edu/</a></li> <li>VER Dictionary of Nomenclature: <a class=\"autolink\" href=\"https://cds.u-strasbg.fr/cgi-bin/Dic-Simbad?/17350620\">https://cds.u-strasbg.fr/cgi-bin/Dic-Simbad?/17350620</a></li> <li>ICRC 2021 proceedings: <a class=\"autolink\" href=\"https://arxiv.org/abs/2108.06424\">https://arxiv.org/abs/2108.06424</a></li> </ul>",
+  "keywords": [
+    "astronomy",
+    "gamma-ray astronomy",
+    "Imaging Atmospheric Cherenkov Telescope",
+    "VERITAS"
+  ],
+  "access_right": "open",
+  "resource_type": {
+    "type": "dataset",
+    "title": "Dataset"
+  },
+  "license": {
+    "id": "CC0-1.0"
+  },
+  "publication_date": "2022-08-13",
+  "title": "VTSCat: The VERITAS Catalog of Gamma-Ray Observations",
+  "version": "0.8.2"
+}
