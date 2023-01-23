@@ -1,0 +1,26 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, datatype: float64, unit: TeV, description: reference energy}
+# - {name: e_min, datatype: float64, unit: TeV, description: energy (min)}
+# - {name: e_max, datatype: float64, unit: TeV, description: energy (max)}
+# - {name: e2dnde, datatype: float64, unit: TeV cm-2 s-1, description: differential photon flux at e_ref}
+# - {name: e2dnde_err, datatype: float64, unit: TeV cm-2 s-1, description: symmetric 1-sigma error on the differential photon flux at e_ref}
+# - {name: e2dnde_ul, datatype: float64, unit: TeV cm-2 s-1, description: upper limit on the differential photon flux at e_ref}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 178
+# - file_id: 1
+# - reference_id: 2022ApJ...924...95A
+# - telescope: veritas
+# - UL_CONF: 0.95
+# - mjd: {min: 58102.0, max: 58104.0}
+# - comments: |
+#        Figure 11
+#        In the figure, the units are converted to Hz and erg cm-2 s-1
+e_ref e_min e_max e2dnde e2dnde_err e2dnde_ul
+0.168 0.141 0.2 1.75158e-11 6.08509e-12 nan
+0.237 0.2 0.282 8.7736e-12 1.93109e-12 nan
+0.335 0.282 0.398 3.31849e-12 1.20754e-12 nan
+0.631 0.398 1 8.21008e-13 4.37977e-13 nan
+5.623 1 31.623 nan nan 1.84144e-14

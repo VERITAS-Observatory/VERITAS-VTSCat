@@ -1,7 +1,5 @@
 # VTSCat - the VERITAS data catalogue
 
-[![DOI](https://zenodo.org/badge/248259940.svg)](https://zenodo.org/badge/latestdoi/248259940)
-
 1. [ Introduction. ](#intro)
 2. [ Organisation and data format. ](#formats)
 3. [ Publications. ](#publications)
@@ -13,8 +11,6 @@
 
 **VTSCat** is the catalog of high-level data products from all publications of the [VERITAS collaboration](https://veritas.sao.arizona.edu/).
 
-VTSCat is currently in the pre-release state and tested.
-
 The **VTSCat** data collection contains:
 
 - high-level data like spectral flux points, light curves, spectral fits in human- and machine-readable yaml and ecsv file format
@@ -23,15 +19,21 @@ The **VTSCat** data collection contains:
 
 The data collection contains results from gamma-ray measurements only. Multiwavelength data like X-ray light curves and spectra will probably be added in a future release.
 
-VTSCat supplements the HEASARC catalogue of VERITAS results (to be published). It is inspired and derived from [gamma-cat](https://github.com/gammapy/gamma-cat).
+VTSCat supplements the [HEASARC catalogue of VERITAS results](https://heasarc.gsfc.nasa.gov/W3Browse/all/verimaster.html). It is inspired and derived from [gamma-cat](https://github.com/gammapy/gamma-cat).
 
 **Access**:
 
 - GitHub: https://github.com/VERITAS-Observatory/VERITAS-VTSCat 
-- ZENODO: https://doi.org/10.5281/zenodo.6988967
-- HEASARC (**link to be added**)
+- ZENODO: https://doi.org/10.5281/zenodo.4723219
+- HEASARC: https://heasarc.gsfc.nasa.gov/W3Browse/all/verimaster.html
 
-**Citation:** if you make use of VTSCat, please cite the orginal publication for the data, the DOI ([10.5281/zenodo.6988967](https://doi.org/10.5281/zenodo.6988967)) the following research note: (**link to be added**)
+**Citation:** if you make use of VTSCat, please cite the orginal publication for the data, the DOI of the Zenodo repository ([10.5281/zenodo.4723219](https://doi.org/10.5281/zenodo.4723219)), or the following research note: [A. Acharyya et al 2023 Res. Notes AAS 7 6](https://iopscience.iop.org/article/10.3847/2515-5172/acb147).
+
+Bibtex format:
+```
+\bibitem[Acharyya et al.(2023)]{2023RNAAS...7....6A} Acharyya, A., Adams, C.~B., Archer, A., et al.\ 2023, Research Notes of the American Astronomical Society, 7, 6. doi:10.3847/2515-5172/acb147
+```
+
 
 <a name="formats"></a>
 
@@ -57,8 +59,8 @@ For a detailed description of data formats, file types, keywords, and spectral m
 |---|---|---|---|
 |RGB J0521+212 / VER J0521+211 | Multiwavelength Observations of the Blazar VER J0521+211 during an Elevated TeV Gamma-Ray State | [2022ApJ...932..129A](http://adsabs.harvard.edu/abs/2022ApJ...932..129A) | [data files](2022/2022ApJ...932..129A) |
 |3C 279 | Variability and Spectral Characteristics of Three Flaring Gamma-Ray Quasars Observed by VERITAS and Fermi-LAT | [2022ApJ...924...95A](http://adsabs.harvard.edu/abs/2022ApJ...924...95A) | [data files](2022/2022ApJ...924...95A) |
-|PKS 1222+216 | Variability and Spectral Characteristics of Three Flaring Gamma-Ray Quasars Observed by VERITAS and Fermi-LAT | [2022ApJ...924...95A](http://adsabs.harvard.edu/abs/2022ApJ...924...95A) | [data files](2022/2022ApJ...924...95A) |
-|Ton 599 | Variability and Spectral Characteristics of Three Flaring Gamma-Ray Quasars Observed by VERITAS and Fermi-LAT | [2022ApJ...924...95A](http://adsabs.harvard.edu/abs/2022ApJ...924...95A) | [data files](2022/2022ApJ...924...95A) |
+|PKS 1222+216 / VER J1224+213 | Variability and Spectral Characteristics of Three Flaring Gamma-Ray Quasars Observed by VERITAS and Fermi-LAT | [2022ApJ...924...95A](http://adsabs.harvard.edu/abs/2022ApJ...924...95A) | [data files](2022/2022ApJ...924...95A) |
+|Ton 599 / VER J1159+292 | Variability and Spectral Characteristics of Three Flaring Gamma-Ray Quasars Observed by VERITAS and Fermi-LAT | [2022ApJ...924...95A](http://adsabs.harvard.edu/abs/2022ApJ...924...95A) | [data files](2022/2022ApJ...924...95A) |
 |Crab nebula / VER J0534+220 | The throughput calibration of the VERITAS telescopes | [2022A&A...658A..83A](http://adsabs.harvard.edu/abs/2022A&A...658A..83A) | [data files](2022/2022A&A...658A..83A) |
 |HESS J0632+057 / VER J0633+057 | Observation of the Gamma-Ray Binary HESS J0632+057 with the H.E.S.S., MAGIC, and VERITAS Telescopes | [2021ApJ...923..241A](http://adsabs.harvard.edu/abs/2021ApJ...923..241A) | [data files](2021/2021ApJ...923..241A) |
 |HESS J0632+057 / VER J0633+057 | Multiwavelength Observation Campaign of the TeV Gamma-Ray Binary HESS J0632 + 057 with NuSTAR, VERITAS, MDM, and Swift | [2021ApJ...923...17T](http://adsabs.harvard.edu/abs/2021ApJ...923...17T) | [data files](2021/2021ApJ...923...17T) |
@@ -292,6 +294,8 @@ For a detailed description of data formats, file types, keywords, and spectral m
 | 174 | VER J2032+414 | PSR J2032+4127/MT91 213 | 308.054687 | 41.456762 | [2018ApJ...867L..19A](2018/2018ApJ...867L..19A)
 | 175 | VER J1746-286 | GC diffuse ridge | 308.054687 | 41.456762 | [2021ApJ...913..115A](2021/2021ApJ...913..115A)
 | 176 | VER J2243+203 | RGB J2243+203 | 340.978098 | 20.351048 | [2017ApJS..233....7A](2017/2017ApJS..233....7A)
+| 177 | VER J1224+213 | PKS 1222+216 | 186.22691 | 21.379551 | [2022ApJ...924...95A](2022/2022ApJ...924...95A)
+| 178 | VER J1159+292 | Ton 599 | 179.882641 | 29.245507 | [2022ApJ...924...95A](2022/2022ApJ...924...95A)
 | 100168 | (not detected) | V* V404 Cyg | 306.015917 | 33.867194 | [2016ApJ...831..113A](2016/2016ApJ...831..113A)
 | 100169 | (not detected) | V* V635 Cas | 19.6325 | 63.7425 | [2016ApJ...831..113A](2016/2016ApJ...831..113A)
 | 100171 | (not detected) | Cyg X-3 | 308.10742 | 40.95775 | [2013ApJ...779..150A](2013/2013ApJ...779..150A)
@@ -322,8 +326,6 @@ For a detailed description of data formats, file types, keywords, and spectral m
 | 100197 | (not detected) | PSR J0357+32 | 59.467338 | 32.089897 | [2021ApJ...916..117B](2021/2021ApJ...916..117B)
 | 100198 | (not detected) | PSR J1740+1000 | 265.10794 | 10.00168 | [2021ApJ...916..117B](2021/2021ApJ...916..117B)
 | 100199 | (not detected) | 3C 279 | 194.046527 | -5.789314 | [2022ApJ...924...95A](2022/2022ApJ...924...95A)
-| 100200 | (not detected) | PKS 1222+216 | 186.22691 | 21.379551 | [2022ApJ...924...95A](2022/2022ApJ...924...95A)
-| 100201 | (not detected) | Ton 599 | 179.882641 | 29.245507 | [2022ApJ...924...95A](2022/2022ApJ...924...95A)
 | 100202 | VER-nodefined | neutrino-triplet-2016-02-17 | 39.6 | 25.7 | [2017A&A...607A.115I](2017/2017A&A...607A.115I)
 | 300000 | (charged particle) | electron | -- | -- | [2018PhRvD..98f2004A](2018/2018PhRvD..98f2004A)
 | 300026 | (charged particle) | iron | -- | -- | [2018PhRvD..98b2009A](2018/2018PhRvD..98b2009A)
@@ -332,7 +334,7 @@ For a detailed description of data formats, file types, keywords, and spectral m
 
 ## Licence
 
-Please cite this work: https://doi.org/10.5281/zenodo.6988967
+Please cite this work: https://doi.org/10.5281/zenodo.4723219
 
 <p xmlns:dct="http://purl.org/dc/terms/">
   <a rel="license"

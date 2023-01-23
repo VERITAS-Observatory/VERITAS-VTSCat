@@ -17,12 +17,6 @@ Adams, C. B. et al. (The VERITAS Collaboration), The Astrophysical Journal, 924,
 
 ### Figures
 
-<img src="figures/2021arXiv211013181A-VER-100199-1-lc.png" alt="drawing" width="400"/>
-<img src="figures/2021arXiv211013181A-VER-100199-1-sed.png" alt="drawing" width="400"/>
-<img src="figures/2021arXiv211013181A-VER-100199-2-sed.png" alt="drawing" width="400"/>
-<img src="figures/2021arXiv211013181A-VER-100199-3-sed.png" alt="drawing" width="400"/>
-<img src="figures/2021arXiv211013181A-VER-100199-4-sed.png" alt="drawing" width="400"/>
-<img src="figures/2021arXiv211013181A-VER-100199-5-sed.png" alt="drawing" width="400"/>
 <img src="figures/2022ApJ...924...95A-VER-100199-1-lc.png" alt="drawing" width="400"/>
 <img src="figures/2022ApJ...924...95A-VER-100199-1-sed.png" alt="drawing" width="400"/>
 <img src="figures/2022ApJ...924...95A-VER-100199-2-sed.png" alt="drawing" width="400"/>
@@ -31,37 +25,33 @@ Adams, C. B. et al. (The VERITAS Collaboration), The Astrophysical Journal, 924,
 <img src="figures/2022ApJ...924...95A-VER-100199-5-sed.png" alt="drawing" width="400"/>
 
 
-## PKS 1222+216
+## PKS 1222+216 (VER J1224+213)
 ### Data files
 
-- observation data: [VER-100200.yaml](VER-100200.yaml)  
-- spectral data: [VER-100200-sed-1.ecsv](VER-100200-sed-1.ecsv)  
-- light-curve data: [VER-100200-lc-1.ecsv](VER-100200-lc-1.ecsv)  
-- observation data and fit results: [VER-100200.yaml](VER-100200.yaml)  
+- observation data: [VER-000177.yaml](VER-000177.yaml)  
+- spectral data: [VER-000177-sed-1.ecsv](VER-000177-sed-1.ecsv)  
+- light-curve data: [VER-000177-lc-1.ecsv](VER-000177-lc-1.ecsv)  
+- observation data and fit results: [VER-000177.yaml](VER-000177.yaml)  
 
 
 ### Figures
 
-<img src="figures/2021arXiv211013181A-VER-100200-1-lc.png" alt="drawing" width="400"/>
-<img src="figures/2021arXiv211013181A-VER-100200-1-sed.png" alt="drawing" width="400"/>
-<img src="figures/2022ApJ...924...95A-VER-100200-1-lc.png" alt="drawing" width="400"/>
-<img src="figures/2022ApJ...924...95A-VER-100200-1-sed.png" alt="drawing" width="400"/>
+<img src="figures/2022ApJ...924...95A-VER-177-1-lc.png" alt="drawing" width="400"/>
+<img src="figures/2022ApJ...924...95A-VER-177-1-sed.png" alt="drawing" width="400"/>
 
 
-## Ton 599
+## Ton 599 (VER J1159+292)
 ### Data files
 
-- observation data: [VER-100201.yaml](VER-100201.yaml)  
-- spectral data: [VER-100201-sed-1.ecsv](VER-100201-sed-1.ecsv)  
-- light-curve data: [VER-100201-lc-1.ecsv](VER-100201-lc-1.ecsv)  
-- observation data and fit results: [VER-100201.yaml](VER-100201.yaml)  
+- observation data: [VER-000178.yaml](VER-000178.yaml)  
+- spectral data: [VER-000178-sed-1.ecsv](VER-000178-sed-1.ecsv)  
+- light-curve data: [VER-000178-lc-1.ecsv](VER-000178-lc-1.ecsv)  
+- observation data and fit results: [VER-000178.yaml](VER-000178.yaml)  
 
 
 ### Figures
 
-<img src="figures/2021arXiv211013181A-VER-100201-1-lc.png" alt="drawing" width="400"/>
-<img src="figures/2021arXiv211013181A-VER-100201-1-sed.png" alt="drawing" width="400"/>
-<img src="figures/2022ApJ...924...95A-VER-100201-1-lc.png" alt="drawing" width="400"/>
-<img src="figures/2022ApJ...924...95A-VER-100201-1-sed.png" alt="drawing" width="400"/>
+<img src="figures/2022ApJ...924...95A-VER-178-1-lc.png" alt="drawing" width="400"/>
+<img src="figures/2022ApJ...924...95A-VER-178-1-sed.png" alt="drawing" width="400"/>
 
 
