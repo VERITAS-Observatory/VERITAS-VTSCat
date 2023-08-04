@@ -1,5 +1,7 @@
 # VTSCat - the VERITAS data catalogue
 
+[![DOI](https://zenodo.org/badge/248259940.svg)](https://zenodo.org/badge/latestdoi/248259940)
+
 1. [ Introduction. ](#intro)
 2. [ Organisation and data format. ](#formats)
 3. [ Publications. ](#publications)

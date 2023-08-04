@@ -12,186 +12,194 @@ The VTSCat data collection contains:
 - tabled data like upper limits tables from dark matter searches or results on the extragalactic background in ecsv file format
 - sky maps (wherever available) in FITS file format
 
-This is a pre-release for testing and early publications.
+A detailed description of VTSCat can be found in [A. Acharyya et al 2023 Res. Notes AAS 7 6](https://iopscience.iop.org/article/10.3847/2515-5172/acb147).
+Please check also the README.md file and all documentation linked to the README.
 
-A forthcoming research note will provide more details on the catalog. Please check the README file and all documentation linked to the README.
-
-VTSCat supplements the HEASARC catalogue of VERITAS results (to be published). VTSCat is inspired and derived from [gamma-cat](https://github.com/gammapy/gamma-cat).
+VTSCat supplements the HEASARC catalogue of VERITAS results, accessible through [this link](https://heasarc.gsfc.nasa.gov/W3Browse/all/verimaster.html).
+VTSCat is inspired and derived from [gamma-cat](https://github.com/gammapy/gamma-cat).
 
 If you are a previous VERITAS author and would like to be associated with this repository, please send an email to G. Maier.
 
 Access:
 
 - GitHub: https://github.com/VERITAS-Observatory/VERITAS-VTSCat
+- HEASARC: https://heasarc.gsfc.nasa.gov/W3Browse/all/verimaster.html
 
 References:
 
- - VERITAS: https://veritas.sao.arizona.edu/
- - VER Dictionary of Nomenclature: https://cds.u-strasbg.fr/cgi-bin/Dic-Simbad?/17350620
- - ICRC 2021 proceedings: https://arxiv.org/abs/2108.06424
+- VERITAS: https://veritas.sao.arizona.edu/
+- VER Dictionary of Nomenclature: https://cds.u-strasbg.fr/cgi-bin/Dic-Simbad?/17350620
+- HEASARC: https://heasarc.gsfc.nasa.gov/W3Browse/all/verimaster.html
+- Research note: https://iopscience.iop.org/article/10.3847/2515-5172/acb147 (see also https://arxiv.org/abs/2301.04498)
+- ICRC 2021 proceedings: https://arxiv.org/abs/2108.06424
 "
 doi: 10.5281/zenodo.6988967
-version: 0.8.5
-date-released: 2022-08-13
+version: 1.0.0
+date-released: 2023-01-23
 keywords:
-- "astronomy"
-- "gamma-ray astronomy"
-- "Imaging Atmospheric Cherenkov Telescope"
-- VERITAS
+  - "astronomy"
+  - "gamma-ray astronomy"
+  - "Imaging Atmospheric Cherenkov Telescope"
+  - VERITAS
 repository-code: "https://github.com/VERITAS-Observatory/VERITAS-VTSCat"
 license: CC0-1.0
 authors:
-- given-names: W.
-  family-names: Benbow
-  affiliation: "Center for Astrophysics, Harvard & Smithsonian, Cambridge, MA 02138, USA"
-- given-names: A.
-  family-names: Brill
-  affiliation: "Physics Department, Columbia University, New York, NY 10027, USA"
-- given-names: J.H.
-  family-names: Buckley
-  affiliation: "Department of Physics, Washington University, St. Louis, MO 63130, USA"
-- given-names: M.
-  family-names: Capasso
-  affiliation: "Department of Physics and Astronomy, Barnard College, Columbia University, NY 10027, USA"
-- given-names: J.L.
-  family-names: Christiansen
-  affiliation: "Physics Department, California Polytechnic State University, San Luis Obispo, CA 94307, USA"
-- given-names: M.K.
-  family-names: Daniel
-  affiliation: "Center for Astrophysics | Harvard & Smithsonian, Cambridge, MA 02138, USA"
-  orcid: https://orcid.org/0000-0002-8053-7910
-- given-names: M.
-  family-names: Errando
-  affiliation: "Department of Physics, Washington University, St. Louis, MO 63130, USA"
-- given-names: A.
-  family-names: Falcone
-  affiliation: "Department of Astronomy and Astrophysics, 525 Davey Lab, Pennsylvania State University, University Park, PA 16802, USA"
-- given-names: K.A.
-  family-names: Farrell
-  affiliation: "School of Physics, University College Dublin, Belfield, Dublin 4, Ireland"
-- given-names: Q.
-  family-names: Feng
-  affiliation: "Department of Physics and Astronomy, Barnard College, Columbia University, NY 10027, USA"
-- given-names: G.M.
-  family-names: Foote
-  affiliation: "Department of Physics and Astronomy and the Bartol Research Institute, University of Delaware, Newark, DE 19716, USA"
-- given-names: L.
-  family-names: Fortson
-  affiliation: "School of Physics and Astronomy, University of Minnesota, Minneapolis, MN 55455, USA"
-- given-names: A.
-  family-names: Furniss
-  affiliation: "Department of Physics, California State University - East Bay, Hayward, CA 94542, USA"
-- given-names: A.
-  family-names: Gent
-  affiliation: "School of Physics and Center for Relativistic Astrophysics, Georgia Institute of Technology, 837 State Street NW, Atlanta, GA 30332-0430"
-- given-names: C.
-  family-names: Giuri
-  affiliation: "DESY, Platanenallee 6, 15738 Zeuthen, Germany"
-- given-names: T.
-  family-names: Hassan
-  affiliation: "DESY, Platanenallee 6, 15738 Zeuthen, Germany"
-- given-names: O.
-  family-names: Hervet
-  affiliation: "Santa Cruz Institute for Particle Physics and Department of Physics, University of California, Santa Cruz, CA 95064, USA"
-- given-names: J.
-  family-names: Holder
-  affiliation: "Department of Physics and Astronomy and the Bartol Research Institute, University of Delaware, Newark, DE 19716, USA"
-- given-names: B.
-  family-names: Hona
-  affiliation: "Department of Physics and Astronomy, University of Utah, Salt Lake City, UT 84112, USA"
-- given-names: T.B.
-  family-names: Humensky
-  affiliation: "Physics Department, Columbia University, New York, NY 10027, USA"
-- given-names: W.
-  family-names: Jin
-  affiliation: "Department of Physics and Astronomy, University of Alabama, Tuscaloosa, AL 35487, USA"
-- given-names: P.
-  family-names: Kaaret
-  affiliation: "Department of Physics and Astronomy, University of Iowa, Van Allen Hall, Iowa City, IA 52242, USA"
-- given-names: D.
-  family-names: Kieda
-  affiliation: "Department of Physics and Astronomy, University of Utah, Salt Lake City, UT 84112, USA"
-- given-names: S.
-  family-names: Kumar
-  affiliation: "University of Maryland, College Park"
-- given-names: M.J.
-  family-names: Lang
-  affiliation: "School of Physics, National University of Ireland Galway, University Road, Galway, Ireland"
-- given-names: M.
-  family-names: Lundy
-  affiliation: "Physics Department, McGill University, Montreal, QC H3A 2T8, Canada"
-- given-names: G.
-  family-names: Maier
-  affiliation: "DESY, Platanenallee 6, 15738 Zeuthen, Germany"
-  orcid: https://orcid.org/0000-0001-9868-4700
-- given-names: C.E.
-  family-names: McGrath
-  affiliation: "School of Physics, University College Dublin, Belfield, Dublin 4, Ireland"
-- given-names: R.
-  family-names: Mukherjee
-  affiliation: "Department of Physics and Astronomy, Barnard College, Columbia University, NY 10027, USA"
-- given-names: M.
-  family-names: Nievas-Rosillo
-  affiliation: "DESY, Platanenallee 6, 15738 Zeuthen, Germany"
-- given-names: S.
-  family-names: O'Brien
-  affiliation: "Physics Department, McGill University, Montreal, QC H3A 2T8, Canada"
-- given-names: R.A.
-  family-names: Ong
-  affiliation: "Department of Physics and Astronomy, University of California, Los Angeles, CA 90095, USA"
-- given-names: A.N.
-  family-names: Otte
-  affiliation: "School of Physics and Center for Relativistic Astrophysics, Georgia Institute of Technology, 837 State Street NW, Atlanta, GA 30332-0430"
-- given-names: S.
-  family-names: Patel
-  affiliation: "Department of Physics and Astronomy, University of Iowa, Van Allen Hall, Iowa City, IA 52242, USA"
-- given-names: S.
-  family-names: Patel
-  affiliation: "DESY, Platanenallee 6, 15738 Zeuthen, Germany"
-- given-names: K.
-  family-names: Pfrang
-  affiliation: "DESY, Platanenallee 6, 15738 Zeuthen, Germany"
-- given-names: M.
-  family-names: Pohl
-  affiliation: "Institute of Physics and Astronomy, University of Potsdam, 14476 Potsdam-Golm, Germany and DESY, Platanenallee 6, 15738 Zeuthen, Germany"
-- given-names: E.
-  family-names: Pueschel
-  affiliation: "DESY, Platanenallee 6, 15738 Zeuthen, Germany"
-- given-names: J.
-  family-names: Quinn
-  affiliation: "School of Physics, University College Dublin, Belfield, Dublin 4, Ireland"
-- given-names: K.
-  family-names: Ragan
-  affiliation: "Physics Department, McGill University, Montreal, QC H3A 2T8, Canada"
-- given-names: D.
-  family-names: Ribeiro
-  affiliation: "Physics Department, Columbia University, New York, NY 10027, USA"
-- given-names: G.T.
-  family-names: Richards
-  affiliation: "Department of Physics and Astronomy and the Bartol Research Institute, University of Delaware, Newark, DE 19716, USA"
-- given-names: E.
-  family-names: Roache
-  affiliation: "Center for Astrophysics, Harvard & Smithsonian, Cambridge, MA 02138, USA"
-- given-names: J.L.
-  family-names: Ryan
-  affiliation: "Department of Physics and Astronomy, University of California, Los Angeles, CA 90095, USA"
-- given-names: D.A.
-  family-names: Williams
-  affiliation: "Santa Cruz Institute for Particle Physics and Department of Physics, University of California, Santa Cruz, CA 95064, USA"
+  - given-names: W.
+    family-names: Benbow
+    affiliation: "Center for Astrophysics, Harvard & Smithsonian, Cambridge, MA 02138, USA"
+  - given-names: A.
+    family-names: Brill
+    affiliation: "Physics Department, Columbia University, New York, NY 10027, USA"
+  - given-names: J.H.
+    family-names: Buckley
+    affiliation: "Department of Physics, Washington University, St. Louis, MO 63130, USA"
+  - given-names: M.
+    family-names: Capasso
+    affiliation: "Department of Physics and Astronomy, Barnard College, Columbia University, NY 10027, USA"
+  - given-names: J.L.
+    family-names: Christiansen
+    affiliation: "Physics Department, California Polytechnic State University, San Luis Obispo, CA 94307, USA"
+  - given-names: M.K.
+    family-names: Daniel
+    affiliation: "Center for Astrophysics | Harvard & Smithsonian, Cambridge, MA 02138, USA"
+    orcid: https://orcid.org/0000-0002-8053-7910
+  - given-names: M.
+    family-names: Errando
+    affiliation: "Department of Physics, Washington University, St. Louis, MO 63130, USA"
+  - given-names: A.
+    family-names: Falcone
+    affiliation: "Department of Astronomy and Astrophysics, 525 Davey Lab, Pennsylvania State University, University Park, PA 16802, USA"
+  - given-names: K.A.
+    family-names: Farrell
+    affiliation: "School of Physics, University College Dublin, Belfield, Dublin 4, Ireland"
+  - given-names: Q.
+    family-names: Feng
+    affiliation: "Department of Physics and Astronomy, Barnard College, Columbia University, NY 10027, USA"
+  - given-names: G.M.
+    family-names: Foote
+    affiliation: "Department of Physics and Astronomy and the Bartol Research Institute, University of Delaware, Newark, DE 19716, USA"
+  - given-names: L.
+    family-names: Fortson
+    affiliation: "School of Physics and Astronomy, University of Minnesota, Minneapolis, MN 55455, USA"
+  - given-names: A.
+    family-names: Furniss
+    affiliation: "Department of Physics, California State University - East Bay, Hayward, CA 94542, USA"
+  - given-names: A.
+    family-names: Gent
+    affiliation: "School of Physics and Center for Relativistic Astrophysics, Georgia Institute of Technology, 837 State Street NW, Atlanta, GA 30332-0430"
+  - given-names: C.
+    family-names: Giuri
+    affiliation: "DESY, Platanenallee 6, 15738 Zeuthen, Germany"
+  - given-names: T.
+    family-names: Hassan
+    affiliation: "DESY, Platanenallee 6, 15738 Zeuthen, Germany"
+  - given-names: O.
+    family-names: Hervet
+    affiliation: "Santa Cruz Institute for Particle Physics and Department of Physics, University of California, Santa Cruz, CA 95064, USA"
+  - given-names: J.
+    family-names: Holder
+    affiliation: "Department of Physics and Astronomy and the Bartol Research Institute, University of Delaware, Newark, DE 19716, USA"
+  - given-names: B.
+    family-names: Hona
+    affiliation: "Department of Physics and Astronomy, University of Utah, Salt Lake City, UT 84112, USA"
+  - given-names: T.B.
+    family-names: Humensky
+    affiliation: "Physics Department, Columbia University, New York, NY 10027, USA"
+  - given-names: W.
+    family-names: Jin
+    affiliation: "Department of Physics and Astronomy, University of Alabama, Tuscaloosa, AL 35487, USA"
+  - given-names: P.
+    family-names: Kaaret
+    affiliation: "Department of Physics and Astronomy, University of Iowa, Van Allen Hall, Iowa City, IA 52242, USA"
+  - given-names: D.
+    family-names: Kieda
+    affiliation: "Department of Physics and Astronomy, University of Utah, Salt Lake City, UT 84112, USA"
+  - given-names: S.
+    family-names: Kumar
+    affiliation: "University of Maryland, College Park"
+  - given-names: M.J.
+    family-names: Lang
+    affiliation: "School of Physics, National University of Ireland Galway, University Road, Galway, Ireland"
+  - given-names: M.
+    family-names: Lundy
+    affiliation: "Physics Department, McGill University, Montreal, QC H3A 2T8, Canada"
+  - given-names: G.
+    family-names: Maier
+    affiliation: "DESY, Platanenallee 6, 15738 Zeuthen, Germany"
+    orcid: https://orcid.org/0000-0001-9868-4700
+  - given-names: C.E.
+    family-names: McGrath
+    affiliation: "School of Physics, University College Dublin, Belfield, Dublin 4, Ireland"
+  - given-names: R.
+    family-names: Mukherjee
+    affiliation: "Department of Physics and Astronomy, Barnard College, Columbia University, NY 10027, USA"
+  - given-names: M.
+    family-names: Nievas-Rosillo
+    affiliation: "DESY, Platanenallee 6, 15738 Zeuthen, Germany"
+  - given-names: S.
+    family-names: O'Brien
+    affiliation: "Physics Department, McGill University, Montreal, QC H3A 2T8, Canada"
+  - given-names: R.A.
+    family-names: Ong
+    affiliation: "Department of Physics and Astronomy, University of California, Los Angeles, CA 90095, USA"
+  - given-names: A.N.
+    family-names: Otte
+    affiliation: "School of Physics and Center for Relativistic Astrophysics, Georgia Institute of Technology, 837 State Street NW, Atlanta, GA 30332-0430"
+  - given-names: S.
+    family-names: Patel
+    affiliation: "Department of Physics and Astronomy, University of Iowa, Van Allen Hall, Iowa City, IA 52242, USA"
+  - given-names: S.
+    family-names: Patel
+    affiliation: "DESY, Platanenallee 6, 15738 Zeuthen, Germany"
+  - given-names: K.
+    family-names: Pfrang
+    affiliation: "DESY, Platanenallee 6, 15738 Zeuthen, Germany"
+  - given-names: M.
+    family-names: Pohl
+    affiliation: "Institute of Physics and Astronomy, University of Potsdam, 14476 Potsdam-Golm, Germany and DESY, Platanenallee 6, 15738 Zeuthen, Germany"
+  - given-names: E.
+    family-names: Pueschel
+    affiliation: "DESY, Platanenallee 6, 15738 Zeuthen, Germany"
+  - given-names: J.
+    family-names: Quinn
+    affiliation: "School of Physics, University College Dublin, Belfield, Dublin 4, Ireland"
+  - given-names: K.
+    family-names: Ragan
+    affiliation: "Physics Department, McGill University, Montreal, QC H3A 2T8, Canada"
+  - given-names: D.
+    family-names: Ribeiro
+    affiliation: "Physics Department, Columbia University, New York, NY 10027, USA"
+  - given-names: G.T.
+    family-names: Richards
+    affiliation: "Department of Physics and Astronomy and the Bartol Research Institute, University of Delaware, Newark, DE 19716, USA"
+  - given-names: E.
+    family-names: Roache
+    affiliation: "Center for Astrophysics, Harvard & Smithsonian, Cambridge, MA 02138, USA"
+  - given-names: J.L.
+    family-names: Ryan
+    affiliation: "Department of Physics and Astronomy, University of California, Los Angeles, CA 90095, USA"
+  - given-names: D.A.
+    family-names: Williams
+    affiliation: "Santa Cruz Institute for Particle Physics and Department of Physics, University of California, Santa Cruz, CA 95064, USA"
 contact:
   - affiliation: "DESY, Platanenallee 6, 15738 Zeuthen, Germany"
     email: gernot.maier@desy.de
     family-names: Maier
     given-names: G.
+    orcid: https://orcid.org/0000-0001-9868-4700
 references:
-- authors:
-        - family-names: Patel
-          given-names: S.
-        - family-names: Maier
-          given-names: G.
-        - family-names: Kaaret
-          given-names: P.
-  title: "VTSCat - The VERITAS Catalog of Gamma Ray Observations"
-  type: article
-  doi: 10.48550/arXiv.2108.06424
-  year: 2021
+  - title: "VTSCat: The VERITAS Catalog of Gamma-Ray Observations"
+    type: article
+    doi: 10.3847/2515-5172/acb147
+    year: 2023
+  - authors:
+      - family-names: Patel
+        given-names: S.
+      - family-names: Maier
+        given-names: G.
+      - family-names: Kaaret
+        given-names: P.
+    title: "VTSCat - The VERITAS Catalog of Gamma Ray Observations"
+    type: article
+    doi: 10.48550/arXiv.2108.06424
+    year: 2021
