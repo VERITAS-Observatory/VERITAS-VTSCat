@@ -12,27 +12,30 @@ The VTSCat data collection contains:
 - tabled data like upper limits tables from dark matter searches or results on the extragalactic background in ecsv file format
 - sky maps (wherever available) in FITS file format
 
-This is a pre-release for testing and early publications.
+A detailed description of VTSCat can be found in [A. Acharyya et al 2023 Res. Notes AAS 7 6](https://iopscience.iop.org/article/10.3847/2515-5172/acb147). 
+Please check also the README.md file and all documentation linked to the README.
 
-A forthcoming research note will provide more details on the catalog. Please check the README file and all documentation linked to the README.
-
-VTSCat supplements the HEASARC catalogue of VERITAS results (to be published). VTSCat is inspired and derived from [gamma-cat](https://github.com/gammapy/gamma-cat).
+VTSCat supplements the HEASARC catalogue of VERITAS results, accessible through [this link](https://heasarc.gsfc.nasa.gov/W3Browse/all/verimaster.html).
+VTSCat is inspired and derived from [gamma-cat](https://github.com/gammapy/gamma-cat).
 
 If you are a previous VERITAS author and would like to be associated with this repository, please send an email to G. Maier.
 
 Access:
 
 - GitHub: https://github.com/VERITAS-Observatory/VERITAS-VTSCat
+- HEASARC: https://heasarc.gsfc.nasa.gov/W3Browse/all/verimaster.html
 
 References:
 
- - VERITAS: https://veritas.sao.arizona.edu/
- - VER Dictionary of Nomenclature: https://cds.u-strasbg.fr/cgi-bin/Dic-Simbad?/17350620
- - ICRC 2021 proceedings: https://arxiv.org/abs/2108.06424
+- VERITAS: https://veritas.sao.arizona.edu/
+- VER Dictionary of Nomenclature: https://cds.u-strasbg.fr/cgi-bin/Dic-Simbad?/17350620
+- HEASARC: https://heasarc.gsfc.nasa.gov/W3Browse/all/verimaster.html
+- Research note: https://iopscience.iop.org/article/10.3847/2515-5172/acb147 (see also https://arxiv.org/abs/2301.04498)
+- ICRC 2021 proceedings: https://arxiv.org/abs/2108.06424
 "
 doi: 10.5281/zenodo.6988967
-version: 0.8.5
-date-released: 2022-08-13
+version: 1.0.0
+date-released: 2023-01-23
 keywords:
 - "astronomy"
 - "gamma-ray astronomy"
