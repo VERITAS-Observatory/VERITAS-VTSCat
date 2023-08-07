@@ -29,7 +29,7 @@ VTSCat supplements the [HEASARC catalogue of VERITAS results](https://heasarc.gs
 - ZENODO: https://doi.org/10.5281/zenodo.4723219
 - HEASARC: https://heasarc.gsfc.nasa.gov/W3Browse/all/verimaster.html
 
-**Citation:** if you make use of VTSCat, please cite the orginal publication for the data, the DOI of the Zenodo repository ([10.5281/zenodo.4723219](https://doi.org/10.5281/zenodo.4723219)), or the following research note: [A. Acharyya et al 2023 Res. Notes AAS 7 6](https://iopscience.iop.org/article/10.3847/2515-5172/acb147).
+**Citation:** if you make use of VTSCat, please cite the original publication for the data, the DOI of the Zenodo repository ([10.5281/zenodo.4723219](https://doi.org/10.5281/zenodo.4723219)), or the following research note: [A. Acharyya et al 2023 Res. Notes AAS 7 6](https://iopscience.iop.org/article/10.3847/2515-5172/acb147).
 
 Bibtex format:
 ```
