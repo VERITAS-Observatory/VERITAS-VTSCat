@@ -221,7 +221,7 @@ authors:
   - given-names: N.
     family-names: Park
     affiliation: "Department of Physics, Engineering Physics and Astronomy, Queen`s University, Kingston, ON K7L 3N6, Canada"
-  - given-names: S.
+  - given-names: S.R.
     family-names: Patel
     affiliation: "Department of Physics and Astronomy, University of Iowa, Van Allen Hall, Iowa City, IA 52242, USA"
   - given-names: S.
@@ -296,6 +296,9 @@ authors:
   - given-names: V.V.
     family-names: Vassiliev
     affiliation: "Department of Physics and Astronomy, University of California, Los Angeles, CA 90095, USA"
+  - given-names: S.P.
+    family-names: Wakely
+    affiliation: "Enrico Fermi Institute and Department of Physics, University of Chicago, Chicago, IL 60637, USA"
   - given-names: A.
     family-names: Weinstein
     affiliation: "Department of Physics and Astronomy, Iowa State University, Ames, IA 50011, USA"
