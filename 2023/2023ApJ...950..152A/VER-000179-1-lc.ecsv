@@ -1,0 +1,25 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: time, unit: MJD, datatype: float64}
+# - {name: time_err, unit: MJD, datatype: float64}
+# - {name: significance, datatype: float32}
+# - {name: flux, unit: cm-2 s-1, datatype: float64}
+# - {name: flux_err, unit: cm-2 s-1, datatype: float64}
+# - {name: flux_ul, unit: cm-2 s-1, datatype: float64}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 179
+# - file_id: 1
+# - reference_id: 2023ApJ...950..152A
+# - UL_CONF: 0.95
+# - telescope: veritas
+# - comments: |
+#       Fig 3
+e_min time time_err significance flux flux_err flux_ul
+0.12 57158.1972 0.0563 9.9456 6.6149e-11 8.7326e-12 nan
+0.12 57160.2165 0.0748 8.4915 3.9462e-11 5.6323e-12 nan
+0.12 57161.2303 0.0209 -0.9223 nan nan 9.5388e-12
+0.12 57162.1756 0.0318 0.1234  nan nan 1.2391e-11
+0.12 57165.1970 0.0209 0.4011  nan nan 2.0912e-11

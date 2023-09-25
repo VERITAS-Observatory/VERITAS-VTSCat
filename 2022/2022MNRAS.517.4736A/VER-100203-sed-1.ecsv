@@ -1,0 +1,21 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, datatype: float64, unit: TeV, description: energy (min)}
+# - {name: e_min, datatype: float64, unit: TeV, description: energy (min)}
+# - {name: e_max, datatype: float64, unit: TeV, description: energy (max)}
+# - {name: e2dnde, datatype: float64, unit: TeV cm-2 s-1, description: differential photon flux at e_ref}
+# - {name: e2dnde_ul, datatype: float64, unit: TeV cm-2 s-1, description: upper limit on the differential photon flux at e_ref}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 100203
+# - file_id: 1
+# - reference_id: 2022MNRAS.517.4736A
+# - telescope: veritas
+# - UL_CONF: 0.95
+e_ref e_min e_max e2dnde e2dnde_ul
+0.27 0.200 0.370   nan   251.961e-13
+0.50 0.370 0.683   nan   20.3882e-13
+0.92 0.683 1.262   nan   3.75069e-13
+1.71 1.262 2.332   nan   1.32566e-13
+3.17 2.332 4.309   nan   0.23798e-13

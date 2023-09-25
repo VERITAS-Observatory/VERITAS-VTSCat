@@ -6,7 +6,7 @@
 2. [ Organisation and data format. ](#formats)
 3. [ Publications. ](#publications)
 4. [ Sources and Targets. ](#sources)
-5. [ Licence. ](#licence)
+5. [ Citation. ](#citation)
 
 <a name="intro"></a>
 ## Introduction
@@ -59,6 +59,16 @@ For a detailed description of data formats, file types, keywords, and spectral m
 
 | Object | Publication Title | ADS Reference | Repository |
 |---|---|---|---|
+| x | VTSCat: The VERITAS Catalog of Gamma-Ray Observations | [2023RNAAS...7....6A](http://adsabs.harvard.edu/abs/2023RNAAS...7....6A) | [data files](2023/2023RNAAS...7....6A) |
+|S3 1227+25 / VER J1230+253 | VERITAS Discovery of Very High Energy Gamma-Ray Emission from S3 1227+25 and Multiwavelength Observations | [2023ApJ...950..152A](http://adsabs.harvard.edu/abs/2023ApJ...950..152A) | [data files](2023/2023ApJ...950..152A) |
+|Segue 1 | Search for Ultraheavy Dark Matter from Observations of Dwarf Spheroidal Galaxies with VERITAS | [2023ApJ...945..101A](http://adsabs.harvard.edu/abs/2023ApJ...945..101A) | [data files](2023/2023ApJ...945..101A) |
+|Draco | Search for Ultraheavy Dark Matter from Observations of Dwarf Spheroidal Galaxies with VERITAS | [2023ApJ...945..101A](http://adsabs.harvard.edu/abs/2023ApJ...945..101A) | [data files](2023/2023ApJ...945..101A) |
+|Ursa Minor | Search for Ultraheavy Dark Matter from Observations of Dwarf Spheroidal Galaxies with VERITAS | [2023ApJ...945..101A](http://adsabs.harvard.edu/abs/2023ApJ...945..101A) | [data files](2023/2023ApJ...945..101A) |
+|Bootes 1 | Search for Ultraheavy Dark Matter from Observations of Dwarf Spheroidal Galaxies with VERITAS | [2023ApJ...945..101A](http://adsabs.harvard.edu/abs/2023ApJ...945..101A) | [data files](2023/2023ApJ...945..101A) |
+|SN2015bn | VERITAS and Fermi-LAT Constraints on the Gamma-Ray Emission from Superluminous Supernovae SN2015bn and SN2017egm | [2023ApJ...945...30A](http://adsabs.harvard.edu/abs/2023ApJ...945...30A) | [data files](2023/2023ApJ...945...30A) |
+|SN2017egm | VERITAS and Fermi-LAT Constraints on the Gamma-Ray Emission from Superluminous Supernovae SN2015bn and SN2017egm | [2023ApJ...945...30A](http://adsabs.harvard.edu/abs/2023ApJ...945...30A) | [data files](2023/2023ApJ...945...30A) |
+| x | A VERITAS/Breakthrough Listen Search for Optical Technosignatures | [2023AJ....166...84A](http://adsabs.harvard.edu/abs/2023AJ....166...84A) | [data files](2023/2023AJ....166...84A) |
+|MAXI J1820+070 | Gamma-ray observations of MAXI J1820+070 during the 2018 outburst | [2022MNRAS.517.4736A](http://adsabs.harvard.edu/abs/2022MNRAS.517.4736A) | [data files](2022/2022MNRAS.517.4736A) |
 |RGB J0521+212 / VER J0521+211 | Multiwavelength Observations of the Blazar VER J0521+211 during an Elevated TeV Gamma-Ray State | [2022ApJ...932..129A](http://adsabs.harvard.edu/abs/2022ApJ...932..129A) | [data files](2022/2022ApJ...932..129A) |
 |3C 279 | Variability and Spectral Characteristics of Three Flaring Gamma-Ray Quasars Observed by VERITAS and Fermi-LAT | [2022ApJ...924...95A](http://adsabs.harvard.edu/abs/2022ApJ...924...95A) | [data files](2022/2022ApJ...924...95A) |
 |PKS 1222+216 / VER J1224+213 | Variability and Spectral Characteristics of Three Flaring Gamma-Ray Quasars Observed by VERITAS and Fermi-LAT | [2022ApJ...924...95A](http://adsabs.harvard.edu/abs/2022ApJ...924...95A) | [data files](2022/2022ApJ...924...95A) |
@@ -298,14 +308,15 @@ For a detailed description of data formats, file types, keywords, and spectral m
 | 176 | VER J2243+203 | RGB J2243+203 | 340.978098 | 20.351048 | [2017ApJS..233....7A](2017/2017ApJS..233....7A)
 | 177 | VER J1224+213 | PKS 1222+216 | 186.22691 | 21.379551 | [2022ApJ...924...95A](2022/2022ApJ...924...95A)
 | 178 | VER J1159+292 | Ton 599 | 179.882641 | 29.245507 | [2022ApJ...924...95A](2022/2022ApJ...924...95A)
+| 179 | VER J1230+253 | S3 1227+25 | 187.558706 | 25.301982 | [2023ApJ...950..152A](2023/2023ApJ...950..152A)
 | 100168 | (not detected) | V* V404 Cyg | 306.015917 | 33.867194 | [2016ApJ...831..113A](2016/2016ApJ...831..113A)
 | 100169 | (not detected) | V* V635 Cas | 19.6325 | 63.7425 | [2016ApJ...831..113A](2016/2016ApJ...831..113A)
 | 100171 | (not detected) | Cyg X-3 | 308.10742 | 40.95775 | [2013ApJ...779..150A](2013/2013ApJ...779..150A)
 | 100172 | (not detected) | GRB 150323A | 128.178083 | 45.464639 | [2018ApJ...857...33A](2018/2018ApJ...857...33A)
-| 100173 | (not detected) | Segue 1 | 151.7633 | 16.0736 | [2017PhRvD..95h2001A](2017/2017PhRvD..95h2001A),[2012PhRvD..85f2001A](2012/2012PhRvD..85f2001A)
-| 100174 | (not detected) | Draco | 260.059728 | 57.921219 | [2017PhRvD..95h2001A](2017/2017PhRvD..95h2001A),[2010ApJ...720.1174A](2010/2010ApJ...720.1174A)
-| 100175 | (not detected) | Ursa Minor | 227.29725 | 67.214361 | [2017PhRvD..95h2001A](2017/2017PhRvD..95h2001A),[2010ApJ...720.1174A](2010/2010ApJ...720.1174A)
-| 100176 | (not detected) | Bootes 1 | 210.0 | 14.5 | [2017PhRvD..95h2001A](2017/2017PhRvD..95h2001A),[2010ApJ...720.1174A](2010/2010ApJ...720.1174A)
+| 100173 | (not detected) | Segue 1 | 151.7633 | 16.0736 | [2023ApJ...945..101A](2023/2023ApJ...945..101A),[2017PhRvD..95h2001A](2017/2017PhRvD..95h2001A),[2012PhRvD..85f2001A](2012/2012PhRvD..85f2001A)
+| 100174 | (not detected) | Draco | 260.059728 | 57.921219 | [2023ApJ...945..101A](2023/2023ApJ...945..101A),[2017PhRvD..95h2001A](2017/2017PhRvD..95h2001A),[2010ApJ...720.1174A](2010/2010ApJ...720.1174A)
+| 100175 | (not detected) | Ursa Minor | 227.29725 | 67.214361 | [2023ApJ...945..101A](2023/2023ApJ...945..101A),[2017PhRvD..95h2001A](2017/2017PhRvD..95h2001A),[2010ApJ...720.1174A](2010/2010ApJ...720.1174A)
+| 100176 | (not detected) | Bootes 1 | 210.0 | 14.5 | [2023ApJ...945..101A](2023/2023ApJ...945..101A),[2017PhRvD..95h2001A](2017/2017PhRvD..95h2001A),[2010ApJ...720.1174A](2010/2010ApJ...720.1174A)
 | 100177 | (not detected) | Willman 1 | 162.3375 | 51.05 | [2017PhRvD..95h2001A](2017/2017PhRvD..95h2001A),[2010ApJ...720.1174A](2010/2010ApJ...720.1174A)
 | 100178 | (not detected) | PSR J1023+0038 | 155.948683 | 0.644724 | [2016ApJ...831..193A](2016/2016ApJ...831..193A)
 | 100179 | (not detected) | LB 2136 | 178.351944 | 49.51912 | [2016JInst..1111009I](2016/2016JInst..1111009I)
@@ -329,23 +340,15 @@ For a detailed description of data formats, file types, keywords, and spectral m
 | 100198 | (not detected) | PSR J1740+1000 | 265.10794 | 10.00168 | [2021ApJ...916..117B](2021/2021ApJ...916..117B)
 | 100199 | (not detected) | 3C 279 | 194.046527 | -5.789314 | [2022ApJ...924...95A](2022/2022ApJ...924...95A)
 | 100202 | VER-nodefined | neutrino-triplet-2016-02-17 | 39.6 | 25.7 | [2017A&A...607A.115I](2017/2017A&A...607A.115I)
+| 100203 | (not detected) | MAXI J1820+070 | 275.091427 | 7.185357 | [2022MNRAS.517.4736A](2022/2022MNRAS.517.4736A)
+| 100204 | (not detected) | SN2015bn | 173.42321 | 0.72561 | [2023ApJ...945...30A](2023/2023ApJ...945...30A)
+| 100205 | (not detected) | SN2017egm | 154.773417 | 46.453911 | [2023ApJ...945...30A](2023/2023ApJ...945...30A)
 | 300000 | (charged particle) | electron | -- | -- | [2018PhRvD..98f2004A](2018/2018PhRvD..98f2004A)
 | 300026 | (charged particle) | iron | -- | -- | [2018PhRvD..98b2009A](2018/2018PhRvD..98b2009A)
 
-<a name="licence"></a>
+<a name="citation"></a>
 
-## Licence
+## Citation
 
 Please cite this work: https://doi.org/10.5281/zenodo.4723219
 
-<p xmlns:dct="http://purl.org/dc/terms/">
-  <a rel="license"
-     href="http://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
-  </a>
-  <br />
-  To the extent possible under law,
-  <span rel="dct:publisher" resource="[_:publisher]">the persons who associated CC0</span>
-  with this work have waived all copyright and related or neighboring
-  rights to this work.
-</p>

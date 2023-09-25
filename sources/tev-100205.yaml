@@ -1,0 +1,10 @@
+---
+source_id: 100205
+common_name: SN2017egm
+where: egal
+pos:
+  simbad_id: SN2017egm
+  ra: 154.773417
+  dec: 46.453911
+reference_id:
+  - 2023ApJ...945...30A

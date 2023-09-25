@@ -1,0 +1,20 @@
+---
+reference_id: 2023ApJ...950..152A
+source_id: [179]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [lat, xrt]
+  - availability: true
+  - status: false
+
+datasets:
+  - VER-000179.yaml
+  - VER-000179-1-sed.ecsv
+  - VER-000179-1-lc.ecsv
+  - LAT-000179-1-sed.ecsv
+  - LAT-000179-1-lc.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

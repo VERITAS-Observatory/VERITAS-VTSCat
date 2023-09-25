@@ -1,9 +1,9 @@
 # File types and data formats in VTSCat
 
-1. [ Overview of file types. ](#files)
-2. [ Observational data (File type VER*.yaml). ](#obs)
-3. [ Spectral data (File type VER*sed.ecsv). ](#sed)
-4. [ Light-curve data (File type VER*lc.ecsv). ](#lc)
+1. [Overview of file types.](#files)
+2. [Observational data (File type VER*.yaml).](#obs)
+3. [Spectral data (File type VER*sed.ecsv).](#sed)
+4. [Light-curve data (File type VER*lc.ecsv).](#lc)
 
 For a description of the spectral models used, see [SpectralModels.md](SpectralModels.md).
 
@@ -31,12 +31,13 @@ Observation details are stored in files of *yaml* type. The following table give
 |---|---|
 | **data** | observational data and source detection results |
 | data:livetime | length of observation time |
-| data:significance | statistical significance of observation (generally taking after taking trials into account |
+| data:significance | statistical significance of observation (generally taking after taking trials into account) |
 | data:excess | number of excess counts |
 | data:excess_err | error on number of excess counts |
 | data:non | number of counts in on region |
 | data:noff | number of counts in off region |
 | data:alpha | normalisation factor between on and off regions |
+| data:mjd | time range of observations (in MJD) |
 | **flux** | integral flux measurements |
 | flux:flux | integral flux (value and error) |
 | flux:eflux | integral energy flux |
@@ -61,7 +62,7 @@ Observation details are stored in files of *yaml* type. The following table give
 | spec:model:parameters | model parameters (see [below](#models) for a description of all spectral models) |
 | spec:theta | integration radius for spectral measurement |
 | spec:chi2 | Chi2 of spectral model fit |
-| spec:ndf | Number of degrees of freedom in spectral model fit |
+| spec:ndof | Number of degrees of freedom in spectral model fit |
 
 <a name="sed"></a>
 ### Spectral data (File type VER*sed.ecsv)
@@ -100,4 +101,3 @@ Light-curve measurements are provided in ecsv files containing all the necessary
 | eflux_err/eflux_errn/eflux_errp | error (average/lower/upper) on integral energy flux |
 | eflux_ul | upper limit on integral energy flux |
 | f_var | fractional variability |
-

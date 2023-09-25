@@ -1,0 +1,21 @@
+---
+reference_id: 2023ApJ...945...30A
+source_id: [100204, 100205]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [lat]
+  - availability: true
+  - status: false
+
+datasets:
+  - VER-100204.yaml
+  - VER-100204-lc-1.ecsv
+  - VER-100205.yaml
+  - VER-100205-lc-1.ecsv
+  - LAT-100204-lc-1.ecsv
+  - LAT-100205-lc-1.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

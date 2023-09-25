@@ -1,0 +1,10 @@
+---
+source_id: 100203
+common_name: MAXI J1820+070
+where: gal
+pos:
+  simbad_id: MAXI J1820+070
+  ra: 275.091427
+  dec: 7.185357
+reference_id:
+  - 2022MNRAS.517.4736A
