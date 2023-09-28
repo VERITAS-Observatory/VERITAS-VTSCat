@@ -1,0 +1,12 @@
+---
+source_id: 100203
+reference_id: 2022MNRAS.517.4736A
+telescope: veritas
+
+data:
+  livetime: 10.7h
+
+flux:
+  flux_ul: {val: 2.65e-12, unit: cm-2 s-1}
+  conf: {val: 0.95, description: Rolke et al 2005 (30\% systematic uncertainty)}
+  e_min: {val: 0.2, unit: TeV}

@@ -1,0 +1,24 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: time_min, unit: MJD, datatype: float64}
+# - {name: time_max, unit: MJD, datatype: float64}
+# - {name: live_time, unit: min, datatype: float64}
+# - {name: flux_ul, unit: cm-2 s-1, datatype: float64, description: integral flux upper limit (95% CL)}
+# - {name: flux, unit: cm-2 s-1, datatype: float64}
+# - {name: significance, datatype: float64}
+# - {name: non, datatype: int64}
+# - {name: noff, datatype: int64}
+# - {name: alpha, datatype: float64}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 100204
+# - file_id: 1
+# - reference_id: 2023ApJ...945...30A
+# - telescope: veritas
+# - comments: |
+#       Table 2
+e_min time_min time_max live_time flux_ul flux significance non noff alpha
+0.320  57149  57164  1.0  28.5e-13 nan -0.5 4 179 0.0286
+0.420  57533  57538  1.8  27.8e-13 nan 1.7 10 188 0.0299

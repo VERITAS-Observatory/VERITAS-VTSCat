@@ -1,0 +1,17 @@
+---
+reference_id: 2022MNRAS.517.4736A
+source_id: [100203]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [lat, magic, hess]
+  - availability: false
+  - status: false
+
+datasets:
+  - VER-100203.yaml
+  - VER-100203-sed-1.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

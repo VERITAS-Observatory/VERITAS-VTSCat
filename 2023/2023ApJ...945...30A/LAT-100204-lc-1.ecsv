@@ -1,0 +1,25 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: GeV, datatype: float64}
+# - {name: e_max, unit: GeV, datatype: float64}
+# - {name: time_min, unit: MJD, datatype: float64}
+# - {name: time_max, unit: MJD, datatype: float64}
+# - {name: flux, unit: MeV cm-2 s-1, datatype: float64}
+# - {name: flux_ul, unit: MeV cm-2 s-1, datatype: float64, description: integral flux upper imit (95%)l}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 100204
+# - file_id: 1
+# - reference_id: 2023ApJ...945...30A
+# - telescope: lat
+# - comments: |
+#       Figure 2
+e_min e_max time_min time_max flux flux_ul
+0.1 500 57014.0         57104.0        nan 3.45167484708137e-06
+0.1 500 57104.0         57286.66665895 nan 1.880642508297719e-06
+0.1 500 57286.66665895  57469.33332948 nan 3.966620549366324e-06
+0.1 500 57469.33332948  57652.0        nan 4.949846041006348e-06
+0.1 500 57652.0         57834.66665895 nan 3.0039852440592053e-06
+0.1 500 57834.66665895  58017.33332948 nan 6.169902447139987e-06
+0.1 500 58017.33332948  58200.0        nan 6.201024111215034e-06

@@ -1,0 +1,10 @@
+---
+source_id: 100204
+common_name: SN2015bn
+where: egal
+pos:
+  simbad_id: SN2015bn
+  ra: 173.423210
+  dec: 0.725610
+reference_id:
+  - 2023ApJ...945...30A

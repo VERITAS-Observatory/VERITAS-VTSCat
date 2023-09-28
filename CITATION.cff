@@ -42,7 +42,7 @@ keywords:
   - "Imaging Atmospheric Cherenkov Telescope"
   - VERITAS
 repository-code: "https://github.com/VERITAS-Observatory/VERITAS-VTSCat"
-license: CC0-1.0
+license: CC-BY-4.0
 authors:
   - given-names: A.
     family-names: Acharyya

@@ -1,0 +1,20 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: mass, unit: GeV, datatype: float64}
+# - {name: lambda, datatype: float64}
+# schema: astropy-2.0
+# meta: !!omap
+# - data_type: table
+# - reference_id: 2023ApJ...945..101A
+# - file_id: 1
+# - telescope: veritas
+mass lambda
+1000.0 0.0
+4393.97056076079 0.0
+19306.977288832495 0.0
+84834.28982440726 0.23115876151485998
+372759.3720314938 0.9976006585275303
+1637893.7069540645 1.3435803064706173
+7196856.730011528 1.2294263903072018
+31622776.60168379 0.3965637690627602

@@ -1,0 +1,12 @@
+---
+source_id: 179
+common_name: S3 1227+25
+veritas_name:
+  name: VER J1230+253
+where: egal
+pos:
+  simbad_id: ICRF J123014.0+251807
+  ra: 187.558706
+  dec: 25.301982
+reference_id:
+  - 2023ApJ...950..152A

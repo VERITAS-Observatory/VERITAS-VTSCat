@@ -1,0 +1,12 @@
+---
+source_id: 100176
+reference_id: 2023ApJ...945..101A
+telescope: veritas
+file_id: 1
+
+data:
+  livetime: 14.0h
+  non: 1206
+  noff: 10836
+  alpha: 0.116
+  significance: -1.0

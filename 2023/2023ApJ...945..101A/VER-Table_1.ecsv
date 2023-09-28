@@ -1,0 +1,27 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: dwarf, datatype: string}
+# - {name: N_on, datatype: int64}
+# - {name: N_off, datatype: int64}
+# - {name: alpha, datatype: float64}
+# - {name: exposure, unit: h, datatype: float64}
+# - {name: sigma, datatype: float64}
+# - {name: rho_s, unit: solMass / pc3, datatype: float64}
+# - {name: r_s, unit: pc, datatype: float64}
+# - {name: $\alpha$, datatype: float64}
+# - {name: $\beta$, datatype: float64}
+# - {name: $\gamma$, datatype: float64}
+# - {name: $\theta$_max, unit: deg, datatype: float64}
+# - {name: J($\theta$_max), unit: GeV2 / (cm5 sr), datatype: float64}
+# schema: astropy-2.0
+# meta: !!omap
+# - data_type: table
+# - reference_id: 2023ApJ...945..101A
+# - file_id: 1
+# - telescope: veritas
+dwarf N_on N_off alpha exposure sigma rho_s r_s $\alpha$ $\beta$ $\gamma$ $\theta$_max J($\theta$_max)
+Segue1 15895 120826 0.131 92.0 0.7 1.78 310.0 0.54 4.36 0.64 0.35 2.5e+19
+UrsaMinor 4181 35790 0.119 60.4 -0.1 0.56 360.0 2.37 8.77 0.012 1.19 7.1e+18
+"Bo""otes" 1206 10836 0.116 14.0 -1.0 0.00067 12000.0 2.81 4.87 1.08 0.47 1.7e+18
+Draco 4297 39472 0.111 49.8 -1.0 0.0082 2600.0 1.96 6.09 0.95 1.41 1.3e+19
