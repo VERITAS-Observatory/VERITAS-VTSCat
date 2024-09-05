@@ -52,6 +52,7 @@ For a detailed description of data formats, file types, keywords, and spectral m
 - VERITAS: https://veritas.sao.arizona.edu/
 - VER Dictionary of Nomenclature: https://cds.u-strasbg.fr/cgi-bin/Dic-Simbad?/17350620
 - gamma-cat: https://github.com/gammapy/gamma-cat
+- wiki description on how to set a VERITAS source name: https://veritas.sao.arizona.edu/wiki/VERITAS_source_names
 
 <a name="publications"></a>
 
