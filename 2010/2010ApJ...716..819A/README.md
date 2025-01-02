@@ -9,18 +9,16 @@ Acciari, V. A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 71
 ## M 87 (VER J1230+123)
 ### Data files
 
-- observation data: [VER-000058-1.yaml](VER-000058-1.yaml)  [VER-000058-2.yaml](VER-000058-2.yaml)  [VER-000058-3.yaml](VER-000058-3.yaml)  [VER-000058-4.yaml](VER-000058-4.yaml)  
-- spectral data: [VER-000058-sed-1.ecsv](VER-000058-sed-1.ecsv)  [VER-000058-sed-2.ecsv](VER-000058-sed-2.ecsv)  [VER-000058-sed-3.ecsv](VER-000058-sed-3.ecsv)  
-- light-curve data: [VER-000058-lc-1.ecsv](VER-000058-lc-1.ecsv)  [VER-000058-lc-2.ecsv](VER-000058-lc-2.ecsv)  
-- observation data and fit results: [VER-000058-1.yaml](VER-000058-1.yaml)  [VER-000058-2.yaml](VER-000058-2.yaml)  [VER-000058-3.yaml](VER-000058-3.yaml)  [VER-000058-4.yaml](VER-000058-4.yaml)  
+- observation data: [VER-000058-1.yaml](VER-000058-1.yaml)  [VER-000058-2.yaml](VER-000058-2.yaml)  [VER-000058-3.yaml](VER-000058-3.yaml)  [VER-000058-4.yaml](VER-000058-4.yaml)
+- spectral data: [VER-000058-sed-1.ecsv](VER-000058-sed-1.ecsv)  [VER-000058-sed-2.ecsv](VER-000058-sed-2.ecsv)  [VER-000058-sed-3.ecsv](VER-000058-sed-3.ecsv)
+- light-curve data: [VER-000058-lc-1.ecsv](VER-000058-lc-1.ecsv)  [VER-000058-lc-2.ecsv](VER-000058-lc-2.ecsv)
+- observation data and fit results: [VER-000058-1.yaml](VER-000058-1.yaml)  [VER-000058-2.yaml](VER-000058-2.yaml)  [VER-000058-3.yaml](VER-000058-3.yaml)  [VER-000058-4.yaml](VER-000058-4.yaml)
 
 
 ### Figures
 
-<img src="figures/2010ApJ...716..819A-VER-58-2-lc.png" alt="drawing" width="400"/>
-<img src="figures/2010ApJ...716..819A-VER-58-3-sed.png" alt="drawing" width="400"/>
-<img src="figures/2010ApJ...716..819A-VER-58-2-sed.png" alt="drawing" width="400"/>
 <img src="figures/2010ApJ...716..819A-VER-58-1-lc.png" alt="drawing" width="400"/>
 <img src="figures/2010ApJ...716..819A-VER-58-1-sed.png" alt="drawing" width="400"/>
-
-
+<img src="figures/2010ApJ...716..819A-VER-58-2-lc.png" alt="drawing" width="400"/>
+<img src="figures/2010ApJ...716..819A-VER-58-2-sed.png" alt="drawing" width="400"/>
+<img src="figures/2010ApJ...716..819A-VER-58-3-sed.png" alt="drawing" width="400"/>

@@ -8,9 +8,8 @@ Aliu, E. et al. (The VERITAS Collaboration), The Astrophysical Journal, 800, 61 
 
 ### Data tables
 
-- data tables: [VER-PulsarULs-table-1.ecsv](VER-PulsarULs-table-1.ecsv)  
-## Geminga pulsar
+- data tables: [VER-PulsarULs-table-1.ecsv](VER-PulsarULs-table-1.ecsv)## Geminga pulsar
 ### Data files
 
-- observation data: [VER-100180-1.yaml](VER-100180-1.yaml)  
-- observation data and fit results: [VER-100180-1.yaml](VER-100180-1.yaml)  
+- observation data: [VER-100180-1.yaml](VER-100180-1.yaml)
+- observation data and fit results: [VER-100180-1.yaml](VER-100180-1.yaml)

@@ -9,14 +9,12 @@ Archambault, S. et al. (The VERITAS Collaboration), The Astrophysical Journal, 8
 ## Tycho SNR (VER J0025+641)
 ### Data files
 
-- observation data: [VER-000003.yaml](VER-000003.yaml)  
-- spectral data: [VER-000003-sed.ecsv](VER-000003-sed.ecsv)  
-- observation data and fit results: [VER-000003.yaml](VER-000003.yaml)  
-- FITS data: [VER-000003-excess-skymap.fits](VER-000003-excess-skymap.fits)  
+- observation data: [VER-000003.yaml](VER-000003.yaml)
+- spectral data: [VER-000003-sed.ecsv](VER-000003-sed.ecsv)
+- observation data and fit results: [VER-000003.yaml](VER-000003.yaml)
+- FITS data: [VER-000003-excess-skymap.fits](VER-000003-excess-skymap.fits)
 
 
 ### Figures
 
 <img src="figures/2017ApJ...836...23A-VER-3-1-sed.png" alt="drawing" width="400"/>
-
-

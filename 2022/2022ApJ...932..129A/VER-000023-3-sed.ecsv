@@ -12,7 +12,7 @@
 # - reference_id: 2022ApJ...932..129A
 # - file_id: 3
 # - telescope: veritas
-# - mjd: {min: 56632.5, max: 56632.5}
+# - mjd: {min: 56632.5, max: 56689.0}
 # - comments: |
 #      Figure 4; BB3 (low state)
 e_ref dnde dnde_err e_min e_max

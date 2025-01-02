@@ -1,0 +1,10 @@
+---
+source_id: 100207
+common_name: PSR J2229+6114
+where: gal
+pos:
+  simbad_id: PSR J2229+6114
+  ra: 337.271925
+  dec: 61.235689
+reference_id:
+  - 2024ApJ...960...75P

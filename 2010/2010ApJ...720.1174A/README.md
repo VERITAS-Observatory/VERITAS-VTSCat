@@ -9,9 +9,9 @@ Acciari, V. A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 72
 ## Draco
 ### Data files
 
-- observation data: [VER-100174.yaml](VER-100174.yaml)  
-- spectral data: [VER-100174-sed.ecsv](VER-100174-sed.ecsv)  
-- observation data and fit results: [VER-100174.yaml](VER-100174.yaml)  
+- observation data: [VER-100174.yaml](VER-100174.yaml)
+- spectral data: [VER-100174-sed.ecsv](VER-100174-sed.ecsv)
+- observation data and fit results: [VER-100174.yaml](VER-100174.yaml)
 
 
 ### Figures
@@ -22,9 +22,9 @@ Acciari, V. A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 72
 ## Ursa Minor
 ### Data files
 
-- observation data: [VER-100175.yaml](VER-100175.yaml)  
-- spectral data: [VER-100175-sed.ecsv](VER-100175-sed.ecsv)  
-- observation data and fit results: [VER-100175.yaml](VER-100175.yaml)  
+- observation data: [VER-100175.yaml](VER-100175.yaml)
+- spectral data: [VER-100175-sed.ecsv](VER-100175-sed.ecsv)
+- observation data and fit results: [VER-100175.yaml](VER-100175.yaml)
 
 
 ### Figures
@@ -35,9 +35,9 @@ Acciari, V. A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 72
 ## Bootes 1
 ### Data files
 
-- observation data: [VER-100176.yaml](VER-100176.yaml)  
-- spectral data: [VER-100176-sed.ecsv](VER-100176-sed.ecsv)  
-- observation data and fit results: [VER-100176.yaml](VER-100176.yaml)  
+- observation data: [VER-100176.yaml](VER-100176.yaml)
+- spectral data: [VER-100176-sed.ecsv](VER-100176-sed.ecsv)
+- observation data and fit results: [VER-100176.yaml](VER-100176.yaml)
 
 
 ### Figures
@@ -48,13 +48,11 @@ Acciari, V. A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 72
 ## Willman 1
 ### Data files
 
-- observation data: [VER-100177.yaml](VER-100177.yaml)  
-- spectral data: [VER-100177-sed.ecsv](VER-100177-sed.ecsv)  
-- observation data and fit results: [VER-100177.yaml](VER-100177.yaml)  
+- observation data: [VER-100177.yaml](VER-100177.yaml)
+- spectral data: [VER-100177-sed.ecsv](VER-100177-sed.ecsv)
+- observation data and fit results: [VER-100177.yaml](VER-100177.yaml)
 
 
 ### Figures
 
 <img src="figures/2010ApJ...720.1174A-VER-100177-1-sed.png" alt="drawing" width="400"/>
-
-

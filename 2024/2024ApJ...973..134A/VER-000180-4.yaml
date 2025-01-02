@@ -1,0 +1,21 @@
+---
+source_id: 180
+file_id: 4
+reference_id: 2024ApJ...973..134A
+telescope: veritas
+description: "Post-flare state"
+
+data:
+  livetime: 26.8h
+  significance: 4.4
+
+spec:
+  models:
+    - model:
+        type: pl2
+        parameters:
+          flux: {val: 0.63e-11, err: 0.14e-11, unit: cm-2 s-1}
+          index: {val: 3.81}
+          e_min: {val: 0.13, unit: TeV}
+  erange: {min: 0.130, max: 0.63, unit: TeV}
+  mjd: {max: 57813, min: 57727}

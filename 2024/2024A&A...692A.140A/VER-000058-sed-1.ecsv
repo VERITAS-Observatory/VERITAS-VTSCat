@@ -1,0 +1,26 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, datatype: float32, unit: TeV, description: reference energy}
+# - {name: e_min, datatype: float32, unit: TeV, description: energy (min)}
+# - {name: e_max, datatype: float32, unit: TeV, description: energy (max)}
+# - {name: dnde, datatype: float32, unit: cm-2 s-1 TeV-1, description: differential photon flux at e_ref}
+# - {name: dnde_errn, unit: TeV-1 cm-2 s-1, datatype: float32, description: Asymmetric 1-sigma negative error}
+# - {name: dnde_errp, unit: TeV-1 cm-2 s-1, datatype: float32, description: Asymmetric 1-sigma positive error}
+# - {name: dnde_ul, datatype: float32, unit: TeV-1 cm-2 s-1}
+# - {name: significance, datatype: float32}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 58
+# - reference_id: 2024A&A...692A.140A
+# - file_id: 1
+# - telescope: veritas
+# - UL_CONF: 0.95
+# - mjd: {min: 58218., max: 58230.}
+# - comments: |
+#      Figure 10
+e_ref    e_min    e_max     dnde      dnde_errn dnde_errp dnde_ul significance
+0.398    0.316    0.501     8.173e-12   2.102e-12    2.265e-12      nan          4.4
+0.631    0.501    0.794     1.860e-12   6.287e-13    6.999e-13      nan          3.4
+1.000    0.794    1.259     1.464e-12   3.123e-13    3.500e-13      nan          6.5
+1.585    1.259    1.995     1.870e-13   8.241e-14    1.032e-13      nan          2.8

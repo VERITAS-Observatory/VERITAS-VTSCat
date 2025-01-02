@@ -8,11 +8,9 @@ Adams, C. B. et al. (The VERITAS Collaboration), The Astrophysical Journal, 918,
 
 ### Data tables
 
-- data tables: [VER-BNS-MergeCandidates-table-1.ecsv](VER-BNS-MergeCandidates-table-1.ecsv)  [VER-Results-table-2.ecsv](VER-Results-table-2.ecsv)  
-
+- data tables: [VER-BNS-MergeCandidates-table-1.ecsv](VER-BNS-MergeCandidates-table-1.ecsv)  [VER-Results-table-2.ecsv](VER-Results-table-2.ecsv)
 
 ### Figures
 
 Figures are available from the
  [LIGO Sub-threshold BNS search web page](https://dcc.ligo.org/public/0158/P1900030/001/index.html)
-

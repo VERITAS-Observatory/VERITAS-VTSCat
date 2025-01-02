@@ -9,12 +9,11 @@ Aliu, E. et al. (The VERITAS Collaboration), The Astrophysical Journal, 831, 193
 ## PSR J1023+0038
 ### Data files
 
-- light-curve data: [VER-100178-lc-1.ecsv](VER-100178-lc-1.ecsv)  [VER-100178-lc-2.ecsv](VER-100178-lc-2.ecsv)  [VER-100178-lc-3.ecsv](VER-100178-lc-3.ecsv)  
+- light-curve data: [VER-100178-lc-1.ecsv](VER-100178-lc-1.ecsv)  [VER-100178-lc-2.ecsv](VER-100178-lc-2.ecsv)  [VER-100178-lc-3.ecsv](VER-100178-lc-3.ecsv)
 
 
 ### Figures
 
-<img src="figures/2016ApJ...831..193A-VER-100178-2-lc.png" alt="drawing" width="400"/>
 <img src="figures/2016ApJ...831..193A-VER-100178-1-lc.png" alt="drawing" width="400"/>
-
-
+<img src="figures/2016ApJ...831..193A-VER-100178-2-lc.png" alt="drawing" width="400"/>
+<img src="figures/2016ApJ...831..193A-VER-100178-3-lc.png" alt="drawing" width="400"/>

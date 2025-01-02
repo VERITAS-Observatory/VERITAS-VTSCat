@@ -1,0 +1,30 @@
+---
+source_id: 174
+reference_id: 2018ApJ...867L..19A
+file_id: 4
+telescope: veritas
+description: "2017 Average"
+
+spec:
+  models:
+    - model:
+        type: pl+ecpl
+        parameters:
+          norm: {val: 7.62, err: 1.51, scale: 1e-15, unit: cm-2 s-1 TeV-1}
+          index: {val: 2.14, err: 0.29}
+          e_ref: {val: 4.18, unit: TeV}
+          norm_ec: {val: 8.04, err: 3.37, scale: 1e-12, unit: cm-2 s-1 TeV-1}
+          index_ec: {val: 1.26, err: 0.45}
+          e_ref_ec: {val: 0.64, unit: TeV}
+          e_cut_ec: {val: 0.57, err: 0.20, unit: TeV}
+    - model:
+        type: pl+pl
+        parameters:
+          norm: {val: 8.78, err: 2.56, scale: 1e-15, unit: cm-2 s-1 TeV-1}
+          index: {val: 2.14, err: 0.53}
+          e_ref: {val: 3.47, unit: TeV}
+          norm2: {val: 1.53, err: 0.14, scale: 1e-12, unit: cm-2 s-1 TeV-1}
+          index2: {val: 2.81, err: 0.09}
+          e_ref2: {val: 0.70, unit: TeV}
+  erange: {min: 0.2, max: 12.59, unit: TeV}
+  comment: "PL+PLEC (2017 Average)"

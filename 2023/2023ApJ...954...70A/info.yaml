@@ -1,0 +1,13 @@
+---
+reference_id: 2023ApJ...954...70A
+source_id: [100206]
+telescope: [veritas, hess, lat, nustar, xrt, vot]
+
+datasets:
+  - VER-100206.yaml
+  - VER-100206-1-sed.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true
+...

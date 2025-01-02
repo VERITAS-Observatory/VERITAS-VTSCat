@@ -6,14 +6,27 @@ telescope: veritas
 description: "High state"
 
 spec:
-  model:
-    type: pl
-    parameters:
-      norm: {val: 1.45, err: 0.18, scale: 1e-12, unit: cm-2 s-1 TeV-1}
-      index: {val: 2.73, err: 0.15}
-      e_ref: {val: 1.0, unit: TeV}
-  erange: {min: 0.199, max: 3.16, unit: TeV}
+  models:
+    - model:
+        type: pl+ecpl
+        parameters:
+          norm: {val: 1.26, err: 0.25, scale: 1e-14, unit: cm-2 s-1 TeV-1}
+          index: {val: 2.14, err: 0.28}
+          e_ref: {val: 3.39, unit: TeV}
+          norm_ec: {val: 1.20, err: 0.41, scale: 1e-11, unit: cm-2 s-1 TeV-1}
+          index_ec: {val: 2.37, err: 0.5}
+          e_ref_ec: {val: 0.51, unit: TeV}
+          e_cut_ec: {val: 2.39, err: 3.23, unit: TeV}
+    - model:
+        type: pl+pl
+        parameters:
+          norm: {val: 1.23, err: 0.24, scale: 1e-14, unit: cm-2 s-1 TeV-1}
+          index: {val: 2.14, err: 0.28}
+          e_ref: {val: 3.39, unit: TeV}
+          norm2: {val: 1.45, err: 0.18, scale: 1e-12, unit: cm-2 s-1 TeV-1}
+          index2: {val: 2.73, err: 0.15}
+          e_ref2: {val: 1.0, unit: TeV}
+  erange: {min: 0.199, max: 7.9, unit: TeV}
   mjd: {min: 58057, max: 58110}
-  comment: "True MJD interval: [58057,58074] and [58080,58110];
-  PL_binary (Fig 3 left bottom; blue curve);
-  note: this is not PL_baseline + PL_binary"
+  comment: |-
+    "True MJD interval: [58057,58074] and [58080,58110]; PL_binary (Fig 3 left bottom; blue curve);"

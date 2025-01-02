@@ -1,0 +1,23 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: eV, datatype: float32}
+# - {name: e2dnde, unit: erg cm-2 s-1, datatype: float32}
+# - {name: e_errn, unit: eV, datatype: float32}
+# - {name: e_errp, unit: eV, datatype: float32}
+# - {name: e2dnde_errn, unit: erg cm-2 s-1, datatype: float32}
+# - {name: e2dnde_errp, unit: erg cm-2 s-1, datatype: float32}
+# - {name: e2dnde_ul, unit: erg cm-2 s-1, datatype: float32}
+# meta: !!omap
+# - {data_type: sed}
+# - {source_id: 180}
+# - {file_id: 3}
+# - {reference_id: 2024ApJ...973..134A }
+# - {telescope: veritas}
+# - mjd: [{max: 57742, min: 57727}, {max: 57779, min: 57765}]
+# - comments: |
+#     Figure 6 (labeled Low)
+e_ref  e2dnde e_errn  e_errp  e2dnde_errn  e2dnde_errp e2dnde_ul
+1.8836E+11  nan    4.7111E+10    6.2824E+10    nan nan  4.88E-12
+3.3497E+11    nan 8.3777E+10    1.1172E+11    nan nan  1.50E-12
+5.9566E+11    nan 1.4898E+11    1.9867E+11    nan nan  1.35E-12

@@ -1,0 +1,25 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, datatype: float64, unit: GeV}
+# - {name: e_min, datatype: float64, unit: GeV}
+# - {name: e_max, datatype: float64, unit: GeV}
+# - {name: e2dnde, datatype: float64, unit:  erg cm-2 s-1}
+# - {name: e2dnde_ul, datatype: float64, unit:  erg cm-2 s-1}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 100206
+# - file_id: 1
+# - reference_id: 2023ApJ...954...70A
+# - telescope: veritas
+# - UL_CONF: 0.99
+# - mjd: {min: 59557, max: 59587.}
+# - comments: |
+#       Figure 2
+e_ref e_min e_max e2dnde e2dnde_ul
+334.1   281.8  398.1 nan 1.2930039275083712e-12
+472.0   398.1  562.3 nan 1.1493398489216e-12
+666.7   562.3  793.3 nan 1.3958076591869477e-12
+941.7   794.3 1122.0 nan 4.305031810101638e-13
+1330.0 1122.0 1584.9 nan 9.94761558063e-13
+1879.0 1584.9 2238.7 nan 1.0578004860113902e-12

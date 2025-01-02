@@ -1,8 +1,8 @@
 # VERITAS Observations - gamma-ray sources and objects
 
-Description files for objects (*TeV sources*) in the VERITAS catalogue. 
+Description files for objects (*TeV sources*) in the VERITAS catalogue.
 
-Following the gamma-cat sheme [1] without some format changes (mostly removal of keywords). Many files are modified copies from gamma-cat. The number of objects has been extented compared to gamma-cat and discrepencies in the *source_id* descriptor is expected for *source_id*s numbers above 169. 
+Following the gamma-cat scheme [1] without some format changes (mostly removal of keywords). Many files are modified copies from gamma-cat. The number of objects has been extended compared to gamma-cat and discrepancies in the *source_id* descriptor is expected for *source_id*s numbers above 169.
 
 ## File structure
 

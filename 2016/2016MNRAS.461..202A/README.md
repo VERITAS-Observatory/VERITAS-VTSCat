@@ -9,13 +9,11 @@ Archambault, S. et al. (The VERITAS Collaboration), Monthly Notices of the Royal
 ## 1ES 1440+122 (VER J1443+120)
 ### Data files
 
-- observation data: [VER-000071.yaml](VER-000071.yaml)  
-- spectral data: [VER-000071-sed.ecsv](VER-000071-sed.ecsv)  
-- observation data and fit results: [VER-000071.yaml](VER-000071.yaml)  
+- observation data: [VER-000071.yaml](VER-000071.yaml)
+- spectral data: [VER-000071-sed.ecsv](VER-000071-sed.ecsv)
+- observation data and fit results: [VER-000071.yaml](VER-000071.yaml)
 
 
 ### Figures
 
 <img src="figures/2016MNRAS.461..202A-VER-71-1-sed.png" alt="drawing" width="400"/>
-
-

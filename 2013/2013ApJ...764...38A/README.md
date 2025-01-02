@@ -9,13 +9,11 @@ Aliu, E. et al. (The VERITAS Collaboration), The Astrophysical Journal, 764, 38 
 ## CTA 1 (VER J0006+729)
 ### Data files
 
-- observation data: [VER-000001.yaml](VER-000001.yaml)  
-- spectral data: [VER-000001-sed.ecsv](VER-000001-sed.ecsv)  
-- observation data and fit results: [VER-000001.yaml](VER-000001.yaml)  
+- observation data: [VER-000001.yaml](VER-000001.yaml)
+- spectral data: [VER-000001-sed.ecsv](VER-000001-sed.ecsv)
+- observation data and fit results: [VER-000001.yaml](VER-000001.yaml)
 
 
 ### Figures
 
 <img src="figures/2013ApJ...764...38A-VER-1-1-sed.png" alt="drawing" width="400"/>
-
-

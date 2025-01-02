@@ -1,0 +1,22 @@
+source_id: 132
+reference_id: 2024ApJ...974...61A
+telescope: veritas
+
+data:
+  livetime: 124.8 h
+
+pos:
+  - ra: {val: 287.04 deg, err: 0.01 deg}
+    dec: {val: 6.33 deg, err: 0.01 deg}
+    erange: {min: 0.5, max: 2.0, unit: TeV}
+  - ra: {val: 287.00 deg, err: 0.02 deg}
+    dec: {val: 6.27 deg, err: 0.02 deg}
+    erange: {min: 2.0, max: 7.9, unit: TeV}
+
+morph:
+  - type: gauss
+    sigma: {val: 0.46d, err: 0.01d}
+    erange: {min: 0.5, max: 2.0, unit: TeV}
+  - type: gauss
+    sigma: {val: 0.42d, err: 0.02d}
+    erange: {min: 2.0, max: 7.9, unit: TeV}

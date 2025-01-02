@@ -9,21 +9,19 @@ Aliu, E. et al. (The VERITAS Collaboration), The Astrophysical Journal, 799, 7 (
 ## PG 1553+113 (VER J1555+111)
 ### Data files
 
-- observation data: [VER-000082-1.yaml](VER-000082-1.yaml)  [VER-000082-2.yaml](VER-000082-2.yaml)  [VER-000082-3.yaml](VER-000082-3.yaml)  [VER-000082-4.yaml](VER-000082-4.yaml)  
-- spectral data: [VER-000082-sed-1.ecsv](VER-000082-sed-1.ecsv)  
-- light-curve data: [VER-000082-lc-1.ecsv](VER-000082-lc-1.ecsv)  [VER-000082-lc-2.ecsv](VER-000082-lc-2.ecsv)  [VER-000082-lc-3.ecsv](VER-000082-lc-3.ecsv)  [VER-000082-lc-4.ecsv](VER-000082-lc-4.ecsv)  
-- observation data and fit results: [VER-000082-1.yaml](VER-000082-1.yaml)  [VER-000082-2.yaml](VER-000082-2.yaml)  [VER-000082-3.yaml](VER-000082-3.yaml)  [VER-000082-4.yaml](VER-000082-4.yaml)  
+- observation data: [VER-000082-1.yaml](VER-000082-1.yaml)  [VER-000082-2.yaml](VER-000082-2.yaml)  [VER-000082-3.yaml](VER-000082-3.yaml)  [VER-000082-4.yaml](VER-000082-4.yaml)
+- spectral data: [VER-000082-sed-1.ecsv](VER-000082-sed-1.ecsv)
+- light-curve data: [VER-000082-lc-1.ecsv](VER-000082-lc-1.ecsv)  [VER-000082-lc-2.ecsv](VER-000082-lc-2.ecsv)  [VER-000082-lc-3.ecsv](VER-000082-lc-3.ecsv)  [VER-000082-lc-4.ecsv](VER-000082-lc-4.ecsv)
+- observation data and fit results: [VER-000082-1.yaml](VER-000082-1.yaml)  [VER-000082-2.yaml](VER-000082-2.yaml)  [VER-000082-3.yaml](VER-000082-3.yaml)  [VER-000082-4.yaml](VER-000082-4.yaml)
 
 
 ### Figures
 
 <img src="figures/2015ApJ...799....7A-VER-82-1-lc.png" alt="drawing" width="400"/>
-<img src="figures/2015ApJ...799....7A-VER-82-2-sed.png" alt="drawing" width="400"/>
-<img src="figures/2015ApJ...799....7A-VER-82-3-sed.png" alt="drawing" width="400"/>
-<img src="figures/2015ApJ...799....7A-VER-82-3-lc.png" alt="drawing" width="400"/>
 <img src="figures/2015ApJ...799....7A-VER-82-1-sed.png" alt="drawing" width="400"/>
 <img src="figures/2015ApJ...799....7A-VER-82-2-lc.png" alt="drawing" width="400"/>
-<img src="figures/2015ApJ...799....7A-VER-82-4-sed.png" alt="drawing" width="400"/>
+<img src="figures/2015ApJ...799....7A-VER-82-2-sed.png" alt="drawing" width="400"/>
+<img src="figures/2015ApJ...799....7A-VER-82-3-lc.png" alt="drawing" width="400"/>
+<img src="figures/2015ApJ...799....7A-VER-82-3-sed.png" alt="drawing" width="400"/>
 <img src="figures/2015ApJ...799....7A-VER-82-4-lc.png" alt="drawing" width="400"/>
-
-
+<img src="figures/2015ApJ...799....7A-VER-82-4-sed.png" alt="drawing" width="400"/>

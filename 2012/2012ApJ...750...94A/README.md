@@ -9,15 +9,13 @@ Aliu, E. et al. (The VERITAS Collaboration), The Astrophysical Journal, 750, 94 
 ## RBS 0413 (VER J0319+187)
 ### Data files
 
-- observation data: [VER-000017.yaml](VER-000017.yaml)  
-- spectral data: [VER-000017-sed.ecsv](VER-000017-sed.ecsv)  
-- light-curve data: [VER-000017-lc.ecsv](VER-000017-lc.ecsv)  
-- observation data and fit results: [VER-000017.yaml](VER-000017.yaml)  
+- observation data: [VER-000017.yaml](VER-000017.yaml)
+- spectral data: [VER-000017-sed.ecsv](VER-000017-sed.ecsv)
+- light-curve data: [VER-000017-lc.ecsv](VER-000017-lc.ecsv)
+- observation data and fit results: [VER-000017.yaml](VER-000017.yaml)
 
 
 ### Figures
 
-<img src="figures/2012ApJ...750...94A-VER-17-1-sed.png" alt="drawing" width="400"/>
 <img src="figures/2012ApJ...750...94A-VER-17-1-lc.png" alt="drawing" width="400"/>
-
-
+<img src="figures/2012ApJ...750...94A-VER-17-1-sed.png" alt="drawing" width="400"/>

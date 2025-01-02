@@ -1,0 +1,26 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: time, unit: MJD, datatype: float64}
+# - {name: time_err, unit: MJD, datatype: float64}
+# - {name: significance, datatype: float32}
+# - {name: flux, unit: cm-2 s-1, datatype: float64}
+# - {name: flux_err, unit: cm-2 s-1, datatype: float64}
+# - {name: flux_ul, unit: cm-2 s-1, datatype: float64}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 58
+# - file_id: 1
+# - reference_id: 2024A&A...692A.140A
+# - UL_CONF: 0.95
+# - telescope: veritas
+# - comments: |
+#       Fig 9
+#       upper limits derived assuming a power law with
+#       spectral index of -2.3.; using Rolke & Lopez (2001)
+e_min time time_err significance flux flux_err flux_ul
+0.35 58218.2877  0.0661   3.2750  1.6867e-12  6.3498e-13   nan
+0.35 58226.2365  0.0513   2.1875  1.5709e-12  8.3762e-13   nan
+0.35 58228.2405  0.0741   5.8140  3.5936e-12  8.1083e-13   nan
+0.35 58229.2541  0.0784   3.7692  2.1795e-12  7.0541e-13   nan

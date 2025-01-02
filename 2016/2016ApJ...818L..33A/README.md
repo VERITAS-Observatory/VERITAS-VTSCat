@@ -5,4 +5,3 @@ Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal,
 
 - ADS: [2016ApJ...818L..33A](http://adsabs.harvard.edu/abs/2016ApJ...818L..33A)
 - DOI: [10.3847/2041-8205/818/2/L33](https://doi.org/10.3847/2041-8205/818/2/L33)
-

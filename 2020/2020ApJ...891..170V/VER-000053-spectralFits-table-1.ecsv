@@ -17,7 +17,7 @@
 # - UL_CONF: 0.99
 # - comments: |
 #     Table 2
-#     VERITAS spectral fits assum
+#     VERITAS spectral fits assume
 #     power-law shapes;
 #     see text for period names
 period_name exposure e_min flux flux_err flux_ul index index_err

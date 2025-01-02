@@ -9,15 +9,13 @@ Acciari, V. A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 70
 ## PKS 1424+240 (VER J1427+237)
 ### Data files
 
-- observation data: [VER-000067.yaml](VER-000067.yaml)  
-- spectral data: [VER-000067-sed.ecsv](VER-000067-sed.ecsv)  
-- light-curve data: [VER-000067-lc.ecsv](VER-000067-lc.ecsv)  
-- observation data and fit results: [VER-000067.yaml](VER-000067.yaml)  
+- observation data: [VER-000067.yaml](VER-000067.yaml)
+- spectral data: [VER-000067-sed.ecsv](VER-000067-sed.ecsv)
+- light-curve data: [VER-000067-lc.ecsv](VER-000067-lc.ecsv)
+- observation data and fit results: [VER-000067.yaml](VER-000067.yaml)
 
 
 ### Figures
 
 <img src="figures/2010ApJ...708L.100A-VER-67-1-lc.png" alt="drawing" width="400"/>
 <img src="figures/2010ApJ...708L.100A-VER-67-1-sed.png" alt="drawing" width="400"/>
-
-

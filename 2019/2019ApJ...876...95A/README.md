@@ -8,4 +8,4 @@ Archer, A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 876, 9
 
 ### Data tables
 
-- data tables: [VER-PulsarULs-table-1.ecsv](VER-PulsarULs-table-1.ecsv)  
+- data tables: [VER-PulsarULs-table-1.ecsv](VER-PulsarULs-table-1.ecsv)

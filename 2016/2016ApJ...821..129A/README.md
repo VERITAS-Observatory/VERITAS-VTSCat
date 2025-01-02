@@ -9,9 +9,9 @@ Archer, A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 821, 1
 ## Galactic Centre (VER J1745-290)
 ### Data files
 
-- observation data: [VER-000106.yaml](VER-000106.yaml)  
-- spectral data: [VER-000106-sed.ecsv](VER-000106-sed.ecsv)  
-- observation data and fit results: [VER-000106.yaml](VER-000106.yaml)  
+- observation data: [VER-000106.yaml](VER-000106.yaml)
+- spectral data: [VER-000106-sed.ecsv](VER-000106-sed.ecsv)
+- observation data and fit results: [VER-000106.yaml](VER-000106.yaml)
 
 
 ### Figures
@@ -22,9 +22,9 @@ Archer, A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 821, 1
 ## SNR G0.9+0.1 (VER J1747-281)
 ### Data files
 
-- observation data: [VER-000110.yaml](VER-000110.yaml)  
-- spectral data: [VER-000110-sed.ecsv](VER-000110-sed.ecsv)  
-- observation data and fit results: [VER-000110.yaml](VER-000110.yaml)  
+- observation data: [VER-000110.yaml](VER-000110.yaml)
+- spectral data: [VER-000110-sed.ecsv](VER-000110-sed.ecsv)
+- observation data and fit results: [VER-000110.yaml](VER-000110.yaml)
 
 
 ### Figures
@@ -35,7 +35,5 @@ Archer, A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 821, 1
 ## VER J1746-289
 ### Data files
 
-- observation data: [VER-000165.yaml](VER-000165.yaml)  
-- observation data and fit results: [VER-000165.yaml](VER-000165.yaml)  
-
-
+- observation data: [VER-000165.yaml](VER-000165.yaml)
+- observation data and fit results: [VER-000165.yaml](VER-000165.yaml)
