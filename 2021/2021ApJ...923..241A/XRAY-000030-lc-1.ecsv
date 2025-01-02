@@ -2,7 +2,7 @@
 # ---
 # datatype:
 # - {name: observatory, datatype: string, description: name of X-ray telescope}
-# - {name: obsid, datatype: int, description: observation ID}
+# - {name: obsid, datatype: int32, description: observation ID}
 # - {name: time, unit: MJD, datatype: float64}
 # - {name: eflux, unit: erg cm-2 s-1, datatype: float64, description: X-ray flux (0.3-10 keV)}
 # - {name: eflux_errn, unit: erg cm-2 s-1, datatype: float64, description: X-ray flux (0.3-10 keV) (upper)}

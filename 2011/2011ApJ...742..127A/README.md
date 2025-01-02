@@ -9,13 +9,11 @@ Aliu, E. et al. (The VERITAS Collaboration), The Astrophysical Journal, 742, 127
 ## RX J0648.7+1516 (VER J0648+152)
 ### Data files
 
-- observation data: [VER-000032.yaml](VER-000032.yaml)  
-- spectral data: [VER-000032-sed.ecsv](VER-000032-sed.ecsv)  
-- observation data and fit results: [VER-000032.yaml](VER-000032.yaml)  
+- observation data: [VER-000032.yaml](VER-000032.yaml)
+- spectral data: [VER-000032-sed.ecsv](VER-000032-sed.ecsv)
+- observation data and fit results: [VER-000032.yaml](VER-000032.yaml)
 
 
 ### Figures
 
 <img src="figures/2011ApJ...742..127A-VER-32-1-sed.png" alt="drawing" width="400"/>
-
-

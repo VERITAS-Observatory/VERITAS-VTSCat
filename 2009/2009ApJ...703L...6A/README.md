@@ -9,13 +9,11 @@ Acciari, V. A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 70
 ## SNR G106.3+02.7 (VER J2227+608)
 ### Data files
 
-- observation data: [VER-000149.yaml](VER-000149.yaml)  
-- spectral data: [VER-000149-sed.ecsv](VER-000149-sed.ecsv)  
-- observation data and fit results: [VER-000149.yaml](VER-000149.yaml)  
+- observation data: [VER-000149.yaml](VER-000149.yaml)
+- spectral data: [VER-000149-sed.ecsv](VER-000149-sed.ecsv)
+- observation data and fit results: [VER-000149.yaml](VER-000149.yaml)
 
 
 ### Figures
 
 <img src="figures/2009ApJ...703L...6A-VER-149-1-sed.png" alt="drawing" width="400"/>
-
-

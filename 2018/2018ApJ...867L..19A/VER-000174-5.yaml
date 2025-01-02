@@ -1,0 +1,32 @@
+---
+source_id: 174
+reference_id: 2018ApJ...867L..19A
+file_id: 5
+telescope: veritas
+description: "Low state"
+
+spec:
+  models:
+    - model:
+        type: pl+ecpl
+        parameters:
+          norm: {val: 1.26, err: 0.25, scale: 1e-14, unit: cm-2 s-1 TeV-1}
+          index: {val: 2.14, err: 0.28}
+          e_ref: {val: 3.39, unit: TeV}
+          norm_ec: {val: 1.64, err: 1.12, scale: 1e-11, unit: cm-2 s-1 TeV-1}
+          index_ec: {val: 0.65, err: 0.75}
+          e_ref_ec: {val: 0.56, unit: TeV}
+          e_cut_ec: {val: 0.33, err: 0.13, unit: TeV}
+    - model:
+        type: pl+pl
+        parameters:
+          norm: {val: 4.65, err: 1.18, scale: 1e-15, unit: cm-2 s-1 TeV-1}
+          index: {val: 2.14, err: 0.85}
+          e_ref: {val: 4.98, unit: TeV}
+          norm2: {val: 8.12, err: 3.77, scale: 1e-14, unit: cm-2 s-1 TeV-1}
+          index2: {val: 2.86, err: 0.11}
+          e_ref2: {val: 1.76, unit: TeV}
+  erange: {min: 0.199, max: 12.58, unit: TeV}
+  mjd: {min: 58057, max: 58110}
+  comment: |-
+    "True MJD interval: [58057,58074] and [58080,58110]; PL_binary (Fig 3 left bottom; blue curve);"

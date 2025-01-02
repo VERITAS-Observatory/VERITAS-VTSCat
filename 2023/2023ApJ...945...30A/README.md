@@ -9,9 +9,9 @@ Acharyya, A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 945,
 ## SN2015bn
 ### Data files
 
-- observation data: [VER-100204.yaml](VER-100204.yaml)  
-- light-curve data: [VER-100204-lc-1.ecsv](VER-100204-lc-1.ecsv)  [LAT-100204-lc-1.ecsv](LAT-100204-lc-1.ecsv)  
-- observation data and fit results: [VER-100204.yaml](VER-100204.yaml)  
+- observation data: [VER-100204.yaml](VER-100204.yaml)
+- light-curve data: [VER-100204-lc-1.ecsv](VER-100204-lc-1.ecsv)  [LAT-100204-lc-1.ecsv](LAT-100204-lc-1.ecsv)
+- observation data and fit results: [VER-100204.yaml](VER-100204.yaml)
 
 
 ### Figures
@@ -22,13 +22,11 @@ Acharyya, A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 945,
 ## SN2017egm
 ### Data files
 
-- observation data: [VER-100205.yaml](VER-100205.yaml)  
-- light-curve data: [VER-100205-lc-1.ecsv](VER-100205-lc-1.ecsv)  [LAT-100205-lc-1.ecsv](LAT-100205-lc-1.ecsv)  
-- observation data and fit results: [VER-100205.yaml](VER-100205.yaml)  
+- observation data: [VER-100205.yaml](VER-100205.yaml)
+- light-curve data: [VER-100205-lc-1.ecsv](VER-100205-lc-1.ecsv)  [LAT-100205-lc-1.ecsv](LAT-100205-lc-1.ecsv)
+- observation data and fit results: [VER-100205.yaml](VER-100205.yaml)
 
 
 ### Figures
 
 <img src="figures/2023ApJ...945...30A-VER-100205-1-lc.png" alt="drawing" width="400"/>
-
-

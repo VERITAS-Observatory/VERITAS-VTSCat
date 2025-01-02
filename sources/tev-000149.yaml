@@ -4,8 +4,6 @@ common_name: SNR G106.3+02.7
 veritas_name:
   name: VER J2227+608
   components: null
-other_names:
-  - PSR J2229+6114
 where: gal
 pos:
   simbad_id: SNR G106.3+02.7

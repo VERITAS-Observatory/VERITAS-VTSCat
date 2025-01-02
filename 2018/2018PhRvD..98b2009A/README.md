@@ -9,13 +9,11 @@ Archer, A. et al. (The VERITAS Collaboration), Physical Review D, 98, 022009 (20
 ## iron
 ### Data files
 
-- observation data: [VER-300026-1.yaml](VER-300026-1.yaml)  
-- spectral data: [VER-300026-sedCR-1.ecsv](VER-300026-sedCR-1.ecsv)  
-- observation data and fit results: [VER-300026-1.yaml](VER-300026-1.yaml)  
+- observation data: [VER-300026-1.yaml](VER-300026-1.yaml)
+- spectral data: [VER-300026-sedCR-1.ecsv](VER-300026-sedCR-1.ecsv)
+- observation data and fit results: [VER-300026-1.yaml](VER-300026-1.yaml)
 
 
 ### Figures
 
 <img src="figures/2018PhRvD..98b2009A-VER-300026-1-sedCR.png" alt="drawing" width="400"/>
-
-

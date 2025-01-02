@@ -9,13 +9,11 @@ Aliu, E. et al. (The VERITAS Collaboration), The Astrophysical Journal, 795, L3 
 ## GRB 130427A
 ### Data files
 
-- observation data: [VER-100182-1.yaml](VER-100182-1.yaml)  
-- light-curve data: [VER-100182-lc-1.ecsv](VER-100182-lc-1.ecsv)  
-- observation data and fit results: [VER-100182-1.yaml](VER-100182-1.yaml)  
+- observation data: [VER-100182-1.yaml](VER-100182-1.yaml)
+- light-curve data: [VER-100182-lc-1.ecsv](VER-100182-lc-1.ecsv)
+- observation data and fit results: [VER-100182-1.yaml](VER-100182-1.yaml)
 
 
 ### Figures
 
 <img src="figures/2014ApJ...795L...3A-VER-100182-1-lc.png" alt="drawing" width="400"/>
-
-

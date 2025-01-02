@@ -1,0 +1,21 @@
+---
+source_id: 180
+file_id: 3
+reference_id: 2024ApJ...973..134A
+telescope: veritas
+description: "Low State"
+
+data:
+  livetime: 3.5h
+  significance: 1.3
+
+spec:
+  models:
+    - model:
+        type: pl2
+        parameters:
+          flux: {val: 0.46e-11, err: 0.40e-11, unit: cm-2 s-1}
+          index: {val: 3.81}
+          e_min: {val: 0.13, unit: TeV}
+  erange: {min: 0.130, max: 0.63, unit: TeV}
+  mjd: [{max: 57742, min: 57727}, {max: 57779, min: 57765}]

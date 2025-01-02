@@ -9,16 +9,14 @@ D'Ammando, F. et al. (The VERITAS Collaboration), Monthly Notices of the Royal A
 ## PMN J0948+0022
 ### Data files
 
-- observation data: [VER-100181-1.yaml](VER-100181-1.yaml)  
-- spectral data: [VER-100181-sed-1.ecsv](VER-100181-sed-1.ecsv)  
-- light-curve data: [VER-100181-lc-1.ecsv](VER-100181-lc-1.ecsv)  [VER-100181-lc-2.ecsv](VER-100181-lc-2.ecsv)  
-- observation data and fit results: [VER-100181-1.yaml](VER-100181-1.yaml)  
+- observation data: [VER-100181-1.yaml](VER-100181-1.yaml)
+- spectral data: [VER-100181-sed-1.ecsv](VER-100181-sed-1.ecsv)
+- light-curve data: [VER-100181-lc-1.ecsv](VER-100181-lc-1.ecsv)  [VER-100181-lc-2.ecsv](VER-100181-lc-2.ecsv)
+- observation data and fit results: [VER-100181-1.yaml](VER-100181-1.yaml)
 
 
 ### Figures
 
+<img src="figures/2015MNRAS.446.2456D-VER-100181-1-lc.png" alt="drawing" width="400"/>
 <img src="figures/2015MNRAS.446.2456D-VER-100181-1-sed.png" alt="drawing" width="400"/>
 <img src="figures/2015MNRAS.446.2456D-VER-100181-2-lc.png" alt="drawing" width="400"/>
-<img src="figures/2015MNRAS.446.2456D-VER-100181-1-lc.png" alt="drawing" width="400"/>
-
-

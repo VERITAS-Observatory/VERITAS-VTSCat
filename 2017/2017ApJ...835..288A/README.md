@@ -5,4 +5,3 @@ Archambault, S. et al. (The VERITAS Collaboration), The Astrophysical Journal, 8
 
 - ADS: [2017ApJ...835..288A](http://adsabs.harvard.edu/abs/2017ApJ...835..288A)
 - DOI: [10.3847/1538-4357/835/2/288](https://doi.org/10.3847/1538-4357/835/2/288)
-

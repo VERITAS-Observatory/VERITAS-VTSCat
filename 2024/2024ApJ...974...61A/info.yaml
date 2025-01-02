@@ -1,0 +1,15 @@
+---
+reference_id: 2024ApJ...974...61A
+source_id: [132]
+telescope: [veritas, lat, hawc]
+
+datasets:
+  - VER-000132.yaml
+  - VER-000132-sed-1.ecsv
+  - VER-000132-excess-skymap-1995-7943GeV.fits
+  - VER-000132-excess-skymap-501-1995GeV.fits
+
+data_entry:
+  status: complete
+  reviewed: true
+...

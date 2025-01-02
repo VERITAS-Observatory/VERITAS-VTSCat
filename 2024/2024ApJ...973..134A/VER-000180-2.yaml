@@ -1,0 +1,21 @@
+---
+source_id: 180
+file_id: 2
+reference_id: 2024ApJ...973..134A
+telescope: veritas
+description: Flare
+
+data:
+  livetime: 10.2h
+  significance: 6.3
+
+spec:
+  models:
+    - model:
+        type: pl2
+        parameters:
+          flux: {val: 1.78e-11, err: 0.28e-11, unit: cm-2 s-1}
+          index: {val: 3.81}
+          e_min: {val: 0.13, unit: TeV}
+  erange: {min: 0.130, max: 0.63, unit: TeV}
+  mjd: {min: 57785, max: 57789}

@@ -1,7 +1,7 @@
 # %ECSV 0.9
 # ---
 # datatype:
-# - {name: date, datatype: int, description: date}
+# - {name: date, datatype: int32, description: date}
 # - {name: observatory, datatype: string, description: observatory (O:OAO, C: CFHT)}
 # - {name: HJD, datatype: float64, description: HJD}
 # - {name: EW, unit: 0.1nm, datatype: float64, description: equivalent width}

@@ -8,12 +8,11 @@ Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal,
 
 ### Data tables
 
-- data tables: [VER-EBLIntensity-table-1.ecsv](VER-EBLIntensity-table-1.ecsv)  
-## 3C 66A
+- data tables: [VER-EBLIntensity-table-1.ecsv](VER-EBLIntensity-table-1.ecsv)## 3C 66A (VER J0222+430)
 ### Data files
 
-- observation data: [VER-000011-1.yaml](VER-000011-1.yaml)  [VER-000011-2.yaml](VER-000011-2.yaml)  [VER-000011-3.yaml](VER-000011-3.yaml)  
-- observation data and fit results: [VER-000011-1.yaml](VER-000011-1.yaml)  [VER-000011-2.yaml](VER-000011-2.yaml)  [VER-000011-3.yaml](VER-000011-3.yaml)  
+- observation data: [VER-000011-1.yaml](VER-000011-1.yaml)  [VER-000011-2.yaml](VER-000011-2.yaml)  [VER-000011-3.yaml](VER-000011-3.yaml)
+- observation data and fit results: [VER-000011-1.yaml](VER-000011-1.yaml)  [VER-000011-2.yaml](VER-000011-2.yaml)  [VER-000011-3.yaml](VER-000011-3.yaml)
 
 
 ### Figures
@@ -25,8 +24,8 @@ Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal,
 ## 1ES 0229+200 (VER J0232+202)
 ### Data files
 
-- observation data: [VER-000013-1.yaml](VER-000013-1.yaml)  
-- observation data and fit results: [VER-000013-1.yaml](VER-000013-1.yaml)  
+- observation data: [VER-000013-1.yaml](VER-000013-1.yaml)
+- observation data and fit results: [VER-000013-1.yaml](VER-000013-1.yaml)
 
 
 ### Figures
@@ -37,8 +36,8 @@ Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal,
 ## 1ES 0414+009 (VER J0416+011)
 ### Data files
 
-- observation data: [VER-000020-1.yaml](VER-000020-1.yaml)  
-- observation data and fit results: [VER-000020-1.yaml](VER-000020-1.yaml)  
+- observation data: [VER-000020-1.yaml](VER-000020-1.yaml)
+- observation data and fit results: [VER-000020-1.yaml](VER-000020-1.yaml)
 
 
 ### Figures
@@ -46,11 +45,11 @@ Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal,
 <img src="figures/2019ApJ...885..150A-VER-20-1-sed.png" alt="drawing" width="400"/>
 
 
-## 1ES 0502+675
+## 1ES 0502+675 (VER J0507+676)
 ### Data files
 
-- observation data: [VER-000022-1.yaml](VER-000022-1.yaml)  
-- observation data and fit results: [VER-000022-1.yaml](VER-000022-1.yaml)  
+- observation data: [VER-000022-1.yaml](VER-000022-1.yaml)
+- observation data and fit results: [VER-000022-1.yaml](VER-000022-1.yaml)
 
 
 ### Figures
@@ -61,8 +60,8 @@ Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal,
 ## RGB J0710+591 (VER J0710+591)
 ### Data files
 
-- observation data: [VER-000034-1.yaml](VER-000034-1.yaml)  
-- observation data and fit results: [VER-000034-1.yaml](VER-000034-1.yaml)  
+- observation data: [VER-000034-1.yaml](VER-000034-1.yaml)
+- observation data and fit results: [VER-000034-1.yaml](VER-000034-1.yaml)
 
 
 ### Figures
@@ -70,11 +69,11 @@ Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal,
 <img src="figures/2019ApJ...885..150A-VER-34-1-sed.png" alt="drawing" width="400"/>
 
 
-## 1ES 1011+496
+## 1ES 1011+496 (VER J1015+494)
 ### Data files
 
-- observation data: [VER-000043-1.yaml](VER-000043-1.yaml)  
-- observation data and fit results: [VER-000043-1.yaml](VER-000043-1.yaml)  
+- observation data: [VER-000043-1.yaml](VER-000043-1.yaml)
+- observation data and fit results: [VER-000043-1.yaml](VER-000043-1.yaml)
 
 
 ### Figures
@@ -85,8 +84,8 @@ Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal,
 ## 1ES 1215+303 (VER J1217+301)
 ### Data files
 
-- observation data: [VER-000053-1.yaml](VER-000053-1.yaml)  
-- observation data and fit results: [VER-000053-1.yaml](VER-000053-1.yaml)  
+- observation data: [VER-000053-1.yaml](VER-000053-1.yaml)
+- observation data and fit results: [VER-000053-1.yaml](VER-000053-1.yaml)
 
 
 ### Figures
@@ -97,8 +96,8 @@ Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal,
 ## 1ES 1218+304 (VER J1221+301)
 ### Data files
 
-- observation data: [VER-000055-1.yaml](VER-000055-1.yaml)  
-- observation data and fit results: [VER-000055-1.yaml](VER-000055-1.yaml)  
+- observation data: [VER-000055-1.yaml](VER-000055-1.yaml)
+- observation data and fit results: [VER-000055-1.yaml](VER-000055-1.yaml)
 
 
 ### Figures
@@ -106,11 +105,11 @@ Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal,
 <img src="figures/2019ApJ...885..150A-VER-55-1-sed.png" alt="drawing" width="400"/>
 
 
-## MS1221.8+2452
+## MS1221.8+2452 (VER J1224+246)
 ### Data files
 
-- observation data: [VER-000057-1.yaml](VER-000057-1.yaml)  
-- observation data and fit results: [VER-000057-1.yaml](VER-000057-1.yaml)  
+- observation data: [VER-000057-1.yaml](VER-000057-1.yaml)
+- observation data and fit results: [VER-000057-1.yaml](VER-000057-1.yaml)
 
 
 ### Figures
@@ -121,8 +120,8 @@ Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal,
 ## PKS 1424+240 (VER J1427+237)
 ### Data files
 
-- observation data: [VER-000067-1.yaml](VER-000067-1.yaml)  
-- observation data and fit results: [VER-000067-1.yaml](VER-000067-1.yaml)  
+- observation data: [VER-000067-1.yaml](VER-000067-1.yaml)
+- observation data and fit results: [VER-000067-1.yaml](VER-000067-1.yaml)
 
 
 ### Figures
@@ -130,11 +129,11 @@ Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal,
 <img src="figures/2019ApJ...885..150A-VER-67-1-sed.png" alt="drawing" width="400"/>
 
 
-## H 1426+428
+## H 1426+428 (VER J1428+426)
 ### Data files
 
-- observation data: [VER-000069-1.yaml](VER-000069-1.yaml)  
-- observation data and fit results: [VER-000069-1.yaml](VER-000069-1.yaml)  
+- observation data: [VER-000069-1.yaml](VER-000069-1.yaml)
+- observation data and fit results: [VER-000069-1.yaml](VER-000069-1.yaml)
 
 
 ### Figures
@@ -145,8 +144,8 @@ Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal,
 ## PG 1553+113 (VER J1555+111)
 ### Data files
 
-- observation data: [VER-000082-1.yaml](VER-000082-1.yaml)  
-- observation data and fit results: [VER-000082-1.yaml](VER-000082-1.yaml)  
+- observation data: [VER-000082-1.yaml](VER-000082-1.yaml)
+- observation data and fit results: [VER-000082-1.yaml](VER-000082-1.yaml)
 
 
 ### Figures
@@ -157,8 +156,8 @@ Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal,
 ## 1ES 1959+650 (VER J1959+651)
 ### Data files
 
-- observation data: [VER-000138-1.yaml](VER-000138-1.yaml)  [VER-000138-2.yaml](VER-000138-2.yaml)  [VER-000138-3.yaml](VER-000138-3.yaml)  
-- observation data and fit results: [VER-000138-1.yaml](VER-000138-1.yaml)  [VER-000138-2.yaml](VER-000138-2.yaml)  [VER-000138-3.yaml](VER-000138-3.yaml)  
+- observation data: [VER-000138-1.yaml](VER-000138-1.yaml)  [VER-000138-2.yaml](VER-000138-2.yaml)  [VER-000138-3.yaml](VER-000138-3.yaml)
+- observation data and fit results: [VER-000138-1.yaml](VER-000138-1.yaml)  [VER-000138-2.yaml](VER-000138-2.yaml)  [VER-000138-3.yaml](VER-000138-3.yaml)
 
 
 ### Figures
@@ -170,12 +169,10 @@ Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal,
 ## 1ES 2344+514 (VER J2347+517)
 ### Data files
 
-- observation data: [VER-000154-1.yaml](VER-000154-1.yaml)  
-- observation data and fit results: [VER-000154-1.yaml](VER-000154-1.yaml)  
+- observation data: [VER-000154-1.yaml](VER-000154-1.yaml)
+- observation data and fit results: [VER-000154-1.yaml](VER-000154-1.yaml)
 
 
 ### Figures
 
 <img src="figures/2019ApJ...885..150A-VER-154-1-sed.png" alt="drawing" width="400"/>
-
-

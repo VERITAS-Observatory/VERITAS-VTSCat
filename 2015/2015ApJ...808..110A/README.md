@@ -9,15 +9,13 @@ Archambault, S. et al. (The VERITAS Collaboration), The Astrophysical Journal, 8
 ## 1ES 1727+502 (VER J1728+502)
 ### Data files
 
-- observation data: [VER-000101.yaml](VER-000101.yaml)  
-- spectral data: [VER-000101-sed.ecsv](VER-000101-sed.ecsv)  
-- light-curve data: [VER-000101-lc.ecsv](VER-000101-lc.ecsv)  
-- observation data and fit results: [VER-000101.yaml](VER-000101.yaml)  
+- observation data: [VER-000101.yaml](VER-000101.yaml)
+- spectral data: [VER-000101-sed.ecsv](VER-000101-sed.ecsv)
+- light-curve data: [VER-000101-lc.ecsv](VER-000101-lc.ecsv)
+- observation data and fit results: [VER-000101.yaml](VER-000101.yaml)
 
 
 ### Figures
 
 <img src="figures/2015ApJ...808..110A-VER-101-1-lc.png" alt="drawing" width="400"/>
 <img src="figures/2015ApJ...808..110A-VER-101-1-sed.png" alt="drawing" width="400"/>
-
-

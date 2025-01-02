@@ -1,0 +1,25 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, unit: eV, datatype: float32}
+# - {name: e2dnde, unit: erg cm-2 s-1, datatype: float32}
+# - {name: e_errn, unit: eV, datatype: float32}
+# - {name: e_errp, unit: eV, datatype: float32}
+# - {name: e2dnde_errn, unit: erg cm-2 s-1, datatype: float32}
+# - {name: e2dnde_errp, unit: erg cm-2 s-1, datatype: float32}
+# - {name: e2dnde_ul, unit: erg cm-2 s-1, datatype: float32}
+# meta: !!omap
+# - {data_type: sed}
+# - {source_id: 180}
+# - {file_id: 4}
+# - {reference_id: 2024ApJ...973..134A }
+# - {telescope: veritas}
+# - mjd: {max: 57843, min: 57813}
+# - comments: |
+#     Figure 6 (labeled Post flare)
+e_ref  e2dnde e_errn  e_errp  e2dnde_errn  e2dnde_errp e2dnde_ul
+1.3335E+11    nan    1.7017E+10    2.5137E+10    nan nan 5.44E-12
+1.8836E+11    1.55E-12    2.9876E+10    3.5507E+10    6.22E-13    6.39E-13 nan
+2.6607E+11    9.86E-13    4.2200E+10    5.0155E+10    4.55E-13    4.69E-13 nan
+3.7584E+11    1.19E-12    5.9610E+10    7.0846E+10    3.48E-13    3.65E-13 nan
+5.3088E+11    nan    8.4201E+10    1.0007E+11    nan nan  7.24E-13

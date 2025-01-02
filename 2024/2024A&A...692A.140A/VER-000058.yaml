@@ -1,0 +1,29 @@
+---
+source_id: 58
+reference_id: 2024A&A...692A.140A
+telescope: veritas
+
+data:
+  livetime: 10.5h
+  significance: 7.8
+  excess: 71.3
+  non: 125
+  noff: 537
+  alpha: 0.1
+
+flux:
+  flux: {val: 2.34, err: 0.38, scale: 1e-12, unit: cm-2 s-1}
+  emin: {val: 0.35, unit: TeV}
+
+spec:
+  models:
+    - model:
+        type: pl
+        parameters:
+          norm: {val: 0.83e-12, err: 0.16e-12, unit: cm-2 s-1 TeV-1}
+          index: {val: 2.41, err: 0.30}
+          e_ref: {val: 1, unit: TeV}
+          chi2: {val: 5.77}
+          ndof: {val: 2}
+  erange: {min: 0.316, max: 3, unit: TeV}
+  mjd: {min: 58218, max: 58230}

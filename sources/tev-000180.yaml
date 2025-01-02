@@ -1,0 +1,14 @@
+---
+source_id: 180
+common_name: OJ 287
+veritas_name:
+  name: VER J0854+201
+  components: null
+other_names: []
+where: egal
+pos:
+  simbad_id: QSO J0854+2006
+  ra: 133.703646
+  dec: 20.108511
+reference_id:
+  - 2024ApJ...973..134A

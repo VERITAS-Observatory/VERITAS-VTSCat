@@ -9,11 +9,9 @@ IceCube Collaboration et al. (The VERITAS Collaboration), Journal of Instrumenta
 ## LB 2136
 ### Data files
 
-- light-curve data: [VER-100179-lc-1.ecsv](VER-100179-lc-1.ecsv)  
+- light-curve data: [VER-100179-lc-1.ecsv](VER-100179-lc-1.ecsv)
 
 
 ### Figures
 
 <img src="figures/2016JInst..1111009I-VER-100179-1-lc.png" alt="drawing" width="400"/>
-
-

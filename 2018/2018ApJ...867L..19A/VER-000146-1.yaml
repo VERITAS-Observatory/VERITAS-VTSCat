@@ -22,8 +22,8 @@ spec:
     type: pl
     parameters:
       norm: {val: 7.62, err: 1.51, scale: 1e-15, unit: cm-2 s-1 TeV-1}
-      index: {val: 2.19, err: 0.29}
-      e_ref: {val: 3.98, unit: TeV}
+      index: {val: 2.14, err: 0.29}
+      e_ref: {val: 4.18, unit: TeV}
   erange: {min: 0.398, max: 12.59, unit: TeV}
   theta: 0.089d
   comment: "PLbaseline; fig 3 left (blue)"

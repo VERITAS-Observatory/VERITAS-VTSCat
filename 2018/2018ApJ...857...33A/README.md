@@ -9,13 +9,11 @@ Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal,
 ## GRB 150323A
 ### Data files
 
-- observation data: [VER-100172-1.yaml](VER-100172-1.yaml)  
-- light-curve data: [VER-100172-lc.ecsv](VER-100172-lc.ecsv)  
-- observation data and fit results: [VER-100172-1.yaml](VER-100172-1.yaml)  
+- observation data: [VER-100172-1.yaml](VER-100172-1.yaml)
+- light-curve data: [VER-100172-lc.ecsv](VER-100172-lc.ecsv)
+- observation data and fit results: [VER-100172-1.yaml](VER-100172-1.yaml)
 
 
 ### Figures
 
 <img src="figures/2018ApJ...857...33A-VER-100172-1-lc.png" alt="drawing" width="400"/>
-
-

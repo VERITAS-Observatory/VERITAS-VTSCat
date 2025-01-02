@@ -8,4 +8,4 @@ Acciari, V. A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 74
 
 ### Data tables
 
-- data tables: [VER-ULs-table-2.ecsv](VER-ULs-table-2.ecsv)  [VER-ULs-table-4.ecsv](VER-ULs-table-4.ecsv)  
+- data tables: [VER-ULs-table-2.ecsv](VER-ULs-table-2.ecsv)  [VER-ULs-table-4.ecsv](VER-ULs-table-4.ecsv)

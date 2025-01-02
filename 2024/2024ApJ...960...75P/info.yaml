@@ -1,0 +1,15 @@
+---
+reference_id: 2024ApJ...960...75P
+source_id: [100207]
+telescope: [veritas, lat, nustar]
+
+datasets:
+  - VER-100207.yaml
+  - VER-100207-sed-1.ecsv
+  - VER-100207-sed-2.ecsv
+  - VER-100207-sed-3.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true
+...

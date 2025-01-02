@@ -1,0 +1,24 @@
+---
+reference_id: 2024ApJ...973..134A
+source_id: [180]
+telescope: [veritas, lat, xrt, uvot, ovro]
+
+datasets:
+  - VER-000180.yaml
+  - VER-000180-2.yaml
+  - VER-000180-3.yaml
+  - VER-000180-4.yaml
+  - VER-000180-sed-2.ecsv
+  - VER-000180-sed-3.ecsv
+  - VER-000180-sed-4.ecsv
+  - MW-000180-sed-2.ecsv
+  - MW-000180-sed-3.ecsv
+  - MW-000180-sed-4.ecsv
+  - VER-000180-lc-1.ecsv
+  - LAT-000180-lc-1.ecsv
+  - XRT-000180-lc-1.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true
+...

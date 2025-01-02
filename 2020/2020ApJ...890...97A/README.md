@@ -9,9 +9,9 @@ Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal,
 ## Markarian 421 (VER J1104+382)
 ### Data files
 
-- observation data: [VER-000049-1.yaml](VER-000049-1.yaml)  
-- light-curve data: [VER-000049-lc-1.ecsv](VER-000049-lc-1.ecsv)  [VER-000049-lc-2.ecsv](VER-000049-lc-2.ecsv)  [VER-000049-lc-3.ecsv](VER-000049-lc-3.ecsv)  [VER-000049-lc-4.ecsv](VER-000049-lc-4.ecsv)  [VER-000049-lc-5.ecsv](VER-000049-lc-5.ecsv)  [VER-000049-lc-6.ecsv](VER-000049-lc-6.ecsv)  [VER-000049-lc-7.ecsv](VER-000049-lc-7.ecsv)  [VER-000049-lc-8.ecsv](VER-000049-lc-8.ecsv)  
-- observation data and fit results: [VER-000049-1.yaml](VER-000049-1.yaml)  
+- observation data: [VER-000049-1.yaml](VER-000049-1.yaml)
+- light-curve data: [VER-000049-lc-1.ecsv](VER-000049-lc-1.ecsv)  [VER-000049-lc-2.ecsv](VER-000049-lc-2.ecsv)  [VER-000049-lc-3.ecsv](VER-000049-lc-3.ecsv)  [VER-000049-lc-4.ecsv](VER-000049-lc-4.ecsv)  [VER-000049-lc-5.ecsv](VER-000049-lc-5.ecsv)  [VER-000049-lc-6.ecsv](VER-000049-lc-6.ecsv)  [VER-000049-lc-7.ecsv](VER-000049-lc-7.ecsv)  [VER-000049-lc-8.ecsv](VER-000049-lc-8.ecsv)
+- observation data and fit results: [VER-000049-1.yaml](VER-000049-1.yaml)
 
 
 ### Figures
@@ -24,5 +24,3 @@ Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal,
 <img src="figures/2020ApJ...890...97A-VER-49-6-lc.png" alt="drawing" width="400"/>
 <img src="figures/2020ApJ...890...97A-VER-49-7-lc.png" alt="drawing" width="400"/>
 <img src="figures/2020ApJ...890...97A-VER-49-8-lc.png" alt="drawing" width="400"/>
-
-

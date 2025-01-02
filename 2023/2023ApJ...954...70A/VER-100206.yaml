@@ -1,0 +1,15 @@
+---
+source_id: 100206
+reference_id: 2023ApJ...954...70A
+
+telescope: veritas
+
+data:
+  livetime: 20h
+  mjd: {min: 59557, max: 59587.}
+  significance: 3.4
+
+flux:
+  flux_ul: {val: 2.55e-12, unit: cm-2 s-1}
+  conf: {val: 0.99}
+  e_min: {val: 220, unit: GeV}

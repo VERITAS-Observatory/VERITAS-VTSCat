@@ -6,7 +6,7 @@
 2. [ Organisation and data format. ](#formats)
 3. [ Publications. ](#publications)
 4. [ Sources and Targets. ](#sources)
-5. [ Citation. ](#citation)
+5. [ License. ](#licence)
 
 <a name="intro"></a>
 ## Introduction
@@ -25,7 +25,7 @@ VTSCat supplements the [HEASARC catalogue of VERITAS results](https://heasarc.gs
 
 **Access**:
 
-- GitHub: https://github.com/VERITAS-Observatory/VERITAS-VTSCat 
+- GitHub: https://github.com/VERITAS-Observatory/VERITAS-VTSCat
 - ZENODO: https://doi.org/10.5281/zenodo.4723219
 - HEASARC: https://heasarc.gsfc.nasa.gov/W3Browse/all/verimaster.html
 
@@ -52,15 +52,35 @@ For a detailed description of data formats, file types, keywords, and spectral m
 - VERITAS: https://veritas.sao.arizona.edu/
 - VER Dictionary of Nomenclature: https://cds.u-strasbg.fr/cgi-bin/Dic-Simbad?/17350620
 - gamma-cat: https://github.com/gammapy/gamma-cat
-- wiki description on how to set a VERITAS source name: https://veritas.sao.arizona.edu/wiki/VERITAS_source_names
 
 <a name="publications"></a>
 
 ## Publication list
-
 | Object | Publication Title | ADS Reference | Repository |
 |---|---|---|---|
+|Bootes 1 | Indirect search for dark matter with a combined analysis of dwarf spheroidal galaxies from VERITAS | [2024PhRvD.110f3034A](http://adsabs.harvard.edu/abs/2024PhRvD.110f3034A) | [data files](2024/2024PhRvD.110f3034A) |
+|Segue 1 | Indirect search for dark matter with a combined analysis of dwarf spheroidal galaxies from VERITAS | [2024PhRvD.110f3034A](http://adsabs.harvard.edu/abs/2024PhRvD.110f3034A) | [data files](2024/2024PhRvD.110f3034A) |
+|Draco II | Indirect search for dark matter with a combined analysis of dwarf spheroidal galaxies from VERITAS | [2024PhRvD.110f3034A](http://adsabs.harvard.edu/abs/2024PhRvD.110f3034A) | [data files](2024/2024PhRvD.110f3034A) |
+|Leo I | Indirect search for dark matter with a combined analysis of dwarf spheroidal galaxies from VERITAS | [2024PhRvD.110f3034A](http://adsabs.harvard.edu/abs/2024PhRvD.110f3034A) | [data files](2024/2024PhRvD.110f3034A) |
+|Leo II | Indirect search for dark matter with a combined analysis of dwarf spheroidal galaxies from VERITAS | [2024PhRvD.110f3034A](http://adsabs.harvard.edu/abs/2024PhRvD.110f3034A) | [data files](2024/2024PhRvD.110f3034A) |
+|Leo IV | Indirect search for dark matter with a combined analysis of dwarf spheroidal galaxies from VERITAS | [2024PhRvD.110f3034A](http://adsabs.harvard.edu/abs/2024PhRvD.110f3034A) | [data files](2024/2024PhRvD.110f3034A) |
+|Leo V | Indirect search for dark matter with a combined analysis of dwarf spheroidal galaxies from VERITAS | [2024PhRvD.110f3034A](http://adsabs.harvard.edu/abs/2024PhRvD.110f3034A) | [data files](2024/2024PhRvD.110f3034A) |
+|Segue 2 | Indirect search for dark matter with a combined analysis of dwarf spheroidal galaxies from VERITAS | [2024PhRvD.110f3034A](http://adsabs.harvard.edu/abs/2024PhRvD.110f3034A) | [data files](2024/2024PhRvD.110f3034A) |
+|Triangulum II | Indirect search for dark matter with a combined analysis of dwarf spheroidal galaxies from VERITAS | [2024PhRvD.110f3034A](http://adsabs.harvard.edu/abs/2024PhRvD.110f3034A) | [data files](2024/2024PhRvD.110f3034A) |
+|Ursa Major I | Indirect search for dark matter with a combined analysis of dwarf spheroidal galaxies from VERITAS | [2024PhRvD.110f3034A](http://adsabs.harvard.edu/abs/2024PhRvD.110f3034A) | [data files](2024/2024PhRvD.110f3034A) |
+|Ursa Major II | Indirect search for dark matter with a combined analysis of dwarf spheroidal galaxies from VERITAS | [2024PhRvD.110f3034A](http://adsabs.harvard.edu/abs/2024PhRvD.110f3034A) | [data files](2024/2024PhRvD.110f3034A) |
+|Ursa Minor | Indirect search for dark matter with a combined analysis of dwarf spheroidal galaxies from VERITAS | [2024PhRvD.110f3034A](http://adsabs.harvard.edu/abs/2024PhRvD.110f3034A) | [data files](2024/2024PhRvD.110f3034A) |
+|Sextans I | Indirect search for dark matter with a combined analysis of dwarf spheroidal galaxies from VERITAS | [2024PhRvD.110f3034A](http://adsabs.harvard.edu/abs/2024PhRvD.110f3034A) | [data files](2024/2024PhRvD.110f3034A) |
+|Coma Berenices | Indirect search for dark matter with a combined analysis of dwarf spheroidal galaxies from VERITAS | [2024PhRvD.110f3034A](http://adsabs.harvard.edu/abs/2024PhRvD.110f3034A) | [data files](2024/2024PhRvD.110f3034A) |
+|Cvn I | Indirect search for dark matter with a combined analysis of dwarf spheroidal galaxies from VERITAS | [2024PhRvD.110f3034A](http://adsabs.harvard.edu/abs/2024PhRvD.110f3034A) | [data files](2024/2024PhRvD.110f3034A) |
+|Cvn II | Indirect search for dark matter with a combined analysis of dwarf spheroidal galaxies from VERITAS | [2024PhRvD.110f3034A](http://adsabs.harvard.edu/abs/2024PhRvD.110f3034A) | [data files](2024/2024PhRvD.110f3034A) |
+|Hercules I | Indirect search for dark matter with a combined analysis of dwarf spheroidal galaxies from VERITAS | [2024PhRvD.110f3034A](http://adsabs.harvard.edu/abs/2024PhRvD.110f3034A) | [data files](2024/2024PhRvD.110f3034A) |
+|MGRO J1908+06 / VER J1907+062 | Multiwavelength Investigation of γ-Ray Source MGRO J1908+06 Emission Using Fermi-LAT, VERITAS and HAWC | [2024ApJ...974...61A](http://adsabs.harvard.edu/abs/2024ApJ...974...61A) | [data files](2024/2024ApJ...974...61A) |
+|OJ 287 / VER J0854+201 | A Multiwavelength Study to Decipher the 2017 Flare of the Blazar OJ 287 | [2024ApJ...973..134A](http://adsabs.harvard.edu/abs/2024ApJ...973..134A) | [data files](2024/2024ApJ...973..134A) |
+|PSR J2229+6114 | A Multiwavelength Investigation of PSR J2229+6114 and its Pulsar Wind Nebula in the Radio, X-Ray, and Gamma-Ray Bands | [2024ApJ...960...75P](http://adsabs.harvard.edu/abs/2024ApJ...960...75P) | [data files](2024/2024ApJ...960...75P) |
+|M 87 / VER J1230+123 | Broadband multi-wavelength properties of M87 during the 2018 EHT campaign including a very high energy flaring episode | [2024A&A...692A.140A](http://adsabs.harvard.edu/abs/2024A&A...692A.140A) | [data files](2024/2024A&A...692A.140A) |
 | x | VTSCat: The VERITAS Catalog of Gamma-Ray Observations | [2023RNAAS...7....6A](http://adsabs.harvard.edu/abs/2023RNAAS...7....6A) | [data files](2023/2023RNAAS...7....6A) |
+|PKS 0735+178 | Multiwavelength Observations of the Blazar PKS 0735+178 in Spatial and Temporal Coincidence with an Astrophysical Neutrino Candidate IceCube-211208A | [2023ApJ...954...70A](http://adsabs.harvard.edu/abs/2023ApJ...954...70A) | [data files](2023/2023ApJ...954...70A) |
 |S3 1227+25 / VER J1230+253 | VERITAS Discovery of Very High Energy Gamma-Ray Emission from S3 1227+25 and Multiwavelength Observations | [2023ApJ...950..152A](http://adsabs.harvard.edu/abs/2023ApJ...950..152A) | [data files](2023/2023ApJ...950..152A) |
 |Segue 1 | Search for Ultraheavy Dark Matter from Observations of Dwarf Spheroidal Galaxies with VERITAS | [2023ApJ...945..101A](http://adsabs.harvard.edu/abs/2023ApJ...945..101A) | [data files](2023/2023ApJ...945..101A) |
 |Draco | Search for Ultraheavy Dark Matter from Observations of Dwarf Spheroidal Galaxies with VERITAS | [2023ApJ...945..101A](http://adsabs.harvard.edu/abs/2023ApJ...945..101A) | [data files](2023/2023ApJ...945..101A) |
@@ -243,6 +263,7 @@ For a detailed description of data formats, file types, keywords, and spectral m
 |LS I +61 303 / VER J0240+612 | VERITAS Observations of the γ-Ray Binary LS I +61 303 | [2008ApJ...679.1427A](http://adsabs.harvard.edu/abs/2008ApJ...679.1427A) | [data files](2008/2008ApJ...679.1427A) |
 |M 87 / VER J1230+123 | Observation of Gamma-Ray Emission from the Galaxy M87 above 250 GeV with VERITAS | [2008ApJ...679..397A](http://adsabs.harvard.edu/abs/2008ApJ...679..397A) | [data files](2008/2008ApJ...679..397A) |
 
+Loading in total  115  astrophysical objects
 <a name="sources"></a>
 # Source and Target List
 
@@ -272,7 +293,7 @@ For a detailed description of data formats, file types, keywords, and spectral m
 | 54 | VER J1221+282 | W Comae | 185.382043833 | 28.232916722 | [2009ApJ...707..612A](2009/2009ApJ...707..612A),[2008ApJ...684L..73A](2008/2008ApJ...684L..73A)
 | 55 | VER J1221+301 | 1ES 1218+304 | 185.3414278125 | 30.1769891083 | [2019ApJ...885..150A](2019/2019ApJ...885..150A),[2014ApJ...788..158A](2014/2014ApJ...788..158A),[2010ApJ...709L.163A](2010/2010ApJ...709L.163A),[2009ApJ...695.1370A](2009/2009ApJ...695.1370A)
 | 57 | VER J1224+246 | MS1221.8+2452 | 186.100775925 | 24.6065282556 | [2019ApJ...885..150A](2019/2019ApJ...885..150A)
-| 58 | VER J1230+123 | M 87 | 187.70593075 | 12.391123306 | [2021ApJ...911L..11E](2021/2021ApJ...911L..11E),[2012ApJ...746..151A](2012/2012ApJ...746..151A),[2012ApJ...746..141A](2012/2012ApJ...746..141A),[2010ApJ...716..819A](2010/2010ApJ...716..819A),[2009Sci...325..444A](2009/2009Sci...325..444A),[2008ApJ...679..397A](2008/2008ApJ...679..397A)
+| 58 | VER J1230+123 | M 87 | 187.70593075 | 12.391123306 | [2024A&A...692A.140A](2024/2024A&A...692A.140A),[2021ApJ...911L..11E](2021/2021ApJ...911L..11E),[2012ApJ...746..151A](2012/2012ApJ...746..151A),[2012ApJ...746..141A](2012/2012ApJ...746..141A),[2010ApJ...716..819A](2010/2010ApJ...716..819A),[2009Sci...325..444A](2009/2009Sci...325..444A),[2008ApJ...679..397A](2008/2008ApJ...679..397A)
 | 67 | VER J1427+237 | PKS 1424+240 | 216.751632458 | 23.800010444 | [2019ApJ...885..150A](2019/2019ApJ...885..150A),[2014ApJ...785L..16A](2014/2014ApJ...785L..16A),[2010ApJ...708L.100A](2010/2010ApJ...708L.100A)
 | 69 | VER J1428+426 | H 1426+428 | 217.1358706208 | 42.6725130889 | [2019ApJ...885..150A](2019/2019ApJ...885..150A)
 | 71 | VER J1443+120 | 1ES 1440+122 | 220.701152425 | 12.0112152417 | [2016MNRAS.461..202A](2016/2016MNRAS.461..202A)
@@ -284,7 +305,7 @@ For a detailed description of data formats, file types, keywords, and spectral m
 | 110 | VER J1747-281 | SNR G0.9+0.1 | 266.825 | -28.15 | [2021ApJ...913..115A](2021/2021ApJ...913..115A),[2016ApJ...821..129A](2016/2016ApJ...821..129A)
 | 118 | VER J1825-138 | HESS J1825-137 | 276.55441 | -13.58004 | [2020APh...11702403A](2020/2020APh...11702403A)
 | 119 | VER J1826-148 | LS 5039 | 276.5627375 | -14.8484056 | [2020APh...11702403A](2020/2020APh...11702403A)
-| 132 | VER J1907+062 | MGRO J1908+06 | 287.175 | 6.183 | [2014ApJ...787..166A](2014/2014ApJ...787..166A)
+| 132 | VER J1907+062 | MGRO J1908+06 | 287.175 | 6.183 | [2014ApJ...787..166A](2014/2014ApJ...787..166A),[2024ApJ...974...61A](2024/2024ApJ...974...61A)
 | 136 | VER J1930+188 | SNR G054.1+00.3 | 292.6292 | 18.867 | [2018ApJ...866...24A](2018/2018ApJ...866...24A),[2010ApJ...719L..69A](2010/2010ApJ...719L..69A)
 | 137 | VER J1943+213 | HESS J1943+213 | 295.9792 | 21.30222 | [2018ApJ...862...41A](2018/2018ApJ...862...41A)
 | 138 | VER J1959+651 | 1ES 1959+650 | 299.99938375 | 65.14851472 | [2019ApJ...885..150A](2019/2019ApJ...885..150A),[2013ApJ...775....3A](2013/2013ApJ...775....3A)
@@ -310,14 +331,15 @@ For a detailed description of data formats, file types, keywords, and spectral m
 | 177 | VER J1224+213 | PKS 1222+216 | 186.22691 | 21.379551 | [2022ApJ...924...95A](2022/2022ApJ...924...95A)
 | 178 | VER J1159+292 | Ton 599 | 179.882641 | 29.245507 | [2022ApJ...924...95A](2022/2022ApJ...924...95A)
 | 179 | VER J1230+253 | S3 1227+25 | 187.558706 | 25.301982 | [2023ApJ...950..152A](2023/2023ApJ...950..152A)
+| 180 | VER J0854+201 | OJ 287 | 133.703646 | 20.108511 | [2024ApJ...973..134A](2024/2024ApJ...973..134A)
 | 100168 | (not detected) | V* V404 Cyg | 306.015917 | 33.867194 | [2016ApJ...831..113A](2016/2016ApJ...831..113A)
 | 100169 | (not detected) | V* V635 Cas | 19.6325 | 63.7425 | [2016ApJ...831..113A](2016/2016ApJ...831..113A)
 | 100171 | (not detected) | Cyg X-3 | 308.10742 | 40.95775 | [2013ApJ...779..150A](2013/2013ApJ...779..150A)
 | 100172 | (not detected) | GRB 150323A | 128.178083 | 45.464639 | [2018ApJ...857...33A](2018/2018ApJ...857...33A)
-| 100173 | (not detected) | Segue 1 | 151.7633 | 16.0736 | [2023ApJ...945..101A](2023/2023ApJ...945..101A),[2017PhRvD..95h2001A](2017/2017PhRvD..95h2001A),[2012PhRvD..85f2001A](2012/2012PhRvD..85f2001A)
+| 100173 | (not detected) | Segue 1 | 151.7633 | 16.0736 | [2024PhRvD.110f3034A](2024/2024PhRvD.110f3034A),[2023ApJ...945..101A](2023/2023ApJ...945..101A),[2017PhRvD..95h2001A](2017/2017PhRvD..95h2001A),[2012PhRvD..85f2001A](2012/2012PhRvD..85f2001A)
 | 100174 | (not detected) | Draco | 260.059728 | 57.921219 | [2023ApJ...945..101A](2023/2023ApJ...945..101A),[2017PhRvD..95h2001A](2017/2017PhRvD..95h2001A),[2010ApJ...720.1174A](2010/2010ApJ...720.1174A)
-| 100175 | (not detected) | Ursa Minor | 227.29725 | 67.214361 | [2023ApJ...945..101A](2023/2023ApJ...945..101A),[2017PhRvD..95h2001A](2017/2017PhRvD..95h2001A),[2010ApJ...720.1174A](2010/2010ApJ...720.1174A)
-| 100176 | (not detected) | Bootes 1 | 210.0 | 14.5 | [2023ApJ...945..101A](2023/2023ApJ...945..101A),[2017PhRvD..95h2001A](2017/2017PhRvD..95h2001A),[2010ApJ...720.1174A](2010/2010ApJ...720.1174A)
+| 100175 | (not detected) | Ursa Minor | 227.29725 | 67.214361 | [2024PhRvD.110f3034A](2024/2024PhRvD.110f3034A),[2023ApJ...945..101A](2023/2023ApJ...945..101A),[2017PhRvD..95h2001A](2017/2017PhRvD..95h2001A),[2010ApJ...720.1174A](2010/2010ApJ...720.1174A)
+| 100176 | (not detected) | Bootes 1 | 210.0 | 14.5 | [2024PhRvD.110f3034A](2024/2024PhRvD.110f3034A),[2023ApJ...945..101A](2023/2023ApJ...945..101A),[2017PhRvD..95h2001A](2017/2017PhRvD..95h2001A),[2010ApJ...720.1174A](2010/2010ApJ...720.1174A)
 | 100177 | (not detected) | Willman 1 | 162.3375 | 51.05 | [2017PhRvD..95h2001A](2017/2017PhRvD..95h2001A),[2010ApJ...720.1174A](2010/2010ApJ...720.1174A)
 | 100178 | (not detected) | PSR J1023+0038 | 155.948683 | 0.644724 | [2016ApJ...831..193A](2016/2016ApJ...831..193A)
 | 100179 | (not detected) | LB 2136 | 178.351944 | 49.51912 | [2016JInst..1111009I](2016/2016JInst..1111009I)
@@ -344,12 +366,39 @@ For a detailed description of data formats, file types, keywords, and spectral m
 | 100203 | (not detected) | MAXI J1820+070 | 275.091427 | 7.185357 | [2022MNRAS.517.4736A](2022/2022MNRAS.517.4736A)
 | 100204 | (not detected) | SN2015bn | 173.42321 | 0.72561 | [2023ApJ...945...30A](2023/2023ApJ...945...30A)
 | 100205 | (not detected) | SN2017egm | 154.773417 | 46.453911 | [2023ApJ...945...30A](2023/2023ApJ...945...30A)
+| 100206 | (not detected) | PKS 0735+178 | 114.530807 | 17.705277 | [2023ApJ...954...70A](2023/2023ApJ...954...70A)
+| 100207 | (not detected) | PSR J2229+6114 | 337.271925 | 61.235689 | [2024ApJ...960...75P](2024/2024ApJ...960...75P)
+| 100208 | (not detected) | Draco II | 238.1983 | 64.5653 | [2024PhRvD.110f3034A](2024/2024PhRvD.110f3034A)
+| 100209 | (not detected) | Leo I | 152.11717 | 12.3065 | [2024PhRvD.110f3034A](2024/2024PhRvD.110f3034A)
+| 100210 | (not detected) | Leo II | 168.36721 | 22.15281 | [2024PhRvD.110f3034A](2024/2024PhRvD.110f3034A)
+| 100211 | (not detected) | Leo IV | 173.2375 | -0.5333 | [2024PhRvD.110f3034A](2024/2024PhRvD.110f3034A)
+| 100212 | (not detected) | Leo V | 172.79 | 2.22 | [2024PhRvD.110f3034A](2024/2024PhRvD.110f3034A)
+| 100213 | (not detected) | Segue 2 | 34.8167 | 20.1753 | [2024PhRvD.110f3034A](2024/2024PhRvD.110f3034A)
+| 100214 | (not detected) | Triangulum II | 33.3225 | 36.17844 | [2024PhRvD.110f3034A](2024/2024PhRvD.110f3034A)
+| 100215 | (not detected) | Ursa Major I | 158.72 | 51.92 | [2024PhRvD.110f3034A](2024/2024PhRvD.110f3034A)
+| 100216 | (not detected) | Ursa Major II | 132.875 | 63.13 | [2024PhRvD.110f3034A](2024/2024PhRvD.110f3034A)
+| 100217 | (not detected) | Sextans I | 153.2625 | -1.614722 | [2024PhRvD.110f3034A](2024/2024PhRvD.110f3034A)
+| 100218 | (not detected) | Coma Berenices | 186.745833 | 23.904167 | [2024PhRvD.110f3034A](2024/2024PhRvD.110f3034A)
+| 100219 | (not detected) | Cvn I | 202.0146 | 33.5558 | [2024PhRvD.110f3034A](2024/2024PhRvD.110f3034A)
+| 100220 | (not detected) | Cvn II | 194.29 | 34.32 | [2024PhRvD.110f3034A](2024/2024PhRvD.110f3034A)
+| 100221 | (not detected) | Hercules I | 247.7583 | 12.7917 | [2024PhRvD.110f3034A](2024/2024PhRvD.110f3034A)
 | 300000 | (charged particle) | electron | -- | -- | [2018PhRvD..98f2004A](2018/2018PhRvD..98f2004A)
 | 300026 | (charged particle) | iron | -- | -- | [2018PhRvD..98b2009A](2018/2018PhRvD..98b2009A)
 
-<a name="citation"></a>
+<a name="licence"></a>
 
-## Citation
+## Licence
 
 Please cite this work: https://doi.org/10.5281/zenodo.4723219
 
+<p xmlns:dct="http://purl.org/dc/terms/">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <span rel="dct:publisher" resource="[_:publisher]">the persons who associated CC0</span>
+  with this work have waived all copyright and related or neighboring
+  rights to this work.
+</p>

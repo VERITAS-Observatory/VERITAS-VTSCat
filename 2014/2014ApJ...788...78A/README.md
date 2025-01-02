@@ -9,9 +9,9 @@ Aliu, E. et al. (The VERITAS Collaboration), The Astrophysical Journal, 788, 78 
 ## VER J2016+371
 ### Data files
 
-- observation data: [VER-000141.yaml](VER-000141.yaml)  
-- spectral data: [VER-000141-sed.ecsv](VER-000141-sed.ecsv)  
-- observation data and fit results: [VER-000141.yaml](VER-000141.yaml)  
+- observation data: [VER-000141.yaml](VER-000141.yaml)
+- spectral data: [VER-000141-sed.ecsv](VER-000141-sed.ecsv)
+- observation data and fit results: [VER-000141.yaml](VER-000141.yaml)
 
 
 ### Figures
@@ -22,13 +22,11 @@ Aliu, E. et al. (The VERITAS Collaboration), The Astrophysical Journal, 788, 78 
 ## VER J2019+368
 ### Data files
 
-- observation data: [VER-000143.yaml](VER-000143.yaml)  
-- spectral data: [VER-000143-sed.ecsv](VER-000143-sed.ecsv)  
-- observation data and fit results: [VER-000143.yaml](VER-000143.yaml)  
+- observation data: [VER-000143.yaml](VER-000143.yaml)
+- spectral data: [VER-000143-sed.ecsv](VER-000143-sed.ecsv)
+- observation data and fit results: [VER-000143.yaml](VER-000143.yaml)
 
 
 ### Figures
 
 <img src="figures/2014ApJ...788...78A-VER-143-1-sed.png" alt="drawing" width="400"/>
-
-

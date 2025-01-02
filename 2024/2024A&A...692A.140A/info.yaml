@@ -1,0 +1,14 @@
+---
+reference_id: 2024A&A...692A.140A
+source_id: [58]
+telescope: [veritas, eht, hess, magic, eavn]
+
+datasets:
+  - VER-000058.yaml
+  - VER-000058-lc-1.ecsv
+  - VER-000058-sed-1.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true
+...

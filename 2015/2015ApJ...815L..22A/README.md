@@ -9,15 +9,13 @@ Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal,
 ## PKS 1441+25 (VER J1443+250)
 ### Data files
 
-- observation data: [VER-000167.yaml](VER-000167.yaml)  
-- spectral data: [VER-000167-sed.ecsv](VER-000167-sed.ecsv)  
-- light-curve data: [VER-000167-lc.ecsv](VER-000167-lc.ecsv)  
-- observation data and fit results: [VER-000167.yaml](VER-000167.yaml)  
+- observation data: [VER-000167.yaml](VER-000167.yaml)
+- spectral data: [VER-000167-sed.ecsv](VER-000167-sed.ecsv)
+- light-curve data: [VER-000167-lc.ecsv](VER-000167-lc.ecsv)
+- observation data and fit results: [VER-000167.yaml](VER-000167.yaml)
 
 
 ### Figures
 
-<img src="figures/2015ApJ...815L..22A-VER-167-1-sed.png" alt="drawing" width="400"/>
 <img src="figures/2015ApJ...815L..22A-VER-167-1-lc.png" alt="drawing" width="400"/>
-
-
+<img src="figures/2015ApJ...815L..22A-VER-167-1-sed.png" alt="drawing" width="400"/>

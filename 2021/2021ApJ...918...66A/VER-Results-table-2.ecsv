@@ -4,9 +4,9 @@
 # - {name: Candidate_Label, datatype: string}
 # - {name: VTS_Target, datatype: string, description: VERITAS target}
 # - {name: live_time, datatype: string, description: observation live time}
-# - {name: flux240GeV_ul, unit: cm-2 s-1, datatype: float32, descrption: flux upper limit (E>240 GeV)}
+# - {name: flux240GeV_ul, unit: cm-2 s-1, datatype: float32, description: flux upper limit (E>240 GeV)}
 # - {name: e_min, unit: GeV, datatype: float32, description: energy threshold for flux upper limit calculation}
-# - {name: flux_ul, unit: cm-2 s-1, datatype: float32, descrption: flux upper limit}
+# - {name: flux_ul, unit: cm-2 s-1, datatype: float32, description: flux upper limit}
 # meta: !!omap
 # - data_type: table
 # - reference_id: 2021arXiv210601386A

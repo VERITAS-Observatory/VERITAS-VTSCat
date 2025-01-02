@@ -9,8 +9,8 @@ Aleksić, J. et al. (The VERITAS Collaboration), Astronomy & Astrophysics, 578, 
 ## Markarian 421 (VER J1104+382)
 ### Data files
 
-- spectral data: [VER-000049-sed-1.ecsv](VER-000049-sed-1.ecsv)  [VER-000049-sed-2.ecsv](VER-000049-sed-2.ecsv)  [VER-000049-sed-3.ecsv](VER-000049-sed-3.ecsv)  [VER-000049-sed-4.ecsv](VER-000049-sed-4.ecsv)  [VER-000049-sed-5.ecsv](VER-000049-sed-5.ecsv)  [VER-000049-sed-6.ecsv](VER-000049-sed-6.ecsv)  [VER-000049-sed-7.ecsv](VER-000049-sed-7.ecsv)  [VER-000049-sed-8.ecsv](VER-000049-sed-8.ecsv)  [VER-000049-sed-9.ecsv](VER-000049-sed-9.ecsv)  
-- light-curve data: [VER-000049-lc-1.ecsv](VER-000049-lc-1.ecsv)  
+- spectral data: [VER-000049-sed-1.ecsv](VER-000049-sed-1.ecsv)  [VER-000049-sed-2.ecsv](VER-000049-sed-2.ecsv)  [VER-000049-sed-3.ecsv](VER-000049-sed-3.ecsv)  [VER-000049-sed-4.ecsv](VER-000049-sed-4.ecsv)  [VER-000049-sed-5.ecsv](VER-000049-sed-5.ecsv)  [VER-000049-sed-6.ecsv](VER-000049-sed-6.ecsv)  [VER-000049-sed-7.ecsv](VER-000049-sed-7.ecsv)  [VER-000049-sed-8.ecsv](VER-000049-sed-8.ecsv)  [VER-000049-sed-9.ecsv](VER-000049-sed-9.ecsv)
+- light-curve data: [VER-000049-lc-1.ecsv](VER-000049-lc-1.ecsv)
 
 
 ### Figures
@@ -25,5 +25,3 @@ Aleksić, J. et al. (The VERITAS Collaboration), Astronomy & Astrophysics, 578, 
 <img src="figures/2015A&A...578A..22A-VER-49-7-sed.png" alt="drawing" width="400"/>
 <img src="figures/2015A&A...578A..22A-VER-49-8-sed.png" alt="drawing" width="400"/>
 <img src="figures/2015A&A...578A..22A-VER-49-9-sed.png" alt="drawing" width="400"/>
-
-

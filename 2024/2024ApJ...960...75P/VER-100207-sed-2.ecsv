@@ -1,0 +1,22 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: e_max, unit: TeV, datatype: float64}
+# - {name: flux_ul, unit: cm-2 s-1, datatype: float64}
+# - {name: flux, unit: cm-2 s-1, datatype: float64}
+# - {name: index, datatype: float32, description: spectral index assumed for UL calculation}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 100207
+# - file_id: 2
+# - reference_id: 2024ApJ...960...75P
+# - telescope: veritas
+# - UL_CONF: 0.99
+# - description: "Index -2.5"
+# - comments: |
+#       upper limits derived assuming a power law with
+#       the given spectral index; see Table 3
+e_min e_max flux_ul flux index
+0.38 20. 1.23e-12 nan -2.5
+0.72 20. 0.48e-12 nan -2.5

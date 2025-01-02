@@ -8,4 +8,4 @@ Archambault, S. et al. (The VERITAS Collaboration), The Astronomical Journal, 15
 
 ### Data tables
 
-- data tables: [VER-Table1.ecsv](VER-Table1.ecsv)  [VER-Table2.ecsv](VER-Table2.ecsv)  [VER-Table3.ecsv](VER-Table3.ecsv)  [VER-Table4.ecsv](VER-Table4.ecsv)  [VER-Table5.ecsv](VER-Table5.ecsv)  [VER-Table6.ecsv](VER-Table6.ecsv)  
+- data tables: [VER-Table1.ecsv](VER-Table1.ecsv)  [VER-Table2.ecsv](VER-Table2.ecsv)  [VER-Table3.ecsv](VER-Table3.ecsv)  [VER-Table4.ecsv](VER-Table4.ecsv)  [VER-Table5.ecsv](VER-Table5.ecsv)  [VER-Table6.ecsv](VER-Table6.ecsv)

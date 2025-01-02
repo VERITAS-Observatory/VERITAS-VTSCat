@@ -9,13 +9,11 @@ Abe, H. et al. (The VERITAS Collaboration), Monthly Notices of the Royal Astrono
 ## MAXI J1820+070
 ### Data files
 
-- observation data: [VER-100203.yaml](VER-100203.yaml)  
-- spectral data: [VER-100203-sed-1.ecsv](VER-100203-sed-1.ecsv)  
-- observation data and fit results: [VER-100203.yaml](VER-100203.yaml)  
+- observation data: [VER-100203.yaml](VER-100203.yaml)
+- spectral data: [VER-100203-sed-1.ecsv](VER-100203-sed-1.ecsv)
+- observation data and fit results: [VER-100203.yaml](VER-100203.yaml)
 
 
 ### Figures
 
 <img src="figures/2022MNRAS.517.4736A-VER-100203-1-sed.png" alt="drawing" width="400"/>
-
-

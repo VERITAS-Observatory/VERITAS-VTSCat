@@ -9,11 +9,9 @@ Aliu, E. et al. (The VERITAS Collaboration), The Astrophysical Journal, 754, 77 
 ## V407 Cyg
 ### Data files
 
-- spectral data: [VER-100183-sed-1.ecsv](VER-100183-sed-1.ecsv)  
+- spectral data: [VER-100183-sed-1.ecsv](VER-100183-sed-1.ecsv)
 
 
 ### Figures
 
 <img src="figures/2012ApJ...754...77A-VER-100183-1-sed.png" alt="drawing" width="400"/>
-
-

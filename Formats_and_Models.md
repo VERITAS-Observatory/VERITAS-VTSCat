@@ -51,9 +51,9 @@ Observation details are stored in files of *yaml* type. The following table give
 | pos:glat | object position from fit to VERITAS data (galactic latitude) |
 | **morph** | results on source morphology |
 | morph:type | source morphology type (point or gauss) |
-| morph:sigma | source extension (symmetric gaussian or asymetric gaussian morphology) |
-| morph:sigma2 | source extension (asymetric gaussian morphology) |
-| morph:pa | rotation angle to plane for assymetric gaussian morphology |
+| morph:sigma | source extension (symmetric gaussian or asymmetric gaussian morphology) |
+| morph:sigma2 | source extension (asymmetric gaussian morphology) |
+| morph:pa | rotation angle to plane for asymmetric gaussian morphology |
 | **spec** | results from spectral fits |
 | spec:erange | energy range of spectral fit |
 | spec:mjd | time range of data used for spectral fit (in MJD) |
