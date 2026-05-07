@@ -3,7 +3,7 @@
 Reference:
 Aliu, E. et al. (The VERITAS Collaboration), The Astrophysical Journal, 797, 89 (2014)
 
-- ADS: [2014ApJ...797...89A](http://adsabs.harvard.edu/abs/2014ApJ...797...89A)
+- ADS: [2014ApJ...797...89A](http://ui.adsabs.harvard.edu/abs/2014ApJ...797...89A)
 - DOI: [10.1088/0004-637X/797/2/89](https://doi.org/10.1088/0004-637X/797/2/89)
 
 ## 1ES 1959+650 (VER J1959+651)

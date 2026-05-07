@@ -3,7 +3,7 @@
 Reference:
 Acharyya, A. et al., The Astrophysical Journal, 996, 38 (2026)
 
-- ADS: [2026ApJ...996...38A](http://adsabs.harvard.edu/abs/2026ApJ...996...38A)
+- ADS: [2026ApJ...996...38A](http://ui.adsabs.harvard.edu/abs/2026ApJ...996...38A)
 - DOI: [10.3847/1538-4357/ae1d72](https://doi.org/10.3847/1538-4357/ae1d72)
 
 ## TXS 0506+056 (VER J0509+057)

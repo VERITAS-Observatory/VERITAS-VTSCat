@@ -3,7 +3,7 @@
 Reference:
 Abhir, J. et al. (The VERITAS Collaboration), The Astrophysical Journal, 997, 141 (2026)
 
-- ADS: [2026ApJ...997..141A](http://adsabs.harvard.edu/abs/2026ApJ...997..141A)
+- ADS: [2026ApJ...997..141A](http://ui.adsabs.harvard.edu/abs/2026ApJ...997..141A)
 - DOI: [10.3847/1538-4357/ae2c4e](https://doi.org/10.3847/1538-4357/ae2c4e)
 
 ## IceCube-171106A

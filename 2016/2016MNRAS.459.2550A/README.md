@@ -3,7 +3,7 @@
 Reference:
 Abeysekara, A. U. et al. (The VERITAS Collaboration), Monthly Notices of the Royal Astronomical Society, 459, 2550 (2016)
 
-- ADS: [2016MNRAS.459.2550A](http://adsabs.harvard.edu/abs/2016MNRAS.459.2550A)
+- ADS: [2016MNRAS.459.2550A](http://ui.adsabs.harvard.edu/abs/2016MNRAS.459.2550A)
 - DOI: [10.1093/mnras/stw664](https://doi.org/10.1093/mnras/stw664)
 
 ## 1ES 1741+196 (VER J1744+195)

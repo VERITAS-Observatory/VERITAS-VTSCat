@@ -3,7 +3,7 @@
 Reference:
 Acciari, V. A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 707, 612 (2009)
 
-- ADS: [2009ApJ...707..612A](http://adsabs.harvard.edu/abs/2009ApJ...707..612A)
+- ADS: [2009ApJ...707..612A](http://ui.adsabs.harvard.edu/abs/2009ApJ...707..612A)
 - DOI: [10.1088/0004-637X/707/1/612](https://doi.org/10.1088/0004-637X/707/1/612)
 
 ## W Comae (VER J1221+282)

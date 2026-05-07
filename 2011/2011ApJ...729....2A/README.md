@@ -3,7 +3,7 @@
 Reference:
 Acciari, V. A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 729, 2 (2011)
 
-- ADS: [2011ApJ...729....2A](http://adsabs.harvard.edu/abs/2011ApJ...729....2A)
+- ADS: [2011ApJ...729....2A](http://ui.adsabs.harvard.edu/abs/2011ApJ...729....2A)
 - DOI: [10.1088/0004-637X/729/1/2](https://doi.org/10.1088/0004-637X/729/1/2)
 
 ## Markarian 501 (VER J1653+397)

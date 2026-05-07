@@ -3,7 +3,7 @@
 Reference:
 Aliu, E. et al. (The VERITAS Collaboration), The Astrophysical Journal, 750, 94 (2012)
 
-- ADS: [2012ApJ...750...94A](http://adsabs.harvard.edu/abs/2012ApJ...750...94A)
+- ADS: [2012ApJ...750...94A](http://ui.adsabs.harvard.edu/abs/2012ApJ...750...94A)
 - DOI: [10.1088/0004-637X/750/2/94](https://doi.org/10.1088/0004-637X/750/2/94)
 
 ## RBS 0413 (VER J0319+187)

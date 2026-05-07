@@ -3,7 +3,7 @@
 Reference:
 Ahnen, M. L. et al., Astronomy & Astrophysics, 603, A31 (2017)
 
-- ADS: [2017A&A...603A..31A](http://adsabs.harvard.edu/abs/2017A&A...603A..31A)
+- ADS: [2017A&A...603A..31A](http://ui.adsabs.harvard.edu/abs/2017A&A...603A..31A)
 - DOI: [10.1051/0004-6361/201629540](https://doi.org/10.1051/0004-6361/201629540)
 
 ## Markarian 501 (VER J1653+397)

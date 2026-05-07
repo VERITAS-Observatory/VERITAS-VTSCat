@@ -3,7 +3,7 @@
 Reference:
 Donnarumma, I. et al. (The VERITAS Collaboration), The Astrophysical Journal, 691, L13 (2009)
 
-- ADS: [2009ApJ...691L..13D](http://adsabs.harvard.edu/abs/2009ApJ...691L..13D)
+- ADS: [2009ApJ...691L..13D](http://ui.adsabs.harvard.edu/abs/2009ApJ...691L..13D)
 - DOI: [10.1088/0004-637X/691/1/L13](https://doi.org/10.1088/0004-637X/691/1/L13)
 
 ## Markarian 421 (VER J1104+382)

@@ -3,7 +3,7 @@
 Reference:
 Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal, 834, 2 (2017)
 
-- ADS: [2017ApJ...834....2A](http://adsabs.harvard.edu/abs/2017ApJ...834....2A)
+- ADS: [2017ApJ...834....2A](http://ui.adsabs.harvard.edu/abs/2017ApJ...834....2A)
 - DOI: [10.3847/1538-4357/834/1/2](https://doi.org/10.3847/1538-4357/834/1/2)
 
 ## Markarian 421 (VER J1104+382)

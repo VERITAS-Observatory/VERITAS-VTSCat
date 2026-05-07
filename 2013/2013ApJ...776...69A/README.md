@@ -3,7 +3,7 @@
 Reference:
 Archambault, S. et al. (The VERITAS Collaboration), The Astrophysical Journal, 776, 69 (2013)
 
-- ADS: [2013ApJ...776...69A](http://adsabs.harvard.edu/abs/2013ApJ...776...69A)
+- ADS: [2013ApJ...776...69A](http://ui.adsabs.harvard.edu/abs/2013ApJ...776...69A)
 - DOI: [10.1088/0004-637X/776/2/69](https://doi.org/10.1088/0004-637X/776/2/69)
 
 ## RGB J0521+212 (VER J0521+211)

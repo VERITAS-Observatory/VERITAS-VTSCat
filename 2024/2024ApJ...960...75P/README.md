@@ -3,7 +3,7 @@
 Reference:
 Pope, I. et al., The Astrophysical Journal, 960, 75 (2024)
 
-- ADS: [2024ApJ...960...75P](http://adsabs.harvard.edu/abs/2024ApJ...960...75P)
+- ADS: [2024ApJ...960...75P](http://ui.adsabs.harvard.edu/abs/2024ApJ...960...75P)
 - DOI: [10.3847/1538-4357/ad0120](https://doi.org/10.3847/1538-4357/ad0120)
 
 ## PSR J2229+6114

@@ -3,7 +3,7 @@
 Reference:
 Abdollahi, S. et al., 2026, 035 (2026)
 
-- ADS: [2026JCAP...03..035A](http://adsabs.harvard.edu/abs/2026JCAP...03..035A)
+- ADS: [2026JCAP...03..035A](http://ui.adsabs.harvard.edu/abs/2026JCAP...03..035A)
 - DOI: [10.1088/1475-7516/2026/03/035](https://doi.org/10.1088/1475-7516/2026/03/035)
 
 ## Combined Results

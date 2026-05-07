@@ -3,7 +3,7 @@
 Reference:
 IceCube Collaboration et al., Science, 361, eaat1378 (2018)
 
-- ADS: [2018Sci...361.1378I](http://adsabs.harvard.edu/abs/2018Sci...361.1378I)
+- ADS: [2018Sci...361.1378I](http://ui.adsabs.harvard.edu/abs/2018Sci...361.1378I)
 - DOI: [10.1126/science.aat1378](https://doi.org/10.1126/science.aat1378)
 
 ## TXS 0506+056 (VER J0509+057)

@@ -3,7 +3,7 @@
 Reference:
 Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal, 885, 150 (2019)
 
-- ADS: [2019ApJ...885..150A](http://adsabs.harvard.edu/abs/2019ApJ...885..150A)
+- ADS: [2019ApJ...885..150A](http://ui.adsabs.harvard.edu/abs/2019ApJ...885..150A)
 - DOI: [10.3847/1538-4357/ab4817](https://doi.org/10.3847/1538-4357/ab4817)
 
 ### Data tables

@@ -3,7 +3,7 @@
 Reference:
 Acharyya, A. et al. (The VERITAS, LAT, XRT, UVOT, and OVRO Collaborations), The Astrophysical Journal, 973, 134 (2024)
 
-- ADS: [2024ApJ...973..134A](http://adsabs.harvard.edu/abs/2024ApJ...973..134A)
+- ADS: [2024ApJ...973..134A](http://ui.adsabs.harvard.edu/abs/2024ApJ...973..134A)
 - DOI: [10.3847/1538-4357/ad64d0](https://doi.org/10.3847/1538-4357/ad64d0)
 
 ## OJ 287 (VER J0854+201)

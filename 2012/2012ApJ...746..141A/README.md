@@ -3,7 +3,7 @@
 Reference:
 Aliu, E. et al. (The VERITAS Collaboration), The Astrophysical Journal, 746, 141 (2012)
 
-- ADS: [2012ApJ...746..141A](http://adsabs.harvard.edu/abs/2012ApJ...746..141A)
+- ADS: [2012ApJ...746..141A](http://ui.adsabs.harvard.edu/abs/2012ApJ...746..141A)
 - DOI: [10.1088/0004-637X/746/2/141](https://doi.org/10.1088/0004-637X/746/2/141)
 
 ## M 87 (VER J1230+123)

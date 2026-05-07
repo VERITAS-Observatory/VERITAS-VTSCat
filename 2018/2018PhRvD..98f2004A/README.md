@@ -3,7 +3,7 @@
 Reference:
 Archer, A. et al. (The VERITAS Collaboration), Physical Review D, 98, 062004 (2018)
 
-- ADS: [2018PhRvD..98f2004A](http://adsabs.harvard.edu/abs/2018PhRvD..98f2004A)
+- ADS: [2018PhRvD..98f2004A](http://ui.adsabs.harvard.edu/abs/2018PhRvD..98f2004A)
 - DOI: [10.1103/PhysRevD.98.062004](https://doi.org/10.1103/PhysRevD.98.062004)
 
 ## electron

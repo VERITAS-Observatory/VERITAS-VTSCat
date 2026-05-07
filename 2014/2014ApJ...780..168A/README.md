@@ -3,7 +3,7 @@
 Reference:
 Aliu, E. et al., The Astrophysical Journal, 780, 168 (2014)
 
-- ADS: [2014ApJ...780..168A](http://adsabs.harvard.edu/abs/2014ApJ...780..168A)
+- ADS: [2014ApJ...780..168A](http://ui.adsabs.harvard.edu/abs/2014ApJ...780..168A)
 - DOI: [10.1088/0004-637X/780/2/168](https://doi.org/10.1088/0004-637X/780/2/168)
 
 ## HESS J0632+057 (VER J0633+057)

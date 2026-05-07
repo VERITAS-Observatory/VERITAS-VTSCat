@@ -3,7 +3,7 @@
 Reference:
 Acharyya, A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 945, 101 (2023)
 
-- ADS: [2023ApJ...945..101A](http://adsabs.harvard.edu/abs/2023ApJ...945..101A)
+- ADS: [2023ApJ...945..101A](http://ui.adsabs.harvard.edu/abs/2023ApJ...945..101A)
 - DOI: [10.3847/1538-4357/acbc7b](https://doi.org/10.3847/1538-4357/acbc7b)
 
 ### Data tables

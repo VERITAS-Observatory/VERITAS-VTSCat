@@ -3,7 +3,7 @@
 Reference:
 Adams, C. B. et al., The Astrophysical Journal, 985, 90 (2025)
 
-- ADS: [2025ApJ...985...90A](http://adsabs.harvard.edu/abs/2025ApJ...985...90A)
+- ADS: [2025ApJ...985...90A](http://ui.adsabs.harvard.edu/abs/2025ApJ...985...90A)
 - DOI: [10.3847/1538-4357/adc92b](https://doi.org/10.3847/1538-4357/adc92b)
 
 ## LHAASO J0621+3755

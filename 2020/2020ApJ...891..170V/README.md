@@ -3,7 +3,7 @@
 Reference:
 Valverde, Janeth et al. (The VERITAS Collaboration), The Astrophysical Journal, 891, 170 (2020)
 
-- ADS: [2020ApJ...891..170V](http://adsabs.harvard.edu/abs/2020ApJ...891..170V)
+- ADS: [2020ApJ...891..170V](http://ui.adsabs.harvard.edu/abs/2020ApJ...891..170V)
 - DOI: [10.3847/1538-4357/ab765d](https://doi.org/10.3847/1538-4357/ab765d)
 
 ### Data tables

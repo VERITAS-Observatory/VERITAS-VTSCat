@@ -3,7 +3,7 @@
 Reference:
 Acciari, V. A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 720, 1174 (2010)
 
-- ADS: [2010ApJ...720.1174A](http://adsabs.harvard.edu/abs/2010ApJ...720.1174A)
+- ADS: [2010ApJ...720.1174A](http://ui.adsabs.harvard.edu/abs/2010ApJ...720.1174A)
 - DOI: [10.1088/0004-637X/720/2/1174](https://doi.org/10.1088/0004-637X/720/2/1174)
 
 ## Draco

@@ -3,7 +3,7 @@
 Reference:
 Archambault, S. et al. (The VERITAS Collaboration), The Astrophysical Journal, 788, 158 (2014)
 
-- ADS: [2014ApJ...788..158A](http://adsabs.harvard.edu/abs/2014ApJ...788..158A)
+- ADS: [2014ApJ...788..158A](http://ui.adsabs.harvard.edu/abs/2014ApJ...788..158A)
 - DOI: [10.1088/0004-637X/788/2/158](https://doi.org/10.1088/0004-637X/788/2/158)
 
 ## 1ES 1218+304 (VER J1221+301)

@@ -3,7 +3,7 @@
 Reference:
 Adams, C. B. et al. (The VERITAS Collaboration), The Astrophysical Journal, 918, 66 (2021)
 
-- ADS: [2021ApJ...918...66A](http://adsabs.harvard.edu/abs/2021ApJ...918...66A)
+- ADS: [2021ApJ...918...66A](http://ui.adsabs.harvard.edu/abs/2021ApJ...918...66A)
 - DOI: [10.3847/1538-4357/ac0623](https://doi.org/10.3847/1538-4357/ac0623)
 
 ### Data tables

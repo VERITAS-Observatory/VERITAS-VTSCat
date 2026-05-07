@@ -3,7 +3,7 @@
 Reference:
 Acciari, V. A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 698, L94 (2009)
 
-- ADS: [2009ApJ...698L..94A](http://adsabs.harvard.edu/abs/2009ApJ...698L..94A)
+- ADS: [2009ApJ...698L..94A](http://ui.adsabs.harvard.edu/abs/2009ApJ...698L..94A)
 - DOI: [10.1088/0004-637X/698/2/L94](https://doi.org/10.1088/0004-637X/698/2/L94)
 
 ## HESS J0632+057 (VER J0633+057)

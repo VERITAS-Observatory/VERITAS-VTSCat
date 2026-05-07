@@ -3,7 +3,7 @@
 Reference:
 Tokayer, Y. M. et al. (The VERITAS Collaboration), The Astrophysical Journal, 923, 17 (2021)
 
-- ADS: [2021ApJ...923...17T](http://adsabs.harvard.edu/abs/2021ApJ...923...17T)
+- ADS: [2021ApJ...923...17T](http://ui.adsabs.harvard.edu/abs/2021ApJ...923...17T)
 - DOI: [10.3847/1538-4357/ac2c6a](https://doi.org/10.3847/1538-4357/ac2c6a)
 
 ## HESS J0632+057 (VER J0633+057)

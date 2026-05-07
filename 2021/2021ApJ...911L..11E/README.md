@@ -3,7 +3,7 @@
 Reference:
 EHT MWL Science Working Group et al., The Astrophysical Journal, 911, L11 (2021)
 
-- ADS: [2021ApJ...911L..11E](http://adsabs.harvard.edu/abs/2021ApJ...911L..11E)
+- ADS: [2021ApJ...911L..11E](http://ui.adsabs.harvard.edu/abs/2021ApJ...911L..11E)
 - DOI: [10.3847/2041-8213/abef71](https://doi.org/10.3847/2041-8213/abef71)
 
 ## M 87 (VER J1230+123)

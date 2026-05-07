@@ -3,7 +3,7 @@
 Reference:
 Acharyya, A. et al., The Astrophysical Journal, 982, 80 (2025)
 
-- ADS: [2025ApJ...982...80A](http://adsabs.harvard.edu/abs/2025ApJ...982...80A)
+- ADS: [2025ApJ...982...80A](http://ui.adsabs.harvard.edu/abs/2025ApJ...982...80A)
 - DOI: [10.3847/1538-4357/adb30c](https://doi.org/10.3847/1538-4357/adb30c)
 
 ## B3 2247+381

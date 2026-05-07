@@ -3,7 +3,7 @@
 Reference:
 Abeysekara, A. U. et al. (The VERITAS Collaboration), Astroparticle Physics, 117, 102403 (2020)
 
-- ADS: [2020APh...11702403A](http://adsabs.harvard.edu/abs/2020APh...11702403A)
+- ADS: [2020APh...11702403A](http://ui.adsabs.harvard.edu/abs/2020APh...11702403A)
 - DOI: [10.1016/j.astropartphys.2019.102403](https://doi.org/10.1016/j.astropartphys.2019.102403)
 
 ## LS 5039 (VER J1826-148)

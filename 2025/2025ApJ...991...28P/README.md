@@ -3,7 +3,7 @@
 Reference:
 Park, Jaegeun et al. (The VERITAS Collaboration), The Astrophysical Journal, 991, 28 (2025)
 
-- ADS: [2025ApJ...991...28P](http://adsabs.harvard.edu/abs/2025ApJ...991...28P)
+- ADS: [2025ApJ...991...28P](http://ui.adsabs.harvard.edu/abs/2025ApJ...991...28P)
 - DOI: [10.3847/1538-4357/adf6b6](https://doi.org/10.3847/1538-4357/adf6b6)
 
 ## HESS J0632+057 (VER J0633+057)

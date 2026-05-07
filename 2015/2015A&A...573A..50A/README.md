@@ -3,7 +3,7 @@
 Reference:
 Aleksić, J. et al., Astronomy & Astrophysics, 573, A50 (2015)
 
-- ADS: [2015A&A...573A..50A](http://adsabs.harvard.edu/abs/2015A&A...573A..50A)
+- ADS: [2015A&A...573A..50A](http://ui.adsabs.harvard.edu/abs/2015A&A...573A..50A)
 - DOI: [10.1051/0004-6361/201322906](https://doi.org/10.1051/0004-6361/201322906)
 
 ## Markarian 501 (VER J1653+397)

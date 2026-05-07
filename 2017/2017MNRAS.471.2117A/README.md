@@ -3,7 +3,7 @@
 Reference:
 Allen, C. et al. (The VERITAS Collaboration), Monthly Notices of the Royal Astronomical Society, 471, 2117 (2017)
 
-- ADS: [2017MNRAS.471.2117A](http://adsabs.harvard.edu/abs/2017MNRAS.471.2117A)
+- ADS: [2017MNRAS.471.2117A](http://ui.adsabs.harvard.edu/abs/2017MNRAS.471.2117A)
 - DOI: [10.1093/mnras/stx1756](https://doi.org/10.1093/mnras/stx1756)
 
 ## 1ES 2344+514 (VER J2347+517)

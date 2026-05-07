@@ -3,7 +3,7 @@
 Reference:
 Abeysekara, A. U. et al., The Astrophysical Journal, 866, 24 (2018)
 
-- ADS: [2018ApJ...866...24A](http://adsabs.harvard.edu/abs/2018ApJ...866...24A)
+- ADS: [2018ApJ...866...24A](http://ui.adsabs.harvard.edu/abs/2018ApJ...866...24A)
 - DOI: [10.3847/1538-4357/aade4e](https://doi.org/10.3847/1538-4357/aade4e)
 
 ### Data tables

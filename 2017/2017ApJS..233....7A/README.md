@@ -3,7 +3,7 @@
 Reference:
 Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal, 233, 7 (2017)
 
-- ADS: [2017ApJS..233....7A](http://adsabs.harvard.edu/abs/2017ApJS..233....7A)
+- ADS: [2017ApJS..233....7A](http://ui.adsabs.harvard.edu/abs/2017ApJS..233....7A)
 - DOI: [10.3847/1538-4365/aa8d76](https://doi.org/10.3847/1538-4365/aa8d76)
 
 ## RGB J2243+203 (VER J2243+203)

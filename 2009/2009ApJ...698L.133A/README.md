@@ -3,7 +3,7 @@
 Reference:
 Acciari, V. A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 698, L133 (2009)
 
-- ADS: [2009ApJ...698L.133A](http://adsabs.harvard.edu/abs/2009ApJ...698L.133A)
+- ADS: [2009ApJ...698L.133A](http://ui.adsabs.harvard.edu/abs/2009ApJ...698L.133A)
 - DOI: [10.1088/0004-637X/698/2/L133](https://doi.org/10.1088/0004-637X/698/2/L133)
 
 ## IC 443 (VER J0616+223)

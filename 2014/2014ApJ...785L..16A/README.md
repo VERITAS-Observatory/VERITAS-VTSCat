@@ -3,7 +3,7 @@
 Reference:
 Archambault, S. et al. (The VERITAS Collaboration), The Astrophysical Journal, 785, L16 (2014)
 
-- ADS: [2014ApJ...785L..16A](http://adsabs.harvard.edu/abs/2014ApJ...785L..16A)
+- ADS: [2014ApJ...785L..16A](http://ui.adsabs.harvard.edu/abs/2014ApJ...785L..16A)
 - DOI: [10.1088/2041-8205/785/1/L16](https://doi.org/10.1088/2041-8205/785/1/L16)
 
 ## PKS 1424+240 (VER J1427+237)

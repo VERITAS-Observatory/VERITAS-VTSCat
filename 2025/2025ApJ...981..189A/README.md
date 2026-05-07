@@ -3,7 +3,7 @@
 Reference:
 Acharyya, A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 981, 189 (2025)
 
-- ADS: [2025ApJ...981..189A](http://adsabs.harvard.edu/abs/2025ApJ...981..189A)
+- ADS: [2025ApJ...981..189A](http://ui.adsabs.harvard.edu/abs/2025ApJ...981..189A)
 - DOI: [10.3847/1538-4357/adab71](https://doi.org/10.3847/1538-4357/adab71)
 
 ## M 82 (VER J0955+696)

@@ -3,7 +3,7 @@
 Reference:
 Baloković, M. et al., The Astrophysical Journal, 819, 156 (2016)
 
-- ADS: [2016ApJ...819..156B](http://adsabs.harvard.edu/abs/2016ApJ...819..156B)
+- ADS: [2016ApJ...819..156B](http://ui.adsabs.harvard.edu/abs/2016ApJ...819..156B)
 - DOI: [10.3847/0004-637X/819/2/156](https://doi.org/10.3847/0004-637X/819/2/156)
 
 ## Markarian 421 (VER J1104+382)

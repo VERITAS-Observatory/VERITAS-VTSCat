@@ -3,7 +3,7 @@
 Reference:
 Abe, H. et al. (The VERITAS Collaboration), Monthly Notices of the Royal Astronomical Society, 517, 4736 (2022)
 
-- ADS: [2022MNRAS.517.4736A](http://adsabs.harvard.edu/abs/2022MNRAS.517.4736A)
+- ADS: [2022MNRAS.517.4736A](http://ui.adsabs.harvard.edu/abs/2022MNRAS.517.4736A)
 - DOI: [10.1093/mnras/stac2686](https://doi.org/10.1093/mnras/stac2686)
 
 ## MAXI J1820+070

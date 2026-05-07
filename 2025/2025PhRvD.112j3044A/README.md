@@ -3,7 +3,7 @@
 Reference:
 Adams, C. B. et al. (The VERITAS Collaboration), Physical Review D, 112, 103044 (2025)
 
-- ADS: [2025PhRvD.112j3044A](http://adsabs.harvard.edu/abs/2025PhRvD.112j3044A)
+- ADS: [2025PhRvD.112j3044A](http://ui.adsabs.harvard.edu/abs/2025PhRvD.112j3044A)
 - DOI: [10.1103/jydc-npy6](https://doi.org/10.1103/jydc-npy6)
 
 ## NGC 1275 (VER J0319+415)

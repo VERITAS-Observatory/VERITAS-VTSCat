@@ -3,7 +3,7 @@
 Reference:
 Archambault, S. et al. (The VERITAS Collaboration), Monthly Notices of the Royal Astronomical Society, 461, 202 (2016)
 
-- ADS: [2016MNRAS.461..202A](http://adsabs.harvard.edu/abs/2016MNRAS.461..202A)
+- ADS: [2016MNRAS.461..202A](http://ui.adsabs.harvard.edu/abs/2016MNRAS.461..202A)
 - DOI: [10.1093/mnras/stw1319](https://doi.org/10.1093/mnras/stw1319)
 
 ## 1ES 1440+122 (VER J1443+120)

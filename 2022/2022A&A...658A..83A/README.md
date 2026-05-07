@@ -3,7 +3,7 @@
 Reference:
 Adams, C. B. et al. (The VERITAS Collaboration), Astronomy & Astrophysics, 658, A83 (2022)
 
-- ADS: [2022A&A...658A..83A](http://adsabs.harvard.edu/abs/2022A&A...658A..83A)
+- ADS: [2022A&A...658A..83A](http://ui.adsabs.harvard.edu/abs/2022A&A...658A..83A)
 - DOI: [10.1051/0004-6361/202142275](https://doi.org/10.1051/0004-6361/202142275)
 
 ### Data tables

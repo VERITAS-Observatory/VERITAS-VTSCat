@@ -3,7 +3,7 @@
 Reference:
 Aliu, E. et al. (The VERITAS Collaboration), The Astrophysical Journal, 787, 166 (2014)
 
-- ADS: [2014ApJ...787..166A](http://adsabs.harvard.edu/abs/2014ApJ...787..166A)
+- ADS: [2014ApJ...787..166A](http://ui.adsabs.harvard.edu/abs/2014ApJ...787..166A)
 - DOI: [10.1088/0004-637X/787/2/166](https://doi.org/10.1088/0004-637X/787/2/166)
 
 ## MGRO J1908+06 (VER J1907+062)

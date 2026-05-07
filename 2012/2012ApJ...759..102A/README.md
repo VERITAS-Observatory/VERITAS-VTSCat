@@ -3,7 +3,7 @@
 Reference:
 Aliu, E. et al. (The VERITAS Collaboration), The Astrophysical Journal, 759, 102 (2012)
 
-- ADS: [2012ApJ...759..102A](http://adsabs.harvard.edu/abs/2012ApJ...759..102A)
+- ADS: [2012ApJ...759..102A](http://ui.adsabs.harvard.edu/abs/2012ApJ...759..102A)
 - DOI: [10.1088/0004-637X/759/2/102](https://doi.org/10.1088/0004-637X/759/2/102)
 
 ## RGB J0136+391 (VER J0136+390)

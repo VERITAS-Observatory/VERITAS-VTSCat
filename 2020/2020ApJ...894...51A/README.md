@@ -3,7 +3,7 @@
 Reference:
 Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal, 894, 51 (2020)
 
-- ADS: [2020ApJ...894...51A](http://adsabs.harvard.edu/abs/2020ApJ...894...51A)
+- ADS: [2020ApJ...894...51A](http://ui.adsabs.harvard.edu/abs/2020ApJ...894...51A)
 - DOI: [10.3847/1538-4357/ab8310](https://doi.org/10.3847/1538-4357/ab8310)
 
 ## Cassiopeia A (VER J2323+588)

@@ -3,7 +3,7 @@
 Reference:
 Abramowski, A. et al., The Astrophysical Journal, 746, 151 (2012)
 
-- ADS: [2012ApJ...746..151A](http://adsabs.harvard.edu/abs/2012ApJ...746..151A)
+- ADS: [2012ApJ...746..151A](http://ui.adsabs.harvard.edu/abs/2012ApJ...746..151A)
 - DOI: [10.1088/0004-637X/746/2/151](https://doi.org/10.1088/0004-637X/746/2/151)
 
 ## M 87 (VER J1230+123)
