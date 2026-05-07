@@ -1,0 +1,17 @@
+---
+reference_id: 2025ApJ...981..189A
+source_id: [40]
+telescope: [veritas]
+
+datasets:
+  - VER-000040-1.yaml
+  - VER-000040-2.yaml
+  - VER-000040-3.yaml
+  - VER-000040-sed-1.ecsv
+  - VER-000040-lc-1.ecsv
+  - VER-000040-excess-skymap.fits
+
+data_entry:
+  status: complete
+  reviewed: true
+...

@@ -16,8 +16,8 @@ pos:
 
 flux:
   flux: {val: 1.04, err: 0.10, scale: 1e-11, unit: cm-2 s-1}
-  emin: {val: 0.130, unit: TeV}
-  emax: {val: 30., unit: TeV}
+  e_min: {val: 0.130, unit: TeV}
+  e_max: {val: 30., unit: TeV}
 
 spec:
   models:

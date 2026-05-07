@@ -1,0 +1,8 @@
+---
+source_id: 100225
+reference_id: 2025ApJ...991..192A
+telescope: veritas
+
+data:
+  livetime: 40.0 h
+  significance: 0.3

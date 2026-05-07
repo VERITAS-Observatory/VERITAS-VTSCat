@@ -1,0 +1,15 @@
+---
+reference_id: 2026ApJ...996...38A
+source_id: [168]
+telescope: [veritas, lat, xrt, uvot]
+
+datasets:
+  - VER-000168-1.yaml
+  - VER-000168-sed-1.ecsv
+  - VER-000168-lc-1.ecsv
+  - LAT-000168-lc-1.ecsv
+  - XRT-000168-lc-1.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

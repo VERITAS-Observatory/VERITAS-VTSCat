@@ -9,7 +9,7 @@ datasets:
   - VER-000036-lc.ecsv
 
 multiwavelength:
-  - content: xrt, uvot
+  - content: [xrt, uvot]
   - availability: false
   - status: false
 

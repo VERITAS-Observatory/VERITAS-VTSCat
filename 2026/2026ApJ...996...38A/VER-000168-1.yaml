@@ -1,0 +1,12 @@
+source_id: 168
+reference_id: 2026ApJ...996...38A
+file_id: 1
+telescope: veritas
+
+data:
+  livetime: 114 h
+  excess: 347
+  non: 2136
+  noff: 16174
+  alpha: 0.1106
+  significance: 7.5

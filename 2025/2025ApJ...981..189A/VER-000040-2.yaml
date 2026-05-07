@@ -1,0 +1,19 @@
+source_id: 40
+reference_id: 2025ApJ...981..189A
+file_id: 2
+telescope: veritas
+description: "2008-2009"
+
+data:
+  livetime: 137 h
+  excess: 55.4
+  non: 220
+  noff: 7106
+  alpha: 0.02316
+  significance: 4.1
+
+flux:
+  - flux: {val: 3.4e-13, err: 1.0e-13, err_sys: 0.8e-13, unit: cm-2 s-1}
+    e_min: {val: 450., unit: GeV}
+  - flux: {val: 1.9e-13, err: 0.6e-13, err_sys: 0.4e-13, unit: cm-2 s-1}
+    e_min: {val: 700., unit: GeV}

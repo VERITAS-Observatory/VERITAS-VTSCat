@@ -10,7 +10,7 @@ datasets:
   - VER-000018-sed-2.ecsv
 
 multiwavelength:
-  - content: lat
+  - content: [lat]
   - availability: false
   - status: false
 

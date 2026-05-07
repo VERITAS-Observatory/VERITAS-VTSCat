@@ -8,7 +8,7 @@ datasets:
   - VER-000030-lc.ecsv
 
 multiwavelength:
-  - content: xrt, xmm
+  - content: [xrt, xmm]
   - availability: false
   - status: false
 

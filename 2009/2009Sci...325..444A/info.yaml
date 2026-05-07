@@ -9,7 +9,7 @@ datasets:
 
 
 multiwavelength:
-  - content: magic, hess, chandra, hst, vlba
+  - content: [magic, hess, chandra, hst, vlba]
   - availability: false
   - status: false
 

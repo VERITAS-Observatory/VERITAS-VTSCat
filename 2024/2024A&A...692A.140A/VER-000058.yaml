@@ -13,7 +13,7 @@ data:
 
 flux:
   flux: {val: 2.34, err: 0.38, scale: 1e-12, unit: cm-2 s-1}
-  emin: {val: 0.35, unit: TeV}
+  e_min: {val: 0.35, unit: TeV}
 
 spec:
   models:

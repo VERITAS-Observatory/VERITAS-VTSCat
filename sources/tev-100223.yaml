@@ -1,0 +1,11 @@
+---
+source_id: 100223
+common_name: W 44
+other_names: []
+where: gal
+pos:
+  simbad_id: SNR G034.6-00.5
+  ra: 284.044375
+  dec: 1.222583
+reference_id:
+  - 2025ApJ...983...73A

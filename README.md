@@ -2,11 +2,11 @@
 
 [![DOI](https://zenodo.org/badge/248259940.svg)](https://zenodo.org/badge/latestdoi/248259940)
 
-1. [ Introduction. ](#intro)
-2. [ Organisation and data format. ](#formats)
-3. [ Publications. ](#publications)
-4. [ Sources and Targets. ](#sources)
-5. [ License. ](#licence)
+- [VTSCat - the VERITAS data catalogue](#vtscat---the-veritas-data-catalogue)
+  - [Introduction](#introduction)
+  - [Organisation and data format](#organisation-and-data-format)
+  - [References](#references)
+  - [Publication list](#publication-list)
 
 <a name="intro"></a>
 ## Introduction
@@ -36,7 +36,6 @@ Bibtex format:
 \bibitem[Acharyya et al.(2023)]{2023RNAAS...7....6A} Acharyya, A., Adams, C.~B., Archer, A., et al.\ 2023, Research Notes of the American Astronomical Society, 7, 6. doi:10.3847/2515-5172/acb147
 ```
 
-
 <a name="formats"></a>
 
 ## Organisation and data format
@@ -58,6 +57,23 @@ For a detailed description of data formats, file types, keywords, and spectral m
 ## Publication list
 | Object | Publication Title | ADS Reference | Repository |
 |---|---|---|---|
+|Bootes 1 | Combined dark matter search towards dwarf spheroidal galaxies with Fermi-LAT, HAWC, H.E.S.S., MAGIC, and VERITAS | [2026JCAP...03..035A](http://adsabs.harvard.edu/abs/2026JCAP...03..035A) | [data files](2026/2026JCAP...03..035A) |
+|Draco | Combined dark matter search towards dwarf spheroidal galaxies with Fermi-LAT, HAWC, H.E.S.S., MAGIC, and VERITAS | [2026JCAP...03..035A](http://adsabs.harvard.edu/abs/2026JCAP...03..035A) | [data files](2026/2026JCAP...03..035A) |
+|Segue 1 | Combined dark matter search towards dwarf spheroidal galaxies with Fermi-LAT, HAWC, H.E.S.S., MAGIC, and VERITAS | [2026JCAP...03..035A](http://adsabs.harvard.edu/abs/2026JCAP...03..035A) | [data files](2026/2026JCAP...03..035A) |
+|Ursa Minor | Combined dark matter search towards dwarf spheroidal galaxies with Fermi-LAT, HAWC, H.E.S.S., MAGIC, and VERITAS | [2026JCAP...03..035A](http://adsabs.harvard.edu/abs/2026JCAP...03..035A) | [data files](2026/2026JCAP...03..035A) |
+|IceCube-171106A | Prompt Searches for Very-high-energy γ-Ray Counterparts to IceCube Astrophysical Neutrino Alerts | [2026ApJ...997..141A](http://adsabs.harvard.edu/abs/2026ApJ...997..141A) | [data files](2026/2026ApJ...997..141A) |
+|IceCube-191001A | Prompt Searches for Very-high-energy γ-Ray Counterparts to IceCube Astrophysical Neutrino Alerts | [2026ApJ...997..141A](http://adsabs.harvard.edu/abs/2026ApJ...997..141A) | [data files](2026/2026ApJ...997..141A) |
+|IceCube-201114A | Prompt Searches for Very-high-energy γ-Ray Counterparts to IceCube Astrophysical Neutrino Alerts | [2026ApJ...997..141A](http://adsabs.harvard.edu/abs/2026ApJ...997..141A) | [data files](2026/2026ApJ...997..141A) |
+|GB6 J0316+0904 | Prompt Searches for Very-high-energy γ-Ray Counterparts to IceCube Astrophysical Neutrino Alerts | [2026ApJ...997..141A](http://adsabs.harvard.edu/abs/2026ApJ...997..141A) | [data files](2026/2026ApJ...997..141A) |
+|IceCube-200107 | Prompt Searches for Very-high-energy γ-Ray Counterparts to IceCube Astrophysical Neutrino Alerts | [2026ApJ...997..141A](http://adsabs.harvard.edu/abs/2026ApJ...997..141A) | [data files](2026/2026ApJ...997..141A) |
+|TXS 0506+056 / VER J0509+057 | Probing a Cosmogenic Origin of Astrophysical Neutrinos and Cosmic Rays Using Gamma-Ray Observations of TXS 0506+056 | [2026ApJ...996...38A](http://adsabs.harvard.edu/abs/2026ApJ...996...38A) | [data files](2026/2026ApJ...996...38A) |
+|NGC 1275 / VER J0319+415 | Constraints on axionlike particles from VERITAS observations of a flaring radio galaxy in the Perseus cluster | [2025PhRvD.112j3044A](http://adsabs.harvard.edu/abs/2025PhRvD.112j3044A) | [data files](2025/2025PhRvD.112j3044A) |
+|LHAASO J2108+5157 | HAWC, VERITAS, Fermi-LAT, and XMM-Newton Follow-up Observations of the Unidentified Ultra-high-energy Gamma-Ray Source LHAASO J2108+5157 | [2025ApJ...991..192A](http://adsabs.harvard.edu/abs/2025ApJ...991..192A) | [data files](2025/2025ApJ...991..192A) |
+|HESS J0632+057 / VER J0633+057 | Multiwavelength Study of HESS J0632+057: New Insights into Pulsar–Disk Interaction | [2025ApJ...991...28P](http://adsabs.harvard.edu/abs/2025ApJ...991...28P) | [data files](2025/2025ApJ...991...28P) |
+|LHAASO J0621+3755 | Multiwavelength Observation of a Candidate Pulsar Halo LHAASO J0621+3755 and the First X-Ray Detection of PSR J0622+3749 | [2025ApJ...985...90A](http://adsabs.harvard.edu/abs/2025ApJ...985...90A) | [data files](2025/2025ApJ...985...90A) |
+|W 44 | Constraints on the X-Ray and Very-high-energy Gamma-Ray Flux from Supernova Remnant W44 | [2025ApJ...983...73A](http://adsabs.harvard.edu/abs/2025ApJ...983...73A) | [data files](2025/2025ApJ...983...73A) |
+|B3 2247+381 | VERITAS and Multiwavelength Observations of the Blazar B3 2247+381 in Response to an IceCube Neutrino Alert | [2025ApJ...982...80A](http://adsabs.harvard.edu/abs/2025ApJ...982...80A) | [data files](2025/2025ApJ...982...80A) |
+|M 82 / VER J0955+696 | An In-depth Study of Gamma Rays from the Starburst Galaxy M82 with VERITAS | [2025ApJ...981..189A](http://adsabs.harvard.edu/abs/2025ApJ...981..189A) | [data files](2025/2025ApJ...981..189A) |
 |Bootes 1 | Indirect search for dark matter with a combined analysis of dwarf spheroidal galaxies from VERITAS | [2024PhRvD.110f3034A](http://adsabs.harvard.edu/abs/2024PhRvD.110f3034A) | [data files](2024/2024PhRvD.110f3034A) |
 |Segue 1 | Indirect search for dark matter with a combined analysis of dwarf spheroidal galaxies from VERITAS | [2024PhRvD.110f3034A](http://adsabs.harvard.edu/abs/2024PhRvD.110f3034A) | [data files](2024/2024PhRvD.110f3034A) |
 |Draco II | Indirect search for dark matter with a combined analysis of dwarf spheroidal galaxies from VERITAS | [2024PhRvD.110f3034A](http://adsabs.harvard.edu/abs/2024PhRvD.110f3034A) | [data files](2024/2024PhRvD.110f3034A) |
@@ -94,7 +110,7 @@ For a detailed description of data formats, file types, keywords, and spectral m
 |3C 279 | Variability and Spectral Characteristics of Three Flaring Gamma-Ray Quasars Observed by VERITAS and Fermi-LAT | [2022ApJ...924...95A](http://adsabs.harvard.edu/abs/2022ApJ...924...95A) | [data files](2022/2022ApJ...924...95A) |
 |PKS 1222+216 / VER J1224+213 | Variability and Spectral Characteristics of Three Flaring Gamma-Ray Quasars Observed by VERITAS and Fermi-LAT | [2022ApJ...924...95A](http://adsabs.harvard.edu/abs/2022ApJ...924...95A) | [data files](2022/2022ApJ...924...95A) |
 |Ton 599 / VER J1159+292 | Variability and Spectral Characteristics of Three Flaring Gamma-Ray Quasars Observed by VERITAS and Fermi-LAT | [2022ApJ...924...95A](http://adsabs.harvard.edu/abs/2022ApJ...924...95A) | [data files](2022/2022ApJ...924...95A) |
-|Crab nebula / VER J0534+220 | The throughput calibration of the VERITAS telescopes | [2022A&A...658A..83A](http://adsabs.harvard.edu/abs/2022A&A...658A..83A) | [data files](2022/2022A&A...658A..83A) |
+|Crab Nebula / VER J0534+220 | The throughput calibration of the VERITAS telescopes | [2022A&A...658A..83A](http://adsabs.harvard.edu/abs/2022A&A...658A..83A) | [data files](2022/2022A&A...658A..83A) |
 |HESS J0632+057 / VER J0633+057 | Observation of the Gamma-Ray Binary HESS J0632+057 with the H.E.S.S., MAGIC, and VERITAS Telescopes | [2021ApJ...923..241A](http://adsabs.harvard.edu/abs/2021ApJ...923..241A) | [data files](2021/2021ApJ...923..241A) |
 |HESS J0632+057 / VER J0633+057 | Multiwavelength Observation Campaign of the TeV Gamma-Ray Binary HESS J0632 + 057 with NuSTAR, VERITAS, MDM, and Swift | [2021ApJ...923...17T](http://adsabs.harvard.edu/abs/2021ApJ...923...17T) | [data files](2021/2021ApJ...923...17T) |
 | x | An Archival Search for Neutron-star Mergers in Gravitational Waves and Very-high-energy Gamma Rays | [2021ApJ...918...66A](http://adsabs.harvard.edu/abs/2021ApJ...918...66A) | [data files](2021/2021ApJ...918...66A) |
@@ -160,7 +176,7 @@ For a detailed description of data formats, file types, keywords, and spectral m
 |Tycho SNR / VER J0025+641 | Gamma-Ray Observations of Tycho’s Supernova Remnant with VERITAS and Fermi | [2017ApJ...836...23A](http://adsabs.harvard.edu/abs/2017ApJ...836...23A) | [data files](2017/2017ApJ...836...23A) |
 | x | Search for Magnetically Broadened Cascade Emission from Blazars with VERITAS | [2017ApJ...835..288A](http://adsabs.harvard.edu/abs/2017ApJ...835..288A) | [data files](2017/2017ApJ...835..288A) |
 |Markarian 421 / VER J1104+382 | A Search for Spectral Hysteresis and Energy-dependent Time Lags from X-Ray and TeV Gamma-Ray Observations of Mrk 421 | [2017ApJ...834....2A](http://adsabs.harvard.edu/abs/2017ApJ...834....2A) | [data files](2017/2017ApJ...834....2A) |
-|Crab nebula / VER J0534+220 | Gamma-ray observations under bright moonlight with VERITAS | [2017APh....91...34A](http://adsabs.harvard.edu/abs/2017APh....91...34A) | [data files](2017/2017APh....91...34A) |
+|Crab Nebula / VER J0534+220 | Gamma-ray observations under bright moonlight with VERITAS | [2017APh....91...34A](http://adsabs.harvard.edu/abs/2017APh....91...34A) | [data files](2017/2017APh....91...34A) |
 |HESS J0632+057 / VER J0633+057 | A decade of TeV observations of the gamma-ray binary HESS J0632+057 with VERITAS | [2017AIPC.1792d0023S](http://adsabs.harvard.edu/abs/2017AIPC.1792d0023S) | [data files](2017/2017AIPC.1792d0023S) |
 |neutrino-triplet-2016-02-17 / VER-nodefined | Multiwavelength follow-up of a rare IceCube neutrino multiplet | [2017A&A...607A.115I](http://adsabs.harvard.edu/abs/2017A&A...607A.115I) | [data files](2017/2017A&A...607A.115I) |
 |Markarian 501 / VER J1653+397 | Multiband variability studies and novel broadband SED modeling of Mrk 501 in 2009 | [2017A&A...603A..31A](http://adsabs.harvard.edu/abs/2017A&A...603A..31A) | [data files](2017/2017A&A...603A..31A) |
@@ -179,7 +195,7 @@ For a detailed description of data formats, file types, keywords, and spectral m
 | x | Upper Limits from Five Years of Blazar Observations with the VERITAS Cherenkov Telescopes | [2016AJ....151..142A](http://adsabs.harvard.edu/abs/2016AJ....151..142A) | [data files](2016/2016AJ....151..142A) |
 |Markarian 501 / VER J1653+397 | Very high energy outburst of Markarian 501 in May 2009 | [2016A&A...594A..76A](http://adsabs.harvard.edu/abs/2016A&A...594A..76A) | [data files](2016/2016A&A...594A..76A) |
 |PMN J0948+0022 | The most powerful flaring activity from the NLSy1 PMN J0948+0022 | [2015MNRAS.446.2456D](http://adsabs.harvard.edu/abs/2015MNRAS.446.2456D) | [data files](2015/2015MNRAS.446.2456D) |
-|Crab nebula / VER J0534+220 | Six years of VERITAS observations of the Crab Nebula | [2015ICRC...34..792M](http://adsabs.harvard.edu/abs/2015ICRC...34..792M) | [data files](2015/2015ICRC...34..792M) |
+|Crab Nebula / VER J0534+220 | Six years of VERITAS observations of the Crab Nebula | [2015ICRC...34..792M](http://adsabs.harvard.edu/abs/2015ICRC...34..792M) | [data files](2015/2015ICRC...34..792M) |
 |PKS 1441+25 / VER J1443+250 | Gamma-Rays from the Quasar PKS 1441+25: Story of an Escape | [2015ApJ...815L..22A](http://adsabs.harvard.edu/abs/2015ApJ...815L..22A) | [data files](2015/2015ApJ...815L..22A) |
 |Markarian 501 / VER J1653+397 | First NuSTAR Observations of Mrk 501 within a Radio to TeV Multi-Instrument Campaign | [2015ApJ...812...65F](http://adsabs.harvard.edu/abs/2015ApJ...812...65F) | [data files](2015/2015ApJ...812...65F) |
 |1ES 1727+502 / VER J1728+502 | VERITAS Detection of γ-Ray Flaring Activity From the BL Lac Object 1ES 1727+502 During Bright Moonlight Observations | [2015ApJ...808..110A](http://adsabs.harvard.edu/abs/2015ApJ...808..110A) | [data files](2015/2015ApJ...808..110A) |
@@ -197,7 +213,7 @@ For a detailed description of data formats, file types, keywords, and spectral m
 |PKS 1424+240 / VER J1427+237 | Deep Broadband Observations of the Distant Gamma-Ray Blazar PKS 1424+240 | [2014ApJ...785L..16A](http://adsabs.harvard.edu/abs/2014ApJ...785L..16A) | [data files](2014/2014ApJ...785L..16A) |
 |TeV J2032+4130 / VER J2031+415 | Observations of the Unidentified Gamma-Ray Source TeV J2032+4130 by VERITAS | [2014ApJ...783...16A](http://adsabs.harvard.edu/abs/2014ApJ...783...16A) | [data files](2014/2014ApJ...783...16A) |
 |1ES 0229+200 / VER J0232+202 | A Three-year Multi-wavelength Study of the Very-high-energy γ-Ray Blazar 1ES 0229+200 | [2014ApJ...782...13A](http://adsabs.harvard.edu/abs/2014ApJ...782...13A) | [data files](2014/2014ApJ...782...13A) |
-|Crab nebula / VER J0534+220 | A Search for Enhanced Very High Energy Gamma-Ray Emission from the 2013 March Crab Nebula Flare | [2014ApJ...781L..11A](http://adsabs.harvard.edu/abs/2014ApJ...781L..11A) | [data files](2014/2014ApJ...781L..11A) |
+|Crab Nebula / VER J0534+220 | A Search for Enhanced Very High Energy Gamma-Ray Emission from the 2013 March Crab Nebula Flare | [2014ApJ...781L..11A](http://adsabs.harvard.edu/abs/2014ApJ...781L..11A) | [data files](2014/2014ApJ...781L..11A) |
 |HESS J0632+057 / VER J0633+057 | Long-term TeV and X-Ray Observations of the Gamma-Ray Binary HESS J0632+057 | [2014ApJ...780..168A](http://adsabs.harvard.edu/abs/2014ApJ...780..168A) | [data files](2014/2014ApJ...780..168A) |
 |Cyg X-3 | VERITAS Observations of the Microquasar Cygnus X-3 | [2013ApJ...779..150A](http://adsabs.harvard.edu/abs/2013ApJ...779..150A) | [data files](2013/2013ApJ...779..150A) |
 |1ES 1215+303 / VER J1217+301 | Long Term Observations of B2 1215+30 with VERITAS | [2013ApJ...779...92A](http://adsabs.harvard.edu/abs/2013ApJ...779...92A) | [data files](2013/2013ApJ...779...92A) |
@@ -208,7 +224,7 @@ For a detailed description of data formats, file types, keywords, and spectral m
 |CTA 1 / VER J0006+729 | Discovery of TeV Gamma-Ray Emission from CTA 1 by VERITAS | [2013ApJ...764...38A](http://adsabs.harvard.edu/abs/2013ApJ...764...38A) | [data files](2013/2013ApJ...764...38A) |
 |BL Lacertae / VER J2202+422 | Rapid TeV Gamma-Ray Flaring of BL Lacertae | [2013ApJ...762...92A](http://adsabs.harvard.edu/abs/2013ApJ...762...92A) | [data files](2013/2013ApJ...762...92A) |
 |Segue 1 | VERITAS deep observations of the dwarf spheroidal galaxy Segue 1 | [2012PhRvD..85f2001A](http://adsabs.harvard.edu/abs/2012PhRvD..85f2001A) | [data files](2012/2012PhRvD..85f2001A) |
-|Crab nebula / VER J0534+220 | Search for a Correlation between Very-high-energy Gamma Rays and Giant Radio Pulses in the Crab Pulsar | [2012ApJ...760..136A](http://adsabs.harvard.edu/abs/2012ApJ...760..136A) | [data files](2012/2012ApJ...760..136A) |
+|Crab Nebula / VER J0534+220 | Search for a Correlation between Very-high-energy Gamma Rays and Giant Radio Pulses in the Crab Pulsar | [2012ApJ...760..136A](http://adsabs.harvard.edu/abs/2012ApJ...760..136A) | [data files](2012/2012ApJ...760..136A) |
 |RGB J0136+391 / VER J0136+390 | VERITAS Observations of Six Bright, Hard-spectrum Fermi-LAT Blazars | [2012ApJ...759..102A](http://adsabs.harvard.edu/abs/2012ApJ...759..102A) | [data files](2012/2012ApJ...759..102A) |
 |RGB J0316+090 | VERITAS Observations of Six Bright, Hard-spectrum Fermi-LAT Blazars | [2012ApJ...759..102A](http://adsabs.harvard.edu/abs/2012ApJ...759..102A) | [data files](2012/2012ApJ...759..102A) |
 |RGB J0909+231 | VERITAS Observations of Six Bright, Hard-spectrum Fermi-LAT Blazars | [2012ApJ...759..102A](http://adsabs.harvard.edu/abs/2012ApJ...759..102A) | [data files](2012/2012ApJ...759..102A) |
@@ -263,7 +279,7 @@ For a detailed description of data formats, file types, keywords, and spectral m
 |LS I +61 303 / VER J0240+612 | VERITAS Observations of the γ-Ray Binary LS I +61 303 | [2008ApJ...679.1427A](http://adsabs.harvard.edu/abs/2008ApJ...679.1427A) | [data files](2008/2008ApJ...679.1427A) |
 |M 87 / VER J1230+123 | Observation of Gamma-Ray Emission from the Galaxy M87 above 250 GeV with VERITAS | [2008ApJ...679..397A](http://adsabs.harvard.edu/abs/2008ApJ...679..397A) | [data files](2008/2008ApJ...679..397A) |
 
-Loading in total  115  astrophysical objects
+Loading in total  124  astrophysical objects
 <a name="sources"></a>
 # Source and Target List
 
@@ -276,17 +292,17 @@ Loading in total  115  astrophysical objects
 | 13 | VER J0232+202 | 1ES 0229+200 | 38.202564 | 20.2881899 | [2019ApJ...885..150A](2019/2019ApJ...885..150A),[2014ApJ...782...13A](2014/2014ApJ...782...13A)
 | 14 | VER J0240+612 | LS I +61 303 | 40.131938163 | 61.229336515 | [2017ICRC...35..712K](2017/2017ICRC...35..712K),[2016ApJ...817L...7A](2016/2016ApJ...817L...7A),[2013ApJ...779...88A](2013/2013ApJ...779...88A),[2011ApJ...738....3A](2011/2011ApJ...738....3A),[2009ApJ...700.1034A](2009/2009ApJ...700.1034A),[2008ApJ...679.1427A](2008/2008ApJ...679.1427A)
 | 17 | VER J0319+187 | RBS 0413 | 49.96585 | 18.7595556 | [2012ApJ...750...94A](2012/2012ApJ...750...94A)
-| 18 | VER J0319+415 | NGC 1275 | 49.950667083 | 41.511695306 | [2009ApJ...706L.275A](2009/2009ApJ...706L.275A)
+| 18 | VER J0319+415 | NGC 1275 | 49.950667083 | 41.511695306 | [2009ApJ...706L.275A](2009/2009ApJ...706L.275A),[2025PhRvD.112j3044A](2025/2025PhRvD.112j3044A)
 | 20 | VER J0416+011 | 1ES 0414+009 | 64.2187375 | 1.0899944 | [2019ApJ...885..150A](2019/2019ApJ...885..150A),[2012ApJ...755..118A](2012/2012ApJ...755..118A)
 | 22 | VER J0507+676 | 1ES 0502+675 | 76.9840583 | 67.6234056 | [2019ApJ...885..150A](2019/2019ApJ...885..150A)
 | 23 | VER J0521+211 | RGB J0521+212 | 80.4415375 | 21.2142722 | [2022ApJ...932..129A](2022/2022ApJ...932..129A),[2013ApJ...776...69A](2013/2013ApJ...776...69A)
-| 25 | VER J0534+220 | Crab nebula | 83.633083 | 22.0145 | [2022A&A...658A..83A](2022/2022A&A...658A..83A),[2017APh....91...34A](2017/2017APh....91...34A),[2015ICRC...34..792M](2015/2015ICRC...34..792M),[2014ApJ...781L..11A](2014/2014ApJ...781L..11A),[2012ApJ...760..136A](2012/2012ApJ...760..136A)
+| 25 | VER J0534+220 | Crab Nebula | 83.633083 | 22.0145 | [2022A&A...658A..83A](2022/2022A&A...658A..83A),[2017APh....91...34A](2017/2017APh....91...34A),[2015ICRC...34..792M](2015/2015ICRC...34..792M),[2014ApJ...781L..11A](2014/2014ApJ...781L..11A),[2012ApJ...760..136A](2012/2012ApJ...760..136A)
 | 29 | VER J0616+223 | IC 443 | 94.51125 | 22.66 | [2009ApJ...698L.133A](2009/2009ApJ...698L.133A)
-| 30 | VER J0633+057 | HESS J0632+057 | 98.24689375 | 5.80032722 | [2021ApJ...923..241A](2021/2021ApJ...923..241A),[2021ApJ...923...17T](2021/2021ApJ...923...17T),[2020ApJ...888..115A](2020/2020ApJ...888..115A),[2017AIPC.1792d0023S](2017/2017AIPC.1792d0023S),[2017ICRC...35..729M](2017/2017ICRC...35..729M),[2014ApJ...780..168A](2014/2014ApJ...780..168A),[2009ApJ...698L..94A](2009/2009ApJ...698L..94A)
+| 30 | VER J0633+057 | HESS J0632+057 | 98.24689375 | 5.80032722 | [2025ApJ...991...28P](2025/2025ApJ...991...28P),[2021ApJ...923..241A](2021/2021ApJ...923..241A),[2021ApJ...923...17T](2021/2021ApJ...923...17T),[2020ApJ...888..115A](2020/2020ApJ...888..115A),[2017AIPC.1792d0023S](2017/2017AIPC.1792d0023S),[2017ICRC...35..729M](2017/2017ICRC...35..729M),[2014ApJ...780..168A](2014/2014ApJ...780..168A),[2009ApJ...698L..94A](2009/2009ApJ...698L..94A)
 | 32 | VER J0648+152 | RX J0648.7+1516 | 102.1984875 | 15.2735722 | [2011ApJ...742..127A](2011/2011ApJ...742..127A)
 | 34 | VER J0710+591 | RGB J0710+591 | 107.625325 | 59.1390278 | [2019ApJ...885..150A](2019/2019ApJ...885..150A),[2010ApJ...715L..49A](2010/2010ApJ...715L..49A)
 | 36 | VER J0809+523 | 1ES 0806+524 | 122.454944708 | 52.31618075 | [2009ApJ...690L.126A](2009/2009ApJ...690L.126A)
-| 40 | VER J0955+696 | M 82 | 148.9684583 | 69.6797028 | [2009Natur.462..770V](2009/2009Natur.462..770V)
+| 40 | VER J0955+696 | M 82 | 148.9684583 | 69.6797028 | [2009Natur.462..770V](2009/2009Natur.462..770V),[2025ApJ...981..189A](2025/2025ApJ...981..189A)
 | 43 | VER J1015+494 | 1ES 1011+496 | 153.767249167 | 49.433529083 | [2019ApJ...885..150A](2019/2019ApJ...885..150A)
 | 49 | VER J1104+382 | Markarian 421 | 166.113808083 | 38.208833083 | [2020ApJ...890...97A](2020/2020ApJ...890...97A),[2017ApJ...834....2A](2017/2017ApJ...834....2A),[2016ApJ...819..156B](2016/2016ApJ...819..156B),[2015A&A...578A..22A](2015/2015A&A...578A..22A),[2011ApJ...738...25A](2011/2011ApJ...738...25A),[2009ApJ...691L..13D](2009/2009ApJ...691L..13D),[2009ApJ...703..169A](2009/2009ApJ...703..169A)
 | 53 | VER J1217+301 | 1ES 1215+303 | 184.46700833 | 30.11684333 | [2020ApJ...891..170V](2020/2020ApJ...891..170V),[2019ApJ...885..150A](2019/2019ApJ...885..150A),[2017ApJ...836..205A](2017/2017ApJ...836..205A),[2013ApJ...779...92A](2013/2013ApJ...779...92A)
@@ -320,7 +336,7 @@ Loading in total  115  astrophysical objects
 | 165 | VER J1746-289 | VER J1746-289 | 266.5821 | -28.966226 | [2021ApJ...913..115A](2021/2021ApJ...913..115A),[2016ApJ...821..129A](2016/2016ApJ...821..129A)
 | 166 | VER J0534+220 | Crab pulsar | 83.63307625 | 22.014493278 | [2011Sci...334...69V](2011/2011Sci...334...69V)
 | 167 | VER J1443+250 | PKS 1441+25 | 220.987051 | 25.029025 | [2015ApJ...815L..22A](2015/2015ApJ...815L..22A)
-| 168 | VER J0509+057 | TXS 0506+056 | 77.358186 | 5.693148 | [2018Sci...361.1378I](2018/2018Sci...361.1378I),[2018ApJ...861L..20A](2018/2018ApJ...861L..20A)
+| 168 | VER J0509+057 | TXS 0506+056 | 77.358186 | 5.693148 | [2018Sci...361.1378I](2018/2018Sci...361.1378I),[2018ApJ...861L..20A](2018/2018ApJ...861L..20A),[2026ApJ...996...38A](2026/2026ApJ...996...38A)
 | 170 | VER J2018+367 | VER J2018+367 | 304.5 | 36.7 | [2018ApJ...861..134A](2018/2018ApJ...861..134A)
 | 171 | VER J2020+368 | VER J2020+368 | 305.0 | 36.8 | [2018ApJ...861..134A](2018/2018ApJ...861..134A)
 | 172 | VER J1952+293 | DA 495 | 298.05708 | 29.41889 | [2018ApJ...866...24A](2018/2018ApJ...866...24A)
@@ -382,6 +398,15 @@ Loading in total  115  astrophysical objects
 | 100219 | (not detected) | Cvn I | 202.0146 | 33.5558 | [2024PhRvD.110f3034A](2024/2024PhRvD.110f3034A)
 | 100220 | (not detected) | Cvn II | 194.29 | 34.32 | [2024PhRvD.110f3034A](2024/2024PhRvD.110f3034A)
 | 100221 | (not detected) | Hercules I | 247.7583 | 12.7917 | [2024PhRvD.110f3034A](2024/2024PhRvD.110f3034A)
+| 100222 | (not detected) | B3 2247+381 | 342.523951 | 38.410331 | [2025ApJ...982...80A](2025/2025ApJ...982...80A)
+| 100223 | (not detected) | W 44 | 284.044375 | 1.222583 | [2025ApJ...983...73A](2025/2025ApJ...983...73A)
+| 100224 | (not detected) | LHAASO J0621+3755 | 95.25 | 37.92 | [2025ApJ...985...90A](2025/2025ApJ...985...90A)
+| 100225 | (not detected) | LHAASO J2108+5157 | 317.0 | 51.95 | [2025ApJ...991..192A](2025/2025ApJ...991..192A)
+| 100226 | (not detected) | IceCube-171106A | 340.0 | 7.4 | [2026ApJ...997..141A](2026/2026ApJ...997..141A)
+| 100227 | (not detected) | IceCube-191001A | 314.0 | 12.94 | [2026ApJ...997..141A](2026/2026ApJ...997..141A)
+| 100228 | (not detected) | IceCube-201114A | 104.46 | 6.38 | [2026ApJ...997..141A](2026/2026ApJ...997..141A)
+| 100229 | (not detected) | GB6 J0316+0904 | 49.053053 | 9.078689 | [2026ApJ...997..141A](2026/2026ApJ...997..141A)
+| 100230 | (not detected) | IceCube-200107 | 148.782917 | 35.85025 | [2026ApJ...997..141A](2026/2026ApJ...997..141A)
 | 300000 | (charged particle) | electron | -- | -- | [2018PhRvD..98f2004A](2018/2018PhRvD..98f2004A)
 | 300026 | (charged particle) | iron | -- | -- | [2018PhRvD..98b2009A](2018/2018PhRvD..98b2009A)
 

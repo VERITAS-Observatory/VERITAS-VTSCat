@@ -1,0 +1,80 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: time, unit: MJD, datatype: float64, description: time bin centre}
+# - {name: time_err, unit: MJD, datatype: float64}
+# - {name: flux_ul, unit: cm-2 s-1, datatype: float64, description: photon flux upper limit}
+# - {name: flux, unit: cm-2 s-1, datatype: float64, description: photon flux}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 100222
+# - reference_id: 2025ApJ...982...80A
+# - UL_CONF: 0.95
+# - telescope: veritas
+# - comments: |
+#       Fig 2 (top); Flux upper limits binned in 30-day (monthly) bins
+e_min time time_err flux_ul flux
+0.12  55094.8  15  6.2e-12  nan
+0.12  55832.3  15  2.0e-11  nan
+0.12  55861.2  15  3.0e-11  nan
+0.12  55889.1  15  1.8e-11  nan
+0.12  56218.2  15  5.7e-11  nan
+0.12  56628.2  15  8.0e-11  nan
+0.12  56939.2  15  1.7e-11  nan
+0.12  56964.6  15  2.3e-11  nan
+0.12  57006.6  15  1.2e-11  nan
+0.12  57297.8  15  2.2e-11  nan
+0.12  57328.1  15  3.8e-11  nan
+0.12  57359.6  15  3.0e-11  nan
+0.12  57661.2  15  1.8e-11  nan
+0.12  57686.2  15  2.5e-11  nan
+0.12  57718.6  15  3.5e-11  nan
+0.12  57742.1  15  4.4e-11  nan
+0.12  57934.4  15  4.0e-11  nan
+0.12  58017.8  15  1.3e-11  nan
+0.12  58045.7  15  4.5e-11  nan
+0.12  58070.1  15  2.8e-11  nan
+0.12  58795.7  15  6.6e-12  nan
+0.12  58827.6  15  1.3e-11  nan
+0.12  59139.7  15  1.3e-11  nan
+0.12  59153.2  15  1.8e-11  nan
+0.12  59486.3  15  4.5e-11  nan
+0.12  55094.8  15  6.2e-12  nan
+0.12  55832.3  15  2.0e-11  nan
+0.12  55861.2  15  3.0e-11  nan
+0.12  55889.1  15  1.8e-11  nan
+0.12  56218.2  15  5.7e-11  nan
+0.12  56628.2  15  8.0e-11  nan
+0.12  56939.2  15  1.7e-11  nan
+0.12  56964.6  15  2.3e-11  nan
+0.12  57006.6  15  1.2e-11  nan
+0.12  57297.8  15  2.2e-11  nan
+0.12  57328.1  15  3.8e-11  nan
+0.12  57359.6  15  3.0e-11  nan
+0.12  57661.2  15  1.8e-11  nan
+0.12  57686.2  15  2.5e-11  nan
+0.12  57718.6  15  3.5e-11  nan
+0.12  57742.1  15  4.4e-11  nan
+0.12  57934.4  15  4.0e-11  nan
+0.12  58017.8  15  1.3e-11  nan
+0.12  58045.7  15  4.5e-11  nan
+0.12  58070.1  15  2.8e-11  nan
+0.12  58795.7  15  6.6e-12  nan
+0.12  58827.6  15  1.3e-11  nan
+0.12  59139.7  15  1.3e-11  nan
+0.12  59153.2  15  1.8e-11  nan
+0.12  59486.3  15  4.5e-11  nan
+0.12  55094.8  15  6.2e-12  nan
+0.12  55832.3  15  2.0e-11  nan
+0.12  55861.2  15  3.0e-11  nan
+0.12  55889.1  15  1.8e-11  nan
+0.12  56218.2  15  5.7e-11  nan
+0.12  56628.2  15  8.0e-11  nan
+0.12  56939.2  15  1.7e-11  nan
+0.12  56964.6  15  2.3e-11  nan
+0.12  57006.6  15  1.2e-11  nan
+0.12  57297.8  15  2.2e-11  nan
+0.12  57328.1  15  3.8e-11  nan
+0.12  57359.6  15  3.0e-11  nan
+0.12  57686.2  15  2.5e-11  nan

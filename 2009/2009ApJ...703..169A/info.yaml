@@ -9,7 +9,7 @@ datasets:
   - VER-000049-lc.ecsv
 
 multiwavelength:
-  - content: magic, xmm, xmm_om, whipple
+  - content: [magic, xmm, xmm_om, whipple]
   - availability: false
   - status: false
 

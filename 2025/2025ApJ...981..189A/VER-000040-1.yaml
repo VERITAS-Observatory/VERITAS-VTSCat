@@ -1,0 +1,34 @@
+source_id: 40
+reference_id: 2025ApJ...981..189A
+file_id: 1
+telescope: veritas
+description: "2008-2022"
+
+data:
+  livetime: 254 h
+  excess: 135
+  non: 506
+  noff: 15955
+  alpha: 0.02330
+  significance: 6.5
+
+pos:
+  ra: {val: 9h55m48.6s, err: 5.5s, err_sys: 4.8s}
+  dec: {val: +69d39m58.5s, err: 28.8s, err_sys: 25s}
+
+flux:
+  - flux: {val: 3.2e-13, err: 0.6e-13, err_sys: 0.6e-13, unit: cm-2 s-1}
+    e_min: {val: 450., unit: GeV}
+  - flux: {val: 1.8e-13, err: 0.3e-13, err_sys: 0.4e-13, unit: cm-2 s-1}
+    e_min: {val: 700., unit: GeV}
+
+spec:
+  model:
+    type: pl
+    parameters:
+      norm: {val: 7.2, err: 1.2, err_sys: 1.4, scale: 1e-14, unit: cm-2 s-1 TeV-1}
+      index: {val: 2.3, err: 0.3, err_sys: 0.2}
+      e_ref: {val: 1.4, unit: TeV}
+      chi2: {val: 1.4}
+      ndof: {val: 5}
+  erange: {min: 424, max: 5000, unit: GeV}

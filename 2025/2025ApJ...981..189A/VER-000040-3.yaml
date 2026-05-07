@@ -1,0 +1,19 @@
+source_id: 40
+reference_id: 2025ApJ...981..189A
+file_id: 3
+telescope: veritas
+description: "2011-2022"
+
+data:
+  livetime: 117 h
+  excess: 79.6
+  non: 286
+  noff: 8849
+  alpha: 0.02346
+  significance: 5.2
+
+flux:
+  - flux: {val: 3.2e-13, err: 0.8e-13, err_sys: 0.6e-13, unit: cm-2 s-1}
+    e_min: {val: 450., unit: GeV}
+  - flux: {val: 1.8e-13, err: 0.5e-13, err_sys: 0.4e-13, unit: cm-2 s-1}
+    e_min: {val: 700., unit: GeV}

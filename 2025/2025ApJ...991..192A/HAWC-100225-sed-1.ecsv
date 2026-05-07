@@ -1,0 +1,21 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, datatype: float32, unit: TeV}
+# - {name: dnde, datatype: float32, unit: TeV-1 cm-2 s-1 }
+# - {name: dnde_err, datatype: float32, unit: TeV-1 cm-2 s-1}
+# - {name: dnde_ul, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux upper limit (95% CL)}
+# meta: !!omap
+# - data_type: sed
+# - reference_id: 2025ApJ...991..192A
+# - source_id: 100225
+# - file_id: 1
+# - telescope: hawc
+# - comments: [Gamma-ray spectrum of from HAWC analysis using NN (most recent analysis)]
+# - keywords: !!omap
+#   - cl: {value: 0.95}
+energy flux flux_error_lo flux_error_hi ul
+6.96 3.2923e-13 1.3597e-13 2.2468e-13
+22.17 3.0699e-13 7.5751e-14 1.0124e-13
+66.33 3.3744e-13 8.6364e-14 1.1564e-13
+119.10 3.3864e-13 9.3161e-14 1.3412e-13

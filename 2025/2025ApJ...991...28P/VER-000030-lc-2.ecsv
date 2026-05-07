@@ -1,0 +1,23 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: time_min, unit: MJD, datatype: float64}
+# - {name: time_max, unit: MJD, datatype: float64}
+# - {name: live_time, unit: h, datatype: float64}
+# - {name: flux, unit: 1.e-12 cm-2 s-1, datatype: float64}
+# - {name: flux_err, unit: 1.e-12 cm-2 s-1, datatype: float64}
+# - {name: flux_ul, unit: 1.e-12 cm-2 s-1, datatype: float64}
+# - {name: significance, datatype: float32}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 30
+# - file_id: 2
+# - reference_id: 2025ApJ...991...28P
+# - telescope: veritas
+# - UL_CONF: 0.95
+# - comments: |
+#         Table 3, averages over several nights, assume spectral index of 2.6
+e_min time_min time_max live_time flux flux_err flux_ul significance
+0.35  60344.09 60345.24 3.6 6.1 1.0 nan 8.6
+0.35  60353.15 60357.19 5.0 1.4 0.6 nan 3.8

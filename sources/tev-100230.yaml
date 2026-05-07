@@ -1,0 +1,11 @@
+---
+source_id: 100230
+common_name: IceCube-200107
+other_names: []
+where: egal
+pos:
+  simbad_id: IceCube-200107
+  ra:  148.782917
+  dec:  35.850250
+reference_id:
+  - 2026ApJ...997..141A

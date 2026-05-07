@@ -10,7 +10,7 @@ datasets:
   - VER-000014-sed.ecsv
 
 multiwavelength:
-  - content: xrt, rxte
+  - content: [xrt, rxte]
   - availability: false
   - status: false
 

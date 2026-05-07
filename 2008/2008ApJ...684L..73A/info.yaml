@@ -9,7 +9,7 @@ datasets:
   - VER-000054-sed.ecsv
 
 multiwavelength:
-  - content: xrt, uvot
+  - content: [xrt, uvot]
   - availability: false
   - status: false
 

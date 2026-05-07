@@ -8,7 +8,7 @@ multiwavelength:
   - availability: true
   - status: true
 
-datadescription: "Data also available from Zenodo\n
+data_description: "Data also available from Zenodo\n
     [DOI 10.5281/zenodo.5157847](https://doi.org/10.5281/zenodo.5157847)"
 
 datasets:

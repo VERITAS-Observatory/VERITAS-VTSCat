@@ -1,0 +1,20 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, datatype: float32, unit: keV}
+# - {name: e_min, datatype: float32, unit: keV}
+# - {name: e_max, datatype: float32, unit: keV}
+# - {name: dnde, datatype: float32, unit: erg cm-2 s-1 }
+# - {name: dnde_err, datatype: float32, unit: erg cm-2 s-1 }
+# - {name: dnde_ul, unit: erg cm-2 s-1, datatype: float32, description: differential flux upper limit (95% CL)}
+# meta: !!omap
+# - data_type: sed
+# - reference_id: 2025ApJ...991..192A
+# - source_id: 100225
+# - file_id: 1
+# - telescope: xmm
+# - comments: [X-rau UL from lhaaso J2108 assuming that the X-ray source is a r = 6’ circle]
+# - keywords: !!omap
+#   - cl: {value: 0.95}
+e_ref e_min e_max dnde dnde_err dnde_ul
+4.47 2 10 nan nan 3.5e-13

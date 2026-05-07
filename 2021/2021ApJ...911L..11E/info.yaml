@@ -4,7 +4,7 @@ source_id: [58]
 telescope: [veritas, hess, magic, eavn]
 
 multiwavelength:
-  - content: [magic, hess, fermi-lat, eavn]
+  - content: [magic, hess, lat, eavn]
   - availability: false
   - status: false
 

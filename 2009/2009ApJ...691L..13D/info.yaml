@@ -9,7 +9,7 @@ datasets:
   - VER-000049-sed.ecsv
 
 multiwavelength:
-  - content: superagile, agile, gaspwept, xrt, rxte, magic
+  - content: [superagile, agile, gaspwept, xrt, rxte, magic]
   - availability: false
   - status: false
 

@@ -1,0 +1,18 @@
+---
+reference_id: 2025ApJ...991...28P
+source_id: [30]
+telescope: [veritas]
+
+multiwavelength:
+  - content: [nustar, salt, xrt]
+  - availability: false
+  - status: false
+
+datasets:
+  - VER-000030-1.yaml
+  - VER-000030-lc-1.ecsv
+  - VER-000030-lc-2.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

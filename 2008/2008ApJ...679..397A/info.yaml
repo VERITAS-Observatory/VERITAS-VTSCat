@@ -9,11 +9,8 @@ datasets:
   - VER-000058-sed.ecsv
 
 multiwavelength:
-  content:
-    - rxte
-    - chandra
-  availability: false
-  status: incomplete
+  - content: [rxte, chandra]
+  - availability: false
 
 data_entry:
   status: complete

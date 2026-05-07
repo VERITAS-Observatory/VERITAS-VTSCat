@@ -1,0 +1,23 @@
+---
+reference_id: 2026ApJ...997..141A
+source_id: [100226, 100227, 100228, 100229, 100230]
+telescope: [veritas]
+
+datasets:
+  - VER-100226-sed-1.ecsv
+  - VER-100226.yaml
+  - VER-100227-sed-1.ecsv
+  - VER-100227.yaml
+  - VER-100228-sed-1.ecsv
+  - VER-100228.yaml
+  - VER-100229-sed-1.ecsv
+  - VER-100229.yaml
+  - VER-100230-sed-1.ecsv
+  - VER-100230.yaml
+  - IC171106A.fits
+  - IC191001A.fits
+  - IC201222A.fits
+
+data_entry:
+  status: incomplete
+  reviewed: false
