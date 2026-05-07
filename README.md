@@ -2,11 +2,12 @@
 
 [![DOI](https://zenodo.org/badge/248259940.svg)](https://zenodo.org/badge/latestdoi/248259940)
 
-- [VTSCat - the VERITAS data catalogue](#vtscat---the-veritas-data-catalogue)
-  - [Introduction](#introduction)
-  - [Organisation and data format](#organisation-and-data-format)
-  - [References](#references)
-  - [Publication list](#publication-list)
+- [Introduction](#introduction)
+- [Organisation and data format](#organisation-and-data-format)
+- [References](#references)
+- [Publication list](#publication-list)
+- [Source and Target List](#source-and-target-list)
+- [Licence](#licence)
 
 <a name="intro"></a>
 ## Introduction
