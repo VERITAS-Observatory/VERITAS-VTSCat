@@ -1,12 +1,11 @@
 # VTSCat - the VERITAS data catalogue
 
-[![DOI](https://zenodo.org/badge/248259940.svg)](https://zenodo.org/badge/latestdoi/248259940)
-
-- [VTSCat - the VERITAS data catalogue](#vtscat---the-veritas-data-catalogue)
-  - [Introduction](#introduction)
-  - [Organisation and data format](#organisation-and-data-format)
-  - [References](#references)
-  - [Publication list](#publication-list)
+- [Introduction](#introduction)
+- [Organisation and data format](#organisation-and-data-format)
+- [References](#references)
+- [Publication list](#publication-list)
+- [Source and Target List](#source-and-target-list)
+- [Licence](#licence)
 
 <a name="intro"></a>
 ## Introduction
@@ -26,10 +25,10 @@ VTSCat supplements the [HEASARC catalogue of VERITAS results](https://heasarc.gs
 **Access**:
 
 - GitHub: https://github.com/VERITAS-Observatory/VERITAS-VTSCat
-- ZENODO: https://doi.org/10.5281/zenodo.4723219
+- ZENODO: https://doi.org/10.5281/zenodo.6988967
 - HEASARC: https://heasarc.gsfc.nasa.gov/W3Browse/all/verimaster.html
 
-**Citation:** if you make use of VTSCat, please cite the original publication for the data, the DOI of the Zenodo repository ([10.5281/zenodo.4723219](https://doi.org/10.5281/zenodo.4723219)), or the following research note: [A. Acharyya et al 2023 Res. Notes AAS 7 6](https://iopscience.iop.org/article/10.3847/2515-5172/acb147).
+**Citation:** if you make use of VTSCat, please cite the original publication for the data, the DOI of the Zenodo repository ([10.5281/zenodo.6988967](https://doi.org/10.5281/zenodo.6988967), or the following research note: [A. Acharyya et al 2023 Res. Notes AAS 7 6](https://iopscience.iop.org/article/10.3847/2515-5172/acb147).
 
 Bibtex format:
 ```
@@ -281,7 +280,7 @@ For a detailed description of data formats, file types, keywords, and spectral m
 
 Loading in total  124  astrophysical objects
 <a name="sources"></a>
-# Source and Target List
+## Source and Target List
 
 | ID | VERITAS Name | Common Name | ra (deg) | dec (deg) | Reference(s) |
 |:--|:--|:--|:--|:--|:--|
