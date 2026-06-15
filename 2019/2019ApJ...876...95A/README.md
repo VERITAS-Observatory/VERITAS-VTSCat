@@ -3,7 +3,7 @@
 Reference:
 Archer, A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 876, 95 (2019)
 
-- ADS: [2019ApJ...876...95A](http://adsabs.harvard.edu/abs/2019ApJ...876...95A)
+- ADS: [2019ApJ...876...95A](http://ui.adsabs.harvard.edu/abs/2019ApJ...876...95A)
 - DOI: [10.3847/1538-4357/ab14f4](https://doi.org/10.3847/1538-4357/ab14f4)
 
 ### Data tables

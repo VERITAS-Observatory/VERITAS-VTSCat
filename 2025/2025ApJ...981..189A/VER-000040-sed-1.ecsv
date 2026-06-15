@@ -1,0 +1,31 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, datatype: float32, unit: TeV}
+# - {name: e_min, datatype: float32, unit: TeV}
+# - {name: e_max, datatype: float32, unit: TeV}
+# - {name: dnde, datatype: float32, unit: TeV-1 cm-2 s-1 }
+# - {name: dnde_err, datatype: float32, unit: TeV-1 cm-2 s-1}
+# - {name: dnde_ul, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux upper limit (95% CL)}
+# - {name: non, datatype: int64, description: signal region events}
+# - {name: noff, datatype: int64, description: background events}
+# - {name: alpha, datatype: float32, description: normalisation factor}
+# - {name: significance, datatype: float32, description: significance of data point}
+# meta: !!omap
+# - data_type: sed
+# - source_id: 40
+# - reference_id: 2025ApJ...981..189A
+# - file_id: 1
+# - telescope: veritas
+# - comments: Figure 1
+e_ref e_min e_max dnde dnde_err dnde_ul non noff alpha significance
+0.424   0.35        0.5137     1.295798135458881e-12  9.610205964349916e-13  nan                    478  7481  0.05934065952897072  1.5506181716918945
+0.6224  0.5137      0.7541     3.715010521432305e-13  2.096126161532652e-13  nan                    335  5012  0.05934065952897072  2.072643995285034
+0.9136  0.7541      1.1068     1.9036323628540686e-13 7.09767355999702e-14   nan                    212  2867  0.05934065952897072  2.995913505554199
+1.3409  1.1068      1.6246     8.865612688424562e-14  2.992552317060415e-14  nan                    164  2079  0.05934065952897072  3.3719468116760254
+1.9682  1.6246      2.3845     4.3403919347539954e-14 1.3909945417722724e-14 nan                    127  1515  0.05934065952897072  3.5640273094177246
+2.8889  2.3845      3.5        9.122488875412671e-15  6.364109239598292e-15  nan                    79   1118  0.05934065952897072  1.4627312421798706
+4.2403  3.5         5.1373     5.227862934220617e-15  3.201206313918625e-15  nan                    51    645   0.05934065952897072  1.8951443433761597
+6.224   5.1373      7.5405     nan nan 4.477601725571327e-15  25   371   0.05934065952897072  0.6040500998497009
+9.1355  7.5405      11.068     nan nan 1.680834808861025e-15  10   166   0.05934065952897072  0.046141888946294785
+13.4092 11.068      16.2456    nan nan -6.736538418763272e-16  4    75    0.05934065952897072 -0.21136102080345154

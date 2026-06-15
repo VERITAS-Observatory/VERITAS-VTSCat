@@ -3,7 +3,7 @@
 Reference:
 Meagher, K. et al. (The VERITAS Collaboration), 34th International Cosmic Ray Conference. 30 July - 6 August, 2015. The Hague, The Netherlands, Proceedings of Science, 34, 792 (2015)
 
-- ADS: [2015ICRC...34..792M](http://adsabs.harvard.edu/abs/2015ICRC...34..792M)
+- ADS: [2015ICRC...34..792M](http://ui.adsabs.harvard.edu/abs/2015ICRC...34..792M)
 - DOI: [10.22323/1.236.0792](https://doi.org/10.22323/1.236.0792)
 
 ## Crab nebula (VER J0534+220)

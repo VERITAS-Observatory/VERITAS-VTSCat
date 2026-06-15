@@ -3,7 +3,7 @@
 Reference:
 Abdo, A. A. et al., The Astrophysical Journal, 727, 129 (2011)
 
-- ADS: [2011ApJ...727..129A](http://adsabs.harvard.edu/abs/2011ApJ...727..129A)
+- ADS: [2011ApJ...727..129A](http://ui.adsabs.harvard.edu/abs/2011ApJ...727..129A)
 - DOI: [10.1088/0004-637X/727/2/129](https://doi.org/10.1088/0004-637X/727/2/129)
 
 ## Markarian 501 (VER J1653+397)

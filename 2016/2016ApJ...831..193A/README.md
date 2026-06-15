@@ -3,7 +3,7 @@
 Reference:
 Aliu, E. et al. (The VERITAS Collaboration), The Astrophysical Journal, 831, 193 (2016)
 
-- ADS: [2016ApJ...831..193A](http://adsabs.harvard.edu/abs/2016ApJ...831..193A)
+- ADS: [2016ApJ...831..193A](http://ui.adsabs.harvard.edu/abs/2016ApJ...831..193A)
 - DOI: [10.3847/0004-637X/831/2/193](https://doi.org/10.3847/0004-637X/831/2/193)
 
 ## PSR J1023+0038

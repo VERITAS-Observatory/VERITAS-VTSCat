@@ -3,7 +3,7 @@
 Reference:
 Acciari, V. A. et al., Science, 325, 444 (2009)
 
-- ADS: [2009Sci...325..444A](http://adsabs.harvard.edu/abs/2009Sci...325..444A)
+- ADS: [2009Sci...325..444A](http://ui.adsabs.harvard.edu/abs/2009Sci...325..444A)
 - DOI: [10.1126/science.1175406](https://doi.org/10.1126/science.1175406)
 
 ## M 87 (VER J1230+123)

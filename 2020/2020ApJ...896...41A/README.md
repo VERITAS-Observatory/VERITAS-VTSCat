@@ -3,7 +3,7 @@
 Reference:
 Archer, A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 896, 41 (2020)
 
-- ADS: [2020ApJ...896...41A](http://adsabs.harvard.edu/abs/2020ApJ...896...41A)
+- ADS: [2020ApJ...896...41A](http://ui.adsabs.harvard.edu/abs/2020ApJ...896...41A)
 - DOI: [10.3847/1538-4357/ab910e](https://doi.org/10.3847/1538-4357/ab910e)
 
 ## 3C 264.0 (VER J1145+196)

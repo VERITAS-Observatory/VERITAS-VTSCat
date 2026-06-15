@@ -3,7 +3,7 @@
 Reference:
 D'Ammando, F. et al. (The VERITAS Collaboration), Monthly Notices of the Royal Astronomical Society, 446, 2456 (2015)
 
-- ADS: [2015MNRAS.446.2456D](http://adsabs.harvard.edu/abs/2015MNRAS.446.2456D)
+- ADS: [2015MNRAS.446.2456D](http://ui.adsabs.harvard.edu/abs/2015MNRAS.446.2456D)
 - DOI: [10.1093/mnras/stu2251](https://doi.org/10.1093/mnras/stu2251)
 
 ## PMN J0948+0022

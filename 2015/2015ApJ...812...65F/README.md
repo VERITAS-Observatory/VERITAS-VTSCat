@@ -3,7 +3,7 @@
 Reference:
 Furniss, A. et al., The Astrophysical Journal, 812, 65 (2015)
 
-- ADS: [2015ApJ...812...65F](http://adsabs.harvard.edu/abs/2015ApJ...812...65F)
+- ADS: [2015ApJ...812...65F](http://ui.adsabs.harvard.edu/abs/2015ApJ...812...65F)
 - DOI: [10.1088/0004-637X/812/1/65](https://doi.org/10.1088/0004-637X/812/1/65)
 
 ## Markarian 501 (VER J1653+397)

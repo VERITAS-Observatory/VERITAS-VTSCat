@@ -1,0 +1,18 @@
+---
+reference_id: 2025ApJ...991..192A
+source_id: [100225]
+telescope: [veritas, hawc, lat, xmm]
+
+datasets:
+  - VER-100225-1.yaml
+  - VER-100225-sed-1.ecsv
+  - VER-100225-significance-skymap.fits
+  - VER-100225-CO-contours.fits
+  - XMM-100225-sed-1.ecsv
+  - LAT-100225-sed-1.ecsv
+  - HAWC-100225-sed-1.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true
+...

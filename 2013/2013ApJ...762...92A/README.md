@@ -3,7 +3,7 @@
 Reference:
 Arlen, T. et al. (The VERITAS Collaboration), The Astrophysical Journal, 762, 92 (2013)
 
-- ADS: [2013ApJ...762...92A](http://adsabs.harvard.edu/abs/2013ApJ...762...92A)
+- ADS: [2013ApJ...762...92A](http://ui.adsabs.harvard.edu/abs/2013ApJ...762...92A)
 - DOI: [10.1088/0004-637X/762/2/92](https://doi.org/10.1088/0004-637X/762/2/92)
 
 ## BL Lacertae (VER J2202+422)

@@ -1,0 +1,14 @@
+---
+reference_id: 2025ApJ...982...80A
+source_id: [100222]
+telescope: [veritas, icecube, lat, xrt, nustar]
+
+datasets:
+  - VER-100222-1.yaml
+  - VER-100222-2.yaml
+  - VER-100222-lc-1.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true
+...

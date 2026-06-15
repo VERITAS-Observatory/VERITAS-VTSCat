@@ -1,0 +1,18 @@
+---
+source_id: 100222
+reference_id: 2025ApJ...982...80A
+telescope: veritas
+description: "September 2009 to November 2020"
+
+data:
+  livetime: 27.0 h
+  significance: 2.2
+  excess: 65
+  non: 836
+  noff: 14130
+  alpha: 0.055
+
+flux:
+  flux_ul: {val: 1.7, scale: 1e-12, unit: cm-2 s-1}
+  conf: {val: 0.95}
+  e_min: {val: 0.200, unit: TeV}

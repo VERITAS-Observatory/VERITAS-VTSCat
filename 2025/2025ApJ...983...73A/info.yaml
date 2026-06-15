@@ -1,0 +1,12 @@
+---
+reference_id: 2025ApJ...983...73A
+source_id: [100223]
+telescope: [veritas]
+
+datasets:
+  - MW-100223-1.sed.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true
+...

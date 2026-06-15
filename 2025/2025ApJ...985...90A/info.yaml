@@ -1,0 +1,14 @@
+---
+reference_id: 2025ApJ...985...90A
+source_id: [100224]
+telescope: [veritas, xmm]
+
+datasets:
+  - VER-100224-1.yaml
+  - VER-100224-sed-1.ecsv
+  - VER-100224-sqrt-ts-skymap.fits
+
+data_entry:
+  status: complete
+  reviewed: true
+...

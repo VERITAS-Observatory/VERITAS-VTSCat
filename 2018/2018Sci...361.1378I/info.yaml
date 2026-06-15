@@ -1,10 +1,10 @@
 ---
 reference_id: 2018Sci...361.1378I
 source_id: [168]
-telescope: [magic, hess, hawc, fermi-lat, veritas]
+telescope: [magic, hess, hawc, lat, veritas]
 
 multiwavelength:
-  - content: [magic, hess, hawc, fermi-lat]
+  - content: [magic, hess, hawc, lat]
   - availability: false
   - status: false
 

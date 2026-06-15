@@ -3,7 +3,7 @@
 Reference:
 Acciari, V. A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 693, L104 (2009)
 
-- ADS: [2009ApJ...693L.104A](http://adsabs.harvard.edu/abs/2009ApJ...693L.104A)
+- ADS: [2009ApJ...693L.104A](http://ui.adsabs.harvard.edu/abs/2009ApJ...693L.104A)
 - DOI: [10.1088/0004-637X/693/2/L104](https://doi.org/10.1088/0004-637X/693/2/L104)
 
 ## 3C 66A (VER J0222+430)

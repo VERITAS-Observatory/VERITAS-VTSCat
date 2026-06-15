@@ -3,7 +3,7 @@
 Reference:
 Aliu, E. et al. (The VERITAS Collaboration), The Astrophysical Journal, 760, 136 (2012)
 
-- ADS: [2012ApJ...760..136A](http://adsabs.harvard.edu/abs/2012ApJ...760..136A)
+- ADS: [2012ApJ...760..136A](http://ui.adsabs.harvard.edu/abs/2012ApJ...760..136A)
 - DOI: [10.1088/0004-637X/760/2/136](https://doi.org/10.1088/0004-637X/760/2/136)
 
 ## Crab nebula (VER J0534+220)

@@ -3,7 +3,7 @@
 Reference:
 Adams, C. B. et al., The Astrophysical Journal, 932, 129 (2022)
 
-- ADS: [2022ApJ...932..129A](http://adsabs.harvard.edu/abs/2022ApJ...932..129A)
+- ADS: [2022ApJ...932..129A](http://ui.adsabs.harvard.edu/abs/2022ApJ...932..129A)
 - DOI: [10.3847/1538-4357/ac6dd9](https://doi.org/10.3847/1538-4357/ac6dd9)
 
 ## RGB J0521+212 (VER J0521+211)

@@ -3,7 +3,7 @@
 Reference:
 VERITAS Collaboration et al. (The VERITAS Collaboration), Nature, 462, 770 (2009)
 
-- ADS: [2009Natur.462..770V](http://adsabs.harvard.edu/abs/2009Natur.462..770V)
+- ADS: [2009Natur.462..770V](http://ui.adsabs.harvard.edu/abs/2009Natur.462..770V)
 - DOI: [10.1038/nature08557](https://doi.org/10.1038/nature08557)
 
 ## M 82 (VER J0955+696)

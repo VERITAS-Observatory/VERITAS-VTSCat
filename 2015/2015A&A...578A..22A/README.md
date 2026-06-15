@@ -3,7 +3,7 @@
 Reference:
 Aleksić, J. et al. (The VERITAS Collaboration), Astronomy & Astrophysics, 578, A22 (2015)
 
-- ADS: [2015A&A...578A..22A](http://adsabs.harvard.edu/abs/2015A&A...578A..22A)
+- ADS: [2015A&A...578A..22A](http://ui.adsabs.harvard.edu/abs/2015A&A...578A..22A)
 - DOI: [10.1051/0004-6361/201424811](https://doi.org/10.1051/0004-6361/201424811)
 
 ## Markarian 421 (VER J1104+382)

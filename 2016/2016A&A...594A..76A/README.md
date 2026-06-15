@@ -3,7 +3,7 @@
 Reference:
 Aliu, E. et al., Astronomy & Astrophysics, 594, A76 (2016)
 
-- ADS: [2016A&A...594A..76A](http://adsabs.harvard.edu/abs/2016A&A...594A..76A)
+- ADS: [2016A&A...594A..76A](http://ui.adsabs.harvard.edu/abs/2016A&A...594A..76A)
 - DOI: [10.1051/0004-6361/201628744](https://doi.org/10.1051/0004-6361/201628744)
 
 ## Markarian 501 (VER J1653+397)

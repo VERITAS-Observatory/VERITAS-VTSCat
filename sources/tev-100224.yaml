@@ -1,0 +1,11 @@
+---
+source_id: 100224
+common_name: LHAASO J0621+3755
+other_names: []
+where: gal
+pos:
+  simbad_id: LHAASO J0621+3755
+  ra: 95.250000
+  dec: 37.920000
+reference_id:
+  - 2025ApJ...985...90A

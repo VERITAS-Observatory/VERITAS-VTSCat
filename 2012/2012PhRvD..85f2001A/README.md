@@ -3,7 +3,7 @@
 Reference:
 Aliu, E. et al. (The VERITAS Collaboration), Physical Review D, 85, 062001 (2012)
 
-- ADS: [2012PhRvD..85f2001A](http://adsabs.harvard.edu/abs/2012PhRvD..85f2001A)
+- ADS: [2012PhRvD..85f2001A](http://ui.adsabs.harvard.edu/abs/2012PhRvD..85f2001A)
 - DOI: [10.1103/PhysRevD.85.062001](https://doi.org/10.1103/PhysRevD.85.062001)
 
 ## Segue 1

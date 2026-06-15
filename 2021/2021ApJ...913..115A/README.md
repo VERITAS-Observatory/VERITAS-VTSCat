@@ -3,7 +3,7 @@
 Reference:
 Adams, C. B. et al. (The VERITAS Collaboration), The Astrophysical Journal, 913, 115 (2021)
 
-- ADS: [2021ApJ...913..115A](http://adsabs.harvard.edu/abs/2021ApJ...913..115A)
+- ADS: [2021ApJ...913..115A](http://ui.adsabs.harvard.edu/abs/2021ApJ...913..115A)
 - DOI: [10.3847/1538-4357/abf926](https://doi.org/10.3847/1538-4357/abf926)
 
 ## Galactic Centre (VER J1745-290)

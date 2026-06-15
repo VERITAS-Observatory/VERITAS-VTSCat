@@ -3,7 +3,7 @@
 Reference:
 Acciari, V. A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 708, L100 (2010)
 
-- ADS: [2010ApJ...708L.100A](http://adsabs.harvard.edu/abs/2010ApJ...708L.100A)
+- ADS: [2010ApJ...708L.100A](http://ui.adsabs.harvard.edu/abs/2010ApJ...708L.100A)
 - DOI: [10.1088/2041-8205/708/2/L100](https://doi.org/10.1088/2041-8205/708/2/L100)
 
 ## PKS 1424+240 (VER J1427+237)

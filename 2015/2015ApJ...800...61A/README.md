@@ -3,7 +3,7 @@
 Reference:
 Aliu, E. et al. (The VERITAS Collaboration), The Astrophysical Journal, 800, 61 (2015)
 
-- ADS: [2015ApJ...800...61A](http://adsabs.harvard.edu/abs/2015ApJ...800...61A)
+- ADS: [2015ApJ...800...61A](http://ui.adsabs.harvard.edu/abs/2015ApJ...800...61A)
 - DOI: [10.1088/0004-637X/800/1/61](https://doi.org/10.1088/0004-637X/800/1/61)
 
 ### Data tables

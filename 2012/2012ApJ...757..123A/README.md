@@ -3,7 +3,7 @@
 Reference:
 Arlen, T. et al. (The VERITAS Collaboration), The Astrophysical Journal, 757, 123 (2012)
 
-- ADS: [2012ApJ...757..123A](http://adsabs.harvard.edu/abs/2012ApJ...757..123A)
+- ADS: [2012ApJ...757..123A](http://ui.adsabs.harvard.edu/abs/2012ApJ...757..123A)
 - DOI: [10.1088/0004-637X/757/2/123](https://doi.org/10.1088/0004-637X/757/2/123)
 
 ## Coma Cluster

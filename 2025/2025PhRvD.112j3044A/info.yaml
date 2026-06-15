@@ -1,0 +1,12 @@
+---
+reference_id: 2025PhRvD.112j3044A
+source_id: [18]
+telescope: [veritas]
+
+datasets:
+  - VER-000018-1.yaml
+  - VER-000018-sed-1.ecsv
+data_entry:
+  status: complete
+  reviewed: true
+...

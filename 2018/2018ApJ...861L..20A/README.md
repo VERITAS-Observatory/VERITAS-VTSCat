@@ -3,7 +3,7 @@
 Reference:
 Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal, 861, L20 (2018)
 
-- ADS: [2018ApJ...861L..20A](http://adsabs.harvard.edu/abs/2018ApJ...861L..20A)
+- ADS: [2018ApJ...861L..20A](http://ui.adsabs.harvard.edu/abs/2018ApJ...861L..20A)
 - DOI: [10.3847/2041-8213/aad053](https://doi.org/10.3847/2041-8213/aad053)
 
 ## TXS 0506+056 (VER J0509+057)

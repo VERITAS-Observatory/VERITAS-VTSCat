@@ -3,7 +3,7 @@
 Reference:
 Adams, C. B. et al. (The VERITAS Collaboration), The Astrophysical Journal, 924, 95 (2022)
 
-- ADS: [2022ApJ...924...95A](http://adsabs.harvard.edu/abs/2022ApJ...924...95A)
+- ADS: [2022ApJ...924...95A](http://ui.adsabs.harvard.edu/abs/2022ApJ...924...95A)
 - DOI: [10.3847/1538-4357/ac32bd](https://doi.org/10.3847/1538-4357/ac32bd)
 
 ## 3C 279

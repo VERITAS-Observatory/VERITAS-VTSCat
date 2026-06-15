@@ -3,7 +3,7 @@
 Reference:
 Archer, A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 821, 129 (2016)
 
-- ADS: [2016ApJ...821..129A](http://adsabs.harvard.edu/abs/2016ApJ...821..129A)
+- ADS: [2016ApJ...821..129A](http://ui.adsabs.harvard.edu/abs/2016ApJ...821..129A)
 - DOI: [10.3847/0004-637X/821/2/129](https://doi.org/10.3847/0004-637X/821/2/129)
 
 ## Galactic Centre (VER J1745-290)

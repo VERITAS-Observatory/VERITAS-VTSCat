@@ -3,7 +3,7 @@
 Reference:
 Benbow, W. et al. (The VERITAS Collaboration), The Astrophysical Journal, 916, 117 (2021)
 
-- ADS: [2021ApJ...916..117B](http://adsabs.harvard.edu/abs/2021ApJ...916..117B)
+- ADS: [2021ApJ...916..117B](http://ui.adsabs.harvard.edu/abs/2021ApJ...916..117B)
 - DOI: [10.3847/1538-4357/ac05b9](https://doi.org/10.3847/1538-4357/ac05b9)
 
 ### Data tables

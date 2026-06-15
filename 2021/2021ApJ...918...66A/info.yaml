@@ -6,7 +6,7 @@ datasets:
   - VER-BNS-MergeCandidates-table-1.ecsv
   - VER-Results-table-2.ecsv
 
-figuredescription: "Figures are available from the\n
+figure_description: "Figures are available from the\n
     [LIGO Sub-threshold BNS search web page](https://dcc.ligo.org/public/0158/P1900030/001/index.html)"
 
 data_entry:

@@ -3,7 +3,7 @@
 Reference:
 Acciari, V. A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 703, L6 (2009)
 
-- ADS: [2009ApJ...703L...6A](http://adsabs.harvard.edu/abs/2009ApJ...703L...6A)
+- ADS: [2009ApJ...703L...6A](http://ui.adsabs.harvard.edu/abs/2009ApJ...703L...6A)
 - DOI: [10.1088/0004-637X/703/1/L6](https://doi.org/10.1088/0004-637X/703/1/L6)
 
 ## SNR G106.3+02.7 (VER J2227+608)

@@ -3,7 +3,7 @@
 Reference:
 Acciari, V. A. et al., The Astrophysical Journal, 703, 169 (2009)
 
-- ADS: [2009ApJ...703..169A](http://adsabs.harvard.edu/abs/2009ApJ...703..169A)
+- ADS: [2009ApJ...703..169A](http://ui.adsabs.harvard.edu/abs/2009ApJ...703..169A)
 - DOI: [10.1088/0004-637X/703/1/169](https://doi.org/10.1088/0004-637X/703/1/169)
 
 ## Markarian 421 (VER J1104+382)

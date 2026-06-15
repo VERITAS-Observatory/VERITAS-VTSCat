@@ -3,7 +3,7 @@
 Reference:
 Archambault, S. et al. (The VERITAS Collaboration), The Astrophysical Journal, 817, L7 (2016)
 
-- ADS: [2016ApJ...817L...7A](http://adsabs.harvard.edu/abs/2016ApJ...817L...7A)
+- ADS: [2016ApJ...817L...7A](http://ui.adsabs.harvard.edu/abs/2016ApJ...817L...7A)
 - DOI: [10.3847/2041-8205/817/1/L7](https://doi.org/10.3847/2041-8205/817/1/L7)
 
 ## LS I +61 303 (VER J0240+612)

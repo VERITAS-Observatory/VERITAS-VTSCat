@@ -3,7 +3,7 @@
 Reference:
 Archer, A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 831, 113 (2016)
 
-- ADS: [2016ApJ...831..113A](http://adsabs.harvard.edu/abs/2016ApJ...831..113A)
+- ADS: [2016ApJ...831..113A](http://ui.adsabs.harvard.edu/abs/2016ApJ...831..113A)
 - DOI: [10.3847/0004-637X/831/1/113](https://doi.org/10.3847/0004-637X/831/1/113)
 
 ## V* V404 Cyg

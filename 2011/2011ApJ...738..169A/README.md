@@ -3,7 +3,7 @@
 Reference:
 Acciari, V. A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 738, 169 (2011)
 
-- ADS: [2011ApJ...738..169A](http://adsabs.harvard.edu/abs/2011ApJ...738..169A)
+- ADS: [2011ApJ...738..169A](http://ui.adsabs.harvard.edu/abs/2011ApJ...738..169A)
 - DOI: [10.1088/0004-637X/738/2/169](https://doi.org/10.1088/0004-637X/738/2/169)
 
 ## 1ES 2344+514 (VER J2347+517)

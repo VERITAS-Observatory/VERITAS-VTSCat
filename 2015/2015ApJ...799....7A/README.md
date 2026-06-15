@@ -3,7 +3,7 @@
 Reference:
 Aliu, E. et al. (The VERITAS Collaboration), The Astrophysical Journal, 799, 7 (2015)
 
-- ADS: [2015ApJ...799....7A](http://adsabs.harvard.edu/abs/2015ApJ...799....7A)
+- ADS: [2015ApJ...799....7A](http://ui.adsabs.harvard.edu/abs/2015ApJ...799....7A)
 - DOI: [10.1088/0004-637X/799/1/7](https://doi.org/10.1088/0004-637X/799/1/7)
 
 ## PG 1553+113 (VER J1555+111)

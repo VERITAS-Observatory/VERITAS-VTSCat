@@ -3,7 +3,7 @@
 Reference:
 Acciari, V. A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 730, L20 (2011)
 
-- ADS: [2011ApJ...730L..20A](http://adsabs.harvard.edu/abs/2011ApJ...730L..20A)
+- ADS: [2011ApJ...730L..20A](http://ui.adsabs.harvard.edu/abs/2011ApJ...730L..20A)
 - DOI: [10.1088/2041-8205/730/2/L20](https://doi.org/10.1088/2041-8205/730/2/L20)
 
 ## Tycho SNR (VER J0025+641)

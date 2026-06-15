@@ -3,7 +3,7 @@
 Reference:
 VERITAS Collaboration et al. (The VERITAS Collaboration), Science, 334, 69 (2011)
 
-- ADS: [2011Sci...334...69V](http://adsabs.harvard.edu/abs/2011Sci...334...69V)
+- ADS: [2011Sci...334...69V](http://ui.adsabs.harvard.edu/abs/2011Sci...334...69V)
 - DOI: [10.1126/science.1208192](https://doi.org/10.1126/science.1208192)
 
 ## Crab pulsar (VER J0534+220)

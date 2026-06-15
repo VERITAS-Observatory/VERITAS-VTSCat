@@ -4,8 +4,8 @@ cff-version: 1.2.0
 message: If you use VTSCat, please cite it using these metadata and the references listed below.
 title: "VTSCat: The VERITAS Catalog of Gamma-Ray Observations"
 doi: 10.5281/zenodo.6988967
-version: 3.0.0
-date-released: 2025-01-02
+version: 4.0.0-beta1
+date-released: 2026-05-18
 keywords:
   - "astronomy"
   - "gamma-ray astronomy"

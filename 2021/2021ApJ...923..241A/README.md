@@ -3,7 +3,7 @@
 Reference:
 Adams, C. B. et al., The Astrophysical Journal, 923, 241 (2021)
 
-- ADS: [2021ApJ...923..241A](http://adsabs.harvard.edu/abs/2021ApJ...923..241A)
+- ADS: [2021ApJ...923..241A](http://ui.adsabs.harvard.edu/abs/2021ApJ...923..241A)
 - DOI: [10.3847/1538-4357/ac29b7](https://doi.org/10.3847/1538-4357/ac29b7)
 
 ## HESS J0632+057 (VER J0633+057)

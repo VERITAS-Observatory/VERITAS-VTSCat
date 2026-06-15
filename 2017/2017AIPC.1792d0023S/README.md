@@ -3,7 +3,7 @@
 Reference:
 Schlenstedt, S. et al. (The VERITAS Collaboration), AIP Conference Proceedings, 1792, 040023 (2017)
 
-- ADS: [2017AIPC.1792d0023S](http://adsabs.harvard.edu/abs/2017AIPC.1792d0023S)
+- ADS: [2017AIPC.1792d0023S](http://ui.adsabs.harvard.edu/abs/2017AIPC.1792d0023S)
 - DOI: [10.1063/1.4968927](https://doi.org/10.1063/1.4968927)
 
 ## HESS J0632+057 (VER J0633+057)

@@ -3,7 +3,7 @@
 Reference:
 Archer, A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 888, 115 (2020)
 
-- ADS: [2020ApJ...888..115A](http://adsabs.harvard.edu/abs/2020ApJ...888..115A)
+- ADS: [2020ApJ...888..115A](http://ui.adsabs.harvard.edu/abs/2020ApJ...888..115A)
 - DOI: [10.3847/1538-4357/ab59de](https://doi.org/10.3847/1538-4357/ab59de)
 
 ## HESS J0632+057 (VER J0633+057)

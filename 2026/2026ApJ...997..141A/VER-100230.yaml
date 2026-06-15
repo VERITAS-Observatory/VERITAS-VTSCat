@@ -1,0 +1,20 @@
+---
+source_id: 100230
+reference_id: 2026ApJ...997..141A
+telescope: veritas
+
+pos:
+  ra: {val: 9h55m7.88s}
+  dec: {val: 35d51m00.92s}
+
+
+data:
+  livetime: 9.5 h
+  significance: 0.4
+
+
+flux:
+  flux_ul: {val: 4.08, scale: 1e-12, unit: cm-2 s-1}
+  emin: {val: 0.15, unit: TeV}
+  conf: {val: 0.95}
+  index: {val: 2.5}

@@ -1,0 +1,22 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_ref, datatype: float32, unit: TeV}
+# - {name: e_min, datatype: float32, unit: TeV}
+# - {name: e_max, datatype: float32, unit: TeV}
+# - {name: dnde, datatype: float32, unit: TeV-1 cm-2 s-1 }
+# - {name: dnde_err, datatype: float32, unit: TeV-1 cm-2 s-1}
+# - {name: dnde_ul, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux upper limit (95% CL)}
+# meta: !!omap
+# - data_type: sed
+# - reference_id: 2025ApJ...991..192A
+# - source_id: 100225
+# - file_id: 1
+# - telescope: veritas
+# - comments: [Gamma-ray spectrum of LHAASO J2108+5157 VERITAS Eventdisplay Extended source analysis (Ring model)]
+# - keywords: !!omap
+#   - cl: {value: 0.95}
+e_ref e_min e_max dnde dnde_err dnde_ul
+1.0 0.5 2.0 nan nan 2.061e-13
+3.98 2.0 7.94 nan nan 3.931e-14
+15.85 7.94 31.62 nan nan 6.989e-15

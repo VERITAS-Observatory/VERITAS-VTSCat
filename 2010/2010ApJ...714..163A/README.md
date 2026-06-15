@@ -3,7 +3,7 @@
 Reference:
 Acciari, V. A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 714, 163 (2010)
 
-- ADS: [2010ApJ...714..163A](http://adsabs.harvard.edu/abs/2010ApJ...714..163A)
+- ADS: [2010ApJ...714..163A](http://ui.adsabs.harvard.edu/abs/2010ApJ...714..163A)
 - DOI: [10.1088/0004-637X/714/1/163](https://doi.org/10.1088/0004-637X/714/1/163)
 
 ## Cassiopeia A (VER J2323+588)

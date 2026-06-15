@@ -3,7 +3,7 @@
 Reference:
 Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal, 836, 205 (2017)
 
-- ADS: [2017ApJ...836..205A](http://adsabs.harvard.edu/abs/2017ApJ...836..205A)
+- ADS: [2017ApJ...836..205A](http://ui.adsabs.harvard.edu/abs/2017ApJ...836..205A)
 - DOI: [10.3847/1538-4357/836/2/205](https://doi.org/10.3847/1538-4357/836/2/205)
 
 ## 1ES 1215+303 (VER J1217+301)

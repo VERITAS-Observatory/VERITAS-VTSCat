@@ -3,7 +3,7 @@
 Reference:
 Archambault, S. et al. (The VERITAS Collaboration), Astroparticle Physics, 91, 34 (2017)
 
-- ADS: [2017APh....91...34A](http://adsabs.harvard.edu/abs/2017APh....91...34A)
+- ADS: [2017APh....91...34A](http://ui.adsabs.harvard.edu/abs/2017APh....91...34A)
 - DOI: [10.1016/j.astropartphys.2017.03.001](https://doi.org/10.1016/j.astropartphys.2017.03.001)
 
 ## Crab nebula (VER J0534+220)

@@ -3,7 +3,7 @@
 Reference:
 Acharyya, A. et al., The Astrophysical Journal, 954, 70 (2023)
 
-- ADS: [2023ApJ...954...70A](http://adsabs.harvard.edu/abs/2023ApJ...954...70A)
+- ADS: [2023ApJ...954...70A](http://ui.adsabs.harvard.edu/abs/2023ApJ...954...70A)
 - DOI: [10.3847/1538-4357/ace327](https://doi.org/10.3847/1538-4357/ace327)
 
 ## PKS 0735+178

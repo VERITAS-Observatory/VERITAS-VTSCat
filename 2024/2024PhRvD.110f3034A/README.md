@@ -3,7 +3,7 @@
 Reference:
 Acharyya, A. et al. (The VERITAS Collaboration), Physical Review D, 110, 063034 (2024)
 
-- ADS: [2024PhRvD.110f3034A](http://adsabs.harvard.edu/abs/2024PhRvD.110f3034A)
+- ADS: [2024PhRvD.110f3034A](http://ui.adsabs.harvard.edu/abs/2024PhRvD.110f3034A)
 - DOI: [10.1103/PhysRevD.110.063034](https://doi.org/10.1103/PhysRevD.110.063034)
 
 ### Data tables

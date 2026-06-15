@@ -3,7 +3,7 @@
 Reference:
 Algaba, J. C. et al., Astronomy & Astrophysics, 692, A140 (2024)
 
-- ADS: [2024A&A...692A.140A](http://adsabs.harvard.edu/abs/2024A&A...692A.140A)
+- ADS: [2024A&A...692A.140A](http://ui.adsabs.harvard.edu/abs/2024A&A...692A.140A)
 - DOI: [10.1051/0004-6361/202450497](https://doi.org/10.1051/0004-6361/202450497)
 
 ## M 87 (VER J1230+123)

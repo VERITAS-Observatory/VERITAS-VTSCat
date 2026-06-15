@@ -3,7 +3,7 @@
 Reference:
 Archambault, S. et al. (The VERITAS Collaboration), The Astronomical Journal, 151, 142 (2016)
 
-- ADS: [2016AJ....151..142A](http://adsabs.harvard.edu/abs/2016AJ....151..142A)
+- ADS: [2016AJ....151..142A](http://ui.adsabs.harvard.edu/abs/2016AJ....151..142A)
 - DOI: [10.3847/0004-6256/151/6/142](https://doi.org/10.3847/0004-6256/151/6/142)
 
 ### Data tables

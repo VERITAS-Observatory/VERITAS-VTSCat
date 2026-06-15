@@ -1,0 +1,24 @@
+---
+reference_id: 2026JCAP...03..035A
+source_id: [100176, 100174, 100173, 100175]
+telescope: [veritas, hess, magic, hawc, lat]
+
+datasets:
+  - Fermi-HAWC-HESS-MAGIC-VERITAS-combined-DM-search_dm_ann_Fig1_bb.ecsv
+  - Fermi-HAWC-HESS-MAGIC-VERITAS-combined-DM-search_dm_ann_Fig1_ee.ecsv
+  - Fermi-HAWC-HESS-MAGIC-VERITAS-combined-DM-search_dm_ann_Fig1_mumu.ecsv
+  - Fermi-HAWC-HESS-MAGIC-VERITAS-combined-DM-search_dm_ann_Fig1_tautau.ecsv
+  - Fermi-HAWC-HESS-MAGIC-VERITAS-combined-DM-search_dm_ann_Fig1_tt.ecsv
+  - Fermi-HAWC-HESS-MAGIC-VERITAS-combined-DM-search_dm_ann_Fig1_WW.ecsv
+  - Fermi-HAWC-HESS-MAGIC-VERITAS-combined-DM-search_dm_ann_Fig1_ZZ.ecsv
+  - Fermi-HAWC-HESS-MAGIC-VERITAS-combined-DM-search_dm_ann_Fig2_bb.ecsv
+  - Fermi-HAWC-HESS-MAGIC-VERITAS-combined-DM-search_dm_ann_Fig2_ee.ecsv
+  - Fermi-HAWC-HESS-MAGIC-VERITAS-combined-DM-search_dm_ann_Fig2_mumu.ecsv
+  - Fermi-HAWC-HESS-MAGIC-VERITAS-combined-DM-search_dm_ann_Fig2_tautau.ecsv
+  - Fermi-HAWC-HESS-MAGIC-VERITAS-combined-DM-search_dm_ann_Fig2_tt.ecsv
+  - Fermi-HAWC-HESS-MAGIC-VERITAS-combined-DM-search_dm_ann_Fig2_WW.ecsv
+  - Fermi-HAWC-HESS-MAGIC-VERITAS-combined-DM-search_dm_ann_Fig2_ZZ.ecsv
+
+data_entry:
+  status: complete
+  reviewed: true

@@ -3,7 +3,7 @@
 Reference:
 Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal, 857, 33 (2018)
 
-- ADS: [2018ApJ...857...33A](http://adsabs.harvard.edu/abs/2018ApJ...857...33A)
+- ADS: [2018ApJ...857...33A](http://ui.adsabs.harvard.edu/abs/2018ApJ...857...33A)
 - DOI: [10.3847/1538-4357/aab371](https://doi.org/10.3847/1538-4357/aab371)
 
 ## GRB 150323A

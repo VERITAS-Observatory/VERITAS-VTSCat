@@ -3,7 +3,7 @@
 Reference:
 Acharyya, A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 945, 30 (2023)
 
-- ADS: [2023ApJ...945...30A](http://adsabs.harvard.edu/abs/2023ApJ...945...30A)
+- ADS: [2023ApJ...945...30A](http://ui.adsabs.harvard.edu/abs/2023ApJ...945...30A)
 - DOI: [10.3847/1538-4357/acb7e6](https://doi.org/10.3847/1538-4357/acb7e6)
 
 ## SN2015bn

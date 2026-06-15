@@ -1,0 +1,28 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: e_min, unit: TeV, datatype: float64}
+# - {name: time, unit: MJD, datatype: float64, description: time}
+# - {name: time_err, unit: MJD, datatype: float64}
+# - {name: flux, unit: 1.e-13 cm-2 s-1, datatype: float64, description: photon flux}
+# - {name: flux_err, unit: 1.e-13 cm-2 s-1, datatype: float64, description: photon flux error}
+# - {name: flux_ul, unit: 1e-13 cm-2 s-1, datatype: float64, description: photon flux upper limit}
+# meta: !!omap
+# - data_type: lc
+# - source_id: 40
+# - reference_id:
+# - UL_CONF: 0.95
+# - telescope: veritas
+# - comments: |
+#       Fig 3 (top);
+#       upper limits derived assuming a power law with
+#       spectral index of -2.3; using Helene method
+e_min time    time_err flux  flux_err   flux_ul
+0.45 54539.5 44.5            3.69       1.51   nan
+0.45 54874.5 73.5            2.98       1.39   nan
+0.45 55649.5 55.5            3.12       2.10   nan
+0.45 55962.5 74.5            2.41       1.78   nan
+0.45 56361   32              1.11       2.56   6.70
+0.45 56732   49              4.78       1.98   nan
+0.45 58532   71              2.14       1.44   4.71
+0.45 59641.5 60.5            7.20       2.25   nan

@@ -3,7 +3,7 @@
 Reference:
 Archer, A. et al. (The VERITAS Collaboration), The Astrophysical Journal, 862, 41 (2018)
 
-- ADS: [2018ApJ...862...41A](http://adsabs.harvard.edu/abs/2018ApJ...862...41A)
+- ADS: [2018ApJ...862...41A](http://ui.adsabs.harvard.edu/abs/2018ApJ...862...41A)
 - DOI: [10.3847/1538-4357/aacbd0](https://doi.org/10.3847/1538-4357/aacbd0)
 
 ## HESS J1943+213 (VER J1943+213)

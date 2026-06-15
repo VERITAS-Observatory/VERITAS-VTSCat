@@ -1,0 +1,11 @@
+---
+source_id: 100225
+common_name: LHAASO J2108+5157
+other_names: []
+where: gal
+pos:
+  simbad_id: LHAASO J2108+5157
+  ra: 317.0
+  dec: 51.95
+reference_id:
+  - 2025ApJ...991..192A

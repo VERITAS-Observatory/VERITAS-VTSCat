@@ -3,7 +3,7 @@
 Reference:
 Archambault, S. et al. (The VERITAS Collaboration), Physical Review D, 95, 082001 (2017)
 
-- ADS: [2017PhRvD..95h2001A](http://adsabs.harvard.edu/abs/2017PhRvD..95h2001A)
+- ADS: [2017PhRvD..95h2001A](http://ui.adsabs.harvard.edu/abs/2017PhRvD..95h2001A)
 - DOI: [10.1103/PhysRevD.95.082001](https://doi.org/10.1103/PhysRevD.95.082001)
 
 ### Data tables

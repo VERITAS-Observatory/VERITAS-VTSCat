@@ -3,7 +3,7 @@
 Reference:
 Archambault, S. et al. (The VERITAS Collaboration), The Astrophysical Journal, 836, 23 (2017)
 
-- ADS: [2017ApJ...836...23A](http://adsabs.harvard.edu/abs/2017ApJ...836...23A)
+- ADS: [2017ApJ...836...23A](http://ui.adsabs.harvard.edu/abs/2017ApJ...836...23A)
 - DOI: [10.3847/1538-4357/836/1/23](https://doi.org/10.3847/1538-4357/836/1/23)
 
 ## Tycho SNR (VER J0025+641)

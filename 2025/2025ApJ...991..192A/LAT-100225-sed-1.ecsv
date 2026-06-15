@@ -1,0 +1,20 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: e_ref, datatype: float32, unit: TeV}
+# - {name: dnde, datatype: float32, unit: TeV-1 cm-2 s-1 }
+# - {name: dnde_err, datatype: float32, unit: TeV-1 cm-2 s-1}
+# - {name: dnde_ul, unit: cm-2 s-1 TeV-1, datatype: float32, description: differential flux upper limit (95% CL)}
+# meta: !!omap
+# - data_type: sed
+# - reference_id: 2025ApJ...991..192A
+# - source_id: 100225
+# - file_id: 1
+# - telescope: lat
+e_ref dnde dnde_err dnde_ul
+0.00017320508075688767 3.549897152557877e-05 1.2490131713041299e-05 1.2507200437847346e-05
+0.0005477225575051662 1.027561993510031e-05 8.755752723813013e-07 8.826006607019872e-07
+0.0017320508075688772 7.434295842621922e-07 6.78921607315791e-08 6.710669477087585e-08
+0.005477225575051664 1.494057766212784e-08 4.4000023472315725e-09 4.045137969190119e-09
+0.017320508075688777 nan nan 7.887312656738652e-10
+0.0547722557505166 nan nan 3.5502816036346824e-11

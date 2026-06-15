@@ -3,7 +3,7 @@
 Reference:
 Abeysekara, A. U. et al. (The VERITAS Collaboration), The Astrophysical Journal, 856, 95 (2018)
 
-- ADS: [2018ApJ...856...95A](http://adsabs.harvard.edu/abs/2018ApJ...856...95A)
+- ADS: [2018ApJ...856...95A](http://ui.adsabs.harvard.edu/abs/2018ApJ...856...95A)
 - DOI: [10.3847/1538-4357/aab35c](https://doi.org/10.3847/1538-4357/aab35c)
 
 ## BL Lacertae (VER J2202+422)

@@ -3,7 +3,7 @@
 Reference:
 Maier, G. et al. (The VERITAS Collaboration), 35th International Cosmic Ray Conference. 10-20 July, 2017. Bexco, Busan, Korea, Proceedings of Science, 301, 729 (2017)
 
-- ADS: [2017ICRC...35..729M](http://adsabs.harvard.edu/abs/2017ICRC...35..729M)
+- ADS: [2017ICRC...35..729M](http://ui.adsabs.harvard.edu/abs/2017ICRC...35..729M)
 - DOI: [10.22323/1.301.0729](https://doi.org/10.22323/1.301.0729)
 
 ## HESS J0632+057 (VER J0633+057)

@@ -3,7 +3,7 @@
 Reference:
 Archambault, S. et al. (The VERITAS Collaboration), The Astrophysical Journal, 779, 150 (2013)
 
-- ADS: [2013ApJ...779..150A](http://adsabs.harvard.edu/abs/2013ApJ...779..150A)
+- ADS: [2013ApJ...779..150A](http://ui.adsabs.harvard.edu/abs/2013ApJ...779..150A)
 - DOI: [10.1088/0004-637X/779/2/150](https://doi.org/10.1088/0004-637X/779/2/150)
 
 ### Data tables
