@@ -5,7 +5,7 @@ message: If you use VTSCat, please cite it using these metadata and the referenc
 title: "VTSCat: The VERITAS Catalog of Gamma-Ray Observations"
 doi: 10.5281/zenodo.6988967
 version: 4.0.0-beta1
-date-released: 2026-05-18
+date-released: 2026-06-20
 keywords:
   - "astronomy"
   - "gamma-ray astronomy"
@@ -24,7 +24,7 @@ authors:
     orcid: https://orcid.org/0000-0002-9675-7328
   - given-names: W.
     family-names: Benbow
-    affiliation: "Center for Astrophysics | Harvard & Smithsonian, Cambridge, MA 02138, USA"
+    affiliation: "Center for Astrophysics, Harvard & Smithsonian, Cambridge, MA 02138, USA"
     orcid: https://orcid.org/0000-0003-2098-170X
   - given-names: N.R.
     family-names: Bond
@@ -43,7 +43,7 @@ authors:
     orcid: https://orcid.org/0000-0002-1853-863X
   - given-names: J.
     family-names: Escudero Pedrosa
-    affiliation: "Center for Astrophysics | Harvard & Smithsonian, Cambridge, MA 02138, USA"
+    affiliation: "Center for Astrophysics, Harvard & Smithsonian, Cambridge, MA 02138, USA"
     orcid: https://orcid.org/0000-0002-4131-655X
   - given-names: A.
     family-names: Falcone
@@ -66,7 +66,7 @@ authors:
     orcid: https://orcid.org/0000-0003-1614-1273
   - given-names: W.
     family-names: Hanlon
-    affiliation: "Center for Astrophysics | Harvard & Smithsonian, Cambridge, MA 02138, USA"
+    affiliation: "Center for Astrophysics, Harvard & Smithsonian, Cambridge, MA 02138, USA"
     orcid: https://orcid.org/0000-0002-0109-4737
   - given-names: D.
     family-names: Hanna
@@ -74,7 +74,7 @@ authors:
     orcid: https://orcid.org/0000-0002-8513-5603
   - given-names: C.E.
     family-names: Hinrichs
-    affiliation: "Center for Astrophysics | Harvard & Smithsonian, Cambridge, MA 02138, USA,Department of Physics and Astronomy, Dartmouth College, 6127 Wilder Laboratory, Hanover, NH 03755 USA"
+    affiliation: "Center for Astrophysics, Harvard & Smithsonian, Cambridge, MA 02138, USA,Department of Physics and Astronomy, Dartmouth College, 6127 Wilder Laboratory, Hanover, NH 03755 USA"
     orcid: https://orcid.org/0000-0001-6951-2299
   - given-names: J.
     family-names: Holder
