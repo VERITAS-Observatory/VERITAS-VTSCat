@@ -4,15 +4,15 @@ cff-version: 1.2.0
 message: If you use VTSCat, please cite it using these metadata and the references listed below.
 title: "VTSCat: The VERITAS Catalog of Gamma-Ray Observations"
 doi: 10.5281/zenodo.6988967
-version: 4.0.0-beta1
-date-released: 2026-06-20
+version: 4.0.0
+date-released: 2026-06-16
 keywords:
   - "astronomy"
   - "gamma-ray astronomy"
   - "Imaging Atmospheric Cherenkov Telescope"
   - VERITAS
 repository-code: "https://github.com/VERITAS-Observatory/VERITAS-VTSCat"
-license: CC-BY-4.0
+license: CC0-1.0
 authors:
   - given-names: P.
     family-names: Bangale
